@@ -4,7 +4,7 @@ description: Free Joomla CMS helps to create fairly complex websites with e-comm
 singlepageh1title: Open Source Website Builder Powered By Thousands Of Extensions
 singlepageh2title: Joomla is a CMS platform for building websites with multilingual support. Use responsive Joomla Templates for mobile friendly socialized modern websites.
 Shortdescriptionlistingpage: Joomla is a CMS platform for building websites with multilingual support. Use responsive Joomla Templates for mobile friendly socialized modern websites.
-linktitle: Joomla1212
+linktitle: Joomla
 draft: false
 weight: 1
 layout: "single"
