@@ -28,7 +28,7 @@ jobs:
         personal_token: ${{ secrets.REPO_TOKEN }}
         src_path: /.
         dst_path: /content/sites/products.containerize.com/
-        dst_owner: fahadadeel-auto
+        dst_owner: fahadadeel
         dst_repo_name: hugo-test
         dst_branch: master
         src_branch: main
