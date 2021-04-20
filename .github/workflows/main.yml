@@ -29,6 +29,6 @@ jobs:
         src_path: /.
         dst_path: /wiki/
         dst_owner: fahadadeel
-        dst_repo_name: Products
+        dst_repo_name: hugo-test
         dst_branch: master
         src_branch: main
