@@ -1,0 +1,57 @@
+---
+title: Installation Guide
+onpagelink: installation
+weight: 3
+
+---
+
+Installation Instructions
+-------------------------
+
+### Install Solidus on Linux (Debian-based)
+
+Making sure you have Imagemagick installed, which is required for Paperclip.To add solidus, begin with a Rails 5/6 application and a database configured and created. Clone the Git repo and install the gem dependencies.
+
+ ```
+git clone git://github.com/solidusio/solidus.git
+cd solidus
+bin/setup
+```
+
+For Solidus v2.11 and above, Add the following to your Gemfile.
+
+ ```
+gem 'solidus'
+```
+
+Run the bundle command to install.
+
+ ```
+bundle install
+```
+
+After installing gems, you'll have to run the generator to create necessary configuration files and migrations.
+
+ ```
+bin/rails g solidus:install
+```
+
+Start the Rails server with the command to access solidus store
+
+ ```
+bin/rails s
+```
+
+The solidus\_frontend storefront will be accessible at http://localhost:3000/ and the admin can be found at http://localhost:3000/admin/.
+
+You may notice that your Solidus store runs slowly in development mode. This can be because in development each CSS and JavaScript is loaded as a separate include. This can be disabled by adding the following to config/environments/development.rb.
+
+ ```
+Rails.application.configure do
+  config.assets.debug = false
+end
+```
+
+The default user and password are <span id="cloakda855393136dd9c5f3ae7d298fd7114f">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type="text/javascript">document.getElementById('cloakda855393136dd9c5f3ae7d298fd7114f').innerHTML='';var prefix='&#109;a'+'i&#108;'+'&#116;o';var path='hr'+'ef'+'=';var addyda855393136dd9c5f3ae7d298fd7114f='&#97;dm&#105;n'+'&#64;';addyda855393136dd9c5f3ae7d298fd7114f=addyda855393136dd9c5f3ae7d298fd7114f+'&#101;x&#97;mpl&#101;'+'&#46;'+'c&#111;m';var addy_textda855393136dd9c5f3ae7d298fd7114f='&#97;dm&#105;n'+'&#64;'+'&#101;x&#97;mpl&#101;'+'&#46;'+'c&#111;m';document.getElementById('cloakda855393136dd9c5f3ae7d298fd7114f').innerHTML+='<a '+path+'\''+prefix+':'+addyda855393136dd9c5f3ae7d298fd7114f+'\'>'+addy_textda855393136dd9c5f3ae7d298fd7114f+'<\/a>';</script> and test123, respectively. There are also options and rake tasks provided by solidus\_auth\_devise.
+
+Congratulations! You have successfully installed Solidus store and now customize any of the built-in features to your heart's desire.

@@ -1,0 +1,16 @@
+---
+title: FreeScout | Free Open Source Ticketing System
+description: Free Helpdesk and Customer Support System Featured with seamless integration to your email. Use shared inbox to improve transparency within organization.
+singlepageh1title: Ticketing Based Customer Support Helpdesk and Shared Inbox
+singlepageh2title: Ticketing System, Helpdesk, Email Management and Analytics at one place. Provide cutting edge customer support and take customer satisfaction to next level.
+Shortdescriptionlistingpage: Ticketing System, Helpdesk, Email Management and Analytics at one place. Provide cutting edge customer support and take customer satisfaction to next level.
+linktitle: freescout
+draft: false
+weight: 3
+layout: "single"
+
+---
+
+FreeScount is free and open source ticketing system that is a perfect alternative of Zendesk and Help Scout. It is the ideal helpdesk software for the companies who need to give an expert customer support. It provides simple and smooth email integration that transforms your inbox into entirely operational helpdesk system.
+
+FreeScout is PHP (Laravel 5.5 framework) and MySQL based application featured with Slack integration, push notifications, telegram notifications, white-labeling, real-time reports, workflows &amp; SLA. You can easily deploy on every hosting environment even on a shared hosting.

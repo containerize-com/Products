@@ -1,0 +1,73 @@
+---
+title: Installation Guide
+onpagelink: installation
+weight: 3
+
+---
+
+Installation Instructions
+-------------------------
+
+### Installing using Docker
+
+Create YAML file with below command.
+
+ ```
+sudo nano docker-compose.yml
+```
+
+Copy below contents in your file and save it.
+
+ ```
+
+version: '3.2'
+volumes:
+  db:
+services:
+  killbill:
+    image: killbill/killbill:0.22.12
+    ports:
+      - "8080:8080"
+    environment:
+      - KILLBILL_DAO_URL=jdbc:mysql://db:3306/killbill
+      - KILLBILL_DAO_USER=root
+      - KILLBILL_DAO_PASSWORD=killbill
+      - KILLBILL_CATALOG_URI=SpyCarAdvanced.xml
+  kaui:
+    image: killbill/kaui:2.0.5
+    ports:
+      - "9090:8080"
+    environment:
+      - KAUI_CONFIG_DAO_URL=jdbc:mysql://db:3306/kaui
+      - KAUI_CONFIG_DAO_USER=root
+      - KAUI_CONFIG_DAO_PASSWORD=killbill
+      - KAUI_KILLBILL_URL=http://killbill:8080
+  db:
+    image: killbill/mariadb:0.22
+    volumes:
+      - type: volume
+        source: db
+        target: /var/lib/mysql
+    expose:
+      - "3306"
+    environment:
+      - MYSQL_ROOT_PASSWORD=killbill
+
+```
+
+Run it with composer.
+
+ ```
+docker-compose up
+```
+
+You can login to Kaui by opening following url: http://:9090 and default credentials are:   
+ username: admin   
+ password: password
+
+#### **Explore**
+
+You may find the following links relevant:
+
+- [Automate Business Operations Using Free and Open Source Software](https://blog.containerize.com/2020/08/27/automate-business-operations-using-open-source-software/)
+ 
