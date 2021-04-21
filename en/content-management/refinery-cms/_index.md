@@ -4,8 +4,8 @@ description: Free Refinery CMS helps to create fairly complex websites with e-co
 singlepageh1title: Trendy Ruby on Rails Developer Friendly & Easy to Extend CMS
 singlepageh2title: Refinery is an extendable Rails 6.0+ with jQuery, free and open-source content management system. Perfect for creating custom informational websites quickly.
 Shortdescriptionlistingpage: Refinery is an extendable Rails 6.0+ with jQuery, free and open-source content management system. Perfect for creating custom informational websites quickly.
-linktitle: refinery-cms
-Imagetext: Refinery CMS Free Content Management System
+linktitle: Refinery CMS
+Imagetext: Free CMS Software
 draft: false
 weight: 11
 layout: "single"

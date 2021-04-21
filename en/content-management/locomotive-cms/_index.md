@@ -4,8 +4,8 @@ description: Free Leading Self Hosted Multisite CMS helps to create fairly compl
 singlepageh1title: Self Hosted Multisite CMS With Liquid Templating for Scalable Applications. 
 singlepageh2title: Locomotive is an Open Source Content Management System that makes it super easy to develop, design and publish exactly what your clients need. 
 Shortdescriptionlistingpage: Locomotive is an Open Source Content Management System that makes it super easy to develop, design and publish exactly what your clients need. 
-linktitle: locomotive-cms
-Imagetext: Locomotive Free CMS Software
+linktitle: Locomotive CMS
+Imagetext: Free CMS Software
 draft: false
 weight: 12
 layout: "single"
