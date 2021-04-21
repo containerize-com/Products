@@ -4,7 +4,8 @@ description: Single ticketing system platform to provide all purpose customer su
 singlepageh1title: Free Ticketing System Linked with Ecommerce and Marketplace
 singlepageh2title: Open source ecommerce ticketing system featured with real time reporting and multi-channel support to deliver easier and effortless customer support.
 Shortdescriptionlistingpage: Open source ecommerce ticketing system featured with real time reporting and multi-channel support to deliver easier and effortless customer support.
-linktitle: uvdesk
+linktitle: UVdesk
+Imagetext:  Free Ecommerce Ticketing System 
 draft: false
 weight: 2
 layout: "single"

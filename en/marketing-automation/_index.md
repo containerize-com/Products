@@ -5,13 +5,14 @@ singlepageh1title: Best Free and Open Source Marketing Automation Software Opt
 singlepageh2title: Automate email marketing, content marketing and other marketing activities. Empower marketers to analyze lead and grow business to next level.
 Shortdescriptionlistingpage: Automate email marketing, content marketing and other marketing activities. Empower marketers to analyze lead and grow business to next level.
 linktitle: marketing-automation
+Imagetext:  Open Source Software
 draft: false
-weight: 6
+weight: 9
 menu:
    mainmenu: 
        name: Marketing Automation
        url: MarketingAutomationApps
-       weight: 6
+       weight: 9
 
 heading: Top Marketing Automation Platforms Include
 listingtypetag:  Open Source Software

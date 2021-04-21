@@ -4,7 +4,8 @@ description: Open source internet bulletin board and discussion forum building s
 singlepageh1title: Free & Fast Community Discussion Board Driven By Web Sockets
 singlepageh2title: Open source discussion forum software with modern social web features for building communities. Promote product brand and create awareness by engaging audience.
 Shortdescriptionlistingpage: Open source discussion forum software with modern social web features for building communities. Promote product brand and create awareness by engaging audience.
-linktitle: nodebb
+linktitle: NodeBB
+Imagetext:  Free Discussion Forum 
 draft: false
 weight: 4
 layout: "single"

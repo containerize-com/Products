@@ -4,7 +4,8 @@ description: Mattermost is an enterprise grade live chat app for video chatting.
 singlepageh1title: Self-Hosted Rival to Slack and Microsoft Teams
 singlepageh2title: Mattermost is easy to use messaging app centralizing communications into one place with search support. Use it for multi-channel internal team communications.
 Shortdescriptionlistingpage: Mattermost is easy to use messaging app centralizing communications into one place with search support. Use it for multi-channel internal team communications.
-linktitle: mattermost
+linktitle: Mattermost
+Imagetext:  Live Chat Software 
 draft: false
 weight: 5
 layout: "single"

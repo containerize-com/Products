@@ -5,6 +5,7 @@ singlepageh1title: Best Free and Open Source Blogging Platforms
 singlepageh2title: Use blogging platforms to broadcast and interact with your audience electronically across the globe. Share and discuss your views with rest of the world.
 Shortdescriptionlistingpage: Use blogging platforms to broadcast and interact with your audience electronically across the globe. Share and discuss your views with rest of the world.
 linktitle: blogging
+Imagetext:  Open Source Software 
 draft: false
 weight: 2
 menu:

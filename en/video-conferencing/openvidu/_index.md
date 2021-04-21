@@ -4,7 +4,8 @@ description: Openvidu is a smart video conferencing platform to establish multip
 singlepageh1title: Multiparty Video Call Platform With Rich Audio/Video Filters
 singlepageh2title: WebRTC based platform with session configuration capabilities. It offers powerful features such as screen sharing, intelligent layout, self hosted and many more
 Shortdescriptionlistingpage: WebRTC based platform with session configuration capabilities. It offers powerful features such as screen sharing, intelligent layout, self hosted and many more
-linktitle: openvidu
+linktitle: OpenVidu
+Imagetext:  Free Video Conferencing Platform
 draft: false
 weight: 3
 layout: "single"

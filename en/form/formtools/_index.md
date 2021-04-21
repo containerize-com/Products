@@ -4,7 +4,8 @@ description: PHP based free web form builder offering various modules related to
 singlepageh1title: Open Source Solution For Better Data And Forms Management
 singlepageh2title: FormTools is an incredible forms and data management solution with form templates, built-in support for reCAPTCHA, data visualization and export options.
 Shortdescriptionlistingpage: FormTools is an incredible forms and data management solution with form templates, built-in support for reCAPTCHA, data visualization and export options.
-linktitle: formtools
+linktitle: FormTools
+Imagetext:  Free Form Builder
 draft: false
 weight: 5
 layout: "single"

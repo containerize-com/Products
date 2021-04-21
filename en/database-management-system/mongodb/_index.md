@@ -4,7 +4,8 @@ description: Use MongoDB database to ensure availability and scalability with th
 singlepageh1title: Open Source NoSQL Database Solution For Modern Applications
 singlepageh2title: Use MongoDB to ensure availability, scalability, and compliance with the most demanding data security and privacy requirements of modern day applications.
 Shortdescriptionlistingpage: Use MongoDB to ensure availability, scalability, and compliance with the most demanding data security and privacy requirements of modern day applications.
-linktitle: mongodb
+linktitle: MongoDB
+Imagetext: Free Database Management System
 draft: false
 weight: 5
 layout: "single"

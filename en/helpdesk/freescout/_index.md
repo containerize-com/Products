@@ -4,7 +4,8 @@ description: Free Helpdesk and Customer Support System Featured with seamless in
 singlepageh1title: Ticketing Based Customer Support Helpdesk and Shared Inbox
 singlepageh2title: Ticketing System, Helpdesk, Email Management and Analytics at one place. Provide cutting edge customer support and take customer satisfaction to next level.
 Shortdescriptionlistingpage: Ticketing System, Helpdesk, Email Management and Analytics at one place. Provide cutting edge customer support and take customer satisfaction to next level.
-linktitle: freescout
+linktitle: FreeScout
+Imagetext:  Free Helpdesk Software 
 draft: false
 weight: 3
 layout: "single"

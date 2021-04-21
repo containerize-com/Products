@@ -4,7 +4,8 @@ description: Define branded template for email marketing. Send newsletter, new o
 singlepageh1title: Handy Open Source Newsletter and Email Marketing Software
 singlepageh2title: Send instantly or schedule newsletters, marketing campaigns and announcements by email to a large numbers of subscribers.
 Shortdescriptionlistingpage: Send instantly or schedule newsletters, marketing campaigns and announcements by email to a large numbers of subscribers.
-linktitle: phplist
+linktitle: phpList
+Imagetext:  Free Newsletter Software 
 draft: false
 weight: 1
 layout: "single"

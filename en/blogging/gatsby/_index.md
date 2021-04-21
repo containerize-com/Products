@@ -4,7 +4,8 @@ description: Gatsby is a React-based open source static site generator. Built fo
 singlepageh1title: Build Speedy Websites with Gatsby
 singlepageh2title: Gatsby sites built fast by design. Ships with a sophisticated caching system which loads websites much faster.
 Shortdescriptionlistingpage: Gatsby sites built fast by design. Ships with a sophisticated caching system which loads websites much faster.
-linktitle: gatsby
+linktitle: Gatsby
+Imagetext:  Free Blogging Platform 
 draft: false
 weight: 7
 layout: "single"

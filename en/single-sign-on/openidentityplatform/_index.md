@@ -4,7 +4,8 @@ description: Developer friendly free open source identity management service to 
 singlepageh1title: Cross Domain SSO With Customizable Adaptive Authentication
 singlepageh2title: Open source platform for Single Sign On, SAML 2.0 OAuth 2.0, and OpenID Connect Protocols. It ensures seamless integration with cloud-based applications
 Shortdescriptionlistingpage: Open source platform for Single Sign On, SAML 2.0 OAuth 2.0, and OpenID Connect Protocols. It ensures seamless integration with cloud-based applications
-linktitle: openidentityplatform
+linktitle: OpenIdentityPlatform
+Imagetext: Free SSO Solution
 draft: false
 weight: 6
 layout: "single"

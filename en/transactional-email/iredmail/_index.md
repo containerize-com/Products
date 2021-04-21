@@ -5,6 +5,7 @@ singlepageh1title: On Premise Email Solution Software for Businesses
 singlepageh2title: iRedMail is a full featured mail server solution based on Postfix. It works on various Linux distributions. You can setup your own mail server in few minutes.
 Shortdescriptionlistingpage: iRedMail is a full featured mail server solution based on Postfix. It works on various Linux distributions. You can setup your own mail server in few minutes.
 linktitle: iredmail
+Imagetext: iRedMail Transactional Email Service 
 draft: false
 weight: 6
 layout: "single"

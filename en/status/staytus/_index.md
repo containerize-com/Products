@@ -5,6 +5,7 @@ singlepageh1title: Open Source Status Page System For Services Monitoring
 singlepageh2title: Reliable and open source status page system for monitoring the web applications and services. Notify customers and helps to reduce downtime of system outages.
 Shortdescriptionlistingpage: Reliable and open source status page system for monitoring the web applications and services. Notify customers and helps to reduce downtime of system outages.
 linktitle: staytus
+Imagetext: Staytus Free Status Page System
 draft: false
 weight: 4
 layout: "single"

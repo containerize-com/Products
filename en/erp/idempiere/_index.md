@@ -4,7 +4,8 @@ description: Integrate and manage all business operations with one of the top op
 singlepageh1title: Boost Business Performance With Best Free ERP System
 singlepageh2title: Powerful and reliable open source ERP business suite. Integrated with customer relationship management (CRM) and supply chain management (SCM) capabilities.
 Shortdescriptionlistingpage: Powerful and reliable open source ERP business suite. Integrated with customer relationship management (CRM) and supply chain management (SCM) capabilities.
-linktitle: idempiere
+linktitle: iDempiere
+Imagetext:  Free ERP Software 
 draft: false
 weight: 8
 layout: "single"

@@ -4,7 +4,8 @@ description: Subversion is free and open source centralized source control syste
 singlepageh1title: Incredible Free Centralized Version Control Software
 singlepageh2title: Manage source code with enterprise-level free and open source centralized version control system. Examine history, recover old versions and secure valuable data.
 Shortdescriptionlistingpage: Manage source code with enterprise-level free and open source centralized version control system. Examine history, recover old versions and secure valuable data.
-linktitle: subversion
+linktitle: Subversion
+Imagetext:  Free Version Control Software 
 draft: false
 weight: 2
 layout: "single"

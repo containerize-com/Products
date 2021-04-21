@@ -4,7 +4,8 @@ description: Protect your internal resources with Authelia which provides SSO an
 singlepageh1title: Highly Scalable Rich Featured SSO And Resource Management
 singlepageh2title: Free open source Authelia comes with Single Sign On, Login Regulations, application security, and also provides support for LDAP and Active Directory
 Shortdescriptionlistingpage: Free open source Authelia comes with Single Sign On, Login Regulations, application security, and also provides support for LDAP and Active Directory
-linktitle: authelia
+linktitle: Authelia
+Imagetext:  Free SSO Solution
 draft: false
 weight: 3
 layout: "single"

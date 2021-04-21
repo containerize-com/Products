@@ -4,7 +4,8 @@ description: Organize, access and manage large amounts of data for your web apps
 singlepageh1title: Popular Open Source Relational Database Management System
 singlepageh2title: Organize, access and manage large amounts of data for your online and offline apps via MySQL. It is a secure, easy-to-use and fast database management system.
 Shortdescriptionlistingpage: Organize, access and manage large amounts of data for your online and offline apps via MySQL. It is a secure, easy-to-use and fast database management system.
-linktitle: mysql
+linktitle: MySQL
+Imagetext: Free Database Management System
 draft: false
 weight: 1
 layout: "single"

@@ -4,7 +4,8 @@ description: Rancher is self hosted and open source container management system.
 singlepageh1title: Manage Containers With Kubernetes Management Platform
 singlepageh2title: Deploy and manage applications with complete infrastructure services for containers, networking, storage services, host management, and load balancing.
 Shortdescriptionlistingpage: Deploy and manage applications with complete infrastructure services for containers, networking, storage services, host management, and load balancing.
-linktitle: rancher
+linktitle: Rancher
+Imagetext:  Free Deployment Tool 
 draft: false
 weight: 5
 layout: "single"

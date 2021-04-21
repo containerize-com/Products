@@ -4,7 +4,8 @@ description: HeidiSQL provides a GUI to manage data and structures of various da
 singlepageh1title: Open Source Administration Tool for MySQL and Other DBMS
 singlepageh2title: HeidiSQL provides a GUI to manage data and structures of various database management systems including MySQL, MariaDB, Microsoft SQL, PostgreSQL and SQLite.
 Shortdescriptionlistingpage: HeidiSQL provides a GUI to manage data and structures of various database management systems including MySQL, MariaDB, Microsoft SQL, PostgreSQL and SQLite.
-linktitle: heidisql
+linktitle: HeidiSQL
+Imagetext: Free Database Management Tool
 draft: false
 weight: 5
 layout: "single"

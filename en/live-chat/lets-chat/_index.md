@@ -4,7 +4,8 @@ description:  Let’s Chat is a live chat app which runs on Node.js and MongoDB.
 singlepageh1title: Live Chat App for Small and Intimate teams
 singlepageh2title: Let’s Chat is developed in Node.js and MongoDB. Improve remote collaboration with this open source software
 Shortdescriptionlistingpage: Let’s Chat is developed in Node.js and MongoDB. Improve remote collaboration with this open source software
-linktitle: lets-chat
+linktitle: Lets-Chat
+Imagetext:  Live Chat Software 
 draft: false
 weight: 3
 layout: "single"

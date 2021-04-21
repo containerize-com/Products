@@ -4,7 +4,8 @@ description: Online invoicing app for businesses which helps them to create invo
 singlepageh1title: Free And Open Source Invoicing Software For Small Businesses
 singlepageh2title: Free invoicing software for businesses which helps them to create invoices, accept payments, track expenses, create proposals and manage tasks.
 Shortdescriptionlistingpage: Free invoicing software for businesses which helps them to create invoices, accept payments, track expenses, create proposals and manage tasks.
-linktitle: invoiceninja
+linktitle: InvoiceNinja
+Imagetext:  Free Invoicing Software 
 draft: false
 weight: 1
 layout: "single"

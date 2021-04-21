@@ -5,13 +5,14 @@ singlepageh1title: Best Open Source On Premise Transaction Email Service Options
 singlepageh2title: Create your own transactional email service. Notify users by sending templated emails on events like account creation, password resets, purchase receipts etc.
 Shortdescriptionlistingpage: Create your own transactional email service. Notify users by sending templated emails on events like account creation, password resets, purchase receipts etc.
 linktitle: transactional-email
+Imagetext:  Open Source Software 
 draft: false
-weight: 10
+weight: 13
 menu:
    mainmenu: 
        name: Transactional Email
        url: TransactionalEmailApps
-       weight: 10
+       weight: 13
 
 heading: Top Transactional Email Software Include
 listingtypetag:  Open Source Software 

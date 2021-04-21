@@ -4,7 +4,8 @@ description: Tryton is flexible, feature-rich, cost-effective and 100% open sour
 singlepageh1title: Flexible And Cost-Effective Open Source ERP System
 singlepageh2title: Integrate and manage all business units with modular and web based Enterprise Resource Planning (ERP) software. Ideal for companies of any size and type.
 Shortdescriptionlistingpage: Integrate and manage all business units with modular and web based Enterprise Resource Planning (ERP) software. Ideal for companies of any size and type.
-linktitle: tryton
+linktitle: Tryton
+Imagetext:  Free ERP Software 
 draft: false
 weight: 4
 layout: "single"

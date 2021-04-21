@@ -4,7 +4,8 @@ description: Setup your own Identity Provider for multiple trusted applications 
 singlepageh1title: Secure Web Apps, APIs with OpenID Connect, OAuth2.0, SAML2.0
 singlepageh2title: Out of the box solution to quickly add identity management and single sign on capabilities. Streamline user management across modern web apps and services
 Shortdescriptionlistingpage: Out of the box solution to quickly add identity management and single sign on capabilities. Streamline user management across modern web apps and services
-linktitle: keycloak
+linktitle: KeyCloak
+Imagetext:  Free SSO Solution
 draft: false
 weight: 4
 layout: "single"

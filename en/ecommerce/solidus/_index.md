@@ -5,6 +5,7 @@ singlepageh1title: Ruby Based Fully Customizable and Flexible eCommerce Platform
 singlepageh2title: Solidus is a complete open-source eCommerce solution for fast growing online businesses, complex storefronts and big retailers.
 Shortdescriptionlistingpage: Solidus is a complete open-source eCommerce solution for fast growing online businesses, complex storefronts and big retailers.
 linktitle: solidus
+Imagetext: Solidus - Rails eCommerce System
 draft: false
 weight: 6
 layout: "single"

@@ -4,7 +4,8 @@ description: phpMyAdmin is an open source DBMS tool that allows users to interac
 singlepageh1title: Open Source Database Management Tool for MySQL & MariaDB
 singlepageh2title: phpMyAdmin is an open source DBMS tool that allows users to interact and manage various databases including MySQL and MariaDB via web interface.
 Shortdescriptionlistingpage: phpMyAdmin is an open source DBMS tool that allows users to interact and manage various databases including MySQL and MariaDB via web interface.
-linktitle: phpmyadmin
+linktitle: phpMyAdmin
+Imagetext: Free Database Management Tool
 draft: false
 weight: 1
 layout: "single"

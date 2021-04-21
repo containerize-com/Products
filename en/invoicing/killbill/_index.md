@@ -4,7 +4,8 @@ description: Kill Bill is reliable, robust and widely used billing and payment s
 singlepageh1title: Java Based Free And Open Source Billing Software
 singlepageh2title: Grow business with robust billing and payment system. Allows keeping control of confidential customers data, access real-time analytics and reports.
 Shortdescriptionlistingpage: Grow business with robust billing and payment system. Allows keeping control of confidential customers data, access real-time analytics and reports.
-linktitle: killbill
+linktitle: Kill Bill
+Imagetext:  Free Invoicing Software 
 draft: false
 weight: 4
 layout: "single"

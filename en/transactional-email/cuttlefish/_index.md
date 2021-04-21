@@ -4,7 +4,8 @@ description: 100% free email relay server with SMTP and beautiful web UI to moni
 singlepageh1title: Open Source Mail Server With Modern Web Interface
 singlepageh2title: Cuttlefish is a self hosted on premise Mail Delivery Software. Use Cuttlefish to send large volumes of emails with ease and analyze bounce rate.
 Shortdescriptionlistingpage: Cuttlefish is a self hosted on premise Mail Delivery Software. Use Cuttlefish to send large volumes of emails with ease and analyze bounce rate.
-linktitle: cuttlefish
+linktitle: Cuttlefish
+Imagetext:  Transactional Email Service 
 draft: false
 weight: 2
 layout: "single"

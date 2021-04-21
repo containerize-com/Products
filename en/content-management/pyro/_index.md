@@ -4,7 +4,8 @@ description: Laravel is one of the most popular PHP framework and Pyro is conten
 singlepageh1title: An Extension to Laravel for Content Management
 singlepageh2title: CMS software with a responsive control panel for better management of content for your website. Build multilingual websites with builtin localization support.
 Shortdescriptionlistingpage: CMS software with a responsive control panel for better management of content for your website. Build multilingual websites with builtin localization support.
-linktitle: pyro
+linktitle: Pyro
+Imagetext:  Free CMS Software 
 draft: false
 weight: 3
 layout: "single"

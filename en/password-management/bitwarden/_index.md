@@ -4,7 +4,8 @@ description: Bitwarden is a secure, free to download and open source password ma
 singlepageh1title: Free, Open Source & Cross-platform Password Manager
 singlepageh2title: Bitwarden is a secure, free to download and open source password manager. It can be used both individually and deployed for business use as well.
 Shortdescriptionlistingpage: Bitwarden is a secure, free to download and open source password manager. It can be used both individually and deployed for business use as well.
-linktitle: bitwarden
+linktitle: Bitwarden
+Imagetext: Free Password Management Software
 draft: false
 weight: 4
 layout: "single"

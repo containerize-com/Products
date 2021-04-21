@@ -4,7 +4,8 @@ description: Fork CMS is an open-source content management system. It is another
 singlepageh1title: A potential challenger for WordPress and Drupal
 singlepageh2title: Fork CMS is an open-source content management system with an intuitive and user-friendly interface.
 Shortdescriptionlistingpage: Fork CMS is an open-source content management system with an intuitive and user-friendly interface.
-linktitle: fork
+linktitle: Fork
+Imagetext:  Free CMS Software 
 draft: false
 weight: 10
 layout: "single"

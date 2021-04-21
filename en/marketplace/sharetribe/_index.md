@@ -4,7 +4,8 @@ description: Sharetribe is a peer-to-peer free and open source marketplace platf
 singlepageh1title: Ruby Based Open Source Peer-to-Peer Marketplace Software
 singlepageh2title: ShareTribe is an open source marketplace software and platform that takes you where you want to go. From idea to launch, profitability to growth and beyond.
 Shortdescriptionlistingpage: ShareTribe is an open source marketplace software and platform that takes you where you want to go. From idea to launch, profitability to growth and beyond.
-linktitle: sharetribe
+linktitle: ShareTribe
+Imagetext: Free Marketplace Software
 draft: false
 weight: 1
 layout: "single"

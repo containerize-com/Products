@@ -4,7 +4,8 @@ description: Akaunting is a free on premise accounting software. Automate bookke
 singlepageh1title: Laravel Based Open Source Accounting Software For Businesses
 singlepageh2title: Easy to use software with beautiful desktop, Mobile and Tablet interfaces. Automate finance management and stay on top of cash flow.
 Shortdescriptionlistingpage: Easy to use software with beautiful desktop, Mobile and Tablet interfaces. Automate finance management and stay on top of cash flow.
-linktitle: akaunting
+linktitle: Akaunting
+Imagetext:  Free Invoicing Software 
 draft: false
 weight: 2
 layout: "single"

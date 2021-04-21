@@ -4,7 +4,8 @@ description: Open source project management tool and time tracking software. Spr
 singlepageh1title: Ruby based Project Management Software for Time Tracking
 singlepageh2title: Open source project management tool and time tracking software. SprintApp is free to use and simple to setup so you can focus on running your business.
 Shortdescriptionlistingpage: Open source project management tool and time tracking software. SprintApp is free to use and simple to setup so you can focus on running your business.
-linktitle: sprintapp
+linktitle: SprintApp
+Imagetext: Open Source Project Management Tool
 draft: false
 weight: 7
 layout: "single"

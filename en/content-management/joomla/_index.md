@@ -5,6 +5,7 @@ singlepageh1title: Open Source Website Builder Powered By Thousands Of Extension
 singlepageh2title: Joomla is a CMS platform for building websites with multilingual support. Use responsive Joomla Templates for mobile friendly socialized modern websites.
 Shortdescriptionlistingpage: Joomla is a CMS platform for building websites with multilingual support. Use responsive Joomla Templates for mobile friendly socialized modern websites.
 linktitle: Joomla
+Imagetext:  Free CMS Software 
 draft: false
 weight: 1
 layout: "single"

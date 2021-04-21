@@ -4,7 +4,8 @@ description: Orbeon supports generating forms from within browser without extra 
 singlepageh1title: Design, Build and Deploy Enterprise Level Web Forms
 singlepageh2title: Orbeon is used to generate industrial level complex forms easily and quickly. Being platform agnostic, forms are accessible via desktop, laptops and mobiles.
 Shortdescriptionlistingpage: Orbeon is used to generate industrial level complex forms easily and quickly. Being platform agnostic, forms are accessible via desktop, laptops and mobiles.
-linktitle: orbeon
+linktitle: Orbeon
+Imagetext:  Free Form Builder
 draft: false
 weight: 2
 layout: "single"

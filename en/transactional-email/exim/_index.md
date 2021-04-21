@@ -5,6 +5,7 @@ singlepageh1title: Open Source Mail Transfer Agent as Alternative to Sendmail
 singlepageh2title: Exim is highly customizable open source mail transfer agent for email routing and delivery. It’s the number one choice for enterprise level organizations for its flexibility.
 Shortdescriptionlistingpage: Exim is highly customizable open source mail transfer agent for email routing and delivery. It’s the number one choice for enterprise level organizations for its flexibility.
 linktitle: exim
+Imagetext: Exim Open Source Mail Transfer Agent
 draft: false
 weight: 5
 layout: "single"

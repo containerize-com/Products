@@ -4,7 +4,8 @@ description: Wire is a free web conferencing software. With many options such as
 singlepageh1title: Free Remote Communication Software With Rich User Experience
 singlepageh2title: Self hosted web collaboration software with enterprise security standards. It provides trusted internal/external conversations and offers many great features.
 Shortdescriptionlistingpage: Self hosted web collaboration software with enterprise security standards. It provides trusted internal/external conversations and offers many great features.
-linktitle: wire
+linktitle: Wire
+Imagetext:  Free Video Collaboration Platform
 draft: false
 weight: 5
 layout: "single"

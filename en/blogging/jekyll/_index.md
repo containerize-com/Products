@@ -4,7 +4,8 @@ description: Jekyll turns markdown contents into static html pages which simplif
 singlepageh1title: 100% Free Static Site Generator Software to Generate HTML Websites
 singlepageh2title: Jekyll is a static web page generator and hosts content on GitHub for free, as GitHub Pages are powered by Jekyll. Create contents in markups to start blog or site
 Shortdescriptionlistingpage: Jekyll is a static web page generator and hosts content on GitHub for free, as GitHub Pages are powered by Jekyll. Create contents in markups to start blog or site
-linktitle: jekyll
+linktitle: Jekyll
+Imagetext:  Free Blogging Platform 
 draft: false
 weight: 3
 layout: "single"

@@ -4,7 +4,8 @@ description: Botkit is 100% free developer tool backed by big community. It is a
 singlepageh1title: A Bot Builder for Facebook, Slack and WebChat
 singlepageh2title: Botkit is bot designing tool with lots of integrations including Microsoft Teams, Twilio, Facebook for Work and Cisco Spark. Build interactive bots with Botkit.
 Shortdescriptionlistingpage: Botkit is bot designing tool with lots of integrations including Microsoft Teams, Twilio, Facebook for Work and Cisco Spark. Build interactive bots with Botkit.
-linktitle: botkit
+linktitle: Botkit
+Imagetext:  Live Chat Software 
 draft: false
 weight: 6
 layout: "single"

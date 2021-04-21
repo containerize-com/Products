@@ -4,7 +4,8 @@ description: Serendipity provides a stable blog engine with proper security meas
 singlepageh1title: A Web Based Content Management System written in PHP
 singlepageh2title: Serendipity is a free, simple but powerful, self managed blogging platform and CMS. Personalize look and feel of your blog or website with appropriate themes.
 Shortdescriptionlistingpage: Serendipity is a free, simple but powerful, self managed blogging platform and CMS. Personalize look and feel of your blog or website with appropriate themes.
-linktitle: serendipity
+linktitle: Serendipity
+Imagetext:  Free Blogging Platform 
 draft: false
 weight: 5
 layout: "single"

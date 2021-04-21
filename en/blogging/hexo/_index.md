@@ -4,7 +4,8 @@ description: Hexo is a small and minimalistic static site generator and blogging
 singlepageh1title: Fast and Easy Static Site Generator and Blogging Platform
 singlepageh2title: Generating a new blog with Hexo is really fast. Hexo truly lives up to it’s name as a simple and fast static site generator.
 Shortdescriptionlistingpage: Generating a new blog with Hexo is really fast. Hexo truly lives up to it’s name as a simple and fast static site generator.
-linktitle: hexo
+linktitle: Hexo
+Imagetext:  Free Blogging Platform 
 draft: false
 weight: 8
 layout: "single"

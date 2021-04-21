@@ -4,7 +4,8 @@ description: Openshot provides high quality video editing experience. This video
 singlepageh1title: Cross Platform Video Editing Software With RESTful Interface
 singlepageh2title: Create professional videos with Openshot. It offers high class video editing capabilities with rich animations, background audio, titles, and video effects.
 Shortdescriptionlistingpage: Create professional videos with Openshot. It offers high class video editing capabilities with rich animations, background audio, titles, and video effects.
-linktitle: openshot
+linktitle: Openshot
+Imagetext:  Open Source Video Editing Software
 draft: false
 weight: 1
 layout: "single"

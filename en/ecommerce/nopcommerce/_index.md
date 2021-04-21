@@ -4,7 +4,8 @@ description: nopCommerce is modern, feature-packed free eCommerce software for a
 singlepageh1title: Free Shopping Cart Solution Based On Microsoft Technologies
 singlepageh2title: Quickly create store and scale your business with one of the most popular open source cross-platform shopping cart software built on Microsoft technologies.
 Shortdescriptionlistingpage: Quickly create store and scale your business with one of the most popular open source cross-platform shopping cart software built on Microsoft technologies.
-linktitle: nopcommerce
+linktitle: nopCommerce
+Imagetext:  Free Shopping Cart Software 
 draft: false
 weight: 7
 layout: "single"

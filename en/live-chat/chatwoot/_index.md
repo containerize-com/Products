@@ -4,7 +4,8 @@ description: Chatwoot is an open source live chat software for customer support.
 singlepageh1title: Open Source Alternative to Intercom, Drift, and Freshchat
 singlepageh2title: Chatwoot is an open-source live chat software for businesses. It supports multiple communication channels like Facebook and Twitter in a unified Omni inbox.
 Shortdescriptionlistingpage: Chatwoot is an open-source live chat software for businesses. It supports multiple communication channels like Facebook and Twitter in a unified Omni inbox.
-linktitle: chatwoot
+linktitle: Chatwoot
+Imagetext:  Live Chat Software 
 draft: false
 weight: 9
 layout: "single"

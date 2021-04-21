@@ -4,7 +4,8 @@ description: Flexible freeware to build customer identity and access management 
 singlepageh1title: Build CIAM Platform with Open Source Identity Server
 singlepageh2title: Free open source WSO2 identity server supports all identity standards to provide authentication and expose APIs to integrate with user databases to manage identities
 Shortdescriptionlistingpage: Free open source WSO2 identity server supports all identity standards to provide authentication and expose APIs to integrate with user databases to manage identities
-linktitle: wso2
+linktitle: WSO2
+Imagetext:  Open Source Identity Server
 draft: false
 weight: 5
 layout: "single"

@@ -4,7 +4,8 @@ description: Popular open source live chat software for all your communication n
 singlepageh1title: On Premise Alternative to Slack With Chat Bot Features.
 singlepageh2title: Rocket.Chat is easy to setup and helps teams collaborate and provide live support. Improve transparency by centralizing internal and external communications.
 Shortdescriptionlistingpage: Rocket.Chat is easy to setup and helps teams collaborate and provide live support. Improve transparency by centralizing internal and external communications.
-linktitle: rocketchat
+linktitle: Rocket.Chat
+Imagetext:  Live Chat Software 
 draft: false
 weight: 1
 layout: "single"

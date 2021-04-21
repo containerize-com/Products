@@ -5,13 +5,14 @@ singlepageh1title: Trending Open Source Free Healthcare Technologies
 singlepageh2title: Healthcare Solution provides support for both patient and hospital management. Boost up health care services by employing a free hospital management software. 
 Shortdescriptionlistingpage: Healthcare Solution provides support for both patient and hospital management. Boost up health care services by employing a free hospital management software. 
 linktitle: healthcare-technologies
+Imagetext: Open Source Software
 draft: false
-weight: 27
+weight: 30
 menu:
    mainmenu: 
        name: Healthcare Software
        url: HealthcareSoftwareApps
-       weight: 27
+       weight: 30
 
 heading: Top Healthcare Technologies Include
 listingtypetag: Open Source Software

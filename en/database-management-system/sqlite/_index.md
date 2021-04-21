@@ -4,7 +4,8 @@ description: SQLite database management system is built into most mobile phones 
 singlepageh1title: Fast, Small, Highly Reliable and Open Source DBMS Software
 singlepageh2title: SQLite database management system is built into most mobile phones and computers. It comes bundled inside countless other applications that we daily use.
 Shortdescriptionlistingpage: SQLite database management system is built into most mobile phones and computers. It comes bundled inside countless other applications that we daily use.
-linktitle: sqlite
+linktitle: SQLite
+Imagetext: Free Database Management System
 draft: false
 weight: 3
 layout: "single"

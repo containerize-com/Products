@@ -5,6 +5,7 @@ singlepageh1title: Ruby on Rails Based Customer Relationship Management Platform
 singlepageh2title: FatFreeCRM open-source features group collaboration, campaign and lead management, contact lists, opportunity tracking and elegant in simplicity. 
 Shortdescriptionlistingpage: FatFreeCRM open-source features group collaboration, campaign and lead management, contact lists, opportunity tracking and elegant in simplicity. 
 linktitle: fatfreecrm
+Imagetext: FatFreeCRM  
 draft: false
 weight: 5
 layout: "single"

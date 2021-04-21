@@ -4,7 +4,8 @@ description: A Postfix based reliable and secure email delivery agent for hostin
 singlepageh1title: Free Software To Use As Email Service Provider
 singlepageh2title: Mail-in-a-Box is a self-hosted on-premise Mail Server Software. Setup your own email service with no technical expertise like making your own Gmail.
 Shortdescriptionlistingpage: Mail-in-a-Box is a self-hosted on-premise Mail Server Software. Setup your own email service with no technical expertise like making your own Gmail.
-linktitle: mail-in-a-box
+linktitle: Mail in a box
+Imagetext:  Transactional Email Service
 draft: false
 weight: 3
 layout: "single"

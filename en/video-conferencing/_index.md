@@ -5,6 +5,7 @@ singlepageh1title: Open Source Video Conferencing Software For Remote Meetings
 singlepageh2title: Video conferencing software enables you to establish encrypted video conferencing for business. Invite as many users as you want to collaborate and communicate.
 Shortdescriptionlistingpage: Video conferencing software enables you to establish encrypted video conferencing for business. Invite as many users as you want to collaborate and communicate.
 linktitle: video-conferencing
+Imagetext: Open Source Software
 draft: false
 weight: 24
 menu:

@@ -5,6 +5,7 @@ singlepageh1title: Fully Featured Rails Based Fast, Secure and Stable Chat App.
 singlepageh2title: Kandan is an open-source chat application with an elegant and clean design. You can invite colleagues to share ideas and files in persistent group chat rooms.
 Shortdescriptionlistingpage: Kandan is an open-source chat application with an elegant and clean design. You can invite colleagues to share ideas and files in persistent group chat rooms.
 linktitle: kandan
+Imagetext: Kandan Free Real-time Chat Application
 draft: false
 weight: 11
 layout: "single"

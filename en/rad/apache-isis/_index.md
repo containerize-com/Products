@@ -4,7 +4,8 @@ description: Apache Isis is an open source RAD software written in Java. It lets
 singlepageh1title: Build Domain Driven Apps With Apache Isis RAD Framework
 singlepageh2title: Apache Isis is Java based rapid application generator. It provides many RAD tools such as Swagger UI, Wicket Viewer OOUI, Cucumber Framework, and REST interface
 Shortdescriptionlistingpage: Apache Isis is Java based rapid application generator. It provides many RAD tools such as Swagger UI, Wicket Viewer OOUI, Cucumber Framework, and REST interface
-linktitle: apache-isis
+linktitle: Apache Isis
+Imagetext:  Free RAD Framework
 draft: false
 weight: 2
 layout: "single"

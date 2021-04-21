@@ -4,7 +4,8 @@ description: Umbraco CMS is a free web content management software that provides
 singlepageh1title: Highly Flexible Open Source .NET Content Management System
 singlepageh2title: A friendly CMS software with high class user interface and many features such as Multilingual support, activity log views, global search and post scheduling
 Shortdescriptionlistingpage: A friendly CMS software with high class user interface and many features such as Multilingual support, activity log views, global search and post scheduling
-linktitle: umbraco
+linktitle: Umraco
+Imagetext:  Free CMS Software 
 draft: false
 weight: 5
 layout: "single"

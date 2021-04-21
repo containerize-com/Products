@@ -4,7 +4,8 @@ description: Mercurial is self-hosted distributed version control software that 
 singlepageh1title: Python Based Self-Hosted Distributed Version Control System
 singlepageh2title: Manage code for projects of any size and type with one of the most popular free and open source cross-platform distributed version control software.
 Shortdescriptionlistingpage: Manage code for projects of any size and type with one of the most popular free and open source cross-platform distributed version control software.
-linktitle: mercurial
+linktitle: Mercurial
+Imagetext:  Free Version Control Software 
 draft: false
 weight: 3
 layout: "single"

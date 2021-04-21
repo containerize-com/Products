@@ -4,7 +4,8 @@ description: Ethereum is an open-source software platform based on blockchain te
 singlepageh1title: Track Your Digital Transactions With Ethereum Powered Apps
 singlepageh2title: Ethereum is an open source distributed blockchain network. Build and deploy Smart Contracts and Distributed Applications with complete security and availability
 Shortdescriptionlistingpage: Ethereum is an open source distributed blockchain network. Build and deploy Smart Contracts and Distributed Applications with complete security and availability
-linktitle: ethereum
+linktitle: Ethereum
+Imagetext:  Open Source Blockchain Platform
 draft: false
 weight: 1
 layout: "single"

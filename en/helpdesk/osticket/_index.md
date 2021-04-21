@@ -4,7 +4,8 @@ description: Fully customizable ticketing based Helpdesk and Customer Care Syste
 singlepageh1title: Popular Free Ticketing Based Helpdesk and Customer Care System
 singlepageh2title: Reliable Ticketing Based Helpdesk and Customer Support System to deliver swift response to customer inquiries from your email, phone and web-based form.
 Shortdescriptionlistingpage: Reliable Ticketing Based Helpdesk and Customer Support System to deliver swift response to customer inquiries from your email, phone and web-based form.
-linktitle: osticket
+linktitle: osTicket
+Imagetext:  Free Helpdesk Software 
 draft: false
 weight: 1
 layout: "single"

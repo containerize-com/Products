@@ -4,7 +4,8 @@ description: Free newsletter software for the sending of newsletters and discuss
 singlepageh1title: Python Based Free Newsletter And Mailing List Software
 singlepageh2title: Free on-premise newsletter software for managing mailing lists and sending newsletters. Send marketing emails to millions of subscribers and turn them into customers.
 Shortdescriptionlistingpage: Free on-premise newsletter software for managing mailing lists and sending newsletters. Send marketing emails to millions of subscribers and turn them into customers.
-linktitle: mailman
+linktitle: Mailman
+Imagetext:  Free Newsletter Software 
 draft: false
 weight: 5
 layout: "single"

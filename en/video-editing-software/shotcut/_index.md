@@ -4,7 +4,8 @@ description: Shotcut is an open source video editor. It is multilingual and has 
 singlepageh1title: Multi Featured With Wide Format Support Free Video Editor
 singlepageh2title: Shotcut is open source professional video editing software . It offers powerful features such as 4K resolutions, volume control, video filters, 3-point editing.
 Shortdescriptionlistingpage: Shotcut is open source professional video editing software . It offers powerful features such as 4K resolutions, volume control, video filters, 3-point editing.
-linktitle: shotcut
+linktitle: Shotcut
+Imagetext:  Open Source Video Editing Software
 draft: false
 weight: 2
 layout: "single"

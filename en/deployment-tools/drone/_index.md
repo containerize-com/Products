@@ -4,7 +4,8 @@ description: Drone is open source continuous integration tool for building and d
 singlepageh1title: Build And Test Software With Open Source Deployment Tool
 singlepageh2title: Automate software building, testing, deployment with self-service Continuous Integration and Continuous Delivery platform based on Go language.
 Shortdescriptionlistingpage: Automate software building, testing, deployment with self-service Continuous Integration and Continuous Delivery platform based on Go language.
-linktitle: drone
+linktitle: Drone
+Imagetext:  Free Deployment Tool 
 draft: false
 weight: 2
 layout: "single"

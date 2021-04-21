@@ -4,7 +4,8 @@ description: GitLab is one of the leading self hosted version control software. 
 singlepageh1title: Free And Open Source Source Code Management Software
 singlepageh2title: Rapidly coordinate, share and collaborate with self-hosted source code management software. Allows teams to maximize productivity and faster delivery.
 Shortdescriptionlistingpage: Rapidly coordinate, share and collaborate with self-hosted source code management software. Allows teams to maximize productivity and faster delivery.
-linktitle: gitlab
+linktitle: GitLab
+Imagetext:  Free Version Control Software 
 draft: false
 weight: 4
 layout: "single"

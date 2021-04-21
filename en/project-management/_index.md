@@ -5,13 +5,14 @@ singlepageh1title: Best Free and Open Source Project Management Software
 singlepageh2title: Project management software helps you to plan projects, schedule tasks, manage teams, resource allocation, issue tracking, and change management.
 Shortdescriptionlistingpage: Project management software helps you to plan projects, schedule tasks, manage teams, resource allocation, issue tracking, and change management.
 linktitle: project-management
+Imagetext:  Open Source Software 
 draft: false
-weight: 15
+weight: 18
 menu:
    mainmenu: 
        name: Project Management
        url: ProjectManagementApps
-       weight: 15
+       weight: 18
 
 heading: Top Project Management Systems Include
 listingtypetag:  Open Source Software 

@@ -5,13 +5,14 @@ singlepageh1title: Best Free ERP Software Options For Businesses
 singlepageh2title: ERP tool helps companies to manage and automate business workflows. Choose the best-suited ERP system for your business from the top open source ERP Systems.
 Shortdescriptionlistingpage: ERP tool helps companies to manage and automate business workflows. Choose the best-suited ERP system for your business from the top open source ERP Systems.
 linktitle: erp
+Imagetext:  Open Source Software 
 draft: false
-weight: 21
+weight: 26
 menu:
    mainmenu: 
        name: ERP
        url: ERPApps
-       weight: 21
+       weight: 26
 
 heading: Top Open Source ERP Software Include
 listingtypetag:  Open Source Software 

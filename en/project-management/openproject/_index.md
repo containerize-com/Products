@@ -4,7 +4,8 @@ description: Open source project tracking and reporting software. Manage multipl
 singlepageh1title: Simple Project Software for Collaboration and Task Management
 singlepageh2title: Free project management tool for Daily scrum, Sprint planning, Bug tracking, Burndown chart, Gantt charts, Kanban, Project workflow, and Project collaboration.
 Shortdescriptionlistingpage: Free project management tool for Daily scrum, Sprint planning, Bug tracking, Burndown chart, Gantt charts, Kanban, Project workflow, and Project collaboration.
-linktitle: openproject
+linktitle: OpenProject
+Imagetext:  Open Source Project Management System 
 draft: false
 weight: 3
 layout: "single"

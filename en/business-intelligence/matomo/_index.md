@@ -4,7 +4,8 @@ description: Matomo is a free business intelligence analytics software. It provi
 singlepageh1title: Highly Customizable Real Time Business Intelligence Solution
 singlepageh2title: Free Google analytics alternative solution that provides data integrity, privacy with complete ownership. Import your GA data of unlimited websites and users.
 Shortdescriptionlistingpage: Free Google analytics alternative solution that provides data integrity, privacy with complete ownership. Import your GA data of unlimited websites and users.
-linktitle: matomo
+linktitle: Matomo
+Imagetext:  Open Source Business Intelligence Software
 draft: false
 weight: 1
 layout: "single"

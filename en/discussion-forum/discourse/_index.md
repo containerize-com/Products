@@ -4,9 +4,10 @@ description: Discourse is a feature-rich, modern and socialized ruby on rails ba
 singlepageh1title: On Premise Open Source Discussion Forum Software
 singlepageh2title: Discourse provides several social features similar to Twitter and Facebook. Build, engage and grow your business community in a trendy modern way.
 Shortdescriptionlistingpage: Discourse provides several social features similar to Twitter and Facebook. Build, engage and grow your business community in a trendy modern way.
-linktitle: discourse
+linktitle: Discourse
+Imagetext:  Free Discussion Forum 
 draft: false
-weight: 2
+weight: 1
 layout: "single"
 GithubLink: https://github.com/discourse/discourse
 

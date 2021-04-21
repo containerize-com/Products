@@ -4,7 +4,8 @@ description: Crater is billing software for small businesses to handle financial
 singlepageh1title: Free And Open Source Billing Software For Small Businesses
 singlepageh2title: Complete invoicing system which helps small companies for book keeping. Grow business by tracking expenses, payments, create invoices and estimates.
 Shortdescriptionlistingpage: Complete invoicing system which helps small companies for book keeping. Grow business by tracking expenses, payments, create invoices and estimates.
-linktitle: crater
+linktitle: Crater
+Imagetext:  Free Invoicing Software 
 draft: false
 weight: 5
 layout: "single"

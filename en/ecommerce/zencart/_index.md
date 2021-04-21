@@ -4,7 +4,8 @@ description: Zen Cart is a free open source shopping cart system for creating st
 singlepageh1title: Free Shopping Cart Solution For Small And Medium Businesses
 singlepageh2title: Materialize your business ideas with open source eCommerce platform. Easy to use and feature-packed solution, ideal for small and medium size businesses.
 Shortdescriptionlistingpage: Materialize your business ideas with open source eCommerce platform. Easy to use and feature-packed solution, ideal for small and medium size businesses.
-linktitle: zencart
+linktitle: Zen Cart
+Imagetext:  Free Shopping Cart Software 
 draft: false
 weight: 8
 layout: "single"

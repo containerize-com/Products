@@ -4,7 +4,8 @@ description: inoERP is an open-source ERP system. It's built using open source t
 singlepageh1title: An open-source alternative to Oracle R12 and SAP for small to midsize businesses
 singlepageh2title: inoERP is a web-based open-source ERP system that contains all the required modules for a midsize business. It also contains an integrated lightweight CMS.
 Shortdescriptionlistingpage: inoERP is a web-based open-source ERP system that contains all the required modules for a midsize business. It also contains an integrated lightweight CMS.
-linktitle: inoerp
+linktitle: inoERP
+Imagetext:  Free Enterprise Resource Planning Software 
 draft: false
 weight: 7
 layout: "single"

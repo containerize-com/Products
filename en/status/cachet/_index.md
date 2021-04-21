@@ -4,7 +4,8 @@ description: Cachet is a free and self-hosted status page system for monitoring 
 singlepageh1title: Improve Downtime With Self-Hosted Status Page System
 singlepageh2title: Free monitoring of websites, applications and APIs with open source status page system. Inform users about downtime, system outages, and scheduled maintenance.
 Shortdescriptionlistingpage: Free monitoring of websites, applications and APIs with open source status page system. Inform users about downtime, system outages, and scheduled maintenance.
-linktitle: cachet
+linktitle: Cachet
+Imagetext:  Free StatusPage Software 
 draft: false
 weight: 1
 layout: "single"

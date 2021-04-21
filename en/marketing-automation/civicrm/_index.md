@@ -4,9 +4,10 @@ description: Specialized open source constituent relation management software fo
 singlepageh1title: Open Source Marketing Automation Tool With CMS Integration
 singlepageh2title: Free Marketing Automation and CRM software for email marketing, event management, and fundraising with smooth integration to WordPress, Joomla and Drupal.
 Shortdescriptionlistingpage: Free Marketing Automation and CRM software for email marketing, event management, and fundraising with smooth integration to WordPress, Joomla and Drupal.
-linktitle: civicrm
+linktitle: CiviCRM
+Imagetext:  Free Marketing Automation Software 
 draft: false
-weight: 1
+weight: 2
 layout: "single"
 
 ---

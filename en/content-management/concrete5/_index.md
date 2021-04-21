@@ -4,7 +4,8 @@ description: Concrete5 CMS is an open source content management system. A point 
 singlepageh1title: Build Complex Websites with Ease using Concrete5 CMS
 singlepageh2title: Concrete5 CMS is an open source content management system. A point and click, free CMS that creates websites. The system is written in the PHP programming language.
 Shortdescriptionlistingpage: Concrete5 CMS is an open source content management system. A point and click, free CMS that creates websites. The system is written in the PHP programming language.
-linktitle: concrete5
+linktitle: Concrete5
+Imagetext:  Free CMS Software 
 draft: false
 weight: 6
 layout: "single"

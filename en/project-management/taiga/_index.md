@@ -4,7 +4,8 @@ description: Free on-premise project management application for multi-functional
 singlepageh1title: Free Project Management Software for Agile-Based Projects
 singlepageh2title: Open source project management tool for agile developers and designers. It supports seamless integration with GitHub, Gitlab, Slack, Hipchat, and Mattermost.
 Shortdescriptionlistingpage: Open source project management tool for agile developers and designers. It supports seamless integration with GitHub, Gitlab, Slack, Hipchat, and Mattermost.
-linktitle: taiga
+linktitle: Taiga
+Imagetext:  Free Project Management Software 
 draft: false
 weight: 2
 layout: "single"

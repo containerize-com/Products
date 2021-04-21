@@ -5,6 +5,7 @@ singlepageh1title: Enterprise Level Free and Open Source CMS Platforms
 singlepageh2title: Unleash the strategic power of free digital content management software - be it a single website or multilingual sites across desktop and smart devices.
 Shortdescriptionlistingpage: Unleash the strategic power of free digital content management software - be it a single website or multilingual sites across desktop and smart devices.
 linktitle: content-management
+Imagetext: Open Source Software 
 draft: false
 weight: 1
 menu:

@@ -4,7 +4,8 @@ description: MariaDB is open source relational database management system that p
 singlepageh1title: Highly Secure & Fast Relational Database Management System
 singlepageh2title: MariaDB is open source relational database management system that provides SQL interface to manage data. It supports both transactional and hybrid workloads.
 Shortdescriptionlistingpage: MariaDB is open source relational database management system that provides SQL interface to manage data. It supports both transactional and hybrid workloads.
-linktitle: mariadb
+linktitle: MariaDB
+Imagetext: Free Database Management System
 draft: false
 weight: 2
 layout: "single"

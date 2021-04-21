@@ -4,7 +4,8 @@ description: Free monitoring of your web applications, websites, APIs and micros
 singlepageh1title: Monitor your web applications, websites, APIs and microservices
 singlepageh2title: An open source app to monitor your websites, web applications, Services, APIs. Sends downtime and uptime notifications on multiple channels.
 Shortdescriptionlistingpage: An open source app to monitor your websites, web applications, Services, APIs. Sends downtime and uptime notifications on multiple channels.
-linktitle: statping
+linktitle: Statping
+Imagetext:  Free StatusPage Software 
 draft: false
 weight: 2
 layout: "single"

@@ -5,13 +5,14 @@ singlepageh1title: Best Free And Open Source Status Page System Options
 singlepageh2title: Check out the list of open source status page systems. Choose right tool and inform users about system outages, scheduled maintenance and reduce downtime.
 Shortdescriptionlistingpage: Check out the list of open source status page systems. Choose right tool and inform users about system outages, scheduled maintenance and reduce downtime.
 linktitle: status
+Imagetext:  Open Source Software 
 draft: false
-weight: 12
+weight: 15
 menu:
    mainmenu: 
        name: StatusPage
        url: StatusPageApps
-       weight: 12
+       weight: 15
 
 heading: Top Open Source Status Page System Include
 listingtypetag:  Open Source Software 

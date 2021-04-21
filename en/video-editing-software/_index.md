@@ -5,13 +5,14 @@ singlepageh1title: Best Open Source Free Video Editing Software
 singlepageh2title: Video Editing Software produces relevant and engaging content for business. Video marketing has become a must-have component of effective marketing strategies.
 Shortdescriptionlistingpage: Video Editing Software produces relevant and engaging content for business. Video marketing has become a must-have component of effective marketing strategies.
 linktitle: video-editing-software
+Imagetext: Open Source Software
 draft: false
-weight: 24
+weight: 27
 menu:
    mainmenu: 
        name: Video Editing Software
        url: VideoEditingSoftwareApps
-       weight: 24
+       weight: 27
 
 heading: Top Video Editing Software Include
 listingtypetag: Open Source Software

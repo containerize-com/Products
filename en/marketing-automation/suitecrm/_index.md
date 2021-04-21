@@ -4,7 +4,8 @@ description: Feature-rich open source marketing automation tool with sales form 
 singlepageh1title: Open Source Enterprise Level Marketing Automation Software
 singlepageh2title: Boost your sales team skills to increase sales, engage customers and build relationships with Free CMS Software. It is a powerful alternative to Salesforce.
 Shortdescriptionlistingpage: Boost your sales team skills to increase sales, engage customers and build relationships with Free CMS Software. It is a powerful alternative to Salesforce.
-linktitle: suitecrm
+linktitle: SuiteCRM
+Imagetext:  Free Marketing Automation Software 
 draft: false
 weight: 3
 layout: "single"

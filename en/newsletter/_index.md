@@ -5,13 +5,14 @@ singlepageh1title: Best Open Source Email Marketing Software Options
 singlepageh2title: Modern email marketing software provide tools to automate mailing lists and schedule newsletter. Improve success rate with builtin analytics tools.
 Shortdescriptionlistingpage: Modern email marketing software provide tools to automate mailing lists and schedule newsletter. Improve success rate with builtin analytics tools.
 linktitle: newsletter
+Imagetext:  Open Source Software 
 draft: false
-weight: 11
+weight: 14
 menu:
    mainmenu: 
        name: Newsletter
        url: NewsletterApps
-       weight: 11
+       weight: 14
 
 heading: Top Email Marketing Platforms Include
 listingtypetag:  Open Source Software 

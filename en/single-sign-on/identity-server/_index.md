@@ -4,7 +4,8 @@ description: Set up centralized authentication server for multiple trusted appli
 singlepageh1title: Cross Platform SSO Framework Using OpenID Connect and OAuth 2
 singlepageh2title: Single Sign On Framework to build access control solutions for modern web applications and APIs. Simplify authentication management by centralizing to one place.
 Shortdescriptionlistingpage: Single Sign On Framework to build access control solutions for modern web applications and APIs. Simplify authentication management by centralizing to one place.
-linktitle: identity-server
+linktitle: IdentityServer
+Imagetext: Free SSO Solution
 draft: false
 weight: 1
 layout: "single"

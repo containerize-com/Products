@@ -4,7 +4,8 @@ description: Free single sign on solution to control the authentication feature 
 singlepageh1title: Multilingual Single Sign On With Delegated Authentication
 singlepageh2title: Central Authentication Service is open source SSO software which provides authentication and authorization features using OpenID, OAuth, and SAML protocols
 Shortdescriptionlistingpage: Central Authentication Service is open source SSO software which provides authentication and authorization features using OpenID, OAuth, and SAML protocols
-linktitle: cas
+linktitle: CAS
+Imagetext:  Free SSO Solution
 draft: false
 weight: 2
 layout: "single"

@@ -4,7 +4,8 @@ description: Deployer is a CLI tool for the deployment of PHP-based applications
 singlepageh1title: Effortlessly PHP Application Deployment With Deployer
 singlepageh2title: Seamless deployment workflow with free and open source deployment tool for PHP-based applications. Easily set up and supports popular frameworks.
 Shortdescriptionlistingpage: Seamless deployment workflow with free and open source deployment tool for PHP-based applications. Easily set up and supports popular frameworks.
-linktitle: deployer
+linktitle: Deployer
+Imagetext:  Free Deployment Tool 
 draft: false
 weight: 3
 layout: "single"

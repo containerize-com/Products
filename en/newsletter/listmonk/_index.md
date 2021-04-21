@@ -5,6 +5,7 @@ singlepageh1title: Free And Open Source Newsletter & Mailing List Manager
 singlepageh2title: listmonk is a high performance, secure and feature-packed newsletter software with a modern dashboard. Instantly send newsletter to millions of subscribers.
 Shortdescriptionlistingpage: listmonk is a high performance, secure and feature-packed newsletter software with a modern dashboard. Instantly send newsletter to millions of subscribers.
 linktitle: listmonk
+Imagetext:  Free Newsletter Software 
 draft: false
 weight: 3
 layout: "single"

@@ -4,7 +4,8 @@ description: Botpress is a framework for chat management. Other modules like sub
 singlepageh1title: AI Powered Chat Bot Platform – WordPress of Bots
 singlepageh2title: On premise chat bot software supporting AI and natural language processing to automate conversations and workflows. Train bots to provide 24/7 live support
 Shortdescriptionlistingpage: On premise chat bot software supporting AI and natural language processing to automate conversations and workflows. Train bots to provide 24/7 live support
-linktitle: botpress
+linktitle: Botpress
+Imagetext:  Live Chat Software 
 draft: false
 weight: 4
 layout: "single"

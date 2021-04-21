@@ -4,9 +4,10 @@ description: Free Marketing Automation platform to generate leads, build marketi
 singlepageh1title: Free, Powerful and Reliable Marketing Automation Software
 singlepageh2title: Boost your sales, improve customer retention, enhance lead nurturing and track your marketing activities with open source and robust marketing automation tool.
 Shortdescriptionlistingpage: Boost your sales, improve customer retention, enhance lead nurturing and track your marketing activities with open source and robust marketing automation tool.
-linktitle: mautic
+linktitle: Mautic
+Imagetext:  Free Marketing Automation Software 
 draft: false
-weight: 2
+weight: 1
 layout: "single"
 GithubLink: https://github.com/mautic/mautic
 

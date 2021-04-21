@@ -4,7 +4,8 @@ description: Execute Java servlets and render web pages that include Java pages.
 singlepageh1title: HTTP Web Server Environment For Java Web Apps
 singlepageh2title: Execute Java servlets and render web pages that include Java server page coding. Apache Tomcat software powers large-scale, mission-critical web applications.
 Shortdescriptionlistingpage: Execute Java servlets and render web pages that include Java server page coding. Apache Tomcat software powers large-scale, mission-critical web applications.
-linktitle: tomcat
+linktitle: Tomcat
+Imagetext: Web Server Solution Stack
 draft: false
 weight: 5
 layout: "single"

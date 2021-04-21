@@ -4,7 +4,8 @@ description: FreeIPA is an open source integrated software that provides central
 singlepageh1title: Linux/UNIX Based Identity And Authentication Solution
 singlepageh2title: FreeIPA offers centralized authentication and authorization for networked environments. It comes with CLI, RPC access, and a Web user interface to manage users.
 Shortdescriptionlistingpage: FreeIPA offers centralized authentication and authorization for networked environments. It comes with CLI, RPC access, and a Web user interface to manage users.
-linktitle: freeipa
+linktitle: FreeIPA
+Imagetext:  Open Source Identity Server
 draft: false
 weight: 7
 layout: "single"

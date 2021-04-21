@@ -4,7 +4,8 @@ description: On premise alternative to typeform, google forms and form.io to gen
 singlepageh1title: Open Source Alternative to TypeForm for Forms and Surveys
 singlepageh2title: OhMyForm provides form builder tools to craft online forms. Generate professional looking embeddable forms for surveys, market research and recruiting.
 Shortdescriptionlistingpage: OhMyForm provides form builder tools to craft online forms. Generate professional looking embeddable forms for surveys, market research and recruiting.
-linktitle: ohmyform
+linktitle: OhMyForm
+Imagetext:  Free Form Builder 
 draft: false
 weight: 3
 layout: "single"

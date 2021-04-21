@@ -5,6 +5,7 @@ singlepageh1title: Easy way to create & send invoices and receive payments onlin
 singlepageh2title: OpenSourceBilling is an open source web application for creating and sending invoices, receiving payments, managing clients, tracking and reporting.
 Shortdescriptionlistingpage: OpenSourceBilling is an open source web application for creating and sending invoices, receiving payments, managing clients, tracking and reporting.
 linktitle: opensourcebilling
+Imagetext:  OpenSourceBilling Free Billing Software
 draft: false
 weight: 6
 layout: "single"

@@ -4,7 +4,8 @@ description: Free project management system provides bug reporting, team managem
 singlepageh1title: Free Project Planning Tool for Tasks and Activities Tracking
 singlepageh2title: Open source project management tool for issue tracking, task and knowledge management. It supports seamless integration with Git, SVN, CVS and Mercurial.
 Shortdescriptionlistingpage: Open source project management tool for issue tracking, task and knowledge management. It supports seamless integration with Git, SVN, CVS and Mercurial.
-linktitle: redmine
+linktitle: Redmine
+Imagetext:  Free Project Management Software 
 draft: false
 weight: 1
 layout: "single"

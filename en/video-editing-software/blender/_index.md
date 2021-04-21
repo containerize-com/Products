@@ -4,7 +4,8 @@ description: Blender is a free video editing software written in C and C++ with 
 singlepageh1title: Cycles Render Engine Based 3D Creation Suite And Video Editor
 singlepageh2title: Blender provides a built-in video sequence editor. It comes up with many features such as splicing, video cuts, video masking, live preview, and color grading.
 Shortdescriptionlistingpage: Blender provides a built-in video sequence editor. It comes up with many features such as splicing, video cuts, video masking, live preview, and color grading.
-linktitle: blender
+linktitle: Blender
+Imagetext:  Open Source Video Editing Software
 draft: false
 weight: 5
 layout: "single"

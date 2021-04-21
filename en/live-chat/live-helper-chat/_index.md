@@ -4,7 +4,8 @@ description: Open Source Live Chat Software to improve your customer support exp
 singlepageh1title: On Premise Free Live Chat Software for Your Website
 singlepageh2title: Live Helper Chat is easy to integrate and setup, open source live chat software to provide better customer support.
 Shortdescriptionlistingpage: Live Helper Chat is easy to integrate and setup, open source live chat software to provide better customer support.
-linktitle: live-helper-chat
+linktitle: Live Helper Chat
+Imagetext:  Live Chat Software 
 draft: false
 weight: 8
 layout: "single"

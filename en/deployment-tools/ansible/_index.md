@@ -4,7 +4,8 @@ description: Ansible is a cross-platform and open source deployment automation t
 singlepageh1title: Free Software Deployment Tool For Deploying Applications
 singlepageh2title: Automate software deployment workflows with open source deployment tool. Easily handle configuration management, intra-service orchestration and provisioning.
 Shortdescriptionlistingpage: Automate software deployment workflows with open source deployment tool. Easily handle configuration management, intra-service orchestration and provisioning.
-linktitle: ansible
+linktitle: Ansible
+Imagetext:  Free Deployment Tool 
 draft: false
 weight: 7
 layout: "single"

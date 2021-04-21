@@ -4,7 +4,8 @@ description: ERPNext is an excellent and one of the leading web based ERP softwa
 singlepageh1title: Free ERP Solution For Managing All Business Operations
 singlepageh2title: Automate and manage core business processes with one of the best open source ERP software. Improve decision making by integrating business units.
 Shortdescriptionlistingpage: Automate and manage core business processes with one of the best open source ERP software. Improve decision making by integrating business units.
-linktitle: erpnext
+linktitle: ERPNext
+Imagetext:  Free ERP Software 
 draft: false
 weight: 1
 layout: "single"

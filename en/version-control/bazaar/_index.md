@@ -4,7 +4,8 @@ description: Bazaar is an outstanding cross-platform and self-hosted version con
 singlepageh1title: Python Based Open Source Version Control Software
 singlepageh2title: Easily collaborate, track project history with an excellent free and open source version control software based on central and distributed repository model.
 Shortdescriptionlistingpage: Easily collaborate, track project history with an excellent free and open source version control software based on central and distributed repository model.
-linktitle: bazaar
+linktitle: Bazaar
+Imagetext:  Free Version Control Software 
 draft: false
 weight: 5
 layout: "single"

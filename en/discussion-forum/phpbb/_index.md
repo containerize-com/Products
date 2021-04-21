@@ -4,7 +4,8 @@ description: Free flat-style bulletin board and discussion forum software to bui
 singlepageh1title: Reliable, Secure and Free Internet Bulletin Board Software
 singlepageh2title: Widely used and proven open source community discussion forum software with best in class security system to deliver adequate social communication experience.
 Shortdescriptionlistingpage: Widely used and proven open source community discussion forum software with best in class security system to deliver adequate social communication experience.
-linktitle: phpbb
+linktitle: phpBB
+Imagetext:  Free Discussion Forum 
 draft: false
 weight: 5
 layout: "single"

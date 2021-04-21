@@ -4,7 +4,8 @@ description: Multichain is an open source decentralized ledger technology for bu
 singlepageh1title: Build Digital Asset Management Solution In Shortest Time
 singlepageh2title: Multichain provides network-level verification for safe transactions with full control. It comes up with multi signatures, cold nodes, and admin by consensus.
 Shortdescriptionlistingpage: Multichain provides network-level verification for safe transactions with full control. It comes up with multi signatures, cold nodes, and admin by consensus.
-linktitle: multichain
+linktitle: Multichain
+Imagetext:  Open Source Blockchain Platform
 draft: false
 weight: 5
 layout: "single"

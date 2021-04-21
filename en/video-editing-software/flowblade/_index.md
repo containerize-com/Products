@@ -4,7 +4,8 @@ description: Flowblade is an open source video editing tool. It is robust, stabl
 singlepageh1title: Compose Business Videos With Free Multitrack Video Editor
 singlepageh2title: Flowblade comes up with a configurable diverse track timeline. Drag & drop interface with many features such as batch render queues and powerful media controls.
 Shortdescriptionlistingpage: Flowblade comes up with a configurable diverse track timeline. Drag & drop interface with many features such as batch render queues and powerful media controls.
-linktitle: flowblade
+linktitle: Flowblade
+Imagetext:  Open Source Video Editing Software
 draft: false
 weight: 3
 layout: "single"

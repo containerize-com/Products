@@ -4,7 +4,8 @@ description: WordPress is open source and free content management system and blo
 singlepageh1title: WordPress is Open Source Blogging Tool With Big Dev Community
 singlepageh2title: WordPress is Open Source Blogging Platform, with a thriving developer community. It has a wide range of free templates, free plugins, and landing page plugins.
 Shortdescriptionlistingpage: WordPress is Open Source Blogging Platform, with a thriving developer community. It has a wide range of free templates, free plugins, and landing page plugins.
-linktitle: wordpress
+linktitle: WordPress
+Imagetext:  Free Blogging Platform 
 draft: false
 weight: 1
 layout: "single"

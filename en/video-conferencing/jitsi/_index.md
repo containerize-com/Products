@@ -4,7 +4,8 @@ description: Jitsi Meet is an open source video collaboration solution. It is fl
 singlepageh1title: Advanced Web Conferencing Solution With Full Encryption
 singlepageh2title: Collaborate with your remote teams using Jitsi Meet. It provides many features such as support for Etherpad, screen sharing, user invitations and many more
 Shortdescriptionlistingpage: Collaborate with your remote teams using Jitsi Meet. It provides many features such as support for Etherpad, screen sharing, user invitations and many more
-linktitle: jitsi
+linktitle: Jitsi Meet
+Imagetext:  Free Video Conferencing Software
 draft: false
 weight: 1
 layout: "single"

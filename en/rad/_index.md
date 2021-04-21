@@ -5,13 +5,14 @@ singlepageh1title: Best Open Source Rapid Application Development Frameworks
 singlepageh2title: A Rapid Application Development framework provides full-stack architecture and RAD tools to accelerate and streamline the development process.
 Shortdescriptionlistingpage: A Rapid Application Development framework provides full-stack architecture and RAD tools to accelerate and streamline the development process.
 linktitle: rad
+Imagetext: Open Source Frameworks
 draft: false
-weight: 16
+weight: 19
 menu:
    mainmenu: 
        name: Rapid Application Development
        url: RapidApplicationDevelopmentApps
-       weight: 16
+       weight: 19
 
 heading: Top Rapid Application Development Frameworks Include
 listingtypetag: Open Source Frameworks

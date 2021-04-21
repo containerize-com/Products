@@ -4,7 +4,8 @@ description: Generate responsive forms using a powerful drag and drop interface 
 singlepageh1title: Create Configurable Form Templates With Custom Controls
 singlepageh2title: Drag and drop features to build forms with a rich stack of options including multlingual support, multiple configuration options and several action methods.
 Shortdescriptionlistingpage: Drag and drop features to build forms with a rich stack of options including multlingual support, multiple configuration options and several action methods.
-linktitle: formbuilder
+linktitle: FormBuilder
+Imagetext:  Free Form Builder
 draft: false
 weight: 6
 layout: "single"

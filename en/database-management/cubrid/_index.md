@@ -4,7 +4,8 @@ description: CUBRID is a free DBMS software, consisting of the database server a
 singlepageh1title: Highly Optimized & Scalable Database Management Tool
 singlepageh2title: CUBRID is an open source and free DBMS software. It is a GUI-based administration tool that provides a high level of SQL compatibility with most databases.
 Shortdescriptionlistingpage: CUBRID is an open source and free DBMS software. It is a GUI-based administration tool that provides a high level of SQL compatibility with most databases.
-linktitle: cubrid
+linktitle: CUBRID
+Imagetext: Free Database Management Tool
 draft: false
 weight: 4
 layout: "single"

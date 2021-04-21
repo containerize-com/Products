@@ -4,7 +4,8 @@ description: Send personalized marketing emails using any provider supporting SM
 singlepageh1title: On Premise Alternative to Mailchimp for Email Marketing
 singlepageh2title: Improve customer engagement with targeted emails on promotions, updates and grow business by converting subscribers into customers using analytics tools.
 Shortdescriptionlistingpage: Improve customer engagement with targeted emails on promotions, updates and grow business by converting subscribers into customers using analytics tools.
-linktitle: mailtrain
+linktitle: Mailtrain
+Imagetext:  Free Newsletter Software 
 draft: false
 weight: 2
 layout: "single"

@@ -4,7 +4,8 @@ description: PrestaShop is an open source and easy shopping cart software for ru
 singlepageh1title: Run Multiple Stores With Free Shopping Cart Solution
 singlepageh2title: Grow your business with innovative and GDPR compliance open source shopping cart software. Setup online store with all the required features to run shop.
 Shortdescriptionlistingpage: Grow your business with innovative and GDPR compliance open source shopping cart software. Setup online store with all the required features to run shop.
-linktitle: prestashop
+linktitle: PrestaShop
+Imagetext:  Free Shopping Cart Software 
 draft: false
 weight: 3
 layout: "single"

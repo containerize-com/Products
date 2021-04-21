@@ -5,13 +5,14 @@ singlepageh1title: Best Open Source Shopping Cart Software Options
 singlepageh2title: Shopping cart software helps companies to build an online store. Choose the best-suited tool for your business from the top open source shopping cart software.
 Shortdescriptionlistingpage: Shopping cart software helps companies to build an online store. Choose the best-suited tool for your business from the top open source shopping cart software.
 linktitle: ecommerce
+Imagetext:  Open Source Software 
 draft: false
-weight: 17
+weight: 20
 menu:
    mainmenu: 
        name: Shopping Cart
        url: ShoppingCartApps
-       weight: 17
+       weight: 20
 
 heading: Top Open Source Shopping Cart Software Include
 listingtypetag:  Open Source Software 

@@ -4,7 +4,8 @@ description: A free DBMS tool that can be installed just by placing a single PHP
 singlepageh1title: Free Web Based Database Management System
 singlepageh2title: Open Source database management tool which provides a user-friendly interface for developers to manage Postgres, SQLite, Oracle, MS SQL and MySQL databases.
 Shortdescriptionlistingpage: Open Source database management tool which provides a user-friendly interface for developers to manage Postgres, SQLite, Oracle, MS SQL and MySQL databases.
-linktitle: adminer
+linktitle: Adminer
+Imagetext: Free Database Management Tool
 draft: false
 weight: 2
 layout: "single"

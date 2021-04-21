@@ -4,7 +4,8 @@ description: Serendipity provides a stable blog engine with proper security meas
 singlepageh1title: Highly Customizable and Extensible Replacement of Joomla
 singlepageh2title: SilverStripe is an easy to use CMS for content creators and developers. Customize your website to any level without requiring any prior development knowledge.
 Shortdescriptionlistingpage: SilverStripe is an easy to use CMS for content creators and developers. Customize your website to any level without requiring any prior development knowledge.
-linktitle: silverstripe
+linktitle: Silverstripe 
+Imagetext:  Free Blogging Platform 
 draft: false
 weight: 4
 layout: "single"

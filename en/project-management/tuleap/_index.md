@@ -4,7 +4,8 @@ description: Tuleap is an open source project management tool for end to end tra
 singlepageh1title: Free Project Management Tool for High-Quality Software Development
 singlepageh2title: Tuleap helps software development teams to better collaborate by adopting Agile and DevOps practices.
 Shortdescriptionlistingpage: Tuleap helps software development teams to better collaborate by adopting Agile and DevOps practices.
-linktitle: tuleap
+linktitle: Tuleap
+Imagetext:  Free Project Management Software 
 draft: false
 weight: 5
 layout: "single"

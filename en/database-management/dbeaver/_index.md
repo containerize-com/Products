@@ -4,7 +4,8 @@ description: Free and open source database management software for administratio
 singlepageh1title: Multi-platform & Open Source Database Management Software
 singlepageh2title: Free and open source database management software for administration of all popular databases. Supports cloud data-sources and enterprise security standards.
 Shortdescriptionlistingpage: Free and open source database management software for administration of all popular databases. Supports cloud data-sources and enterprise security standards.
-linktitle: dbeaver
+linktitle: DBeaver
+Imagetext: Free Database Management Tool
 draft: false
 weight: 3
 layout: "single"

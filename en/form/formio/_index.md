@@ -4,7 +4,8 @@ description: Form.io is an enterprise-level form and API data management platfor
 singlepageh1title: An Advanced Web Form Builder With REST API Engine
 singlepageh2title: Generate online forms similar to Google Form, connect with backend APIs, or third party services. Securely capture sensitive data with confidence.
 Shortdescriptionlistingpage: Generate online forms similar to Google Form, connect with backend APIs, or third party services. Securely capture sensitive data with confidence.
-linktitle: formio
+linktitle: Form.IO
+Imagetext:  Free Form Builder
 draft: false
 weight: 1
 layout: "single"

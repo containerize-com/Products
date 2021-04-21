@@ -5,6 +5,7 @@ singlepageh1title: Free Ticketing based customer care and knowledgebase system
 singlepageh2title: Open source ticketing based helpdesk software combined with knowledge base and community discussion features to deliver robust customer support experience.
 Shortdescriptionlistingpage: Open source ticketing based helpdesk software combined with knowledge base and community discussion features to deliver robust customer support experience.
 linktitle: helpy
+Imagetext:  Free Helpdesk Software 
 draft: false
 weight: 5
 layout: "single"

@@ -4,7 +4,8 @@ description: Monitoror is feature packed On-Premise monitoring software that sup
 singlepageh1title: Free Application Monitoring For All Services In One Place
 singlepageh2title: Monitoror is full featured monitoring wallboard software to monitor services, web applications, CI builds progress, APIs, server ports and even repositories.
 Shortdescriptionlistingpage: Monitoror is full featured monitoring wallboard software to monitor services, web applications, CI builds progress, APIs, server ports and even repositories.
-linktitle: monitoror
+linktitle: Monitoror
+Imagetext:  Free StatusPage Software 
 draft: false
 weight: 3
 layout: "single"

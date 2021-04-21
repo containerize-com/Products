@@ -4,7 +4,8 @@ description: Element is an open source team communication software with powerful
 singlepageh1title: Group Video Messenger App With Latest Chat Privacy Settings
 singlepageh2title: Matrix Network based free open source video messenger app. It offers utmost security and provides integrations with other chat applications such as Slack.
 Shortdescriptionlistingpage: Matrix Network based free open source video messenger app. It offers utmost security and provides integrations with other chat applications such as Slack.
-linktitle: element
+linktitle: Element
+Imagetext:  Free Video Messenger Platform
 draft: false
 weight: 4
 layout: "single"

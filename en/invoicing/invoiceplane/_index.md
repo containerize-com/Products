@@ -4,7 +4,8 @@ description: InvoicePlane is free and open source CodeIgniter invoice applicatio
 singlepageh1title: Manage Finances With Free Invoice Processing System
 singlepageh2title: Manage full billing cycle with on premise accounting software supporting payment providers like Stripe. Take care of customers with efficient CRM features.
 Shortdescriptionlistingpage: Manage full billing cycle with on premise accounting software supporting payment providers like Stripe. Take care of customers with efficient CRM features.
-linktitle: invoiceplane
+linktitle: InvoicePlane
+Imagetext:  Free Invoicing Software 
 draft: false
 weight: 3
 layout: "single"

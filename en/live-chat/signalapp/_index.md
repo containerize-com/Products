@@ -5,6 +5,7 @@ singlepageh1title: Most Secure and Trusted Open Source Instant Messaging Platfo
 singlepageh2title: Signal is an open-source messaging app, designed to never collect or store any sensitive information by other third parties, just like WhatsApp
 Shortdescriptionlistingpage: Signal is an open-source messaging app, designed to never collect or store any sensitive information by other third parties, just like WhatsApp
 linktitle: signalapp
+Imagetext: Signal - Private Messenger
 draft: false
 weight: 10
 layout: "single"

@@ -4,7 +4,8 @@ description: Lighttpd is designed and optimized for high-performance environment
 singlepageh1title: Lighttpd | Open Source and Lightweight Web Server Solution
 singlepageh2title: Lighttpd is a secure, fast and compliant web server, has much smaller footprint and robust CPU load control designed specially for high performance apps.
 Shortdescriptionlistingpage: Lighttpd is a secure, fast and compliant web server, has much smaller footprint and robust CPU load control designed specially for high performance apps.
-linktitle: lighttpd
+linktitle: Lighttpd
+Imagetext:  Web Server Solution Stack
 draft: false
 weight: 3
 layout: "single"

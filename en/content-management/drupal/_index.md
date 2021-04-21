@@ -5,6 +5,7 @@ singlepageh1title: CMS Platform with Text, Media Content and Full Text Search 
 singlepageh2title: Drupal is easy to use without requiring technical knowledge. Create simple to complex websites including job portals, digital magazines like The Economists.
 Shortdescriptionlistingpage: Drupal is easy to use without requiring technical knowledge. Create simple to complex websites including job portals, digital magazines like The Economists.
 linktitle: Drupal
+Imagetext:  Free CMS Software 
 draft: false
 weight: 2
 layout: "single"

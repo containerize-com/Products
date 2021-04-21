@@ -4,7 +4,8 @@ description: A free open source live chat software which combines the urgency of
 singlepageh1title: Live Chat Software for Remote Teams Collaboration
 singlepageh2title: Zulip follows email conversation model and ignores irrelevant messages. Conduct clean remote collaboration with video conferencing and group chat features.
 Shortdescriptionlistingpage: Zulip follows email conversation model and ignores irrelevant messages. Conduct clean remote collaboration with video conferencing and group chat features.
-linktitle: zulip
+linktitle: Zulip
+Imagetext:  Live Chat Software
 draft: false
 weight: 2
 layout: "single"

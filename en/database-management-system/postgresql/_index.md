@@ -4,7 +4,8 @@ description: Use PostgreSQL relational DBMS to ensure reliability, concurrency a
 singlepageh1title: Open Source Object-relational Database Management System
 singlepageh2title: Use PostgreSQL relational DBMS to ensure reliability, concurrency and consistency for your apps. It also offers disaster recovery and extensibility features.
 Shortdescriptionlistingpage: Use PostgreSQL relational DBMS to ensure reliability, concurrency and consistency for your apps. It also offers disaster recovery and extensibility features.
-linktitle: postgresql
+linktitle: PostgreSQL
+Imagetext: Free Database Management System
 draft: false
 weight: 4
 layout: "single"

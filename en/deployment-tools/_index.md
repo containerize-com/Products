@@ -5,13 +5,14 @@ singlepageh1title: Best Free and Open Source Deployment Tools
 singlepageh2title: Increase productivity by automating software deployment workflows. Choose free software deployment tool for building, testing, and deployment of applications.
 Shortdescriptionlistingpage: Increase productivity by automating software deployment workflows. Choose free software deployment tool for building, testing, and deployment of applications.
 linktitle: deployment-tools
+Imagetext:  Open Source Software 
 draft: false
-weight: 28
+weight: 31
 menu:
    mainmenu: 
        name: Deployment Tools
        url: DeploymentToolsApps
-       weight: 28
+       weight: 31
 
 heading: Top Free Software Deployment Tools Include
 listingtypetag:  Open Source Software 

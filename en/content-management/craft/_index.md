@@ -5,6 +5,7 @@ singlepageh1title: A Self-Hosted Open Source Content Management System; A WordPr
 singlepageh2title: With its user-friendly interface and a fully customizable backend. Craft CMS is designed to make the content creator’s life easy.
 Shortdescriptionlistingpage: With its user-friendly interface and a fully customizable backend. Craft CMS is designed to make the content creator’s life easy.
 linktitle: Craft
+Imagetext:  Free CMS Software 
 draft: false
 weight: 7
 layout: "single"

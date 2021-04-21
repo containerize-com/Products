@@ -4,7 +4,8 @@ description: Open source marketing technology for marketing campaigns, lead gene
 singlepageh1title: Open Source Sales Management & Marketing Automation Software
 singlepageh2title: Free customer relationship management software that makes analysis of customer’s actions and behavior simpler so they can boost product or service evolution.
 Shortdescriptionlistingpage: Free customer relationship management software that makes analysis of customer’s actions and behavior simpler so they can boost product or service evolution.
-linktitle: espocrm
+linktitle: EspoCRM
+Imagetext:  Free Marketing Automation Software 
 draft: false
 weight: 4
 layout: "single"

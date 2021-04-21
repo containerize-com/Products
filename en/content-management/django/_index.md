@@ -4,7 +4,8 @@ description: Django CMS is a free long standing web content management software.
 singlepageh1title: Free Enterprise Level Website Content Management Software
 singlepageh2title: Free digital CMS with rich content and media support. It provides seamless integration with top CRM systems such as Pipedrive and Hubspot.
 Shortdescriptionlistingpage: Free digital CMS with rich content and media support. It provides seamless integration with top CRM systems such as Pipedrive and Hubspot.
-linktitle: django
+linktitle: Django
+Imagetext:  Free CMS Software 
 draft: false
 weight: 4
 layout: "single"

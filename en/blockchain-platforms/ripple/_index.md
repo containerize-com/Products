@@ -4,7 +4,8 @@ description: Ripple is a free distributed payment system. It offers many service
 singlepageh1title: Build Financial Infrastructure Using Decentralized Ledger
 singlepageh2title: Ripple is an open source decentralized financial technology for cross border payments. It is cryptographically secure and built on top of Interledger Protocol.
 Shortdescriptionlistingpage: Ripple is an open source decentralized financial technology for cross border payments. It is cryptographically secure and built on top of Interledger Protocol.
-linktitle: ripple
+linktitle: Ripple
+Imagetext:  Open Source Blockchain Platform
 draft: false
 weight: 4
 layout: "single"

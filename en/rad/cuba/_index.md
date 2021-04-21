@@ -4,7 +4,8 @@ description: Develop your business applications with the Cuba Platform. It is a 
 singlepageh1title: Powerful Java Based Rapid Application Development Software
 singlepageh2title: Cuba Platform provides a modular architecture to build scalable web apps. It offers compatibility with all popular RDBMS and maintains a marketplace of Add-ons.
 Shortdescriptionlistingpage: Cuba Platform provides a modular architecture to build scalable web apps. It offers compatibility with all popular RDBMS and maintains a marketplace of Add-ons.
-linktitle: cuba
+linktitle: CUBA Platform
+Imagetext:  Free RAD Framework
 draft: false
 weight: 1
 layout: "single"

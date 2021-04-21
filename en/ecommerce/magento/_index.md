@@ -4,7 +4,8 @@ description: Magento is a feature-rich easy open source shopping cart for small 
 singlepageh1title: Rapidly Grow Business With Easy Shopping Cart Software
 singlepageh2title: Self-Hosted open source shopping cart software for B2B and B2C business models. Enhance business with flexible and extensible ecommerce platform.
 Shortdescriptionlistingpage: Self-Hosted open source shopping cart software for B2B and B2C business models. Enhance business with flexible and extensible ecommerce platform.
-linktitle: magento
+linktitle: Magento
+Imagetext:  Free Shopping Cart Software 
 draft: false
 weight: 1
 layout: "single"

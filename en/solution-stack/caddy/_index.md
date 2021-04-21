@@ -4,7 +4,8 @@ description: Use Caddy open source web server solution stack for TLS certificate
 singlepageh1title: Open Source Web Server & Load Balancer Solution Stack
 singlepageh2title: Use Caddy open source web server for TLS certificate renewals, OCSP stapling, content serving, reverse proxying, virtual hosting, markdown rendering and more.
 Shortdescriptionlistingpage: Use Caddy open source web server for TLS certificate renewals, OCSP stapling, content serving, reverse proxying, virtual hosting, markdown rendering and more.
-linktitle: caddy
+linktitle: Caddy
+Imagetext:  Web Server Solution Stack
 draft: false
 weight: 4
 layout: "single"

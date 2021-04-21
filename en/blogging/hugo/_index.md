@@ -4,7 +4,8 @@ description: Hugo is the world’s fastest open source static site generator and
 singlepageh1title: World’s Most Popular Open Source Static Site Generator
 singlepageh2title: A fast and flexible static site generator. Hugo is great for content-driven websites, because it is completely dependency-free and is easy to get going.
 Shortdescriptionlistingpage: A fast and flexible static site generator. Hugo is great for content-driven websites, because it is completely dependency-free and is easy to get going.
-linktitle: hugo
+linktitle: Hugo
+Imagetext:  Free Blogging Platform 
 draft: false
 weight: 6
 layout: "single"

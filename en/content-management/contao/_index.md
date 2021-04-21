@@ -4,7 +4,8 @@ description: Contao is a web-based open-source cms. It allows you to create prof
 singlepageh1title: Self Hosted Open Source CMS for Scalable Applications
 singlepageh2title: Contao is an open-source CMS that can replace WordPress, Joomla, or Drupal because of its simplicity and scalability.
 Shortdescriptionlistingpage: Contao is an open-source CMS that can replace WordPress, Joomla, or Drupal because of its simplicity and scalability.
-linktitle: contao
+linktitle: Contao
+Imagetext:  Free CMS Software 
 draft: false
 weight: 9
 layout: "single"

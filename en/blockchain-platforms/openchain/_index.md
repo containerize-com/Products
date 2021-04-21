@@ -4,7 +4,8 @@ description: Openchain is a free open source Distributed Ledger. It is scalable,
 singlepageh1title: Open Source Blockchain Platform to Control Your Digital Assets
 singlepageh2title: A self hosted open source blockchain distributed ledger platform. It offers digitally signed transactions, HTTP endpoints to build wallets, and asset management.
 Shortdescriptionlistingpage: A self hosted open source blockchain distributed ledger platform. It offers digitally signed transactions, HTTP endpoints to build wallets, and asset management.
-linktitle: openchain
+linktitle: Openchain
+Imagetext:  Open Source Blockchain Platform
 draft: false
 weight: 3
 layout: "single"

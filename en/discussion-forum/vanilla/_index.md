@@ -4,7 +4,8 @@ description: Free and Open source discussion forum software with ultra modern ga
 singlepageh1title: Open Source Community Discussion Forum and Knowledge Base
 singlepageh2title: Vanilla is robust, enterprise level, customizable and branded forum software. Use social, ideation and Q&A features for customer engagement and build community.
 Shortdescriptionlistingpage: Vanilla is robust, enterprise level, customizable and branded forum software. Use social, ideation and Q&A features for customer engagement and build community.
-linktitle: vanilla
+linktitle: Vanila
+Imagetext:  Free Discussion Forum 
 draft: false
 weight: 3
 layout: "single"

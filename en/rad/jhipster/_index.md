@@ -4,7 +4,8 @@ description: Set up free rapid development tool to build production ready applic
 singlepageh1title: Open Source RAD Platform For Developing Enterprise Web Apps
 singlepageh2title: High rated rad development model for building web apps. It provides diverse tech stack such as Angular, Node.js, Java Spring framework, and multiple DB options.
 Shortdescriptionlistingpage: High rated rad development model for building web apps. It provides diverse tech stack such as Angular, Node.js, Java Spring framework, and multiple DB options.
-linktitle: jhipster
+linktitle: Jhipster
+Imagetext:  Free RAD Platform
 draft: false
 weight: 5
 layout: "single"

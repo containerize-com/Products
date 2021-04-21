@@ -4,9 +4,10 @@ description: Flarum is feature-rich online open source discussion forum and mess
 singlepageh1title: Open Source, Fast and Reliable Community Discussion Forum
 singlepageh2title: Build beautiful discussion and message board websites with pack full social features.
 Shortdescriptionlistingpage: Build beautiful discussion and message board websites with pack full social features.
-linktitle: flarum
+linktitle: Flarum
+Imagetext:  Free Discussion Forum 
 draft: false
-weight: 1
+weight: 2
 layout: "single"
 GithubLink: https://github.com/flarum/flarum
 

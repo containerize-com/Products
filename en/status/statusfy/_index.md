@@ -4,7 +4,8 @@ description: Staytus is feature-packed open source status page software for moni
 singlepageh1title: Free And Open Source Status Page Software For Every Business
 singlepageh2title: Develop static generated or server rendered system with self-Hosted status page system. Keep your users informed with simplicity and speed in any language.
 Shortdescriptionlistingpage: Develop static generated or server rendered system with self-Hosted status page system. Keep your users informed with simplicity and speed in any language.
-linktitle: statusfy
+linktitle: Statusfy
+Imagetext:  Free StatusPage Software 
 draft: false
 weight: 5
 layout: "single"

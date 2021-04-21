@@ -4,7 +4,8 @@ description: Free pack of marketing and business technologies with advanced feat
 singlepageh1title: Free Web-Based Enterprise Resource Planning Technology
 singlepageh2title: Open source bundle of business software includes CRM, Marketing, and Point of Sale. Odoo CRM helps your sales teams to automate the leads generation process.
 Shortdescriptionlistingpage: Open source bundle of business software includes CRM, Marketing, and Point of Sale. Odoo CRM helps your sales teams to automate the leads generation process.
-linktitle: odoo
+linktitle: Odoo
+Imagetext:  Free Enterprise Resource Planning Software 
 draft: false
 weight: 5
 layout: "single"

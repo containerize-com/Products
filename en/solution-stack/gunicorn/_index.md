@@ -4,7 +4,8 @@ description: Gunicorn is a Python web server gateway interface. It is a fast web
 singlepageh1title: Fast & Resource Optimized WSGI Python Web Server
 singlepageh2title: Gunicorn is a Python web server gateway interface. It is a fast web server with optimized resource usage and works with a wide variety of web frameworks.
 Shortdescriptionlistingpage: Gunicorn is a Python web server gateway interface. It is a fast web server with optimized resource usage and works with a wide variety of web frameworks.
-linktitle: gunicorn
+linktitle: Gunicorn
+Imagetext:  Web Server Solution Stack
 draft: false
 weight: 6
 layout: "single"

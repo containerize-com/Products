@@ -4,7 +4,8 @@ description: Nginx serve as a web server, reverse proxy, load balancer, mail pro
 singlepageh1title: Open source Web Server & Reverse Proxy Solution
 singlepageh2title: Other then being a web server, NGINX also serve as a reverse proxy, load balancer and HTTP cache. Its known for high scalability, performance and security.
 Shortdescriptionlistingpage: Other then being a web server, NGINX also serve as a reverse proxy, load balancer and HTTP cache. Its known for high scalability, performance and security.
-linktitle: nginx
+linktitle: NGINX
+Imagetext:  Free Web Server Solution Stack
 draft: false
 weight: 2
 layout: "single"

@@ -4,7 +4,8 @@ description: This Linux mail server is known for its superior performance and se
 singlepageh1title: Open Source Mail Transfer Agent for UNIX based Systems
 singlepageh2title: Postfix is a powerful mail transfer agent for email routing and delivery. It offers useful features like junk mail control, database support and log management.
 Shortdescriptionlistingpage: Postfix is a powerful mail transfer agent for email routing and delivery. It offers useful features like junk mail control, database support and log management.
-linktitle: postfix
+linktitle: Postfix
+Imagetext:  Mail Transfer Agent
 draft: false
 weight: 4
 layout: "single"

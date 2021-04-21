@@ -4,7 +4,8 @@ description: LibreOffice is a free and open-source office productivity suite. A 
 singlepageh1title: A Free and Open-Source Replacement of Microsoft Office
 singlepageh2title: LibreOffice is an office productivity software that uses OpenDocument format which guarantees access to your data forever.
 Shortdescriptionlistingpage: LibreOffice is an office productivity software that uses OpenDocument format which guarantees access to your data forever.
-linktitle: libreoffice
+linktitle: LibreOffice 
+Imagetext:  Free Office Productivity 
 draft: false
 weight: 2
 layout: "single"

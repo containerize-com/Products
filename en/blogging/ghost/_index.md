@@ -4,7 +4,8 @@ description: Ghost is a simple yet powerful blogging software based on Markdown 
 singlepageh1title: Ghost CMS is Open Source SEO Friendly Blogging Platform
 singlepageh2title: With crisp and minimal user interface, Ghost CMS is purely a blogging tool. Start blogging equipped with builtin themes, forms, subscriptions and email newsletters.
 Shortdescriptionlistingpage: With crisp and minimal user interface, Ghost CMS is purely a blogging tool. Start blogging equipped with builtin themes, forms, subscriptions and email newsletters.
-linktitle: ghost
+linktitle: Ghost
+Imagetext:  Free Blogging Platform 
 draft: false
 weight: 2
 layout: "single"

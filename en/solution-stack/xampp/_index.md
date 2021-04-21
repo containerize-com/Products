@@ -4,7 +4,8 @@ description: XAMPP is a free and cross-platform open source web server solution 
 singlepageh1title: Open Source Web Server Solution Stack for PHP & Perl Developers
 singlepageh2title: XAMPP server provides a suitable development environment to build, test and verify the working of web projects locally. 
 Shortdescriptionlistingpage: XAMPP server provides a suitable development environment to build, test and verify the working of web projects locally. 
-linktitle: xampp
+linktitle: XAMPP
+Imagetext:  Free Web Server Solution Stack
 draft: false
 weight: 1
 layout: "single"

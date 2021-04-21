@@ -5,6 +5,7 @@ singlepageh1title: Java Based Modern Open Source ERP Software
 singlepageh2title: Manage all business operations with flexible and efficient open source ERP software. Designed and developed for small and medium sized companies.
 Shortdescriptionlistingpage: Manage all business operations with flexible and efficient open source ERP software. Designed and developed for small and medium sized companies.
 linktitle: metasfresh
+Imagetext:  Free ERP Software 
 draft: false
 weight: 3
 layout: "single"

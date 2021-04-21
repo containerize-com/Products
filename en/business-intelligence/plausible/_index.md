@@ -4,7 +4,8 @@ description: Plausible is a self-host, lightweight and open source web analytics
 singlepageh1title: Lightweight Privacy Protected Google Analytics Alternative
 singlepageh2title: Get page insights by simply installing Plausible on the website. This enterprise business intelligence solution is multi-purpose and privacy-focused.
 Shortdescriptionlistingpage: Get page insights by simply installing Plausible on the website. This enterprise business intelligence solution is multi-purpose and privacy-focused.
-linktitle: plausible
+linktitle: Plausible
+Imagetext:  Open Source Business Intelligence Software
 draft: false
 weight: 2
 layout: "single"
