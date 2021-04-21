@@ -5,7 +5,7 @@ singlepageh1title: Cross Platform QuickApp For Instant Application Development
 singlepageh2title: QuickApp is built with Angular 9, ASP.NET core with Entity Framework. It offers authentication based on OpenID Connect and a customizable responsive dashboard
 Shortdescriptionlistingpage: QuickApp is built with Angular 9, ASP.NET core with Entity Framework. It offers authentication based on OpenID Connect and a customizable responsive dashboard
 linktitle: QuickApp
-Imagetext:  Free Project Template
+Imagetext:  Free RAD Framework
 draft: false
 weight: 3
 layout: "single"
