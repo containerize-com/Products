@@ -7,12 +7,12 @@ Shortdescriptionlistingpage: A helpdesk organizes customer communication with ti
 linktitle: helpdesk
 Imagetext:  Freeware 
 draft: false
-weight: 8
+weight: 1
 menu:
    mainmenu: 
        name: Ticketing System
        url: TicketingSystemApps
-       weight: 8
+       weight: 1
 
 heading: Top Free Helpdesk Ticketing Software Include
 listingtypetag:  Freeware 

@@ -7,7 +7,7 @@ Shortdescriptionlistingpage: Free ticketing based customer support system that c
 linktitle: Zammad
 Imagetext:  Free Helpdesk Software 
 draft: false
-weight: 4
+weight: 3
 layout: "single"
 
 ---

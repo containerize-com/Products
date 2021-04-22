@@ -7,7 +7,7 @@ Shortdescriptionlistingpage: Ticketing System, Helpdesk, Email Management and An
 linktitle: FreeScout
 Imagetext:  Free Helpdesk Software 
 draft: false
-weight: 3
+weight: 4
 layout: "single"
 
 ---
