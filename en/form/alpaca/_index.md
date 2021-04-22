@@ -7,7 +7,7 @@ Shortdescriptionlistingpage: Alpaca Forms is an open-source jQuery Form Builder,
 linktitle: Alpaca Forms
 Imagetext:  Free Form Builder
 draft: false
-weight: 1
+weight: 7
 layout: "single"
 
 ---
