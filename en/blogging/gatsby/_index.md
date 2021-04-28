@@ -11,6 +11,17 @@ weight: 7
 layout: "single"
 GithubLink: https://github.com/gatsbyjs/gatsby
 
+HomePage_TitleText: Open Source Blogging Software
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Gatsby is multi purpose software and it fits in both blogging and CMS.
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Gatsby Open Source Software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Gatsby is the easiest and powerful blogging platform.
+
 ---
 
 #### Overview

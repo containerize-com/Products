@@ -10,6 +10,17 @@ draft: false
 weight: 2
 layout: "single"
 
+HomePage_TitleText: Web Server Solution Stack Software
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Nginx | Lightweight and High Performance Web Server
+ListingPage_Link_TitleText: Explore NGINX
+
+SinglePage_HeaderImage_TitleText: Nginx | Lightweight and High Performance Web Server
+SinglePage_HeaderImage_AltText: Nginx | Lightweight and High Performance Web Server
+SinglePage_MenuImage_TitleText: Nginx | Lightweight and High Performance Web Server
+SinglePage_MenuImage_AltText: Nginx | Lightweight and High Performance Web Server
+
 ---
 
 NGINX web server supports all the components of the modern Web including WebSocket, HTTP/2, and streaming of multiple video formats. It started out as a web server but now, it has developed to also function as a proxy server for email (IMAP, POP3, and SMTP). It also work as reverse proxy and load balancer for HTTP, TCP, and UDP servers. NGINX consistently beats Apache and other servers if measured on web server performance.

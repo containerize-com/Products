@@ -11,6 +11,17 @@ weight: 4
 layout: "single"
 GithubLink: https://github.com/NodeBB/NodeBB
 
+HomePage_TitleText: Open Source Discussion Forum Platform in Node.js
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: NodeBB - Node.js Based Discussion Forum with Streaming Posts
+ListingPage_Link_TitleText: Explore NodeBB
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: NodeBB is Open Source Community Discussion Board Software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: nodeBB is node.js based free discussion forum software
+
 ---
 
 #### Overview

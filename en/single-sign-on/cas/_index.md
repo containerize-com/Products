@@ -10,6 +10,17 @@ draft: false
 weight: 2
 layout: "single"
 
+HomePage_TitleText: Open Source SSO Solution for Java
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: CAS 
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: CAS Open source SSO Solutions
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: CAS
+
 ---
 
 Web applications are rapidly growing and businesses tend to target several areas with intentions to provide services and tools. There is a huge number of users increasing day by day and data security and data management are becoming main concerns for the enterprise businesses. However, the open source community has provided many solutions to coup these concerns, and Single Sign On is one of them.

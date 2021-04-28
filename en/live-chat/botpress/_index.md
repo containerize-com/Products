@@ -10,6 +10,17 @@ draft: false
 weight: 4
 layout: "single"
 
+HomePage_TitleText: Open Source Live Chat System in TypeScript, JavaScript.
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Botpress is leading conversational AI platform
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Botpress is AI powered chat bot platform
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Botpress is opne source bot builder
+
 ---
 
 With the advancements in artificial intelligence and machine learning, demand of AI based conversational chat bots have gain a lot of popularity and demand. And this is mostly because all the business wants to enhance their customer experience even when the business is offline.

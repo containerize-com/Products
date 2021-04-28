@@ -10,6 +10,17 @@ draft: false
 weight: 5
 layout: "single"
 
+HomePage_TitleText: Blockchain Platform in C++
+
+ListingPage_MenuImage_TitleText: decentralized ledger technology
+ListingPage_MenuImage_AltText: Multichain is an Open Source decentralized ledger technology
+ListingPage_Link_TitleText: decentralized ledger technology
+
+SinglePage_HeaderImage_TitleText: decentralized ledger technology
+SinglePage_HeaderImage_AltText: Multichain is open source decentralized ledger technology
+SinglePage_MenuImage_TitleText: decentralized ledger technology
+SinglePage_MenuImage_AltText: Multichain is an open source decentralized ledger technology
+
 ---
 
 Multichain is an open source decentralized ledger technology for building blockchain applications. It is robust, provides provisions to track and verify assets over the network. Users can create multiple key-value databases on the blockchain. Further, users can control all the operations such as who can send and receive transactions, streams, connect, create assets, and blocks. In addition, there are eight types of permissions in this software and all permissions are assigned on a per-address basis. It lets you create multi-stage assets and metadata in several stages.

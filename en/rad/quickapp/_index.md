@@ -10,6 +10,17 @@ draft: false
 weight: 3
 layout: "single"
 
+HomePage_TitleText: Open Source Quick Application Development Template in ASP.NET Core and Angular 9
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Open Source  ASP.NET Core and Angular 9 Based Quick Application Development Framework
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Quick Application Development
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Quick Application Development
+
 ---
 
 QuickApp is a self hosted open source project templates that provide instant development functionalities. Firstly, Its client side is in Angular 9 along with TypeScript. Secondly, ASP.NET core with Entity Framework works at the back end. In addition, It uses Webpack for managing client side libraries and Swagger for documentation of REST API that provides ease for quick application development.

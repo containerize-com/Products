@@ -10,6 +10,17 @@ draft: false
 weight: 5
 layout: "single"
 
+HomePage_TitleText: Open Source StatusPage System in Node.js
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Statusfy - Node.js Based StatusPage system
+ListingPage_Link_TitleText: Explore Statusfy
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Statusfy - Open Source Status Page Software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Statusfy - Open Source Status Page For Every Business
+
 ---
 
 Statusfy is a wonderful open source status page system and it's is easy to use. You can build and deploy a fast static generated or server rendered site to a range of hosting services. Using Markdown, you just create your incidents and Statusfy generates all the logic required for your Status Page System. You can create a web application from CLI, so it can be easily configured or tailored to your requirements.

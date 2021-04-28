@@ -11,6 +11,17 @@ weight: 1
 layout: "single"
 GithubLink: https://github.com/wordpress/
 
+HomePage_TitleText: Open Source Blogging Software in PHP
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: WordPress is the leading blogging platform
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: WordPress is Open Source Software
+SinglePage_HeaderImage_AltText: WordPress is Open Source Software
+SinglePage_MenuImage_TitleText: WordPress is open source and powerful blogging platform.
+SinglePage_MenuImage_AltText: WordPress is open source and powerful blogging platform.
+
 ---
 
 #### Overview

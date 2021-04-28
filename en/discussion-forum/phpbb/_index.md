@@ -11,6 +11,17 @@ weight: 5
 layout: "single"
 GithubLink: https://github.com/phpbb/phpbb
 
+HomePage_TitleText: Open Source Flat-style Discussion Forum Software
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: phpBB - Open Source Flat-style Discussion Forum Software
+ListingPage_Link_TitleText: Explore phpBB
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: phpBB - Open Source Discussion Forum Software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: phpBB is Free Internet Bulletin Board Software
+
 ---
 
 #### Overview

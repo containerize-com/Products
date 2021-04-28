@@ -10,6 +10,17 @@ draft: false
 weight: 3
 layout: "single"
 
+HomePage_TitleText: Open Source Ticketing Platform in Ruby
+
+ListingPage_MenuImage_TitleText: Zammad is freeware helpdesk ticket system
+ListingPage_MenuImage_AltText: Zammad is freeware helpdesk ticket system
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Zammad is open source helpdesk software linked with Facebook and twitter
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Zammad is Ruby based free customer support technology
+
 ---
 
 Zammad is free and open source helpdesk software with attractive design and social media integration. It can be integrated with many social networks e.g. Facebook, Twitter, Telegram etc. This makes Zammad the only customer support software that connects ticket management with the social networks. Your support team can use different communication mediums in a single platform to accept, transfer or answer client inquires via telephone, email, chat and social networks.

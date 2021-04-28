@@ -11,6 +11,17 @@ weight: 1
 layout: "single"
 GithubLink: https://github.com/mautic/mautic
 
+HomePage_TitleText: Open Source Marketing Automation Platform in PHP
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Mautic is open source marketing automation software
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Mautic is Free, Powerful and Reliable Marketing Automation Technology
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Mautic is PHP based Marketing Automation and CRM Software
+
 ---
 
 Overview

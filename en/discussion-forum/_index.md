@@ -17,6 +17,10 @@ menu:
 heading: Top Open Source Discussion Forum Software Include 
 listingtypetag:  Open Source Software 
 
+HomePage_Link_TitleText: Open Source Discussion Forum Software
+
+ListingPage_HeaderImage_TitleText:
+ListingPage_HeaderImage_AltText: Best Open Source Discussion Forum Options
 
 ---
 

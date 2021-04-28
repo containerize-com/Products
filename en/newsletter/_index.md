@@ -17,6 +17,10 @@ menu:
 heading: Top Email Marketing Platforms Include
 listingtypetag:  Open Source Software 
 
+HomePage_Link_TitleText: Open Source Email Marketing Software
+
+ListingPage_HeaderImage_TitleText:
+ListingPage_HeaderImage_AltText: Best Open Source Newsletter Options
 
 ---
 

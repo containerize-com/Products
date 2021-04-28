@@ -10,6 +10,17 @@ draft: false
 weight: 5
 layout: "single"
 
+HomePage_TitleText: Web Server Solution Stack Software
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Best Open Source Web Server Solution Stack Options
+ListingPage_Link_TitleText: Explore Tomcat
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Open Source HTTP Web Server Environment For Java Web Apps
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Open Source Java Based Web Server Environment
+
 ---
 
 Apache Tomcat is an open-source implementation of the Java Servlet, JavaServer Pages, Java Expression Language, and Java WebSocket technologies. It is one of the most widely used application and web server. Tomcat server is simple to use and has a robust ecosystem of add-ons. Apache Tomcat Software can be used as a standalone product with its own internal Web server as well as with other Web servers such as Apache, Netscape Enterprise Server, Microsoft Personal Web Server, and Microsoft Internet Information Server.

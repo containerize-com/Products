@@ -10,6 +10,17 @@ draft: false
 weight: 1
 layout: "single"
 
+HomePage_TitleText: Open Source Support Ticketing Software in PHP
+
+ListingPage_MenuImage_TitleText: osTicket is PHP based open source help desk ticketing software
+ListingPage_MenuImage_AltText: osTicket is PHP based open source help desk ticketing software
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: osTicket ticketing based free helpdesk and customer care software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: osTicket is open source customer care technology
+
 ---
 
 osTicket is an open source ticketing based helpdesk system with intuitive control panel and real-time reporting component to design personalized reports. It has easy to use inquires management module that allows you to create inquiries from your phone, email and web-based forms. It has strong community and wide range of plugins is available to extend functionally as per your business requirements.

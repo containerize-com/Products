@@ -10,6 +10,17 @@ draft: false
 weight: 3
 layout: "single"
 
+HomePage_TitleText: Open Source Email Delivery Platform in Python
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Mail-in-a-box helps you setup your on premises Gmail like solution.
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Mail-in-a-box is self hosted mail server
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Mail-in-a-box helps you setup your own gmail
+
 ---
 
 There was a time when email service was only provided by the large ISPs and it was a tedious job to manage mail servers. But over the time different Mail Server Software with advanced features made it possible to establish public email services such as Gmail and Hotmail.

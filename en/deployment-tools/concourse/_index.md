@@ -10,6 +10,17 @@ draft: false
 weight: 6
 layout: "single"
 
+HomePage_TitleText: Open Source Deployment Tool in Go
+
+ListingPage_MenuImage_TitleText: Concourse - Go Based Free Deployment Tool
+ListingPage_MenuImage_AltText: Concourse - Go Based Free Deployment Tool
+ListingPage_Link_TitleText: Explore Concourse
+
+SinglePage_HeaderImage_TitleText: Concourse - Open Source CI/CD Tool
+SinglePage_HeaderImage_AltText: Concourse - Open Source CI/CD Tool
+SinglePage_MenuImage_TitleText: Concourse - Open Source CI/CD Tool
+SinglePage_MenuImage_AltText: Concourse - Open Source CI/CD Tool
+
 ---
 
 Concourse is a free and **open source CI/CD tool**. It helps DevOps teams for automating software deployment workflows. Concourse offers capabilities for scaling automation pipelines. It is one of the **best open source CI/CD** software that comes with two core components such as Concourse server and fly CLI. Concourse server takes care of Web UI, API, and pipeline scheduling. Fly is a command-line interface for configuring pipelines and communicating with the Concourse server.

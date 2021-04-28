@@ -17,6 +17,10 @@ menu:
 heading: Top Rapid Application Development Frameworks Include
 listingtypetag: Open Source Frameworks
 
+HomePage_Link_TitleText: Open Source Rapid Application Development Framework
+
+ListingPage_HeaderImage_TitleText:
+ListingPage_HeaderImage_AltText: Top Open Source Rapid Application Development Software
 
 ---
 

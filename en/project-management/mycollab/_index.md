@@ -10,6 +10,17 @@ draft: false
 weight: 6
 layout: "single"
 
+HomePage_TitleText: Open Source Project Management Software in Java
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: MyCollab is a Java based open source project management software
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: MyCollab is a Java based open source project management software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: MyCollab is a Java based open source project management software
+
 ---
 
 MyCollab is a Java-based open source project management software. Its Intuitive UI, rich features, high performance, and stability make it competitive with other popular tools in the market such as Redmine, Bugzilla, Mantis, etc. It’s a one-stop solution for all your project management needs.

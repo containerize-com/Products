@@ -10,6 +10,17 @@ draft: false
 weight: 2
 layout: "single"
 
+HomePage_TitleText: Open Source Live Chat System in Python.
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Zulip lets you chat with your team following the email threading model
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Zulip follows email conversation model
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Zulip filters irrelevant messages from the threads
+
 ---
 
 Zulip is one of the popular live chat softwares which focuses on ignoring the irrelevant messages. Zulip is 100% open source live chat software developed by a vibrant developer community. Zulip’s development community is more active than the other modern open source live chat softwares like Rocket.Chat, Mattermost and Lets-Chat.

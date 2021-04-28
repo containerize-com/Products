@@ -10,6 +10,17 @@ draft: false
 weight: 3
 layout: "single"
 
+HomePage_TitleText: Database Management Tool
+
+ListingPage_MenuImage_TitleText: Dbeaver A Multi-platform Database Management Tool For All
+ListingPage_MenuImage_AltText: Best Open Source Database Management Software
+ListingPage_Link_TitleText: Explore Adminer
+
+SinglePage_HeaderImage_TitleText: DBeaver | Open Source Database Management Software
+SinglePage_HeaderImage_AltText: DBeaver | Open Source Database Management Software
+SinglePage_MenuImage_TitleText: DBeaver | Open Source Database Management Software
+SinglePage_MenuImage_AltText: DBeaver | Open Source Database Management Software
+
 ---
 
 Use DBeaver to create and manage databases across a wide range of database management systems. This open source database management software works with most of the popular DBMSs including MySQL and MariaDB. Developers can use DBeaver on any database that has a JDBC or ODBC driver. It even works with databases that don’t have a standard xDBC driver including Mongo DB, Redis, and WMI.

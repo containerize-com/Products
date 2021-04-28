@@ -10,6 +10,17 @@ draft: false
 weight: 2
 layout: "single"
 
+HomePage_TitleText: Open Source Version Control System
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Subversion - Popular Open Source Version Control Software
+ListingPage_Link_TitleText: Explore Subversion
+
+SinglePage_HeaderImage_TitleText: Subversion - Version Control Software
+SinglePage_HeaderImage_AltText: Subversion - Version Control Software
+SinglePage_MenuImage_TitleText: Subversion - Version Control Software
+SinglePage_MenuImage_AltText: Subversion - Version Control Software
+
 ---
 
 Subversion is the ultimate free and open source centralized **version control software**. It is a simple, easy-to-use, and reliable **source control system** for a variety of projects. Therefore, anyone from individuals to large-scale enterprises can use it.

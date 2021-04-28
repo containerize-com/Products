@@ -17,6 +17,10 @@ menu:
 heading: Top SSO Solutions Include
 listingtypetag: Open Source Software
 
+HomePage_Link_TitleText: Open Source Single Sign-on solutions
+
+ListingPage_HeaderImage_TitleText:
+ListingPage_HeaderImage_AltText: Open Source Software
 
 ---
 

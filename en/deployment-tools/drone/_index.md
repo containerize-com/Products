@@ -10,6 +10,17 @@ draft: false
 weight: 2
 layout: "single"
 
+HomePage_TitleText: Open Source Deployment Tool in Go
+
+ListingPage_MenuImage_TitleText: Drone - Go Based Free Deployment Tool
+ListingPage_MenuImage_AltText: Drone - Go Based Free Deployment Tool
+ListingPage_Link_TitleText: Explore Drone
+
+SinglePage_HeaderImage_TitleText: Drone - Open Source Deployment Tool
+SinglePage_HeaderImage_AltText: Drone - Open Source Deployment Tool
+SinglePage_MenuImage_TitleText: Drone - Open Source Deployment  Tool
+SinglePage_MenuImage_AltText: Drone - Open Source Deployment Tool
+
 ---
 
 Software building, testing, and deployment is the most important task for development teams. Software delivery is a continuous job as teams frequently release new versions. The deployment tool enables development teams and individual developers to automate the software delivery process and focus on other important tasks. It is a free and **open source deployment tool** for automating the software delivery process. It's based on container technology. The Drone offers two versions such as Enterprise edition, and community edition. Enterprise edition is paid one whereas community edition is free to use. This **free software deployment** platform supports multiple operating systems. Further, it works with any language and database.

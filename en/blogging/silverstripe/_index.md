@@ -11,6 +11,17 @@ weight: 4
 layout: "single"
 GithubLink: https://github.com/silverstripe/silverstripe-framework
 
+HomePage_TitleText: Open Source Blogging Software
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Silverstripe is multi purpose software and it fits in both blogging and CMS.
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Silverstripe is an easy to use CMS
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Silverstripe can customize website to any level
+
 ---
 
 #### Overview

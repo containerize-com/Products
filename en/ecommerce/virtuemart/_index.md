@@ -10,6 +10,17 @@ draft: false
 weight: 9
 layout: "single"
 
+HomePage_TitleText: Open Source Shopping Cart in Joomla
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: VirtueMart - Joomla Based Open Source Shopping Cart Software
+ListingPage_Link_TitleText: Explore VirtueMart
+
+SinglePage_HeaderImage_TitleText: VirtueMart - Ecommerce For Joomla
+SinglePage_HeaderImage_AltText: VirtueMart - Ecommerce For Joomla
+SinglePage_MenuImage_TitleText: VirtueMart - Ecommerce For Joomla
+SinglePage_MenuImage_AltText: VirtueMart - Ecommerce For Joomla
+
 ---
 
 VirtueMart is an open source **eCommerce for Joomla** CMS. This means users need to collectively run the Joomla website and the VirtueMart. VirtueMart is a component built on the top of Joomla. This **Joomla shopping cart** is released under the GNU General Public License, which means that it can be downloaded and used freely by users. It is user-friendly, professional and even beginners can quickly set up shop in few minutes. To meet the needs of online stores, VirtueMart comes with various out-of-the-box features. In addition, merchants can extend this **Joomla cart** by installing Plugins, Components, Templates, and Modules to their shop.

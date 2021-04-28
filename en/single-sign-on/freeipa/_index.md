@@ -10,6 +10,17 @@ draft: false
 weight: 7
 layout: "single"
 
+HomePage_TitleText: Open Source SSO Solution for Python
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: OIP
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: FreeIPA Open source identity and access management software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: FreeIPA is free and open source SSO software
+
 ---
 
 FreeIPA is a free open source authentication and authorization solution for Linux/UNIX based networked systems. It consists of some powerful components such as Directory Server, Kerberos, PKI, DNS, Certmonger, NTP Server, Web UI, Trusts, and Client. Further, this open source software provides single sign-on capabilities for servers and applications in the network. It is highly configurable with other software such as Microsoft Active Directory. Additionally, it offers automation of installation and ease of management tasks.

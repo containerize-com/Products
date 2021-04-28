@@ -10,6 +10,17 @@ draft: false
 weight: 4
 layout: "single"
 
+HomePage_TitleText: Video Conferencing Software
+
+ListingPage_MenuImage_TitleText: Open Source Group Messenger Platform
+ListingPage_MenuImage_AltText: Open Source Group Messenger Platform
+ListingPage_Link_TitleText: Element
+
+SinglePage_HeaderImage_TitleText: team communication software
+SinglePage_HeaderImage_AltText: element is open source team communication software
+SinglePage_MenuImage_TitleText: team communication software
+SinglePage_MenuImage_AltText: element is open source team communication software
+
 ---
 
 Element is an open source free video conferencing software with many powerful features such as file sharing, voice calls, encrypted messages, and group collaborations. It is based on a Matrix that is an open network for decentralized communication. This team communication software gives you complete control over chat data so no third party can perform mining for advertisement purposes. However, this video messenger app comes with self-hosting capabilities and you can host it for personnel and business use cases.

@@ -10,6 +10,17 @@ draft: false
 weight: 4
 layout: "single"
 
+HomePage_TitleText: Open Source SSO Solution for OpenID Connect, OAuth 2.0 and SAML 2.0
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: KeyCloak 
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: KeyCloak Open source SSO Solutions
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: KeyCloak
+
 ---
 
 Keycloak is another open source alternative to provide identity and access management with Single Sign ON (SSO). It’s easy to setup and provides many enterprise-grade features out-of-the-box such as : User Federation, Identity Brokering and Social Logins. It uses standard protocols to implement SSO e.g OpenID Connect, OAuth 2.0 and SAML 2.0. It supports integration with LDAP and Active Directory.

@@ -10,6 +10,17 @@ draft: false
 weight: 5
 layout: "single"
 
+HomePage_TitleText: Open Source Video Editor in C
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Blender is an open source video editor
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Blender is open source video editing software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Blender is an open source video editor 
+
 ---
 
 Blender is an open source free video editing software. It is based on Video Sequence Editor that works with the Blender. There are options to combine multiple video channels and add effects. This free tool provides high quality animations. It lets you integrate different video clips and apply various fades and effects to create final video. Moreover, you can synchronize the audio with the video.

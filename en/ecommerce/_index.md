@@ -17,6 +17,10 @@ menu:
 heading: Top Open Source Shopping Cart Software Include
 listingtypetag:  Open Source Software 
 
+HomePage_Link_TitleText: Open Source Shopping Cart
+
+ListingPage_HeaderImage_TitleText: Best Open Source Shopping Cart
+ListingPage_HeaderImage_AltText: Best Open Source Shopping Cart
 
 ---
 

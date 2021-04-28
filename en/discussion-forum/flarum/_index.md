@@ -11,6 +11,17 @@ weight: 2
 layout: "single"
 GithubLink: https://github.com/flarum/flarum
 
+HomePage_TitleText: Open Source Discussion Forum Platform in PHP Laravel
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Flarum - PHP Laravel Based Straight Forward Discussion Platform
+ListingPage_Link_TitleText: Explore Flarum
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Flarum is open source community discussion forum
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Flarum is PHP bases free message board.
+
 ---
 
 #### Overview

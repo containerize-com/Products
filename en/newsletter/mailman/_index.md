@@ -10,6 +10,17 @@ draft: false
 weight: 5
 layout: "single"
 
+HomePage_TitleText: Open Source Email Marketing Platform in Python
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Mailman - Python Based Newsletter Software
+ListingPage_Link_TitleText: Explore Mailman
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Mailman- Free Newsletter and Mailing list Software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Mailman - Python Based Free Newsletter Software
+
 ---
 
 Every organization needs email marketing solutions that allow them to send updates and promotions of products. In order to find leads and turn them into clients, email marketing is also the cornerstone of every digital business. Mailman is perhaps the most prevalent, commonly used and free newsletter software on the Internet and you can use it for newsletter campaigns.

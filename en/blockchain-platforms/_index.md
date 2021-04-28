@@ -17,6 +17,10 @@ menu:
 heading: Top Blockchain Platforms Include
 listingtypetag: Open Source Software
 
+HomePage_Link_TitleText: Blockchain Platforms
+
+ListingPage_HeaderImage_TitleText: decentralized applications
+ListingPage_HeaderImage_AltText: Top Open Source platform for decentralized applications
 
 ---
 

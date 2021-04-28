@@ -10,6 +10,17 @@ draft: false
 weight: 2
 layout: "single"
 
+HomePage_TitleText: Blockchain Platform in Go
+
+ListingPage_MenuImage_TitleText: decentralized applications
+ListingPage_MenuImage_AltText: Hyperledger Fabric is an open source platform for decentralized applications 
+ListingPage_Link_TitleText: decentralized application platform
+
+SinglePage_HeaderImage_TitleText: distributed ledger technology
+SinglePage_HeaderImage_AltText: Hyperledger Fabric is open source distributed ledger technology
+SinglePage_MenuImage_TitleText: distributed ledger technology
+SinglePage_MenuImage_AltText: Hyperledger Fabric is open source distributed ledger technology
+
 ---
 
 Hyperledger Fabric is an open source platform to build decentralized apps. It is backed by Linux Foundation and has a very strong developer community. Its architecture is modular that makes its echo system completely configurable. This open source distributed ledger technology provides solutions to many business use cases such as banking, healthcare, finance, human resource, and more. One of the finest things is that developers can write the smart contract in any general-purpose programming language such as Nodejs, Java, Go.

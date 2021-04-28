@@ -10,6 +10,17 @@ draft: false
 weight: 3
 layout: "single"
 
+HomePage_TitleText: Video Conferencing Software
+
+ListingPage_MenuImage_TitleText: Open Source Video Conferencing Platform
+ListingPage_MenuImage_AltText: Open Source Video Conferencing Platform
+ListingPage_Link_TitleText: OpenVidu
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: openvidu is open source video conferencing software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Openvidu is open source Video Conferencing Software
+
 ---
 
 OpenVidu is a free open source multi platform video conferencing solution. It is not only platform compatible but also provides compatibly with many front end technologies such as JavaScript, Angular, React, TypeScript, Vue.js, and Ionic. However, this popular video collaboration software offers REST API that can be used with any back end technology. A role-based system has been implemented on the server side to provide privacy for the video calls. This open source software provides multiple call combinations like one-to-one, one-to-many, many-to-many.

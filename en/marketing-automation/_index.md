@@ -17,6 +17,10 @@ menu:
 heading: Top Marketing Automation Platforms Include
 listingtypetag:  Open Source Software
 
+HomePage_Link_TitleText: Open Source Marketing Automation Software / Platforms
+
+ListingPage_HeaderImage_TitleText:
+ListingPage_HeaderImage_AltText: Open source marketing automation software
 
 ---
 

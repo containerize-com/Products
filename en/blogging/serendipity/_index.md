@@ -11,6 +11,17 @@ weight: 5
 layout: "single"
 GithubLink: https://href.li/?https://github.com/s9y/Serendipity
 
+HomePage_TitleText: Open Source Blogging Software in JavaScript
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Serendipity is a very powerful and reliable blog engine
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Serendipity Open Source Software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Serendipity is a free and self managed blogging platform.
+
 ---
 
 #### Overview

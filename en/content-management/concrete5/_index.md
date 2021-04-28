@@ -11,6 +11,17 @@ weight: 6
 layout: "single"
 GithubLink: https://github.com/concrete5/concrete5
 
+HomePage_TitleText: Open Source CMS Platform in PHP
+
+ListingPage_MenuImage_TitleText: open source cms platform
+ListingPage_MenuImage_AltText: open source cms platform
+ListingPage_Link_TitleText: open source cms platform
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Concrete5 Open Source Content Management Software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Concrete5 is one of the most powerful CMS.
+
 ---
 
 #### Overview

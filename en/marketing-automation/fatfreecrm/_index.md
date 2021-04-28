@@ -11,6 +11,17 @@ weight: 5
 layout: "single"
 GithubLink: https://github.com/fatfreecrm/fat_free_crm
 
+HomePage_TitleText: Open Source Customer Relationship Management Platform built with Ruby on Rails
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: FatFreeCRM is an Open Source Customer Relationship Management Platform
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: Fat Free CRM is an open source free Ruby on Rails based customer relationship management system
+SinglePage_HeaderImage_AltText: open source Ruby on Rails based customer relationship management system
+SinglePage_MenuImage_TitleText: Fat Free CRM designed for small teams and business organizations
+SinglePage_MenuImage_AltText: open source Ruby on Rails based customer relationship management system
+
 ---
 
 Overview

@@ -11,6 +11,17 @@ weight: 1
 layout: "single"
 GithubLink: https://github.com/apache/openoffice
 
+HomePage_TitleText: Office Productivity Software
+
+ListingPage_MenuImage_TitleText: Apache Open Office logo 
+ListingPage_MenuImage_AltText: Apache Open Office Software
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: Apache Open Office logo
+SinglePage_HeaderImage_AltText: Apache Open Office is an alternative to Microsoft Office
+SinglePage_MenuImage_TitleText: Apache Open Office logo
+SinglePage_MenuImage_AltText: Apache Open Office is one of the good alternatives to Microsoft Office.
+
 ---
 
 #### Overview

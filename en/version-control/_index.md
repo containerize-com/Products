@@ -17,6 +17,10 @@ menu:
 heading: Top Version Control Software Include
 listingtypetag:  Open Source Software 
 
+HomePage_Link_TitleText: Open Source Version Control
+
+ListingPage_HeaderImage_TitleText: Best Version Control Software
+ListingPage_HeaderImage_AltText: Best Version Control Software
 
 ---
 

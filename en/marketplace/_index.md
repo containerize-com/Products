@@ -17,6 +17,10 @@ menu:
 heading: Top Open Source Marketplace Platforms Include
 listingtypetag:  Open Source Software
 
+HomePage_Link_TitleText: Open Source Marketplace Software
+
+ListingPage_HeaderImage_TitleText:
+ListingPage_HeaderImage_AltText: Open source Marketplace software
 
 ---
 

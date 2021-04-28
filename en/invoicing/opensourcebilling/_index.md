@@ -11,6 +11,17 @@ weight: 6
 layout: "single"
 GithubLink: https://github.com/vteams/open-source-billing
 
+HomePage_TitleText: Open Source Accounting System in Ruby
+
+ListingPage_MenuImage_TitleText: Free open source billing software.
+ListingPage_MenuImage_AltText: OpenSourceBilling - Ruby on Rails Based Invoicing Software
+ListingPage_Link_TitleText: Open Source Accounting System in Ruby
+
+SinglePage_HeaderImage_TitleText: OpenSourceBilling is a free open source billing software.
+SinglePage_HeaderImage_AltText: OpenSourceBilling is for creating and sending invoices, receiving payments, managing clients, managing companies and tracking and reporting.
+SinglePage_MenuImage_TitleText: OpenSourceBilling is a free open source billing software
+SinglePage_MenuImage_AltText: OpenSourceBilling is a powerful, flexible and scalable billing software
+
 ---
 
 Overview

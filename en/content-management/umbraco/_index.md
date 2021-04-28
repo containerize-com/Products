@@ -11,6 +11,17 @@ weight: 5
 layout: "single"
 GithubLink: https://github.com/umbraco/Umbraco-CMS
 
+HomePage_TitleText: Open Source CMS Platform in .Net
+
+ListingPage_MenuImage_TitleText: open source web cms
+ListingPage_MenuImage_AltText: Umbraco provides .Net based open source web cms
+ListingPage_Link_TitleText: open source web cms
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Umbraco provides a free digital content management system.
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Umbraco provides an open source CMS.
+
 ---
 
 Umbraco CMS provides the quickest ways to setup a website for business by offering ready-made design templates. An intuitive dashboard is in place to let users build, update, and publish content efficiently. There is a complete echo system according to which system auto-updates itself with the latest features and bug fixes.

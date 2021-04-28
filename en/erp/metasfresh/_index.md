@@ -10,6 +10,17 @@ draft: false
 weight: 3
 layout: "single"
 
+HomePage_TitleText: Open Source ERP in Java
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: metasfresh - Popular Open ERP Software
+ListingPage_Link_TitleText: Explore metasfresh
+
+SinglePage_HeaderImage_TitleText: metasfresh - ERP For SME
+SinglePage_HeaderImage_AltText: metasfresh - ERP For SME
+SinglePage_MenuImage_TitleText: metasfresh - ERP For SME
+SinglePage_MenuImage_AltText: metasfresh - ERP For SME
+
 ---
 
 metasfresh is a self-hosted enterprise resource planning (ERP) software. It is a fork of ADempiere ERP that is an open source community project. It is 100% free and highly versatile, allowing businesses to adapt it to their needs. In addition, it has been planned and built for small and medium-sized companies.

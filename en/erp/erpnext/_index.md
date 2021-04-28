@@ -10,6 +10,17 @@ draft: false
 weight: 1
 layout: "single"
 
+HomePage_TitleText: Open Source ERP in Python
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: ERPNext - Popular Open Source ERP Software
+ListingPage_Link_TitleText: Explore ERPNext
+
+SinglePage_HeaderImage_TitleText: ERPNext - Free ERP Solution
+SinglePage_HeaderImage_AltText: ERPNext - Free ERP Solution
+SinglePage_MenuImage_TitleText: ERPNext - Free ERP Solution
+SinglePage_MenuImage_AltText: ERPNext - Free ERP Solution
+
 ---
 
 ERPNext is an open source **enterprise resource planning software**. It is 100% **free ERP solution** and **SAP alternative**. It's easy to use, adaptable, actively maintained, cost-effective, and well supported. ERPNext is a robust, reliable, and highly customizable system. It's best for small and medium-sized businesses.

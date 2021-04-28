@@ -10,6 +10,17 @@ draft: false
 weight: 1
 layout: "single"
 
+HomePage_TitleText: Open Source Video Editor in Python
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Open Source Video Editor in C
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Openshot is open source video editing software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Openshot is open source video editor 
+
 ---
 
 Openshot is an open source video editing software with the support of multiple platforms such as Windows, Mac, and Linux. It is easy, quick, and powerful video editor. It provides the provision to the user to trim videos. There is complete support for multiple videos, audio, and image formats. Moreover, It also offers desktop integration where you can drag and drop files from your desktop file system. It lets you animate anything in your video with fade-in and fade-out effects. In addition, you can add as many background audio tracks as you want. There are video templates regarding the title so that users can add subtitles.

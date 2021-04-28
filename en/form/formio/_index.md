@@ -10,6 +10,17 @@ draft: false
 weight: 1
 layout: "single"
 
+HomePage_TitleText: Open Source HTML5 Form Generator in JavaScript
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Form.io
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Formio Software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Form.io
+
 ---
 
 Form.IO is a popular form builder software with advanced features for generating data entry web forms and surveys along with a complete data management API platform. It is a direct competitor of google forms with the additional benefit of being open source software. Its cloud version comes with various subscription plans though the basic subscription is free.

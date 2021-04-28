@@ -10,6 +10,17 @@ draft: false
 weight: 3
 layout: "single"
 
+HomePage_TitleText: Open Source SSO Solution for GO
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Authelia
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Authelia Open source SSO Solutions
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Authelia 
+
 ---
 
 The latest updates are evolving the technology at a high pace and hence, vulnerabilities are also increasing in almost every area of an online business. Authorization and Authentication layer is one of those areas which are hotspot in terms of attacks and loop wholes. To address these sensitivities, there are many open source software developed to provide better-centralized sing in / sign out mechanisms, password management and security.

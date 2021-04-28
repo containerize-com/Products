@@ -10,6 +10,17 @@ draft: false
 weight: 2
 layout: "single"
 
+HomePage_TitleText: Open Source Project Management Software in Python
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Taiga is Python and AngularJS  based agile project management software
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Taiga is open source project management software in Python
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Taiga is an agile project management software
+
 ---
 
 Taiga is open source on premise project management software that helps project teams to manage projects using agile or conventional methods. It is a simple, instinctive, and robust project management application for multi-functional agile teams. It provides all the modern features e.g. Backlog, Burn down chart, Kanban, Scrum, Issue tacking, Sprint planning, Epics, Wiki, etc. Moreover, you can define team roles, estimate story points per role with an assessment game, and move incomplete user stories to different sprints.

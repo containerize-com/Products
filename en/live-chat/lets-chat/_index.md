@@ -10,6 +10,17 @@ draft: false
 weight: 3
 layout: "single"
 
+HomePage_TitleText: Open Source Live Chat System in JavaScript
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Let's Chat is Node.js Messaging Platform
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Let's Chat is a Node.js based chat app
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Let's Chat is a remote collaboration open source software
+
 ---
 
 Let’s Chat is an open source live chat software for small teams. This live chat software is designed to be easily deployable and solve the common communication problems of small and medium teams.

@@ -17,6 +17,10 @@ menu:
 heading: Top Transactional Email Software Include
 listingtypetag:  Open Source Software 
 
+HomePage_Link_TitleText: Open Source Transactional Email Service / Platforms
+
+ListingPage_HeaderImage_TitleText:
+ListingPage_HeaderImage_AltText: Transactional Email Software
 
 ---
 

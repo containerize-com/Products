@@ -10,6 +10,17 @@ draft: false
 weight: 1
 layout: "single"
 
+HomePage_TitleText: Open Source Email Delivery Platform in Ruby
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Postal is a full featured open source mail delivery software.
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Postal is open source alternative to sendgrid and mailgun
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Postal is a full featured mail server software
+
 ---
 
 A Secure Mail Server is an important element within the internet email system, which acts as a message transfer agent or mail relay software to transfer email messages from one computer to another computer using smtp.

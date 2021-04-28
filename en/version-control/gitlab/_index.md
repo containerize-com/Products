@@ -10,6 +10,17 @@ draft: false
 weight: 4
 layout: "single"
 
+HomePage_TitleText: Open Source Version Control System
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: GitLab - Popular Open Source Version Control Software
+ListingPage_Link_TitleText: Explore GitLab
+
+SinglePage_HeaderImage_TitleText: GitLab - Source Code Management
+SinglePage_HeaderImage_AltText: GitLab - Source Code Management
+SinglePage_MenuImage_TitleText: GitLab - Source Code Management
+SinglePage_MenuImage_AltText: GitLab - Source Code Management
+
 ---
 
 GitLab is one of the leading free **source code management** software. It was planned for the Linux OS. It can run on most Linux flavors, except Windows. In addition to **SCM**, it can be used for issue tracking, code review, CI/CD, and many more. Further, it can be deployed on a private server by using source code and a container.

@@ -10,6 +10,17 @@ draft: false
 weight: 3
 layout: "single"
 
+HomePage_TitleText: Open Source StatusPage System in Go
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Monitoror - GO Based Monitoring Platform
+ListingPage_Link_TitleText: Explore Monitoror
+
+SinglePage_HeaderImage_TitleText: Monitoror - Free Application Monitoring Software
+SinglePage_HeaderImage_AltText: Monitoror - Free Application Monitoring Software
+SinglePage_MenuImage_TitleText: Monitoror - Go Based Free Application Monitoring
+SinglePage_MenuImage_AltText: Monitoror - Go Based Free Application Monitoring
+
 ---
 
 Monitoror is free application monitoring software. It is lightweight and reliable software for monitoring of all tools in one place. Monitoror supports out of the box features for monitoring of services such as applications, servers, and APIs. Further, this free server monitoring software allows for checking server status by pinging, checking any specific ports, displaying your CI status, and keeping track of its progress live. In addition, this free server monitoring software supports two types of configurations such as Core and UI. User can set core configuration with environment variables and UI configuration defines in json file.

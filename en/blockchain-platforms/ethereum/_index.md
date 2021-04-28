@@ -10,6 +10,17 @@ draft: false
 weight: 1
 layout: "single"
 
+HomePage_TitleText: Blockchain Platform in Go
+
+ListingPage_MenuImage_TitleText: decentralized apps
+ListingPage_MenuImage_AltText: Ethereum is an Open Source Platform For Decentralized Apps
+ListingPage_Link_TitleText: decentralized apps
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Ethereum is open source distributed blockchain distributed blockchain platform
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Ethereum is open source distributed blockchain network
+
 ---
 
 Ethereum is an open source blockchain based platform that is used to build Decentralized Apps. Decentralized Applications(dapps) run on a decentralized network which means no one has control over these apps. Smart contracts are code snippets that control and govern the transactions over the network. Anyone can build a smart contract and deploy it on the public network. Ethereum software is built on top of the Ethereum virtual machine(EVM) which is a run time environment for smart contracts. Moreover, Ethereum maintains its own native cryptocurrency called Ether. The miner who mines the new block into the blockchain earns a bounty in the form of an Ether.

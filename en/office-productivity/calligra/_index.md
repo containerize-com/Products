@@ -11,6 +11,17 @@ weight: 5
 layout: "single"
 GithubLink: https://github.com/KDE/calligra
 
+HomePage_TitleText: Office Productivity Software
+
+ListingPage_MenuImage_TitleText: Calligra is open-source alternative to Office
+ListingPage_MenuImage_AltText: Calligra is open-source alternative to Office
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: Calligra is open-source office alternative available for major operating systems.
+SinglePage_HeaderImage_AltText: Calligra is open-source office alternative available for major operating systems.
+SinglePage_MenuImage_TitleText: Calligra is open-source office alternative and easy to use office productivity suite.
+SinglePage_MenuImage_AltText: Calligra is open-source office alternative and easy to use office productivity suite.
+
 ---
 
 #### Overview

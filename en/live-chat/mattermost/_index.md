@@ -10,6 +10,17 @@ draft: false
 weight: 5
 layout: "single"
 
+HomePage_TitleText: Open Source Live Chat System in JavaScript, Go
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Mattermost helps you centralize all your communication.
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Mattermost is easy to use messaging app
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Mattermost centralize all your communications
+
 ---
 
 Mattermost is an open source live chat software which is highly secure and scalable. Its considered as an alternative to the most popular proprietary livechat apps. It’s a mixture of both Slack and Microsoft Teams and makes it a superset of both the applications.

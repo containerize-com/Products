@@ -11,6 +11,17 @@ weight: 9
 layout: "single"
 GithubLink: https://github.com/contao/contao
 
+HomePage_TitleText: Open Source CMS Platform in PHP
+
+ListingPage_MenuImage_TitleText: open source wordpress alternative
+ListingPage_MenuImage_AltText: Contao is an open source php open source wordpress alternative
+ListingPage_Link_TitleText: open source wordpress alternative
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Craft is Free and Open Source CMS
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Contao is one of the most robust open source CMS.
+
 ---
 
 #### Overview

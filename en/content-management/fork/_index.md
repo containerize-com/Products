@@ -11,6 +11,17 @@ weight: 10
 layout: "single"
 GithubLink: https://github.com/forkcms/forkcms
 
+HomePage_TitleText: Open Source CMS Platform in PHP
+
+ListingPage_MenuImage_TitleText: fork cms
+ListingPage_MenuImage_AltText: Fork CMS is an open source php based software
+ListingPage_Link_TitleText: fork cms
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Fork is Free and Open Source CMS
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Fork is one of the most robust open source CMS.
+
 ---
 
 #### Overview

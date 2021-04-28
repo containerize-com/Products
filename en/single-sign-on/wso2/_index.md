@@ -10,6 +10,17 @@ draft: false
 weight: 5
 layout: "single"
 
+HomePage_TitleText: Open Source SSO Solution for JAVA
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: WSO2
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: WSO2 Open source identity and access management server
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: WSO2 is free and open source identity server.
+
 ---
 
 In the present point of digital time, there are numerous teams in different departments working with unique roles. There is always a high risk of a security breach to the user’s data integrity. Businesses need to be proactive to protect internal resources and provide easy access to the resources to all the entities such as employees, partners, vendors, and customers.

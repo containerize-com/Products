@@ -11,6 +11,17 @@ weight: 11
 layout: "single"
 GithubLink: https://github.com/refinery/refinerycms
 
+HomePage_TitleText: Open Source CMS Platform written in Ruby
+
+ListingPage_MenuImage_TitleText: Most Popular Open Source CMS
+ListingPage_MenuImage_AltText: Refinery is most popular open source CMS
+ListingPage_Link_TitleText: Most Popular Open Source CMS
+
+SinglePage_HeaderImage_TitleText: Refinery is the most popular Ruby on Rails Based Open Source CMS
+SinglePage_HeaderImage_AltText: Refinery is the most popular Ruby on Rails Based Open Source CMS
+SinglePage_MenuImage_TitleText: An extendable Ruby on Rails Open Source CMS that supports Rails 6.0+
+SinglePage_MenuImage_AltText: An extendable Ruby on Rails Open Source CMS that supports Rails 6.0+
+
 ---
 
 Overview

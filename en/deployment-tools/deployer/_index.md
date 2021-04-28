@@ -10,6 +10,17 @@ draft: false
 weight: 3
 layout: "single"
 
+HomePage_TitleText: Open Source Deployment Tool in PHP
+
+ListingPage_MenuImage_TitleText: Deployer - PHP Based Free Deployment Tool
+ListingPage_MenuImage_AltText: Deployer - PHP Based Free Deployment Tool
+ListingPage_Link_TitleText: Explore Deployer
+
+SinglePage_HeaderImage_TitleText: Deployer - PHP Deployment Tool
+SinglePage_HeaderImage_AltText: Deployer - PHP Deployment Tool
+SinglePage_MenuImage_TitleText: Deployer - PHP Deployment Tool
+SinglePage_MenuImage_AltText: Deployer - PHP Deployment Tool
+
 ---
 
 Deployer is a **PHP deployment tool** that is free and open source. It is a great tool for PHP-based applications. The deployer is very simple to set up and learn. So, this can be rapidly used for deployment by developers with some experience. Deployer supports popular PHP frameworks out of the box such as Laravel, Symfony, Codeigniter, Zend, and many more. Further, it supports open source CMS like WordPress, Joomla, and Drupal. Moreover, it comes with built-in recipes for eCommerce software such as Magento, and PrestaShop. For unique use cases, developers may create their own recipes.

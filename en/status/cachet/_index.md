@@ -10,6 +10,17 @@ draft: false
 weight: 1
 layout: "single"
 
+HomePage_TitleText: Open Source StatusPage System in PHP
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Cachet - PHP Laravel Based StatusPage system
+ListingPage_Link_TitleText: Explore Cachet
+
+SinglePage_HeaderImage_TitleText: Cachet - Self-Hosted Status Page
+SinglePage_HeaderImage_AltText: Cachet - Self-Hosted Status Page
+SinglePage_MenuImage_TitleText: Cachet - Self-Hosted Status Page
+SinglePage_MenuImage_AltText: Cachet - Self-Hosted Status Page 
+
 ---
 
 Cachet is a free and **self-hosted status page** system. This **free status page software** enables businesses to timely inform subscribers about system outages and scheduled maintenance. It also helps to improve downtime and companies are using it to better communicate to customers and teams. Further, a subscriber can subscribe to one or all components/sites to get email notifications. Cachet comes with outstanding features such as responsive UI, Multi-lingual, metrics, Two-factor authentication, and many more.

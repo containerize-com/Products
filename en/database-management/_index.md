@@ -17,6 +17,10 @@ menu:
 heading: Top Database Management Tools Include
 listingtypetag: Open Source Products
 
+HomePage_Link_TitleText: Web Server Solution Stack
+
+ListingPage_HeaderImage_TitleText:
+ListingPage_HeaderImage_AltText: Best Open Source Database Management Tools
 
 ---
 

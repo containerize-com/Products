@@ -10,6 +10,17 @@ draft: false
 weight: 5
 layout: "single"
 
+HomePage_TitleText: Open Source HTML5 Form Generator in PHP
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: FormTools
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: free web form builder
+SinglePage_HeaderImage_AltText: open source free web form builder
+SinglePage_MenuImage_TitleText: free web form builder
+SinglePage_MenuImage_AltText: open source free web form builder
+
 ---
 
 In the present times, business use cases are increasing exponentially and there is a huge demand to collect and compile data in an organized way. FormTools is a powerful **free** **web form builder** equipped with all powerful modules to address such needs like building custom forms with custom layouts, validations, better data management, data export options and API integrations.

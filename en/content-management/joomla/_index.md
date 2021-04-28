@@ -11,6 +11,18 @@ weight: 1
 layout: "single"
 GithubLink: https://github.com/joomla/joomla-cms
 
+
+HomePage_TitleText: Open Source CMS Platform in PHP
+
+ListingPage_MenuImage_TitleText: open source enterprise cms
+ListingPage_MenuImage_AltText: Joomla is a powerful open source enterprise cms
+ListingPage_Link_TitleText: open source enterprise cms
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Joomla Open Source Software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Joomla is one of the most powerful CMS.
+
 ---
 
 #### Overview

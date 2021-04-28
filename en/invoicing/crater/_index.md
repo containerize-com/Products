@@ -10,6 +10,17 @@ draft: false
 weight: 5
 layout: "single"
 
+HomePage_TitleText: Open Source Accounting System in PHP
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Crater - PHP Laravel Based Invoicing Platform
+ListingPage_Link_TitleText: Explore Crater
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Crater - Open Source Invoicing Software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Crater - PHP Laravel Based Invoicing Platform
+
 ---
 
 Crater is built on modern technologies to serve small businesses for managing their billing and payment Solutions. It is an On-Premise accounting software that can be installed and monitor all financial operations on your private server.

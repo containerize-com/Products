@@ -10,6 +10,17 @@ draft: false
 weight: 1
 layout: "single"
 
+HomePage_TitleText: Open Source SSO Solution for ASP.NET Core
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: IdentityServer 
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Identity Server 
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Identity Server 
+
 ---
 
 IdentityServer is a open source framework that uses openid connect and oauth 2.0 to achieve single sign on, acts as a single authentication and authorization server for multiple applications.

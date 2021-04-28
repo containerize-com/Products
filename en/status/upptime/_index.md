@@ -10,6 +10,17 @@ draft: false
 weight: 6
 layout: "single"
 
+HomePage_TitleText: Open Source StatusPage System in Svelte and Sapper
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Upptime - Open Source Status Page
+ListingPage_Link_TitleText: Explore Upptime
+
+SinglePage_HeaderImage_TitleText: Upptime - Open Source Status Page
+SinglePage_HeaderImage_AltText: Upptime - Open Source Status Page
+SinglePage_MenuImage_TitleText: Upptime - Open Source Status Page
+SinglePage_MenuImage_AltText: Upptime - Open Source Status Page
+
 ---
 
 Upptime is an **open source status page** system. It offers **free website monitoring service** as well. Upptime is powered by GitHub and uses its features for performing different operations. So, it is different from traditional status page systems because it does not require a server. Upptime uses three main features of GitHub such as Actions, Issues, and Pages. GitHub Actions is used as an uptime monitor. GitHub Issues are used for incident reports and GitHub Pages are used for the status website.

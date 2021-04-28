@@ -10,6 +10,17 @@ draft: false
 weight: 4
 layout: "single"
 
+HomePage_TitleText: Open Source Marketing Automation Platform in PHP
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: EspoCRM is open source marketing technology
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: EspoCRM is PHP based open source CRM tool.
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: EspoCRM is free marketing automation software.
+
 ---
 
 EspoCRM is open source customer relationship management software that facilitates users to enter, view and evaluate their business’s relationships with customers and associates. It is fast and flexible web-based CRM system that will make analysis of customer’s behavior and actions easier and simpler. So you can improve your services or products to meet particular desires and demands. It is ultimate marketing automation software for gaming, entertainment, education, retail, banking, and manufacturing and tourism industries.

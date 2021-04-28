@@ -11,6 +11,17 @@ weight: 11
 layout: "single"
 GithubLink: https://github.com/kandanapp/kandan
 
+HomePage_TitleText: Open Source team chat application for your company or team
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Live Helper Chat is one of the most popular open source live chat software.
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: Kandan is an open source chat application with an elegant, clean design.
+SinglePage_HeaderImage_AltText: Kandan is an open source chat application with an elegant, clean design.
+SinglePage_MenuImage_TitleText: Kandan is a free ruby based well-supported open source chat application.
+SinglePage_MenuImage_AltText: Kandan is a free ruby based well-supported open source chat application.
+
 ---
 
 Overview

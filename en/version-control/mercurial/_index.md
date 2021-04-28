@@ -10,6 +10,17 @@ draft: false
 weight: 3
 layout: "single"
 
+HomePage_TitleText: Open Source Version Control System
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Mercurial - Popular Open Source Version Control Software
+ListingPage_Link_TitleText: Explore Mercurial
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Mercurial - Open Source Version Control Software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Mercurial - Open Source Version Control Software
+
 ---
 
 Mercurial is an excellent free and open source distributed version control software like Git. Mercurial is quick, scalable and handles projects of all sizes effectively. Further, it is very simpler than Git that may attracts developer to use it. Moreover, a wide variety of workflows are supported by Mercurial and you can easily enhance its functionality with extensions.

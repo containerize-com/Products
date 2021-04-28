@@ -11,6 +11,17 @@ weight: 2
 layout: "single"
 GithubLink: https://github.com/LibreOffice/core
 
+HomePage_TitleText: Office Productivity Software
+
+ListingPage_MenuImage_TitleText: LibreOffice logo
+ListingPage_MenuImage_AltText: LibreOffice is alternative to Microsoft Office.
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: LibreOffice is a free Microsoft Office alternative
+SinglePage_HeaderImage_AltText: LibreOffice is a free Microsoft Office alternative
+SinglePage_MenuImage_TitleText: LibreOffice logo
+SinglePage_MenuImage_AltText: LibreOffice is a free Microsoft Office alternative
+
 ---
 
 #### Overview

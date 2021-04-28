@@ -10,6 +10,17 @@ draft: false
 weight: 1
 layout: "single"
 
+HomePage_TitleText: Open Source Project Management Software in PHP
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Phabricator is PHP based suite of web application for project management
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Phabricator is open source project management software in PHP
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Phabricator set of free software for project planning and tracking
+
 ---
 
 Phabricator is open source suite of web-based applications for project management, source control, code review, and more. It helps you plan projects, manage tasks, track issues, host git, svn, or mercurial repositories. It also provides review designs, continuous integration, and internal chat channels. It supports pre-commit code reviews and post-commit auditing. It allows workflow-based, rule-based triggers and Herald coupled auditing. Phabricator is also enriched with resource management and team management features.

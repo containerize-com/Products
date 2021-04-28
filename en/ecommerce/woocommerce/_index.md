@@ -10,6 +10,17 @@ draft: false
 weight: 4
 layout: "single"
 
+HomePage_TitleText: Open Source Shopping Cart in WordPress
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: WooCommerce - WordPress Based Open Source Shopping Cart Software
+ListingPage_Link_TitleText: Explore WooCommerce
+
+SinglePage_HeaderImage_TitleText: WooCommerce - Free Ecommerce System
+SinglePage_HeaderImage_AltText: WooCommerce - Free Ecommerce System
+SinglePage_MenuImage_TitleText: WooCommerce - Free Ecommerce System
+SinglePage_MenuImage_AltText: WooCommerce - Free Ecommerce System
+
 ---
 
 WooCommerce is one of the leading **free eCommerce system** built on top of WordPress. It is a powerful, flexible, and extendable eCommerce platform for small to large-scale businesses. It can easily install on the WordPress powered website and turn it into an online shop. WooCommerce comes with impressive features to fulfill the needs of a modern eCommerce store. Some of the features are WordPress SEO, geolocation, many payment gateways &amp; shipping options, and many more. Store owners can enable and configure these features by using the beautiful interface. This **best open source shopping cart** comes with multiple payment methods for accepting payments. Merchants can use any of the options for payment handling such as Cash on Delivery (COD), Bank Transfer, PayPal, Stripe, and many more. Further, the store owner can enable geolocation and allows automatic taxes options with an excellent **WordPress cart plugin**.

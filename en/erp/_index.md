@@ -17,6 +17,10 @@ menu:
 heading: Top Open Source ERP Software Include
 listingtypetag:  Open Source Software 
 
+HomePage_Link_TitleText: Open Source ERP Software
+
+ListingPage_HeaderImage_TitleText: Top Open Source ERP
+ListingPage_HeaderImage_AltText: Top Open Source ERP
 
 ---
 

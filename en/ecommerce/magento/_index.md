@@ -10,6 +10,17 @@ draft: false
 weight: 1
 layout: "single"
 
+HomePage_TitleText: Open Source Shopping Cart in PHP
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Magento - PHP Based Open Source Shopping Cart Software
+ListingPage_Link_TitleText: Explore Magento
+
+SinglePage_HeaderImage_TitleText: Magento - Easy Shopping Cart Software
+SinglePage_HeaderImage_AltText: Magento - Easy Shopping Cart Software
+SinglePage_MenuImage_TitleText: Magento - Zend Based Easy Shopping Cart Software
+SinglePage_MenuImage_AltText: Magento - Zend Based Easy Shopping Cart Software
+
 ---
 
 Magento is one of the leading **easy shopping cart software** for small, medium, and enterprise-level businesses. Magento has an impressive feature list such as PWA, SEO, Page Builder, and many more. It is a highly customizable, scalable, and one of the **best open source shopping cart** software. Above all, it has a very active community that helps in testing, bug fixing, and releasing new features. Magento comes in two editions, Magento Open Source and Magento Commerce. Users can download Magento Open Source for free from the Magento website. However, merchants can use Magento Commerce as SaaS (software as a service) platform that offers extra features.

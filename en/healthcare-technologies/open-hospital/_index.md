@@ -10,6 +10,17 @@ draft: false
 weight: 4
 layout: "single"
 
+HomePage_TitleText: Open Source Healthcare Software in Java
+
+ListingPage_MenuImage_TitleText: Open Hospital
+ListingPage_MenuImage_AltText: Open Hospital is an open source medical records management system
+ListingPage_Link_TitleText: Open Hospital
+
+SinglePage_HeaderImage_TitleText: medical records management system
+SinglePage_HeaderImage_AltText: open source medical records management system
+SinglePage_MenuImage_TitleText: medical records management system
+SinglePage_MenuImage_AltText: free medical records management system
+
 ---
 
 Open Hospital is a free open source **medical records management system**. It is developed to facilitate routine hospital activities. It is multilingual software and provides support in multiple languages such as Arabic, English, and some more. Moreover, there is a complete module to manage internal as well as external patients. It allows you to keep track of records of patient’s registration and visits. Above all, it lets its users manage laboratory data for better management of patients’ medical history.

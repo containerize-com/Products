@@ -11,6 +11,17 @@ weight: 6
 layout: "single"
 GithubLink: https://github.com/solidusio/solidus
 
+HomePage_TitleText: Open Source fully customizable eCommerce platform built with Ruby on Rails
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Solidus is a Open Source fully customizable eCommerce platform built with Ruby on Rails
+ListingPage_Link_TitleText: Explore Solidus
+
+SinglePage_HeaderImage_TitleText: Solidus is fully customizable eCommerce platform.
+SinglePage_HeaderImage_AltText: Solidus is an open-source eCommerce solution built with Ruby on Rails
+SinglePage_MenuImage_TitleText: Solidus is free and fully customizable eCommerce platform
+SinglePage_MenuImage_AltText: Solidus is an open-source ecommerce platform built with Ruby on Rails.
+
 ---
 
 Overview

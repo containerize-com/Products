@@ -10,6 +10,17 @@ draft: false
 weight: 3
 layout: "single"
 
+HomePage_TitleText: Open Source Password Management Software
+
+ListingPage_MenuImage_TitleText: Passbolt logo
+ListingPage_MenuImage_AltText: Best Open Source Password Management Software
+ListingPage_Link_TitleText: Explore Passbolt
+
+SinglePage_HeaderImage_TitleText: Passbolt | Free, Open Source & Self-hosted Password Manager
+SinglePage_HeaderImage_AltText: Passbolt | Free, Open Source & Self-hosted Password Manager
+SinglePage_MenuImage_TitleText: Passbolt | Free, Open Source & Self-hosted Password Manager
+SinglePage_MenuImage_AltText: Passbolt | Free, Open Source & Self-hosted Password Manager
+
 ---
 
 When it comes to finding a password manager that will work for multiple teams or employees in an organization, Passbolt stands out for its unique features. As a free to use, open source and self-hosted password manager it has been built specifically for organizations both small and large. Unlike most credentials management software, Passbolt is installed on server to let team member access and share credetnials across the team.

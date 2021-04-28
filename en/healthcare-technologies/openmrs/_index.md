@@ -10,6 +10,17 @@ draft: false
 weight: 2
 layout: "single"
 
+HomePage_TitleText: Open Source Healthcare Software in Java
+
+ListingPage_MenuImage_TitleText: OpenMRS
+ListingPage_MenuImage_AltText: OpenMRS is an open source health records management system
+ListingPage_Link_TitleText: OpenMRS
+
+SinglePage_HeaderImage_TitleText: health management information system
+SinglePage_HeaderImage_AltText: OpenMRS is open source health management information system
+SinglePage_MenuImage_TitleText: health management information system
+SinglePage_MenuImage_AltText: OpenMRS is an open source health management information system
+
 ---
 
 OpenMRS is an open source electronic medical record system. It is based on a modular architecture that is flexible to accept any expansion. It is highly **adaptable software** and provides integration with third-party libraries. This web based software comes up with many helpful add-ons such as ID-Generation, HTML Form entry, Admin UI module, Legacy UI module, and XForms. Reporting add-on provides a user interface that is used to manage report designs, data sets, and this **health management information system** also offers API for further development.

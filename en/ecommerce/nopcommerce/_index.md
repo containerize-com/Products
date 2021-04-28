@@ -10,6 +10,17 @@ draft: false
 weight: 7
 layout: "single"
 
+HomePage_TitleText: Open Source Shopping Cart in ASP.NET
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: nopCommerce - ASP.NET Based Open Source Shopping Cart Software
+ListingPage_Link_TitleText: Explore nopCommerce
+
+SinglePage_HeaderImage_TitleText: nopCommerce - Free Shopping Cart Solution
+SinglePage_HeaderImage_AltText: nopCommerce - Free Shopping Cart Solution
+SinglePage_MenuImage_TitleText: nopCommerce - Free Shopping Cart Solution
+SinglePage_MenuImage_AltText: nopCommerce - Free Shopping Cart Solution
+
 ---
 
 nopCommerce is ultimate **free shopping cart solution** based on Microsoft technologies. It is an open source **asp.net shopping cart**. It has impressive builtin features and suitable for small, medium and enterprise-level businesses. nopCommerce is secure, stable and extendable eCommerce platform.

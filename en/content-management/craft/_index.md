@@ -11,6 +11,17 @@ weight: 7
 layout: "single"
 GithubLink: https://github.com/craftcms/cms
 
+HomePage_TitleText: Open Source CMS Platform in PHP
+
+ListingPage_MenuImage_TitleText: digital content management
+ListingPage_MenuImage_AltText: Craft is an open source php digital content management system
+ListingPage_Link_TitleText: digital content management
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Craft Open Source Content Management Software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Craft is one of the most powerful open source CMS.
+
 ---
 
 #### Overview

@@ -11,6 +11,17 @@ weight: 3
 layout: "single"
 GithubLink: https://github.com/jekyll/jekyll
 
+HomePage_TitleText: Open Source Blogging Software in Ruby
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Jekyl is a simple blogging platform
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Jekyll is an Open Source Software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Jekyll is a free static website builder
+
 ---
 
 #### Overview

@@ -10,6 +10,17 @@ draft: false
 weight: 3
 layout: "single"
 
+HomePage_TitleText: Open Source Project Management Software in Ruby
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: OpenProject Free Project Workflow and Reporting Software
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: OpenProject is ruby based open source project management workflow software
+SinglePage_HeaderImage_AltText: OpenProject is ruby based open source project management workflow software
+SinglePage_MenuImage_TitleText: OpenProject is an agile and classical project management workflow software
+SinglePage_MenuImage_AltText: OpenProject is an agile and classical project management workflow software
+
 ---
 
 OpenProject is open source web-based project management workflow software that supports classical and agile project management. It allows you to create and visualize multiple projects with a shared timeline at once place. You can use Gantt Charts, Work Packages, and Calendar features to define project objectives, planning, and scheduling. OpenProject provides the simplest way to prepare, visualize, and communicate your product roadmap. Its task management and team collaboration's features e.g. task list, comments, history, watcher, etc. make your team more productive and effective.

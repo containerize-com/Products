@@ -17,6 +17,10 @@ menu:
 heading: Top Free Helpdesk Ticketing Software Include
 listingtypetag:  Freeware 
 
+HomePage_Link_TitleText: Open Source Helpdesk Ticketing Systems
+
+ListingPage_HeaderImage_TitleText: Best Free IT Help Desk Software
+ListingPage_HeaderImage_AltText: Best Free IT Help Desk Software
 
 ---
 

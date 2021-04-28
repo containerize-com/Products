@@ -11,6 +11,17 @@ weight: 3
 layout: "single"
 GithubLink: https://github.com/neooffice/NeoOffice
 
+HomePage_TitleText: Office Productivity Software
+
+ListingPage_MenuImage_TitleText: NeoOffice logo
+ListingPage_MenuImage_AltText: NeoOffice is an alternative to Microsoft Office
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: NeoOffice is a free office productivity software
+SinglePage_HeaderImage_AltText: NeoOffice is a 100% free and open-source office productivity suite
+SinglePage_MenuImage_TitleText: NeoOffice logo
+SinglePage_MenuImage_AltText: NeoOffice is a 100% free and open-source office productivity suite
+
 ---
 
 #### Overview

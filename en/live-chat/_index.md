@@ -17,6 +17,10 @@ menu:
 heading: Top Live Chat Software Include
 listingtypetag:  Open Source Software 
 
+HomePage_Link_TitleText: Open Source Live Chat Software / Apps
+
+ListingPage_HeaderImage_TitleText:
+ListingPage_HeaderImage_AltText: Live chat Open Source Software
 
 ---
 

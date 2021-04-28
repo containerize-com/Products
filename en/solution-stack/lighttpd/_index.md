@@ -10,6 +10,17 @@ draft: false
 weight: 3
 layout: "single"
 
+HomePage_TitleText: Web Server Solution Stack Software
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Secure, Flexible And Lightweight Web Server
+ListingPage_Link_TitleText: Explore Lighttpd
+
+SinglePage_HeaderImage_TitleText: Secure, Flexible And Lightweight Web Server
+SinglePage_HeaderImage_AltText: Secure, Flexible And Lightweight Web Server
+SinglePage_MenuImage_TitleText: Secure, Flexible And Lightweight Web Server
+SinglePage_MenuImage_AltText: Secure, Flexible And Lightweight Web Server
+
 ---
 
 Lighttpd is an open source lightweight web server, designed specially for Linux machines. It doesn’t require a lot of memory and CPU usage. Which makes it one of the best for any project that needs speed and high performance. Lighttpd is the perfect solution for every server that is suffering speed or performance issues.

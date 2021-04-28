@@ -11,6 +11,17 @@ weight: 12
 layout: "single"
 GithubLink: https://github.com/locomotivecms/engine
 
+HomePage_TitleText: Open Source CMS built with Ruby on Rails
+
+ListingPage_MenuImage_TitleText: self hosted cms
+ListingPage_MenuImage_AltText: Self Hosted CMS With Liquid Templating for Scalable Applications.
+ListingPage_Link_TitleText: Most Popular Open Source CMS
+
+SinglePage_HeaderImage_TitleText: Locomotive CMS uses the exact same template engine as for Shopify.
+SinglePage_HeaderImage_AltText: Locomotive is an Open Source Content Management System that makes it super easy to develop and design  exactly what your clients need.
+SinglePage_MenuImage_TitleText: LocomotiveCMS features like permalinks, categories, pages, posts, and custom layouts
+SinglePage_MenuImage_AltText: LocomotiveCMS offers features that may not be available to other PHP based CMS
+
 ---
 
 Overview

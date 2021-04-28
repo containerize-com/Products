@@ -11,6 +11,17 @@ weight: 4
 layout: "single"
 GithubLink: https://github.com/divio/django-cms
 
+HomePage_TitleText: Open Source CMS Platform in Python
+
+ListingPage_MenuImage_TitleText:  most popular open source cms
+ListingPage_MenuImage_AltText: django is most popular open source cms
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: web content management software
+SinglePage_HeaderImage_AltText: Django is a free web content management software
+SinglePage_MenuImage_TitleText: web content management software
+SinglePage_MenuImage_AltText: Django is a free web content management software
+
 ---
 
 Digital world has become so competitive and alive that it keeps things turning around for the sake of updates and fresh content. The digital platform is dependent on rich and high rated content. Regardless of the platform, web content management software is the essence of all the marketing techniques. Hence, there is a strong need in the community regarding creating, managing, and publishing the content.

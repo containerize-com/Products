@@ -10,6 +10,17 @@ draft: false
 weight: 5
 layout: "single"
 
+HomePage_TitleText: Open Source Email Delivery Platform in Python
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Exim is highly customizable mail transfer agent
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Exim is highly customizable open source mail transfer agent software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Exim is number one choice as Open Source Mail Transfer Agent
+
 ---
 
 Communication via electronic mail has become primitive in our lives. To send emails from desktop, mobile or any other device is a day to day affair for most of the people. Simple Mail Transfer Protocol (SMTP) is the standard protocol used to send emails. IMAP and POP3 are the protocols to receive emails. IMAP has some advantages over the POP due to synchronization across the devices. So, a Mail transfer agent that open source and supports all these required protocols is crucial.

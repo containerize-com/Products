@@ -11,6 +11,17 @@ weight: 8
 layout: "single"
 GithubLink: https://github.com/getgrav/grav
 
+HomePage_TitleText: Open Source CMS Platform in PHP
+
+ListingPage_MenuImage_TitleText: file based content management system
+ListingPage_MenuImage_AltText: file based content management system
+ListingPage_Link_TitleText: file based content management system
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Grav Open Source Content Management Software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Grav is one of the most powerful open source CMS.
+
 ---
 
 #### Overview

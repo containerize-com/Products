@@ -17,6 +17,10 @@ menu:
 heading: Top Database Management Systems Include
 listingtypetag: Open Source Products
 
+HomePage_Link_TitleText: Database Management Systems
+
+ListingPage_HeaderImage_TitleText: 
+ListingPage_HeaderImage_AltText: Best Open Source Database Management Systems
 
 ---
 

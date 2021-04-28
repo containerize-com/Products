@@ -10,6 +10,17 @@ draft: false
 weight: 3
 layout: "single"
 
+HomePage_TitleText: Open Source HTML5 Form Generator in JavaScript VueJS
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: ohMyForm
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Ohmyform Software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: ohmyform software 
+
 ---
 
 OhMyForm is 100% open source software to generate professional grade mobile ready forms, surveys and questionnaires. Use of standard web technologies makes it easier to embed the forms on desktop, web or mobile apps.

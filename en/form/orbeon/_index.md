@@ -10,6 +10,17 @@ draft: false
 weight: 2
 layout: "single"
 
+HomePage_TitleText: Open Source HTML Form Generator in Java
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Orbeon
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Orbeon Software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Orbeon 
+
 ---
 
 ### Overview

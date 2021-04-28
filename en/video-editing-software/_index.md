@@ -17,6 +17,10 @@ menu:
 heading: Top Video Editing Software Include
 listingtypetag: Open Source Software
 
+HomePage_Link_TitleText: Open Source Video Editing Software
+
+ListingPage_HeaderImage_TitleText:
+ListingPage_HeaderImage_AltText: Top Open Source Video editors
 
 ---
 

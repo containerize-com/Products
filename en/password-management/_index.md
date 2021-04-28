@@ -17,6 +17,10 @@ menu:
 heading: Top Password Management Software Include
 listingtypetag: Open Source Products
 
+HomePage_Link_TitleText: Open Source Password Management
+
+ListingPage_HeaderImage_TitleText: Best Open Source Password Management Software
+ListingPage_HeaderImage_AltText: Best Open Source Password Management Software
 
 ---
 

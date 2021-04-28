@@ -10,6 +10,17 @@ draft: false
 weight: 4
 layout: "single"
 
+HomePage_TitleText: Open Source HTML5 Form Generator in JavaScript ReactJs
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Webiny
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Webiny Software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Webiny Software
+
 ---
 
 Webiny is a self-hosted open source platform developed to meet most of the serverless business use cases. It is a complete package to automate most of the online business processes which includes an enterprise form builder to build and deploy forms. It is developed using the most advanced technologies like GraphQL, Nodejs as the server side environment and Reactjs for the front end.

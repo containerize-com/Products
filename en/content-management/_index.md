@@ -18,5 +18,10 @@ heading: Top CMS Software Include
 listingtypetag: Open Source Software 
 
 
+HomePage_Link_TitleText: Open Source CMS Software / Platforms
+
+ListingPage_HeaderImage_TitleText: Most Popular Open Source CMS
+ListingPage_HeaderImage_AltText: Most Popular Open Source CMS
+
 ---
 

@@ -10,6 +10,17 @@ draft: false
 weight: 1
 layout: "single"
 
+HomePage_TitleText: Web Server Solution Stack Software
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: XAMPP - free local web server
+ListingPage_Link_TitleText: Explore XAMPP
+
+SinglePage_HeaderImage_TitleText: XAMPP - open source web server solution stack
+SinglePage_HeaderImage_AltText: XAMPP - open source web server solution stack
+SinglePage_MenuImage_TitleText: XAMPP - open source web server solution stack
+SinglePage_MenuImage_AltText: XAMPP - open source web server solution stack
+
 ---
 
 XAMPP is a free and open source web server solution stack. It helps developers to test their web apps or websites on their development environment. It has all the necessary components including Apache, Perl, MySQL database, and PHP.

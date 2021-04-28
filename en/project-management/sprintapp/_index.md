@@ -10,6 +10,17 @@ draft: false
 weight: 7
 layout: "single"
 
+HomePage_TitleText: Open Source Project Management Tool in Ruby
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: SprintApp is a Ruby based open source project management tool
+ListingPage_Link_TitleText: SprintApp is a Ruby based open source project management tool
+
+SinglePage_HeaderImage_TitleText: OpenProject is ruby based open source project management workflow software
+SinglePage_HeaderImage_AltText: OpenProject is ruby based open source project management workflow software
+SinglePage_MenuImage_TitleText: OpenProject is an agile and classical project management workflow software
+SinglePage_MenuImage_AltText: OpenProject is an agile and classical project management workflow software
+
 ---
 
 SprintApp is a professional free project management software written using the Ruby on Rails framework with many features. SprintApp flexible project management web-based application has made project management and time tracking easy.SprintApp free project management tool is easy to use so that you can focus on what you do best while running your business. Redmine is great for some companies or teams, but it is difficult to use and doesn't look that great as SprintApp pms. SprintApp solves those issues and many more.

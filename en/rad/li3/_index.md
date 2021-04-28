@@ -10,6 +10,17 @@ draft: false
 weight: 4
 layout: "single"
 
+HomePage_TitleText: Open Source Rapid Application Development Framework in PHP
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Open Source Rapid Application Development Framework
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: Web Rapid Application Development
+SinglePage_HeaderImage_AltText: li3 is open source full-stack software for Web Rapid Application Development
+SinglePage_MenuImage_TitleText: Web Rapid Application Development
+SinglePage_MenuImage_AltText: li3 is PHP based open source system for Web Rapid Application Development
+
 ---
 
 li3 is a popular open source software for **web rapid application development**. It gives complete control to the user because of its component-oriented architecture. This free RAD framework is highly flexible to adopt any change in its ecosystem due to its lightweight design. It makes full use of the latest features of PHP language such as closures, namespaces, and late static binding. Moreover, It is multilingual and provides integration with third-party applications.

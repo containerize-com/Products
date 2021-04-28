@@ -11,6 +11,17 @@ weight: 2
 layout: "single"
 GithubLink: https://github.com/drupal/drupal
 
+HomePage_TitleText: Open Source CMS Platform in PHP
+
+ListingPage_MenuImage_TitleText: enterprise content management open source platform
+ListingPage_MenuImage_AltText: enterprise content management open source platform
+ListingPage_Link_TitleText: enterprise content management open source platform
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Joomla Open Source Software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Drupal is easy to use content management system.
+
 ---
 
 #### Overview

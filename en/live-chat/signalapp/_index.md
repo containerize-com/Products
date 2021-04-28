@@ -11,6 +11,17 @@ weight: 10
 layout: "single"
 GithubLink: https://github.com/signalapp/Signal-Desktop
 
+HomePage_TitleText: Open Source cross-platform encrypted messaging service
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Signal is a free, privacy-focused messaging and voice talk app you can use on Apple and Android smartphones and via desktop.
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: open-source messaging app, designed to never collect or store any sensitive information by other third parties, just like WhatsApp
+SinglePage_HeaderImage_AltText: open-source messaging app, designed to never collect or store any sensitive information by other third parties, just like WhatsApp
+SinglePage_MenuImage_TitleText: Signal is a free, privacy-focused messaging and voice talk app you can use on Apple and Android smartphones and via desktop
+SinglePage_MenuImage_AltText: Signal is a free, privacy-focused messaging and voice talk app you can use on Apple and Android smartphones and via desktop
+
 ---
 
 Overview

@@ -17,6 +17,10 @@ menu:
 heading: Top Open Source Status Page System Include
 listingtypetag:  Open Source Software 
 
+HomePage_Link_TitleText: Open Source StatusPage Software / Apps
+
+ListingPage_HeaderImage_TitleText: Open Source Status Page System
+ListingPage_HeaderImage_AltText: Open Source Status Page System
 
 ---
 

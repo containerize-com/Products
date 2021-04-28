@@ -10,6 +10,17 @@ draft: false
 weight: 4
 layout: "single"
 
+HomePage_TitleText: Blockchain Platform in C++
+
+ListingPage_MenuImage_TitleText: distributed payment system 
+ListingPage_MenuImage_AltText: Ripple is an Open Source distributed payment system 
+ListingPage_Link_TitleText: distributed payment system 
+
+SinglePage_HeaderImage_TitleText: distributed payment system
+SinglePage_HeaderImage_AltText: Ripple open source distributed payment system
+SinglePage_MenuImage_TitleText: distributed payment system
+SinglePage_MenuImage_AltText: Ripple is an open source distributed payment system
+
 ---
 
 Ripple is an open source digital currency and payment solution. It provides ways for the fast and secured transaction of payment within its network. There are three roles that a Ripple node can take. Firstly, it can act as a normal user who transfers or receives payments. Secondly, the market maker can be a trade enabler in the system. Thirdly, the validating server usually validates transactions and runs a consensus protocol.

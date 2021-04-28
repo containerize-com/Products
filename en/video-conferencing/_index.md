@@ -17,6 +17,10 @@ menu:
 heading: Top Video Conferencing Software Include
 listingtypetag: Open Source Software
 
+HomePage_Link_TitleText: Video Conferencing Software
+
+ListingPage_HeaderImage_TitleText: open source video conferencing software
+ListingPage_HeaderImage_AltText: Top open source video conferencing software
 
 ---
 

@@ -10,6 +10,17 @@ draft: false
 weight: 3
 layout: "single"
 
+HomePage_TitleText: Open Source Accounting System in PHP
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: InvoicePlane - PHP CodeIgniter Based Book Keeping Platform
+ListingPage_Link_TitleText: Explore InvoicePlane
+
+SinglePage_HeaderImage_TitleText: InvoicePlane - Invoice Processing System
+SinglePage_HeaderImage_AltText: InvoicePlane - Invoice Processing System
+SinglePage_MenuImage_TitleText: InvoicePlane - Invoice Processing System
+SinglePage_MenuImage_AltText: InvoicePlane - Invoice Processing System
+
 ---
 
 InvoicePlane is a invoice processing system for bookkeeping. It is robust invoicing software with a complete billing cycle. It is one of the **best SME accounting software**. InvoicePlane is self-hosted open source software that administers the quotations, invoices, receipts, customers, and payments. InvoicePlane offers a powerful CRM for managing client's details, notes, and support custom fields. This **open source invoicing system** allows customization to fulfill the business needs. It can be a fully customized user experience by selecting different themes, configure amount formats, changes templates for emails and PDF.

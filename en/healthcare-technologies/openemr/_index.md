@@ -10,6 +10,17 @@ draft: false
 weight: 1
 layout: "single"
 
+HomePage_TitleText: Open Source Healthcare Software in PHP
+
+ListingPage_MenuImage_TitleText: OpenEMR
+ListingPage_MenuImage_AltText: OpenEMR is an open source health care solution
+ListingPage_Link_TitleText: OpenEMR
+
+SinglePage_HeaderImage_TitleText: OpenEMR
+SinglePage_HeaderImage_AltText: OpenEMR is open source hospital management system 
+SinglePage_MenuImage_TitleText: OpenEMR
+SinglePage_MenuImage_AltText: OpenEMR is open source hospital management system 
+
 ---
 
 OpenEMR is a cross platform open source software for maintaining health records. This hospital information system is capable enough to perform medical practice management in a well-organized manner. Moreover, this **free software** comes up with many features such as scheduling, electronic billing, free support, and internationalization. Further, there are role-based menus that are fully customizable. After that, As far as data security is concerned, it provides encryption to the patient’s records. Users can generate a customized report and can do automated tracking. In addition, OpenEMR offers a logical and user-friendly interface with rich controls and search capabilities.

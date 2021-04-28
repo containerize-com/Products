@@ -10,6 +10,17 @@ draft: false
 weight: 3
 layout: "single"
 
+HomePage_TitleText: Open Source Shopping Cart in PHP
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: PrestaShop - PHP Based Open Source Shopping Cart Software
+ListingPage_Link_TitleText: Explore PrestaShop
+
+SinglePage_HeaderImage_TitleText: PrestaShop - Free Shopping Cart Solution
+SinglePage_HeaderImage_AltText: PrestaShop - Free Shopping Cart Solution
+SinglePage_MenuImage_TitleText: PrestaShop - Free Shopping Cart Solution
+SinglePage_MenuImage_AltText: PrestaShop - Free Shopping Cart Solution
+
 ---
 
 PrestaShop is an efficient, scalable, and completely customizable **free shopping cart solution**. It allows companies to set up an online shop in a couple of minutes. PrestaShop has an impressive list of features to meet eCommerce market requirements such as inventory management, payments, delivery, manufacturers, suppliers, and many more.

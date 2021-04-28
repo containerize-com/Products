@@ -10,6 +10,17 @@ draft: false
 weight: 4
 layout: "single"
 
+HomePage_TitleText: Open Source ERP in Python
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Tryton - Popular Open Source ERP Software
+ListingPage_Link_TitleText: Explore Tryton
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Tryton - Open Source ERP Software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Tryton - Python Based Open Source ERP Software
+
 ---
 
 Tryton is free and 100% open source ERP software. It is suitable for businesses of all kinds. It’s robust, flexible, scalable ERP system. Tryton is based on a modular design, so you can only install the modules that your company requires. Moreover, its web based system but it has clients for Windows and Mac OS as well.

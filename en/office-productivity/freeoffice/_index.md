@@ -10,6 +10,17 @@ draft: false
 weight: 4
 layout: "single"
 
+HomePage_TitleText: Office Productivity Software
+
+ListingPage_MenuImage_TitleText: FreeOffice logo
+ListingPage_MenuImage_AltText: FreeOffice is an alternative to Microsoft Office
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: FreeOffice is best free office alternative with word processing, spreadsheet and presentation software.
+SinglePage_HeaderImage_AltText: FreeOffice is best free office alternative with word processing, spreadsheet and presentation software
+SinglePage_MenuImage_TitleText: FreeOffice is best free office alternative 
+SinglePage_MenuImage_AltText: FreeOffice is best free office alternative
+
 ---
 
 #### Overview

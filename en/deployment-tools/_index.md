@@ -17,6 +17,10 @@ menu:
 heading: Top Free Software Deployment Tools Include
 listingtypetag:  Open Source Software 
 
+HomePage_Link_TitleText: Open Source Deployment Tools
+
+ListingPage_HeaderImage_TitleText: Free Software Deployment Tools
+ListingPage_HeaderImage_AltText: Free Software Deployment Tools
 
 ---
 

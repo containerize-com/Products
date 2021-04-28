@@ -17,6 +17,10 @@ menu:
 heading: Top Invoicing Software Include
 listingtypetag:  Open Source Software
 
+HomePage_Link_TitleText: Open Source Book Keeping Software
+
+ListingPage_HeaderImage_TitleText:
+ListingPage_HeaderImage_AltText: Best Open Source Invoicing Options
 
 ---
 

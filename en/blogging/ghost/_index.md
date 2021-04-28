@@ -11,6 +11,17 @@ weight: 2
 layout: "single"
 GithubLink: https://github.com/TryGhost
 
+HomePage_TitleText: Open Source Blogging Software in JavaScript
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Ghost is free and open source blogging platform
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Ghost Open Source Software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Ghost is purely a blogging tool.
+
 ---
 
 #### Overview

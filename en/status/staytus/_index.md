@@ -10,6 +10,17 @@ draft: false
 weight: 4
 layout: "single"
 
+HomePage_TitleText: Open Source StatusPage System in Ruby
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Staytus - Ruby Based StatusPage system
+ListingPage_Link_TitleText: Explore Staytus
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Staytus - Open Source Status Page System
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Staytus - Ruby and Node.js based open source status page system
+
 ---
 
 Customers are a vital part of every company. It will help you gain trust by keeping them informed about issues. Your services run 24×7 and things can go wrong at any moment. It would be perfect to send timely alerts to customers for system outages, instead of they contact support. Organizations can manage this situation through setting up status page application, so they can monitor product status.

@@ -10,6 +10,17 @@ draft: false
 weight: 5
 layout: "single"
 
+HomePage_TitleText: Open Source Deployment Tool in Go
+
+ListingPage_MenuImage_TitleText: Rancher - Go Based Free Deployment Tool
+ListingPage_MenuImage_AltText: Rancher - Go Based Free Deployment Tool
+ListingPage_Link_TitleText: Explore Rancher
+
+SinglePage_HeaderImage_TitleText: Rancher - Container Management Platform
+SinglePage_HeaderImage_AltText: Rancher - Container Management Platform
+SinglePage_MenuImage_TitleText: Rancher - Container Management Platform
+SinglePage_MenuImage_AltText: Rancher - Container Management Platform
+
 ---
 
 Rancher is an open-source **container management platform**. It is 100% free and fully supported by an active community. It offers a complete set of infrastructure services for containers, networking, storage services, host management, and load balancing. Software teams can easily deploy and manage containerized applications by using a powerful **container management tool**.

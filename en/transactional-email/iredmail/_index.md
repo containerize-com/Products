@@ -10,6 +10,17 @@ draft: false
 weight: 6
 layout: "single"
 
+HomePage_TitleText: Open Source Email Delivery Platform
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: iRedMail is easy to setup mail server.
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: iRedMail is open source email routing server
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: iRedMail is a postfix based mail server
+
 ---
 
 With so many solutions available for email delivery it becomes very tricky to choose the right mail delivery software for your business needs. iRedmail is easy to setup mail transfer agent software which full fills all the communication needs of a modern-day business.

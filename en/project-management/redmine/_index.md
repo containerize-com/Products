@@ -10,6 +10,17 @@ draft: false
 weight: 1
 layout: "single"
 
+HomePage_TitleText: Open Source Project Management Software in Ruby on Rails
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Redmine is Ruby on Rails based Project Management Software
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Redmine is open source project management software in Ruby
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Redmine is free project planning tool
+
 ---
 
 Redmine is a free and open source project management software for task management, issue tracking, and resource management. It is pretty simple to extend and customize as per your business needs with custom fields feature. Its permission management and role management features provide flexible control of user access. Redmine is a lightweight and easy to use web-based project planning tool that let you manage your projects, teams, and resources. It’s Gantt chart and customized reports features provide additional support to project planning and visualization.

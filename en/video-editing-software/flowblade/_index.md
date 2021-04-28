@@ -10,6 +10,17 @@ draft: false
 weight: 3
 layout: "single"
 
+HomePage_TitleText: Open Source Video Editor in Python
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: flowblade is an open source video editor
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: open source video editing tool
+SinglePage_HeaderImage_AltText: Flowblade is open source video editing tool
+SinglePage_MenuImage_TitleText: open source video editing tool
+SinglePage_MenuImage_AltText: Flowblade is open source video editing tool
+
 ---
 
 Flowblade is an open source video editing tool. This software uses G’MIC that is an open source image filtering technology. It allows you to compose multiple images and audio into a single video. Further, it proves a multitrack timeline where users can drop multiple clips to make a final video. There rich editing features such as trim, insert, cut, multi trim, ripple trim, and keyframe. As far as the track timeline is concerned, it allows you to insert, append, overwrite, and drag &amp; drop clips. Moreover, users can clone filters and clips using powerful controls.

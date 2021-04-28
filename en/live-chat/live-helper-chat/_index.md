@@ -11,6 +11,17 @@ weight: 8
 layout: "single"
 GithubLink: https://github.com/LiveHelperChat/livehelperchat
 
+HomePage_TitleText: Open Source Live Chat System in PHP
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Live Helper Chat is one of the most popular open source live chat software.
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Rocket.Chat is easy to setup team chat application
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Live Helper Chat supports customer chat out of box
+
 ---
 
 Live Helper Chat is an open source live chat software which brings simplicity and usability in one place. With Live Helper Chat you can bring live support on your website for free. There are lots of other open source live chat applications. Like, ZulipChat, Rocket.Chat and Lets-Chat but Live Helper Chat has made its position because of its simplicity and usability.

@@ -10,6 +10,17 @@ draft: false
 weight: 2
 layout: "single"
 
+HomePage_TitleText: Open Source StatusPage System in Go
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Statping - GO Based Monitoring Platform
+ListingPage_Link_TitleText: Explore Statping
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Statping - Open Source Software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Statping - Web and Application Monitoring Platform
+
 ---
 
 Statping is an Open Source software for monitoring your websites, services, APIs and applications with excellent feature like graphs, analytics, and plugins. You can monitor HTTP, TCP, UDP and gRPC services as well. It can be run on any environment.

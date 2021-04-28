@@ -10,6 +10,17 @@ draft: false
 weight: 5
 layout: "single"
 
+HomePage_TitleText: Database Management Tool
+
+ListingPage_MenuImage_TitleText: GUI Based Database Management Tool For Popular DBMS
+ListingPage_MenuImage_AltText: GUI Based Database Management Tool For Popular DBMS
+ListingPage_Link_TitleText: Explore HeidiSQL
+
+SinglePage_HeaderImage_TitleText: HeidiSQL | Administration Tool for MySQL and Other DBMS
+SinglePage_HeaderImage_AltText: HeidiSQL | Administration Tool for MySQL and Other DBMS
+SinglePage_MenuImage_TitleText: HeidiSQL | Administration Tool for MySQL and Other DBMS
+SinglePage_MenuImage_AltText: HeidiSQL | Administration Tool for MySQL and Other DBMS
+
 ---
 
 HeidiSQL is free, portable and lightweight and open source administration tool for MySQL and other database management systems. It has an easy-to-use web interface. It provides a graphical interface to manage databases easily and efficiently. Use its intuitive GUI to browse, create and edit data from databases as well as to create and edit its tables, views, procedures, triggers and scheduled events. Easily compare and synchronize your data and structure between local and remote databases.

@@ -10,6 +10,17 @@ draft: false
 weight: 5
 layout: "single"
 
+HomePage_TitleText: Open Source Project Management Software in PHP
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Tuleap is a PHP based open source project management software
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Tuleap is a PHP based open source project management software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Tuleap is a PHP based open source project management software
+
 ---
 
 Tuleap is a PHP based open source project management software. It aims to manage projects for every type of software development team, small, midsize, large, waterfall, agile, or hybrid. But it focuses more on Agile. With Tuleap, you build a competitive edge over other products. It Accelerates the delivery and quality of customer-focused solutions.

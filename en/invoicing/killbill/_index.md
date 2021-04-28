@@ -10,6 +10,17 @@ draft: false
 weight: 4
 layout: "single"
 
+HomePage_TitleText: Open Source Accounting System in Java
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Kill Bill - Java Based Invoicing Platform
+ListingPage_Link_TitleText: Explore Kill Bill
+
+SinglePage_HeaderImage_TitleText: Kill Bill - Open Source Billing Software
+SinglePage_HeaderImage_AltText: Kill Bill - Open Source Billing Software
+SinglePage_MenuImage_TitleText: Kill Bill - Open Source Billing Software
+SinglePage_MenuImage_AltText: Kill Bill - Open Source Billing Software
+
 ---
 
 Kill Bill helps you expand your business by scaling up your billing and payment system. You can set it up on your private server and keep the confidential data under control.

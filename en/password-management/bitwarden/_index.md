@@ -10,6 +10,17 @@ draft: false
 weight: 4
 layout: "single"
 
+HomePage_TitleText: Open Source Password Management Software
+
+ListingPage_MenuImage_TitleText: Bitwarden logo
+ListingPage_MenuImage_AltText: Best Open Source Password Management Software
+ListingPage_Link_TitleText: Explore Bitwarden
+
+SinglePage_HeaderImage_TitleText: Bitwarden | Open Source Cross-platform Password Manager
+SinglePage_HeaderImage_AltText: Bitwarden | Open Source Cross-platform Password Manager
+SinglePage_MenuImage_TitleText: Bitwarden | Open Source Cross-platform Password Manager
+SinglePage_MenuImage_AltText: Bitwarden | Open Source Cross-platform Password Manager
+
 ---
 
 Bitwarden is all rounded open source password manager that not only can be used by individuals to store their critical and important information, but can be deployed by businesses across all levels as well. As an open source password manager, it comes in two versions: free and paid version. Similarly, Bitwarden can be downloaded on both iOS and Android mobile phones, and provides plenty of browser extensions to autofill passwords as well. It is one of the best open source password manager.

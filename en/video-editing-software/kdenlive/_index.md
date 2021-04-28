@@ -10,6 +10,17 @@ draft: false
 weight: 4
 layout: "single"
 
+HomePage_TitleText: Open Source Video Editor in C++
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Kdenlive is an open source video editor
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: open source video editor
+SinglePage_HeaderImage_AltText: Kdenlive is an open source video editor
+SinglePage_MenuImage_TitleText: open source video editor
+SinglePage_MenuImage_AltText: open source video editor
+
 ---
 
 Kdenlive is a free and open source video editor. It is a powerful tool for video editing and audio capturing. Firstly, this free tool is built on top of [Qt ](http://www.qt.io/)and the [KDE](https://www.kde.org/) libraries. Secondly, it provides a configurable user interface and users can customize the interface according to their workflows. Thirdly, there are configurable keyboard shortcuts for the users. Moreover, it offers corporate video editing capabilities like multi-track video editing in which users can manage several video/audio tracks. Further, FFmpeg libraries provide support for Kdenlive due to which it can process almost all widely used video/audio formats.

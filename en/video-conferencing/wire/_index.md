@@ -10,6 +10,17 @@ draft: false
 weight: 5
 layout: "single"
 
+HomePage_TitleText: Video Conferencing Software
+
+ListingPage_MenuImage_TitleText: Open Source Video Collaboration Platform
+ListingPage_MenuImage_AltText: Open Source Video Collaboration Platform
+ListingPage_Link_TitleText: Wire
+
+SinglePage_HeaderImage_TitleText: web conferencing software
+SinglePage_HeaderImage_AltText: Wire is open source web conferencing software
+SinglePage_MenuImage_TitleText: web conferencing software
+SinglePage_MenuImage_AltText: wire is open source web conferencing software
+
 ---
 
 Wire is an entirely open source software designed with a robust business model. It is very simple to use and easy to setup. This remote collaboration platform offers many powerful features that include video/audio calls, file sharing, screen sharing, guest rooms, secure inter/external conversation with end to end encryption, and forward and backward secrecy mechanism. However, this web conferencing software allows you to invite users into a video conferencing call by sharing a link.

@@ -10,6 +10,17 @@ draft: false
 weight: 2
 layout: "single"
 
+HomePage_TitleText: Open Source Email Marketing Platform in JavaScript NodeJS
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Mailtrain - Node.js Based Newsletter Platform
+ListingPage_Link_TitleText: Explore Mailtrain
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Mailtrain - Open Source Software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Mailtrain - Node.js Based Newsletter Platform
+
 ---
 
 Mailtrain is Mailchimp clone and feature-rich self-hosted newsletter software that is great for sending emails to millions of subscribers. Mailtrain provides superb features such as campaign automation with analytics.

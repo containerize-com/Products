@@ -17,6 +17,10 @@ menu:
 heading: Top Web Server Solution Stacks Include
 listingtypetag: Solution Stack
 
+HomePage_Link_TitleText: Web Server Solution Stack
+
+ListingPage_HeaderImage_TitleText:
+ListingPage_HeaderImage_AltText: Best Open Source Web Server Solution Stack Options
 
 ---
 

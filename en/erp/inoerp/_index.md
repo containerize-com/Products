@@ -10,6 +10,17 @@ draft: false
 weight: 7
 layout: "single"
 
+HomePage_TitleText: Open Source ERP Software in PHP
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: inoERP is suite of free business and marketing software
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: inoERP is open source web-based set of business applications.
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: inoERP is open source Enterprise Resource Planning.
+
 ---
 
 Enterprise resource planning (ERP) refers to a type of software that organizations use to manage day-to-day business activities such as accounting, procurement, project management, risk management and compliance, and supply chain operations. A complete ERP suite also includes enterprise performance management, software that helps plan, budget, predict, and report on an organization’s financial results.

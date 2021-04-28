@@ -17,6 +17,10 @@ menu:
 heading: Top Blogging Platforms Include
 listingtypetag:  Open Source Software 
 
+HomePage_Link_TitleText: Open Source Blog Software / Platforms
+
+ListingPage_HeaderImage_TitleText:
+ListingPage_HeaderImage_AltText: Free Open Source Blogging Platforms
 
 ---
 

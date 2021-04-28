@@ -10,6 +10,17 @@ draft: false
 weight: 6
 layout: "single"
 
+HomePage_TitleText: Open Source SSO Solution for JAVA
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: OIP
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: identity management service
+SinglePage_HeaderImage_AltText: Open source identity management service
+SinglePage_MenuImage_TitleText: identity management service
+SinglePage_MenuImage_AltText: free identity management service
+
 ---
 
 Enterprise businesses tend to have a large employee base as well as the application base. Security and management loop wholes can never be omitted where several employees switch from one application to another. Here **identity management service** comes, SSO provides cost-effective solutions to let employees sign in with a single pair of credentials and get access to multiple applications with greater security and usability.

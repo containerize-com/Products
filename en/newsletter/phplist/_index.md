@@ -10,6 +10,17 @@ draft: false
 weight: 1
 layout: "single"
 
+HomePage_TitleText: Open Source Email Marketing Platform in PHP
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: phpList - PHP Based Newsletter Platform
+ListingPage_Link_TitleText: Explore phpList
+
+SinglePage_HeaderImage_TitleText: phpList - phpList - Open Source Newsletter Software
+SinglePage_HeaderImage_AltText: phpList - Open Source Newsletter Software
+SinglePage_MenuImage_TitleText: phpList - PHP Based Open Source Newsletter Platform
+SinglePage_MenuImage_AltText: phpList - PHP Based Open Source Newsletter Platform
+
 ---
 
 phpList is one of the leading free and open source newsletter software. phpList has been used for many businesses for sending email newsletters, marketing campaigns, and announcements. This open source email newsletter software can send campaign to millions of subscribers. It has a beautiful web interface with wizard for composing campaign/newsletter. Further, newsletter can be personalized for each subscriber. phpList supports both plain text, and HTML formats for sending newsletter. Moreover, phpList provides features for scheduling and automating campaigns.

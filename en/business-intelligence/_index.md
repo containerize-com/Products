@@ -17,6 +17,10 @@ menu:
 heading: Top Business Intelligence Software Include
 listingtypetag: Open Source Software
 
+HomePage_Link_TitleText: Open Source Business Intelligence Software
+
+ListingPage_HeaderImage_TitleText: business intelligence solutions
+ListingPage_HeaderImage_AltText: business intelligence solutions
 
 ---
 

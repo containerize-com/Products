@@ -17,6 +17,10 @@ menu:
 heading: Top Project Management Systems Include
 listingtypetag:  Open Source Software 
 
+HomePage_Link_TitleText: Open Source Project Management Software
+
+ListingPage_HeaderImage_TitleText:
+ListingPage_HeaderImage_AltText: Open source project management software
 
 ---
 

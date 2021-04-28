@@ -11,6 +11,17 @@ weight: 7
 layout: "single"
 GithubLink: https://github.com/Tiledesk
 
+HomePage_TitleText: Open Source Live Chat System in JavaScript
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Tiledesk is one of the most popular open source live chat software.
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Rocket.Chat is easy to setup team chat application
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Rocket.Chat supports customer chat out of box
+
 ---
 
 Conversational chatbots have made this possible for the businesses to give their customers the always available high touch support they want. Tiledesk is one of the most popular open source live chat software with integrated chatbot support.

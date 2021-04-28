@@ -17,6 +17,10 @@ menu:
 heading: Top HTML Form Tools Include
 listingtypetag:  Open Source Software 
 
+HomePage_Link_TitleText: Open Source Cross Platform Form Builder
+
+ListingPage_HeaderImage_TitleText:
+ListingPage_HeaderImage_AltText: Open Source Form Software
 
 ---
 

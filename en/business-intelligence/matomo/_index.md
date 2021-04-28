@@ -10,6 +10,18 @@ draft: false
 weight: 1
 layout: "single"
 
+HomePage_TitleText: Open Source Business Intelligence Software in PHP
+
+ListingPage_MenuImage_TitleText: business intelligence analytics software
+ListingPage_MenuImage_AltText: business intelligence analytics software
+ListingPage_Link_TitleText: business intelligence analytics software
+
+SinglePage_HeaderImage_TitleText: business intelligence analytics software
+SinglePage_HeaderImage_AltText: business intelligence analytics software
+SinglePage_MenuImage_TitleText: business intelligence analytics software
+SinglePage_MenuImage_AltText: business intelligence analytics software
+
+
 ---
 
 Matomo is an open source free analytics platform. It comes with self-hosting capabilities and is very easy to setup. This business intelligence analytics software offers API to create custom reports. However, there is an intuitive dashboard that provides utmost customization where users can modify the widgets and theme. Above all, there is a complete assurance of data privacy where users have complete control. There is no limitation regarding adding websites and users. It shows all the important analytics such as location, interest, and real-time visitor information.

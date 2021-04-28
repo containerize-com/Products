@@ -10,6 +10,17 @@ draft: false
 weight: 1
 layout: "single"
 
+HomePage_TitleText: Open Source Rapid Application Development Framework in Java
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Open Source Java-Based Rapid Application Development Framework
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: RAD software
+SinglePage_HeaderImage_AltText: open source RAD software
+SinglePage_MenuImage_TitleText: RAD software
+SinglePage_MenuImage_AltText: open source RAD software
+
 ---
 
 Cuba Platform is a completely open source framework that lets users build multi tiered web applications. It is a component based ecosystem that lessens the dependencies of modules/components with one another. This **RAD software** offers many **RAD tools** to speed up the platform based development as well as deployment.

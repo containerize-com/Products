@@ -10,6 +10,17 @@ draft: false
 weight: 3
 layout: "single"
 
+HomePage_TitleText: Open Source Marketing Automation Platform in PHP
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: SuiteCRM is free Customer Relationship Management software
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: SuiteCRM is free enterprise level CRM application
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: SuiteCRM is PHP based open source marketing automation tool 
+
 ---
 
 SuiteCRM is free and open source customer relationship management software that suits for small to enterprise level business. It provides powerful dashboard, you can enable functionalities as per your business requirements. Its central repository for all your customer data helps you to understand key insights that can be used to prepare marketing campaigns. Its cutting edge feature-set endows your sales team to sell smarter, quicker and more professionally.

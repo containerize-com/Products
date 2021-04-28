@@ -10,6 +10,17 @@ draft: false
 weight: 6
 layout: "single"
 
+HomePage_TitleText: Open Source HTML5 Form Generator in JavaScript jQuery
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Form Builder 
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: FormBuilder Software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: FormBuilder Software
+
 ---
 
 In the world of web form builders, FormBuilder is developed in jQuery to provide the best user experience. There are many open source form builder software available, but the FormBuilder stands out due to it’s comprehensive documentation available regarding both development and usage.

@@ -10,6 +10,17 @@ draft: false
 weight: 5
 layout: "single"
 
+HomePage_TitleText: Open Source Healthcare Software in PHP
+
+ListingPage_MenuImage_TitleText: Solismed
+ListingPage_MenuImage_AltText: Solismed is an open source clinic information management system
+ListingPage_Link_TitleText: Solismed
+
+SinglePage_HeaderImage_TitleText: clinic information management system
+SinglePage_HeaderImage_AltText: open source clinic information management system
+SinglePage_MenuImage_TitleText: clinic information management system
+SinglePage_MenuImage_AltText: free clinic information management system
+
 ---
 
 Solismed is an open source healthcare software for outpatient and inpatient clinics. This clinic information management system provides many features to save time and boost productivity. It offers a user-friendly user interface where users can navigate easily. Users can open multiple tabs at one time with different task panes. Moreover, prominent features include secured medical records, e-prescribing, patient encounter management, patient portal, inventory control, billing, and appointment scheduling.

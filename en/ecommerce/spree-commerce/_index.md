@@ -11,6 +11,17 @@ weight: 5
 layout: "single"
 GithubLink: https://github.com/spree/spree
 
+HomePage_TitleText: Open Source ecommerce platform for Rails 6 with a modern UX
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: SpreeCommerce - Open Source ecommerce platform for Rails 6 with a modern UX
+ListingPage_Link_TitleText: Explore SpreeCommerce
+
+SinglePage_HeaderImage_TitleText: Spree Commerce Open Source Ecommerce Software
+SinglePage_HeaderImage_AltText: Spree is an open source and free ecommerce software
+SinglePage_MenuImage_TitleText: Spree is an open source E-commerce platform for Rails 6 with a modern UX
+SinglePage_MenuImage_AltText: Spree Commerce is an open-source e-commerce solution based on Ruby on Rails
+
 ---
 
 Overview

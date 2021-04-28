@@ -10,6 +10,17 @@ draft: false
 weight: 5
 layout: "single"
 
+HomePage_TitleText: Open Source Version Control System
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Bazaar - Popular Open Source Version Control Software
+ListingPage_Link_TitleText: Explore Bazaar
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Bazaar - Open Source Version Control Software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Subversion - Open Source Version Control Software
+
 ---
 
 Bazaar is free and open source version control software. VCS has central and distributed repository model. VCS helps software teams to work on same project. Bazaar enables developers to collaborate and track project history. Further, it's cross-platform and available for major Linux distributions, Mac OS X and Microsoft Windows. Moreover, it provides free hosting services through the websites Launchpad and Sourceforge.

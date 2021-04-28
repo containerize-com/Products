@@ -10,6 +10,17 @@ draft: false
 weight: 7
 layout: "single"
 
+HomePage_TitleText: Open Source jQuery Form Builder for interactive HTML5 Forms
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Alpaca Forms
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: Free Open Source JQuery Form Builder
+SinglePage_HeaderImage_AltText: Free Open Source JQuery Form Builder
+SinglePage_MenuImage_TitleText: Free Open Source JQuery Form Builder
+SinglePage_MenuImage_AltText: Free Open Source JQuery Form Builder
+
 ---
 
 There are lots of free HTML5 form generator tools available. But, Alpaca Forms is a very simple and easy-to-use jQuery Form Builder to generate HTML5 forms for web and mobile applications. It lets you generate great-looking user interfaces on top of Twitter Bootstrap, jQuery UI, jQuery Mobile, and HTML5 using JSON Schema and simple Handlebars templates.

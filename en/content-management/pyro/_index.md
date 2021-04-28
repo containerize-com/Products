@@ -11,6 +11,17 @@ weight: 3
 layout: "single"
 GithubLink: https://github.com/pyrocms/pyrocms
 
+HomePage_TitleText: Open Source CMS Platform in PHP
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Pyro is the easy and modular CMS 
+ListingPage_Link_TitleText: modular CMS 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Pyro is a good CMS with response control panel
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: A CMS built in Laravel framework
+
 ---
 
 #### Overview

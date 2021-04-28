@@ -17,6 +17,10 @@ menu:
 heading: Top Office Productivity Software Include
 listingtypetag: Open Source Software 
 
+HomePage_Link_TitleText: Office Productivity Softwares
+
+ListingPage_HeaderImage_TitleText: Free Open Source Office Productivity Software
+ListingPage_HeaderImage_AltText: Open Source Office Productivity Software
 
 ---
 

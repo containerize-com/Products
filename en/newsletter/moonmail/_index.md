@@ -10,6 +10,17 @@ draft: false
 weight: 4
 layout: "single"
 
+HomePage_TitleText: Open Source Email Marketing Platform based on React and Serverless
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: MoonMail - Serverless Framework Based Newsletter Software
+ListingPage_Link_TitleText: Explore moonmail
+
+SinglePage_HeaderImage_TitleText: MoonMail- Open Source Newsletter Tool
+SinglePage_HeaderImage_AltText: MoonMail- Open Source Newsletter Tool
+SinglePage_MenuImage_TitleText: MoonMail - Open Source Newsletter Tool
+SinglePage_MenuImage_AltText: MoonMail - Open Source Newsletter Tool
+
 ---
 
 MoonMail is an **open source newsletter tool** and mailing list software that supports bulk emailing via Amazon SES. Users can create &amp; edit list of email addresses, send email marketing campaigns and view analytics. MoonMail allows to track open emails and linked clicked with an email. It also provides schedule campaigns feature to send your emails in the future. This **self-hosted newsletter** software enables users to customize and extend recipient fields with custom values such as country, gender, etc. This **email newsletter system** allows users to update the recipient status to Unsubscribed, Complaint-Spam, Bounced and Suppersion-list. Further, users can also apply filters to email lists by segments.

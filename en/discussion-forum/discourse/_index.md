@@ -11,6 +11,17 @@ weight: 1
 layout: "single"
 GithubLink: https://github.com/discourse/discourse
 
+HomePage_TitleText: Open Source Discussion Forum Platform in Ruby
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Discourse - Discussion Forum in RoR and EmberJS With Modern Social Features
+ListingPage_Link_TitleText: Explore Discourse
+
+SinglePage_HeaderImage_TitleText: Discourse is Open Source Modern Forum Software
+SinglePage_HeaderImage_AltText: Discourse is Open Source Modern Forum Software
+SinglePage_MenuImage_TitleText: Discourse is Open Source Modern Forum Software
+SinglePage_MenuImage_AltText: Discourse is Open Source Modern Forum Software
+
 ---
 
 #### Overview

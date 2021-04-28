@@ -10,6 +10,17 @@ draft: false
 weight: 4
 layout: "single"
 
+HomePage_TitleText: Open Source Email Delivery Platform in Python
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Postfix is one of the popular mail transfer agent for linux
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Postfix is open source mail transfer agent
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Postfix is a powerful mail transfer agent software
+
 ---
 
 Email is one of the fastest and reliable communication medium for businesses and individuals. The software which runs this whole communication medium is called mail server and mail client. The mail server that is also known as Mail Transfer Agent is responsible for transferring email from server to server on the internet, while mail client performs the activities of retrieving these emails.

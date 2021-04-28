@@ -10,6 +10,17 @@ draft: false
 weight: 2
 layout: "single"
 
+HomePage_TitleText: Open Source Video Editor in C++
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Shotcut is an open source video editor
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Shotcut is open source video editor
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Shotcut is open source video editor 
+
 ---
 
 Shotcut is an enterprise-level free and open source video editing software. It is a complete package for video editor enthusiasts. It provides support for almost all popular image formats such as BMP, GIF, WebP, PNG, SVG, TGA, TIFF, and JPEG. There is support available for high resolutions. Moreover, there is a multi-frame timeline in this video editor where users can mix resolutions and frame rates. It comes up with rich volume controls and audio filters such as balance, bass &amp; treble, fade in fade out, low pass, swap channels, and more.

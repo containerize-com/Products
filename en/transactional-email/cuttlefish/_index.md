@@ -10,6 +10,17 @@ draft: false
 weight: 2
 layout: "single"
 
+HomePage_TitleText: Open Source Email Delivery Platform in Ruby
+
+ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_AltText: Cuttlefish is an alternative to Sendgrid and Mailgun.
+ListingPage_Link_TitleText: 
+
+SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_AltText: Cuttlefish is a hosted mail delivery software
+SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_AltText: Cuttlefish is used to send large volumes of emails
+
 ---
 
 There are lots of Mail Servers available online like Postal Mail, Squirrel Mail, Scalix but what makes Cuttlefish distinctive is its beautiful web interface which makes it very easy to use and monitor whats happening under the hood.
