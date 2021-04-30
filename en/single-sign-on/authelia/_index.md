@@ -3,13 +3,13 @@ title: Authelia | Open Source Two Factor Authentication Server
 description: Protect your internal resources with Authelia which provides SSO and Password Management capabilities by collaborating with reverse proxies such as Nginx.
 singlepageh1title: Highly Scalable Rich Featured SSO And Resource Management
 singlepageh2title: Free open source Authelia comes with Single Sign On, Login Regulations, application security, and also provides support for LDAP and Active Directory
-Shortdescriptionlistingpage: Free open source Authelia comes with Single Sign On, Login Regulations, application security, and also provides support for LDAP and Active Directory
+Shortdescriptionlistingpage: Authelia is another open source alternative to provide 2F-authentication with Single Sign-on capabilities. It works by collaborating with reverse proxies such as Nginx, Traefik and HAProxy.
 linktitle: Authelia
 Imagetext:  Free SSO Solution
 draft: false
-weight: 3
+weight: 4
 layout: "single"
-
+GithubLink: https://github.com/authelia/authelia
 HomePage_TitleText: Open Source SSO Solution for GO
 
 ListingPage_MenuImage_TitleText: 

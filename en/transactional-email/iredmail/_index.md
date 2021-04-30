@@ -3,12 +3,13 @@ title: iRedMail | Open Source Mail Server Software
 description: Highly secure mail delivery tool which enforce users to establish connections by secure protocols like POP3, IMAP, and SMTP over TLS and webmail with HTTPS
 singlepageh1title: On Premise Email Solution Software for Businesses
 singlepageh2title: iRedMail is a full featured mail server solution based on Postfix. It works on various Linux distributions. You can setup your own mail server in few minutes.
-Shortdescriptionlistingpage: iRedMail is a full featured mail server solution based on Postfix. It works on various Linux distributions. You can setup your own mail server in few minutes.
+Shortdescriptionlistingpage: With so many solutions available for email delivery it becomes very tricky to choose the right mail delivery software for your business needs. iRedmail is easy to setup mail transfer agent software which full fills all the communication needs of a modern-day business.
 linktitle: iredmail
-Imagetext: iRedMail Transactional Email Service 
+Imagetext: Transactional Email Service
 draft: false
 weight: 6
 layout: "single"
+GithubLink: https://github.com/iredmail
 
 HomePage_TitleText: Open Source Email Delivery Platform
 

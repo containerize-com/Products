@@ -3,12 +3,13 @@ title: EspoCRM | Free Marketing Campaign and Lead Generation System
 description: Open source marketing technology for marketing campaigns, lead generation and sales management. It supports integration with MailChimp, Binotel and Twilio.
 singlepageh1title: Open Source Sales Management & Marketing Automation Software
 singlepageh2title: Free customer relationship management software that makes analysis of customer’s actions and behavior simpler so they can boost product or service evolution.
-Shortdescriptionlistingpage: Free customer relationship management software that makes analysis of customer’s actions and behavior simpler so they can boost product or service evolution.
+Shortdescriptionlistingpage: Open source marketing technology for marketing campaigns, lead generation and sales management. It supports integration with MailChimp, Binotel and Twilio.
 linktitle: EspoCRM
-Imagetext:  Free Marketing Automation Software 
+Imagetext: Marketing Automation Software
 draft: false
 weight: 4
 layout: "single"
+GithubLink: https://github.com/espocrm/espocrm
 
 HomePage_TitleText: Open Source Marketing Automation Platform in PHP
 

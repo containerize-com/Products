@@ -3,7 +3,7 @@ title: Django | Lightweight Free Web Content Management Software
 description: Django CMS is a free long standing web content management software. It facilitates its users with rich stack of plugins and content publishing capabilities.
 singlepageh1title: Free Enterprise Level Website Content Management Software
 singlepageh2title: Free digital CMS with rich content and media support. It provides seamless integration with top CRM systems such as Pipedrive and Hubspot.
-Shortdescriptionlistingpage: Free digital CMS with rich content and media support. It provides seamless integration with top CRM systems such as Pipedrive and Hubspot.
+Shortdescriptionlistingpage: Django CMS is another most popular open source cms alternative which is written in Python with highly scalable architecture. It provides better content management and publishing abilities.
 linktitle: Django CMS
 Imagetext:  Free CMS Software 
 draft: false

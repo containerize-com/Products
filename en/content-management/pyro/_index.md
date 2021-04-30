@@ -3,7 +3,7 @@ title: PyroCMS | Open Source PHP Based CMS Software
 description: Laravel is one of the most popular PHP framework and Pyro is content management software built on top of Laravel. Build websites and web apps faster with Pyro.
 singlepageh1title: An Extension to Laravel for Content Management
 singlepageh2title: CMS software with a responsive control panel for better management of content for your website. Build multilingual websites with builtin localization support.
-Shortdescriptionlistingpage: CMS software with a responsive control panel for better management of content for your website. Build multilingual websites with builtin localization support.
+Shortdescriptionlistingpage: Pyro is an easy to use, powerful, and modular CMS and development platform built with Laravel 5. Pyro is an MVC PHP Content Management System built to be easy to use, theme and develop with.
 linktitle: Pyro
 Imagetext:  Free CMS Software 
 draft: false

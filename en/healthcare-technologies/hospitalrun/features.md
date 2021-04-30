@@ -7,17 +7,16 @@ weight: 2
 
 #### **Features**
 
-Hospitalrun features include:
+Hospitalrun features include:
 
-- Open Source
-- Users Management
-- Flexible
-- Lab-Integration
-- Self-Hosted
-- Drug Management
-- Customized Billing System
-- Electronic Medical Records
-- Patient Discharge System
-- Patient Records Management
-- Appointment Scheduling
- 
+*   Open Source
+*   Users Management
+*   Flexible
+*   Lab-Integration
+*   Self-Hosted
+*   Drug Management
+*   Customized Billing System
+*   Electronic Medical Records
+*   Patient Discharge System
+*   Patient Records Management
+*   Appointment Scheduling

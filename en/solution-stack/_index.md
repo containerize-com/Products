@@ -10,7 +10,7 @@ draft: false
 weight: 22
 menu:
    mainmenu: 
-       name: Web Server
+       name: Web Server Solution Stack
        url: WebServerApps
        weight: 22
 

@@ -3,9 +3,9 @@ title: phpBB | Free Flat-style Discussion Forum & Message Board Software
 description: Free flat-style bulletin board and discussion forum software to build online communities. It also supports integration with Wordpress, Joomla and Durpal.
 singlepageh1title: Reliable, Secure and Free Internet Bulletin Board Software
 singlepageh2title: Widely used and proven open source community discussion forum software with best in class security system to deliver adequate social communication experience.
-Shortdescriptionlistingpage: Widely used and proven open source community discussion forum software with best in class security system to deliver adequate social communication experience.
+Shortdescriptionlistingpage: Open source flat-style bulletin board software to build online communities and discussion forums.
 linktitle: phpBB
-Imagetext:  Free Discussion Forum 
+Imagetext:  Free Forum Software
 draft: false
 weight: 5
 layout: "single"

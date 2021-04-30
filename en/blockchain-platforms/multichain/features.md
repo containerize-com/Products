@@ -5,16 +5,18 @@ weight: 2
 
 ---
 
+
 #### **Features**
 
-Multichain offers the following key features:
+Multichain offers the following key features:
 
-- Open Source
-- Robust
-- Secure
-- Multisignatures Support
-- Configurable
-- Flexible
-- Supported For Multiple Languages
-- Scalable
+*   Open Source
+*   Robust
+*   Secure
+*   Multisignatures Support
+*   Configurable
+*   Flexible
+*   Supported For Multiple Languages
+*   Scalable
+
  

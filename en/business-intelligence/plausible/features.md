@@ -5,19 +5,19 @@ weight: 2
 
 ---
 
+
 #### **Features**
 
 Plausible features include:
 
-- No Cross-Site Tracking
-- Utmost Privacy
-- User Friendly
-- LightWeight
-- Simple Metrics
-- Easy To Integrate
-- Quick
-- Unlimited Websites
-- Customizable Dashboard
-- Google Search Console Integration
-- Campaigns Tracking
- 
+*   No Cross-Site Tracking 
+*   Utmost Privacy
+*   User Friendly
+*   LightWeight
+*   Simple Metrics
+*   Easy To Integrate
+*   Quick
+*   Unlimited Websites
+*   Customizable Dashboard
+*   Google Search Console Integration
+*   Campaigns Tracking

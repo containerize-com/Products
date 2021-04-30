@@ -3,12 +3,13 @@ title: Helpy | Open Source Helpdesk and Customer Support Software
 description: Free multichannel helpdesk software integrated with Mailgun, Mandrill and Sendgrid. It is powered with modern features to provide excellent customer support.
 singlepageh1title: Free Ticketing based customer care and knowledgebase system
 singlepageh2title: Open source ticketing based helpdesk software combined with knowledge base and community discussion features to deliver robust customer support experience.
-Shortdescriptionlistingpage: Open source ticketing based helpdesk software combined with knowledge base and community discussion features to deliver robust customer support experience.
+Shortdescriptionlistingpage: Helpy is multichannel free IT help desk software integrated with Mailgun, Mandrill and Sendgrid. It is powered with modern features to provide excellent customer support.
 linktitle: helpy
-Imagetext:  Free Helpdesk Software 
+Imagetext:  Free Ticketing System
 draft: false
 weight: 5
 layout: "single"
+GithubLink: https://github.com/helpyio/helpy
 
 HomePage_TitleText: Open Source multichannel helpdesk software in Ruby on Rails
 

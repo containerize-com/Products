@@ -3,13 +3,13 @@ title: Redmine | Open Source Web Based Project Management Software
 description: Free project management system provides bug reporting, team management, and knowledge management features. It also provides Gantt chart and customized reports.  
 singlepageh1title: Free Project Planning Tool for Tasks and Activities Tracking
 singlepageh2title: Open source project management tool for issue tracking, task and knowledge management. It supports seamless integration with Git, SVN, CVS and Mercurial.
-Shortdescriptionlistingpage: Open source project management tool for issue tracking, task and knowledge management. It supports seamless integration with Git, SVN, CVS and Mercurial.
+Shortdescriptionlistingpage: Redmine is free project management system provides bug reporting, team management, and knowledge management features. It also provides Gantt chart and customized reports.
 linktitle: Redmine
 Imagetext:  Free Project Management Software 
 draft: false
 weight: 1
 layout: "single"
-
+GithubLink: https://github.com/redmine/redmine
 HomePage_TitleText: Open Source Project Management Software in Ruby on Rails
 
 ListingPage_MenuImage_TitleText: 

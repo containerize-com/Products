@@ -3,13 +3,13 @@ title: Taiga | Open Source Agile Project Management Software
 description: Free on-premise project management application for multi-functional agile teams. It supports Backlog, Burn down chart, Kanban, Scrum, and Sprint planning.
 singlepageh1title: Free Project Management Software for Agile-Based Projects
 singlepageh2title: Open source project management tool for agile developers and designers. It supports seamless integration with GitHub, Gitlab, Slack, Hipchat, and Mattermost.
-Shortdescriptionlistingpage: Open source project management tool for agile developers and designers. It supports seamless integration with GitHub, Gitlab, Slack, Hipchat, and Mattermost.
+Shortdescriptionlistingpage: Taiga is free on-premise project management application for multi-functional agile teams. It supports Backlog, Burn down chart, Kanban, Scrum, and Sprint planning.
 linktitle: Taiga
 Imagetext:  Free Project Management Software 
 draft: false
 weight: 2
 layout: "single"
-
+GithubLink: https://github.com/taigaio/taiga-back
 HomePage_TitleText: Open Source Project Management Software in Python
 
 ListingPage_MenuImage_TitleText: 

@@ -24,9 +24,3 @@ Execute the following command for launching Rancher server by bind mounting the 
 $ sudo docker run -d -v :/var/lib/mysql --restart=always -p 8080:8080 rancher/server:v1.0.2
 ```
 
-#### **Explore**
-
-You may find the following links relevant:
-
-- [Top 5 Open Source Deployment Tools In 2021](https://blog.containerize.com/2021/03/12/top-5-open-source-deployment-tools-in-the-year-2021/)
- 

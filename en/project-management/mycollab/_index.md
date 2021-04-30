@@ -3,13 +3,13 @@ title: MyCollab | Open Source Project Management Software
 description: MyCollab is an open source alternative to Microsoft Project. Its one of the best open source project management software for small and medium business.
 singlepageh1title: Open Source Alternative to Microsoft Project for Small and Medium Business
 singlepageh2title: MyCollab is an open-source project management software with a clean and elegant design. It lets you collaborate with your team in realtime.
-Shortdescriptionlistingpage: MyCollab is an open-source project management software with a clean and elegant design. It lets you collaborate with your team in realtime.
+Shortdescriptionlistingpage: MyCollab not only provides the rich set features of Project Management, but it also provides Customer Management module and online collaboration methods.
 linktitle: MyCollab
 Imagetext:  Free Project Management Software 
 draft: false
 weight: 6
 layout: "single"
-
+GithubLink: https://github.com/MyCollab/mycollab
 HomePage_TitleText: Open Source Project Management Software in Java
 
 ListingPage_MenuImage_TitleText: 

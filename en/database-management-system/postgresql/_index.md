@@ -3,13 +3,13 @@ title: PostgreSQL | Object-relational Database Management System
 description: Use PostgreSQL relational DBMS to ensure reliability, concurrency and consistency for your apps. It also offers disaster recovery and extensibility features.
 singlepageh1title: Open Source Object-relational Database Management System
 singlepageh2title: Use PostgreSQL relational DBMS to ensure reliability, concurrency and consistency for your apps. It also offers disaster recovery and extensibility features.
-Shortdescriptionlistingpage: Use PostgreSQL relational DBMS to ensure reliability, concurrency and consistency for your apps. It also offers disaster recovery and extensibility features.
+Shortdescriptionlistingpage: Use PostgreSQL relational DBMS software to ensure reliability, data integrity, concurrency, consistency as well as disaster recovery and extensibility for your web applications.
 linktitle: PostgreSQL
 Imagetext: Free Database Management System
 draft: false
-weight: 4
+weight: 2
 layout: "single"
-
+GithubLink: https://github.com/postgres/postgres
 HomePage_TitleText: Database Management System
 
 ListingPage_MenuImage_TitleText: PostgreSQL logo

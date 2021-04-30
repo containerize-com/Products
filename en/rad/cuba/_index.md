@@ -3,13 +3,13 @@ title: CUBA Platform | RAD Software For Enterprise App Development
 description: Develop your business applications with the Cuba Platform. It is a high level multilingual RAD software that offers many productive features and add-ons.
 singlepageh1title: Powerful Java Based Rapid Application Development Software
 singlepageh2title: Cuba Platform provides a modular architecture to build scalable web apps. It offers compatibility with all popular RDBMS and maintains a marketplace of Add-ons.
-Shortdescriptionlistingpage: Cuba Platform provides a modular architecture to build scalable web apps. It offers compatibility with all popular RDBMS and maintains a marketplace of Add-ons.
+Shortdescriptionlistingpage: CUBA Platform is an enterprise-level open source rapid application development software . It is multilingual, scalable and offers OAuth2 based authentication with LDAP and SAML support. 
 linktitle: CUBA Platform
 Imagetext:  Free RAD Framework
 draft: false
 weight: 1
 layout: "single"
-
+GithubLink: https://github.com/cuba-platform/cuba
 HomePage_TitleText: Open Source Rapid Application Development Framework in Java
 
 ListingPage_MenuImage_TitleText: 

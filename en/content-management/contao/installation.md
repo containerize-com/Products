@@ -28,15 +28,11 @@ When installing from the command line, `create-projecta` `composer update` comma
 
 You have logged on to your server with your user name and domain.
 
- ```
-ssh <span id="cloak42bb7158d57f494d8d564694647f1661">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type="text/javascript">document.getElementById('cloak42bb7158d57f494d8d564694647f1661').innerHTML='';var prefix='&#109;a'+'i&#108;'+'&#116;o';var path='hr'+'ef'+'=';var addy42bb7158d57f494d8d564694647f1661='b&#101;n&#117;tz&#101;rn&#97;m&#101;'+'&#64;';addy42bb7158d57f494d8d564694647f1661=addy42bb7158d57f494d8d564694647f1661+'&#101;x&#97;mpl&#101;'+'&#46;'+'c&#111;m';var addy_text42bb7158d57f494d8d564694647f1661='b&#101;n&#117;tz&#101;rn&#97;m&#101;'+'&#64;'+'&#101;x&#97;mpl&#101;'+'&#46;'+'c&#111;m';document.getElementById('cloak42bb7158d57f494d8d564694647f1661').innerHTML+='<a '+path+'\''+prefix+':'+addy42bb7158d57f494d8d564694647f1661+'\'>'+addy_text42bb7158d57f494d8d564694647f1661+'<\/a>';</script>
-```
+    ssh benutzername@example.com
 
 Change to the public directory of your web hosting.
 
- ```
-cd www
-```
+    cd www
 
 #### Install Composer
 
@@ -46,9 +42,7 @@ Composer is an application-oriented package manager for the PHP programming lang
 
 In the second step, you install Contao using the Composer. “example” stands for the desired installation directory and 4.8 for the version of Contao you want to install.
 
- ```
-php composer.phar create-project contao/managed-edition example 4.8
-```
+    php composer.phar create-project contao/managed-edition example 4.8
 
 #### Hosting Configuration
 
@@ -62,14 +56,10 @@ After installation, you can update the database using the Contao install tool.
 
 Since Contao 4.9 you can use the following command on the command line:
 
- ```
-php vendor/bin/contao-console contao:migrate
-```
+    php vendor/bin/contao-console contao:migrate
 
 #### Creating Contao back end users
 
 Using the Contao-Installtool, you can create your back end user. Since Contao 4.10 you can use the following command on the command line:
 
- ```
-php vendor/bin/contao-console contao:user:create
-```
+    php vendor/bin/contao-console contao:user:create

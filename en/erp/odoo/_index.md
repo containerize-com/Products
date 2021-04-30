@@ -3,13 +3,13 @@ title: Odoo | Open Source Suit of Business and Marketing Software
 description: Free pack of marketing and business technologies with advanced features to form marketing campaigns, monitor sales opportunities, and controls the sales tasks.
 singlepageh1title: Free Web-Based Enterprise Resource Planning Technology
 singlepageh2title: Open source bundle of business software includes CRM, Marketing, and Point of Sale. Odoo CRM helps your sales teams to automate the leads generation process.
-Shortdescriptionlistingpage: Open source bundle of business software includes CRM, Marketing, and Point of Sale. Odoo CRM helps your sales teams to automate the leads generation process.
+Shortdescriptionlistingpage: Free pack of marketing and business technologies with advanced features to form marketing campaigns, monitor sales opportunities, and controls the sales tasks.
 linktitle: Odoo
-Imagetext:  Free Enterprise Resource Planning Software 
+Imagetext:  Free ERP Software
 draft: false
-weight: 5
+weight: 6
 layout: "single"
-
+GithubLink: https://github.com/odoo/odoo
 HomePage_TitleText: Open Source ERP Software in Python
 
 ListingPage_MenuImage_TitleText: 

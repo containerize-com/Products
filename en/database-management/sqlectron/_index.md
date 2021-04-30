@@ -3,13 +3,13 @@ title: Sqlectron | Open Source Client for MySQL and PostgreSQL
 description: Sqlectron is an open-source client for MySQL, PostgreSQL, and many other relational databases. Simple and lightweight desktop SQL client with a beautiful interface.
 singlepageh1title: Free & Open Source Client for MySQL, PostgreSQL, and more
 singlepageh2title: Sqlectron is a fast, easy-to-use client for MySQL, PostgreSQL, and many other relational databases. It has a simple, easy to use, and beautiful interface.
-Shortdescriptionlistingpage: Sqlectron is a fast, easy-to-use client for MySQL, PostgreSQL, and many other relational databases. It has a simple, easy to use, and beautiful interface.
+Shortdescriptionlistingpage: Sqlectron is an open-source and 100% free database management application to work with MySQL, MariaDB, PostgreSQL, and many other relational databases.
 linktitle: Sqlectron
-Imagetext: Free Database Management Tool
+Imagetext: Database Management Tool
 draft: false
 weight: 7
 layout: "single"
-
+GithubLink: https://github.com/sqlectron/sqlectron-core
 HomePage_TitleText: Database Management Tool
 
 ListingPage_MenuImage_TitleText: Sqlectron | Open Source Client for MySQL and PostgreSQL

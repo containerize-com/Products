@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-<a class="anchor" id="explore" name="explore"></a>Explore
+Explore
 -------
 
  To learn about other Open Source Database Management Tools and MySQL GUI clients, please check following pages: - [Top Database Management Tools](https://products.containerize.com/database-management)

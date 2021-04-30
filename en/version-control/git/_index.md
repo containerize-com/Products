@@ -3,13 +3,13 @@ title: Git | Self-Hosted And Free Version Control System
 description: Git is an easy and feature-rich distributed version control system. It helps software developers to manage their code and work in an isolated environment.
 singlepageh1title: Free Version Control Software For Source Code Management
 singlepageh2title: Distributed version control system for handling any type of projects. Keeps track of software resources and make efficient development processes.
-Shortdescriptionlistingpage: Distributed version control system for handling any type of projects. Keeps track of software resources and make efficient development processes.
+Shortdescriptionlistingpage: Git is a free and open source version control system for software code management and help teams to work parallel.
 linktitle: Git
 Imagetext:  Free Version Control Software 
 draft: false
 weight: 1
 layout: "single"
-
+GithubLink: https://github.com/git/git
 HomePage_TitleText: Open Source Version Control System
 
 ListingPage_MenuImage_TitleText: 

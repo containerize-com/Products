@@ -3,13 +3,13 @@ title: GoCD | Continuous Integration And Continuous Deployment Tool
 description: GoCD is a free and open source CI/CD automation server that handles the software build and release process. Allows configuring pipelines as code.
 singlepageh1title: Faster Software Deployment With Open Source Automation Server
 singlepageh2title: Open source continuous integration and delivery system to manage software delivery process. It also provides the visualization of complex deployment processes.
-Shortdescriptionlistingpage: Open source continuous integration and delivery system to manage software delivery process. It also provides the visualization of complex deployment processes.
+Shortdescriptionlistingpage: GoCD is a free and open source CI/CD server. GoCD focus on continuous delivery process, enable software teams for automating build and release workflow.
 linktitle: GoCD
 Imagetext:  Free Deployment Tool 
 draft: false
 weight: 8
 layout: "single"
-
+GithubLink: https://github.com/gocd/gocd
 HomePage_TitleText: Open Source Deployment Tool in Java
 
 ListingPage_MenuImage_TitleText: GoCD - Java Based Free Deployment Tool

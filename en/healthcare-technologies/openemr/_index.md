@@ -3,13 +3,13 @@ title: OpenEMR | Open Source Hospital Management System
 description: OpenEMR is an open source hospital management system for healthcare services. It offers e-prescribing, patients record tracking, lab integration and many more.
 singlepageh1title: ONC Certified Multilingual Innovative Healthcare Solution
 singlepageh2title: OpenEMR is a healthcare solution to manage medical practices. It offers encryption for patient records, auto-tracking, integrated billing, and lab integration.
-Shortdescriptionlistingpage: OpenEMR is a healthcare solution to manage medical practices. It offers encryption for patient records, auto-tracking, integrated billing, and lab integration.
+Shortdescriptionlistingpage: OpenEMR is an enterprise-level open source healthcare software. It is ONC certified and comes up with promising features such as e-Prescribing, Lab Integration and more.
 linktitle: OpenEMR
-Imagetext:  Open Source Healthcare Software
+Imagetext:  Free Healthcare Software
 draft: false
 weight: 1
 layout: "single"
-
+GithubLink: https://github.com/openemr/openemr 
 HomePage_TitleText: Open Source Healthcare Software in PHP
 
 ListingPage_MenuImage_TitleText: OpenEMR

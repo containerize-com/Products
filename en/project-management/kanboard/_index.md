@@ -3,13 +3,13 @@ title: Kanboard | Free Collaborative Project Management Software
 description: Open source Kanban methodology based visual project management software that provides information about your projects, tasks, and calendar in one place.
 singlepageh1title: Open Source Project Planning Software Based On Kanban
 singlepageh2title: Free on premise project management software that provides Gantt Chart, Swimlane flowchart, and Burndown Chart to improve your team focus and productivity.
-Shortdescriptionlistingpage: Free on premise project management software that provides Gantt Chart, Swimlane flowchart, and Burndown Chart to improve your team focus and productivity.
+Shortdescriptionlistingpage: Open source Kanban methodology based visual project management software that provides information about your projects, tasks, and calendar in one place.
 linktitle: Kanboard
 Imagetext:  Free Project Management Software 
 draft: false
 weight: 4
 layout: "single"
-
+GithubLink: https://github.com/kanboard/kanboard
 HomePage_TitleText: Open Source Project Management Software in PHP
 
 ListingPage_MenuImage_TitleText: 

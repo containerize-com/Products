@@ -11,11 +11,7 @@ weight: 3
 
 Install Lighttpd web server using following command
 
- ```
-<pre class="wp-block-code">```
-<span class="hljs-attr">$ sudo apt install lighttpd</span>
-```
-```
+    $ sudo apt install lighttpd
 
 To test installation, go to your website or IP address
 
@@ -27,59 +23,32 @@ Download a release from www.lighttpd.net/download.
 
 Use following commands to install via git
 
- ```
-<pre class="wp-block-code">```
-<span class="hljs-attr">git clone https://git.lighttpd.net/lighttpd/lighttpd1.4.git
-cd lighttpd1.4
-./autogen.sh
-</span>
-```
-```
+    git clone https://git.lighttpd.net/lighttpd/lighttpd1.4.git
+    cd lighttpd1.4
+    ./autogen.sh
+    
 
 Use these commands if you want to install via svn
 
- ```
-<pre class="wp-block-code">```
-<span class="hljs-attr">svn checkout https://github.com/lighttpd/lighttpd1.4/trunk lighttpd1.4</span>
-```
-```
+    svn checkout https://github.com/lighttpd/lighttpd1.4/trunk lighttpd1.4
 
 Fetch updates
 
- ```
-<pre class="wp-block-code">```
-<span class="hljs-attr">svn update</span>
-```
-```
+    svn update
 
 To install dependencies, run this command
 
- ```
-<pre class="wp-block-code">```
-<span class="hljs-attr">apt-get build-dep lighttpd</span>
-```
-```
+    apt-get build-dep lighttpd
 
 Configure
 
- ```
-<pre class="wp-block-code">```
-<span class="hljs-attr">./configure --help</span>
-```
-```
+    ./configure --help
 
 Build using make command
 
- ```
-<pre class="wp-block-code">```
-<span class="hljs-attr">make</span>
-```
-```
+    make
 
 After a successful build, now install the package
 
- ```
-<pre class="wp-block-code">```
-<span class="hljs-attr">su make install</span>
-```
-```
+    su make install
+

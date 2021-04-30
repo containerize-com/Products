@@ -9,7 +9,7 @@ Imagetext: Free Photo Editing Software
 draft: false
 weight: 2
 layout: "single"
-
+GithubLink: https://github.com/GNOME/gimp
 HomePage_TitleText: Open Source Photo Editing Software
 
 ListingPage_MenuImage_TitleText: GIMP logo

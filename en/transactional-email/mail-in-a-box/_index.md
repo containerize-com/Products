@@ -3,13 +3,13 @@ title: Mail-in-a-Box | Open Source Transactional Email Server
 description: A Postfix based reliable and secure email delivery agent for hosting your own email server without any complexities. Supports IMAP to sync mail with your phone.
 singlepageh1title: Free Software To Use As Email Service Provider
 singlepageh2title: Mail-in-a-Box is a self-hosted on-premise Mail Server Software. Setup your own email service with no technical expertise like making your own Gmail.
-Shortdescriptionlistingpage: Mail-in-a-Box is a self-hosted on-premise Mail Server Software. Setup your own email service with no technical expertise like making your own Gmail.
+Shortdescriptionlistingpage: Mail-in-a-Box made it super easy to setup your own email service without any technical knowledge or expertise. Technically it can turn any computer in the cloud into a fully functional mail server. Its like any other service provider but with your full control from top to bottom.
 linktitle: Mail in a box
 Imagetext:  Transactional Email Service
 draft: false
 weight: 3
 layout: "single"
-
+GithubLink: https://github.com/mail-in-a-box/mailinabox
 HomePage_TitleText: Open Source Email Delivery Platform in Python
 
 ListingPage_MenuImage_TitleText: 

@@ -3,13 +3,14 @@ title: WooCommerce | Free Ecommerce System For WordPress
 description: WooCommerce is feature-packed free and open source eCommerce software built on WordPress. Easily turn existing or new WordPress website into shopping store.
 singlepageh1title: Build Shop With WordPress Based Free Ecommerce System
 singlepageh2title: Quickly setup store and grow your business with open source eCommerce platform built on WordPress. Examine performance metrics right from powerful dashboard.
-Shortdescriptionlistingpage: Quickly setup store and grow your business with open source eCommerce platform built on WordPress. Examine performance metrics right from powerful dashboard.
-linktitle: WooCommerce
-Imagetext:  Free Shopping Cart Software 
-draft: false
-weight: 4
-layout: "single"
+Shortdescriptionlistingpage: WooCommerce is most popular free and open source eCommerce platform built on WordPress for small to large scale businesses.
 
+linktitle: WooCommerce
+Imagetext:  Shopping Cart Software 
+draft: false
+weight: 3
+layout: "single"
+GithubLink: https://github.com/woocommerce/woocommerce
 HomePage_TitleText: Open Source Shopping Cart in WordPress
 
 ListingPage_MenuImage_TitleText: 

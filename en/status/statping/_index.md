@@ -3,12 +3,13 @@ title: Statping | Free monitoring of websites, applications and APIs
 description: Free monitoring of your web applications, websites, APIs and microservices for minimizing downtime and outages. Send notifications to multiple channels.
 singlepageh1title: Monitor your web applications, websites, APIs and microservices
 singlepageh2title: An open source app to monitor your websites, web applications, Services, APIs. Sends downtime and uptime notifications on multiple channels.
-Shortdescriptionlistingpage: An open source app to monitor your websites, web applications, Services, APIs. Sends downtime and uptime notifications on multiple channels.
+Shortdescriptionlistingpage: An open source software for free monitoring of your websites, web applications, Services and APIs. Sends downtime and uptime notifications on multiple channels. Relatively newer but gaining popularity.
 linktitle: Statping
 Imagetext:  Free StatusPage Software 
 draft: false
 weight: 2
 layout: "single"
+GithubLink: https://github.com/statping/statping
 
 HomePage_TitleText: Open Source StatusPage System in Go
 

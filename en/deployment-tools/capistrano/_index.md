@@ -3,13 +3,13 @@ title: Capistrano | Free And Open Source Deployment Tool
 description: Capistrano is free and open source deployment tool for simultaneously deploy web applications on any number of servers. Automate audits and common tasks.
 singlepageh1title: Deploy Web Applications With Open Source Deployment Tool
 singlepageh2title: Simultaneously deploy software on multiple servers with remote server automation tool. Automate deployment workflow and quickly release new versions.
-Shortdescriptionlistingpage: Simultaneously deploy software on multiple servers with remote server automation tool. Automate deployment workflow and quickly release new versions.
+Shortdescriptionlistingpage: Capistrano is another outstanding free and open source deployment tool. Automate deployment workflows, build deployment scripts, quickly release new versions and rollback to previous state when needed.
 linktitle: Capistrano
 Imagetext:  Free Deployment Tool 
 draft: false
 weight: 4
 layout: "single"
-
+GithubLink: https://github.com/capistrano/capistrano
 HomePage_TitleText: Open Source Deployment Tool in Ruby
 
 ListingPage_MenuImage_TitleText: Capistrano - Ruby Based Free Deployment Tool

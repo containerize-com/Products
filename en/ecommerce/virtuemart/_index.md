@@ -3,13 +3,12 @@ title: VirtueMart | Free Self Hosted Ecommerce For Joomla Sites
 description: VirtueMart is an open source and self-hosted Joomla shopping cart. It enables merchants to quickly setup store and start selling to the customers.
 singlepageh1title: Free And Open Source Ecommerce For Joomla CMS
 singlepageh2title: Grow business by creating an online store with excellent open source shopping cart software. Manage the Joomla website and shop from a central dashboard.
-Shortdescriptionlistingpage: Grow business by creating an online store with excellent open source shopping cart software. Manage the Joomla website and shop from a central dashboard.
+Shortdescriptionlistingpage: If you are looking for shopping cart solution for Joomla based websites. Try VirtueMart, easy to setup and enables merchants to start selling immediately.
 linktitle: VirtueMart
-Imagetext:  Free Shopping Cart Software 
+Imagetext:  Shopping Cart Software 
 draft: false
 weight: 9
 layout: "single"
-
 HomePage_TitleText: Open Source Shopping Cart in Joomla
 
 ListingPage_MenuImage_TitleText: 

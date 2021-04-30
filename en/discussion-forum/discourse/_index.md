@@ -3,9 +3,9 @@ title: Discourse | Socialized Open Source Modern Forum Software
 description: Discourse is a feature-rich, modern and socialized ruby on rails based forum software that can be also be used as long-form chat room and mailing list.
 singlepageh1title: On Premise Open Source Discussion Forum Software
 singlepageh2title: Discourse provides several social features similar to Twitter and Facebook. Build, engage and grow your business community in a trendy modern way.
-Shortdescriptionlistingpage: Discourse provides several social features similar to Twitter and Facebook. Build, engage and grow your business community in a trendy modern way.
+Shortdescriptionlistingpage: Discourse is a state of the art modern discussion forum platform with popular social features. Use it as a community forum, mailing list, long-form chat room and a lot more.
 linktitle: Discourse
-Imagetext:  Free Discussion Forum 
+Imagetext:  Free Forum Software
 draft: false
 weight: 1
 layout: "single"

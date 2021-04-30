@@ -3,13 +3,13 @@ title: DBeaver | Open Source Database Management Software
 description: Free and open source database management software for administration of all popular databases. Supports cloud data-sources and enterprise security standards.
 singlepageh1title: Multi-platform & Open Source Database Management Software
 singlepageh2title: Free and open source database management software for administration of all popular databases. Supports cloud data-sources and enterprise security standards.
-Shortdescriptionlistingpage: Free and open source database management software for administration of all popular databases. Supports cloud data-sources and enterprise security standards.
+Shortdescriptionlistingpage: Free and open source database management tool for administration of all popular databases. Supports cloud data-sources and enterprise security standard.
 linktitle: DBeaver
-Imagetext: Free Database Management Tool
+Imagetext: Database Management Tool
 draft: false
 weight: 3
 layout: "single"
-
+GithubLink: https://github.com/dbeaver/dbeaver
 HomePage_TitleText: Database Management Tool
 
 ListingPage_MenuImage_TitleText: Dbeaver A Multi-platform Database Management Tool For All

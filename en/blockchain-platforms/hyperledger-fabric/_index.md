@@ -3,13 +3,13 @@ title: Hyperledger Fabric | Free Distributed Ledger Technology
 description: Hyperledger Fabric is an enterprise level free distributed ledger technology. Its modular architecture offers utmost privacy, scalability, and flexibility.
 singlepageh1title: Open Source DLT Platform With Component Based Architecture
 singlepageh2title: Hyperledger Fabric is a permissioned distributed ledger with many great features such as Pluggable Consensus, Multi-language Smart Contract Support, and more.
-Shortdescriptionlistingpage: Hyperledger Fabric is a permissioned distributed ledger with many great features such as Pluggable Consensus, Multi-language Smart Contract Support, and more.
+Shortdescriptionlistingpage: Hyperledger Fabric is an alternative open source distributed ledger technology. It comes up with permissioned distributed ledger capabilities along with many other powerful features.
 linktitle: Hyperledger Fabric
-Imagetext:  Open Source Blockchain Platform
+Imagetext:  Free Blockchain Platform
 draft: false
 weight: 2
 layout: "single"
-
+GithubLink: https://github.com/hyperledger/fabric
 HomePage_TitleText: Blockchain Platform in Go
 
 ListingPage_MenuImage_TitleText: decentralized applications

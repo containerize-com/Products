@@ -3,9 +3,9 @@ title: Apache Open Office - Open Source Productivity Suite
 description: Apache Open Office is a free and open-source office productivity suite. Its essentially an open-source replacement of Microsoft Office.
 singlepageh1title: Open-Source Alternative to Microsoft Office
 singlepageh2title: Apache Open Office is 100% free open-source software for all your workplace productivity needs. From Word-processing, spreadsheets to presentations.
-Shortdescriptionlistingpage: Apache Open Office is 100% free open-source software for all your workplace productivity needs. From Word-processing, spreadsheets to presentations.
+Shortdescriptionlistingpage: Apache Open Office is one of the good alternatives to Microsoft Office whether you want to work with text documents, spreadsheets, or presentations.
 linktitle: Apache Open Office
-Imagetext:  Free Office Productivity 
+Imagetext:  Office Productivity
 draft: false
 weight: 1
 layout: "single"

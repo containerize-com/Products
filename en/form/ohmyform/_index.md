@@ -3,12 +3,13 @@ title: OhMyForm | Free Open Source Forms Builder Software
 description: On premise alternative to typeform, google forms and form.io to generate mobile ready forms and surveys. Not a single line of code is required.
 singlepageh1title: Open Source Alternative to TypeForm for Forms and Surveys
 singlepageh2title: OhMyForm provides form builder tools to craft online forms. Generate professional looking embeddable forms for surveys, market research and recruiting.
-Shortdescriptionlistingpage: OhMyForm provides form builder tools to craft online forms. Generate professional looking embeddable forms for surveys, market research and recruiting.
+Shortdescriptionlistingpage: A free and open source form app that can create stunning mobile-ready forms, surveys and questionnaires.
 linktitle: OhMyForm
 Imagetext:  Free Form Builder 
 draft: false
 weight: 3
 layout: "single"
+GithubLink: https://github.com/ohmyform/ohmyform
 
 HomePage_TitleText: Open Source HTML5 Form Generator in JavaScript VueJS
 

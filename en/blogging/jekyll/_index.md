@@ -3,11 +3,11 @@ title: Jekyll | Open Source Static Site Generator
 description: Jekyll turns markdown contents into static html pages which simplifies creating project docs, user guides, websites and blogs by using appropriate templates.
 singlepageh1title: 100% Free Static Site Generator Software to Generate HTML Websites
 singlepageh2title: Jekyll is a static web page generator and hosts content on GitHub for free, as GitHub Pages are powered by Jekyll. Create contents in markups to start blog or site
-Shortdescriptionlistingpage: Jekyll is a static web page generator and hosts content on GitHub for free, as GitHub Pages are powered by Jekyll. Create contents in markups to start blog or site
+Shortdescriptionlistingpage: Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner, GitHub's co-founder, it is distributed under the open source MIT license.
 linktitle: Jekyll
 Imagetext:  Free Blogging Platform 
 draft: false
-weight: 3
+weight: 2
 layout: "single"
 GithubLink: https://github.com/jekyll/jekyll
 

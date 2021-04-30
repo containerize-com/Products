@@ -3,13 +3,13 @@ title: OpenIdentityPlatform | Free Identity Management Service
 description: Developer friendly free open source identity management service to protect user’s digital identities with the help of authentication and authorization.
 singlepageh1title: Cross Domain SSO With Customizable Adaptive Authentication
 singlepageh2title: Open source platform for Single Sign On, SAML 2.0 OAuth 2.0, and OpenID Connect Protocols. It ensures seamless integration with cloud-based applications
-Shortdescriptionlistingpage: Open source platform for Single Sign On, SAML 2.0 OAuth 2.0, and OpenID Connect Protocols. It ensures seamless integration with cloud-based applications
+Shortdescriptionlistingpage: OpenIdentityPlatform is another open source alternative which provides Cross Domain Single Sign-on and seamless integration with cloud-based applications. It is secure and developer-friendly Identity Provider.
 linktitle: OpenIdentityPlatform
 Imagetext: Free SSO Solution
 draft: false
 weight: 6
 layout: "single"
-
+GithubLink: https://github.com/OpenIdentityPlatform/OpenAM
 HomePage_TitleText: Open Source SSO Solution for JAVA
 
 ListingPage_MenuImage_TitleText: 

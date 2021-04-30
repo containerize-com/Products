@@ -3,14 +3,14 @@ title: Top Open Source ERP Systems | ERPNext and Alternatives
 description: List of free and open source ERP software. These software help companies for managing all business units from a single site and help to improve decision making.
 singlepageh1title: Best Free ERP Software Options For Businesses
 singlepageh2title: ERP tool helps companies to manage and automate business workflows. Choose the best-suited ERP system for your business from the top open source ERP Systems.
-Shortdescriptionlistingpage: ERP tool helps companies to manage and automate business workflows. Choose the best-suited ERP system for your business from the top open source ERP Systems.
+Shortdescriptionlistingpage: Enterprise Resource Planning (ERP) integrates all departments for managing business processes from single site.
 linktitle: erp
 Imagetext:  Open Source Software 
 draft: false
 weight: 26
 menu:
    mainmenu: 
-       name: ERP
+       name: Enterprise Resource Planning (ERP)
        url: ERPApps
        weight: 26
 

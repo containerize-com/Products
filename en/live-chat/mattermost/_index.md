@@ -9,6 +9,7 @@ Imagetext:  Live Chat Software
 draft: false
 weight: 5
 layout: "single"
+GithubLink: https://github.com/mattermost
 
 HomePage_TitleText: Open Source Live Chat System in JavaScript, Go
 

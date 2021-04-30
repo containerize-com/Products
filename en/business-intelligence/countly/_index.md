@@ -3,13 +3,13 @@ title: Countly | Free Open Source Enterprise BI Solution
 description: Countly is a cross-platform free enterprise BI solution. It offers campaign attribution, visitor information, push notifications and error reporting features.
 singlepageh1title: Cross-Platform Self Hosted Open Source Web Analytics Software
 singlepageh2title: Engage your customers and enhance their website journey. Countly offers API and many plugins to help you understand the visitor's behavior and site performance.
-Shortdescriptionlistingpage: Engage your customers and enhance their website journey. Countly offers API and many plugins to help you understand the visitor's behavior and site performance.
+Shortdescriptionlistingpage: Countly is another alternative enterprise BI solution. It offers site monitoring, push notifications, custom event tracking, custom plugin development and more.
 linktitle: Countly
-Imagetext:  Open Source Business Intelligence Software
+Imagetext:  Free Business Intelligence Software
 draft: false
 weight: 3
 layout: "single"
-
+GithubLink: https://github.com/countly/countly-server
 HomePage_TitleText: Open Source Business Intelligence Software in JavaScript
 
 ListingPage_MenuImage_TitleText: enterprise bi solution

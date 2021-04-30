@@ -3,13 +3,13 @@ title: InvoicePlane | Invoice Processing System For Bookkeeping
 description: InvoicePlane is free and open source CodeIgniter invoice application. It offers rich features for generating quotes, handling payments, and powerful reporting.
 singlepageh1title: Manage Finances With Free Invoice Processing System
 singlepageh2title: Manage full billing cycle with on premise accounting software supporting payment providers like Stripe. Take care of customers with efficient CRM features.
-Shortdescriptionlistingpage: Manage full billing cycle with on premise accounting software supporting payment providers like Stripe. Take care of customers with efficient CRM features.
+Shortdescriptionlistingpage: InvoicePlane is feature-rich, self-hosted book keeping software for all accounting operations management. It can be customized to business needs and reap true power from it.
 linktitle: InvoicePlane
 Imagetext:  Free Invoicing Software 
 draft: false
 weight: 3
 layout: "single"
-
+GithubLink: https://github.com/InvoicePlane/InvoicePlane
 HomePage_TitleText: Open Source Accounting System in PHP
 
 ListingPage_MenuImage_TitleText: 

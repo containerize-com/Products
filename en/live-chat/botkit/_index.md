@@ -3,13 +3,13 @@ title: Botkit | Open Source NodeJS Bot Framework
 description: Botkit is 100% free developer tool backed by big community. It is a part of Microsoft Bot Framework for easier and rapid bot development and deployment.
 singlepageh1title: A Bot Builder for Facebook, Slack and WebChat
 singlepageh2title: Botkit is bot designing tool with lots of integrations including Microsoft Teams, Twilio, Facebook for Work and Cisco Spark. Build interactive bots with Botkit.
-Shortdescriptionlistingpage: Botkit is bot designing tool with lots of integrations including Microsoft Teams, Twilio, Facebook for Work and Cisco Spark. Build interactive bots with Botkit.
+Shortdescriptionlistingpage: Botkit is an open-source bot making toolkit made by the Howdy team.
 linktitle: Botkit
 Imagetext:  Live Chat Software 
 draft: false
 weight: 6
 layout: "single"
-
+GithubLink: https://github.com/howdyai/botkit
 HomePage_TitleText: Open Source Live Chat System in TypeScript, JavaScript.
 
 ListingPage_MenuImage_TitleText: 

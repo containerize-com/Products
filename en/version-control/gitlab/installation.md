@@ -33,9 +33,3 @@ sudo EXTERNAL_URL="https://gitlab.example.com" apt-get install gitlab-ee
 
 Open your browser and visit site. It will redirect to the password reset screen. Set password and you will be redirected to login screen where you can signin with root user.
 
-#### **Explore**
-
-You may find the following links relevant:
-
-- [Top 5 Open Source Version Control Software In 2020](https://blog.containerize.com/2020/12/11/top-5-open-source-version-control-software-in-2020/)
- 

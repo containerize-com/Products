@@ -3,13 +3,13 @@ title: MySQL | Open Source Relational Database Management System
 description: Organize, access and manage large amounts of data for your web apps via MySQL DBMS. It is a flexible, secure, fast and reliable database management system.
 singlepageh1title: Popular Open Source Relational Database Management System
 singlepageh2title: Organize, access and manage large amounts of data for your online and offline apps via MySQL. It is a secure, easy-to-use and fast database management system.
-Shortdescriptionlistingpage: Organize, access and manage large amounts of data for your online and offline apps via MySQL. It is a secure, easy-to-use and fast database management system.
+Shortdescriptionlistingpage: Organize, access and manage large amounts of data for your online and offline apps via MySQL. It is secure, easy-to-use and fast database management system.
 linktitle: MySQL
 Imagetext: Free Database Management System
 draft: false
 weight: 1
 layout: "single"
-
+GithubLink: https://github.com/mysql/mysql-server
 HomePage_TitleText: Database Management System
 
 ListingPage_MenuImage_TitleText: MySQL logo

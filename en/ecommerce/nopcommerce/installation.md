@@ -170,10 +170,3 @@ sudo systemctl restart nginx
 Open browser and visit your site, it will redirect to the installation wizard. Fill Store and Database information details.
 
 Click Install button in order to start the installation process. Project home page will display once installation is complete.
-
-#### **Explore**
-
-You may find the following links relevant:
-
-- [Top 5 Open Source Shopping Cart Software in 2020](https://blog.containerize.com/2020/11/27/top-5-open-source-shopping-cart-software-in-2020/)
- 

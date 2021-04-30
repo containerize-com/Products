@@ -3,12 +3,13 @@ title: Zammad | Free Socialized Helpdesk Ticketing System
 description: Single open source helpdesk platform to deliver most satisfying customer support experience from your telephone, email, live chat and website.
 singlepageh1title: Open Source Helpdesk System Linked with Facebook and Twitter
 singlepageh2title: Free ticketing based customer support system that connects ticket management with popular social networks and email service to provide advanced customer support
-Shortdescriptionlistingpage: Free ticketing based customer support system that connects ticket management with popular social networks and email service to provide advanced customer support
+Shortdescriptionlistingpage: Zammad is a web based open source help desk ticketing software with many features to manage customer communication via several channels like telephone, facebook, twitter, chat and e-mails.
 linktitle: Zammad
-Imagetext:  Free Helpdesk Software 
+Imagetext:  Free Ticketing System
 draft: false
 weight: 3
 layout: "single"
+GithubLink: https://github.com/zammad/zammad
 
 HomePage_TitleText: Open Source Ticketing Platform in Ruby
 

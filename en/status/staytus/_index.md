@@ -3,12 +3,13 @@ title: Staytus | Free and Open Source Status Page System
 description:  Staytus is a feature-packed open source status page system for monitoring web server applications. It also supports integration with external applications.
 singlepageh1title: Open Source Status Page System For Services Monitoring
 singlepageh2title: Reliable and open source status page system for monitoring the web applications and services. Notify customers and helps to reduce downtime of system outages.
-Shortdescriptionlistingpage: Reliable and open source status page system for monitoring the web applications and services. Notify customers and helps to reduce downtime of system outages.
+Shortdescriptionlistingpage: Statusfy open source status page software for generating static or server rendered websites. Create incidents and publish your site with CLI and even reduce server cost by generating static website.
 linktitle: staytus
 Imagetext: Staytus Free Status Page System
 draft: false
 weight: 4
 layout: "single"
+GithubLink: https://github.com/juliomrqz/statusfy
 
 HomePage_TitleText: Open Source StatusPage System in Ruby
 

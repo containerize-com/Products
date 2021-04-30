@@ -3,13 +3,13 @@ title: Kdenlive | Enterprise Level Open Source Video Editor
 description: Kdenlive is an open source video editor. It comes up with provisions such as proxy editing, timeline preview, themeable interface and versioning features.
 singlepageh1title: MLT Framework Based Cross Platform Video Editing Solution
 singlepageh2title: A configurable interface and keyboard shortcuts make the Kdenlive video editor an adaptable software. It is built on Qt and KDE with 2D and automatic backup.
-Shortdescriptionlistingpage: A configurable interface and keyboard shortcuts make the Kdenlive video editor an adaptable software. It is built on Qt and KDE with 2D and automatic backup.
+Shortdescriptionlistingpage: Kdenlive is another alternative open source video editing software. It provides a themeable interface along with many provisions such as keyboard shortcuts, audio/video scops and many more.
 linktitle: Kdenlive
 Imagetext:  Open Source Video Editing Software
 draft: false
 weight: 4
 layout: "single"
-
+GithubLink: https://github.com/blender/blender
 HomePage_TitleText: Open Source Video Editor in C++
 
 ListingPage_MenuImage_TitleText: 

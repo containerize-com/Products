@@ -3,9 +3,9 @@ title: Calligra | Open Source Office Alternative for all Platforms
 description: Calligra Suite is an open source office alternative for all the major operating systems. Its not just office but a graphic art suite by KDE.
 singlepageh1title: A Free and Open Source Office Alternative
 singlepageh2title: Calligra Suite by KDE is the best open-source office alternative available for major operating systems. Comes with vector drawing, and database applications.
-Shortdescriptionlistingpage: Calligra Suite by KDE is the best open-source office alternative available for major operating systems. Comes with vector drawing, and database applications.
+Shortdescriptionlistingpage: Calligra Suite includes Words as Microsoft Word alternative, Sheets as Microsoft Excel alternative, and Stage as Microsoft Powerpoint alternative.
 linktitle: Calligra 
-Imagetext:  Free Office Productivity 
+Imagetext:  Office Productivity
 draft: false
 weight: 5
 layout: "single"

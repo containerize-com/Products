@@ -3,13 +3,13 @@ title: JHipster | Rapid Development Tool for Web and Microservices
 description: Set up free rapid development tool to build production ready applications and microservices. It offers rich documentation for development and deployment
 singlepageh1title: Open Source RAD Platform For Developing Enterprise Web Apps
 singlepageh2title: High rated rad development model for building web apps. It provides diverse tech stack such as Angular, Node.js, Java Spring framework, and multiple DB options.
-Shortdescriptionlistingpage: High rated rad development model for building web apps. It provides diverse tech stack such as Angular, Node.js, Java Spring framework, and multiple DB options.
+Shortdescriptionlistingpage: Jhipster is another open source RAD platform for building business web apps. It offers back end in Java Sprint Boot framework and Angular, React.js and Vue.js for the front end along with multiple DB options.
 linktitle: Jhipster
 Imagetext:  Free RAD Framework
 draft: false
-weight: 5
+weight: 3
 layout: "single"
-
+GithubLink: https://github.com/jhipster/generator-jhipster
 HomePage_TitleText: Open Source Rapid Application Development Platform in Java Spring Boot and Angular 9,Reactjs,Vue.js
 
 ListingPage_MenuImage_TitleText: 

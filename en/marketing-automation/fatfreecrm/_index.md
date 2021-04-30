@@ -3,9 +3,9 @@ title: FatFreeCRM | Open Source Customer Relationship Management Platform
 description: Free Marketing Automation platform to generate leads, build marketing campaign, and compose marketing email with seamless integration to popular social networks.
 singlepageh1title: Ruby on Rails Based Customer Relationship Management Platform. 
 singlepageh2title: FatFreeCRM open-source features group collaboration, campaign and lead management, contact lists, opportunity tracking and elegant in simplicity. 
-Shortdescriptionlistingpage: FatFreeCRM open-source features group collaboration, campaign and lead management, contact lists, opportunity tracking and elegant in simplicity. 
+Shortdescriptionlistingpage: FatFreeCRM provides management of corporate information such as customer contacts, customer accounts, sales leads, and sales opportunities. 
 linktitle: fatfreecrm
-Imagetext: FatFreeCRM  
+Imagetext: Marketing Automation Software  
 draft: false
 weight: 5
 layout: "single"

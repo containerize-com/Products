@@ -3,13 +3,13 @@ title: Blender | Free Open Source Video Editing Software
 description: Blender is a free video editing software written in C and C++ with many powerful features such as audio mixing, live preview, animations, and transitions.
 singlepageh1title: Cycles Render Engine Based 3D Creation Suite And Video Editor
 singlepageh2title: Blender provides a built-in video sequence editor. It comes up with many features such as splicing, video cuts, video masking, live preview, and color grading.
-Shortdescriptionlistingpage: Blender provides a built-in video sequence editor. It comes up with many features such as splicing, video cuts, video masking, live preview, and color grading.
+Shortdescriptionlistingpage: Blender is another alternative open source video editor solution. It is free and offers powerful features such as speed control, animations, keyframes, 3D creation and many more.
 linktitle: Blender
 Imagetext:  Open Source Video Editing Software
 draft: false
 weight: 5
 layout: "single"
-
+GithubLink: https://github.com/KDE/kdenlive
 HomePage_TitleText: Open Source Video Editor in C
 
 ListingPage_MenuImage_TitleText: 

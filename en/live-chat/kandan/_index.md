@@ -3,9 +3,9 @@ title: Kandan | Open Source Team Chat Application for Your Company
 description: Kandan is a free Ruby-based well-supported open-source chat application. It allows you to manage several conversations simultaneously via chat rooms. 
 singlepageh1title: Fully Featured Rails Based Fast, Secure and Stable Chat App.
 singlepageh2title: Kandan is an open-source chat application with an elegant and clean design. You can invite colleagues to share ideas and files in persistent group chat rooms.
-Shortdescriptionlistingpage: Kandan is an open-source chat application with an elegant and clean design. You can invite colleagues to share ideas and files in persistent group chat rooms.
+Shortdescriptionlistingpage: Kandan is completely Open Source web based team chat application for your company. Kandan can be hosted internally or externally by any organization.
 linktitle: kandan
-Imagetext: Kandan Free Real-time Chat Application
+Imagetext: Live Chat Software
 draft: false
 weight: 11
 layout: "single"

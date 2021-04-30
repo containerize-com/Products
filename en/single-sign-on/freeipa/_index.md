@@ -3,13 +3,13 @@ title: FreeIPA | Open Source Centralized Authentication Software
 description: FreeIPA is an open source integrated software that provides centralized authentication and authorization with complete security for all network components.
 singlepageh1title: Linux/UNIX Based Identity And Authentication Solution
 singlepageh2title: FreeIPA offers centralized authentication and authorization for networked environments. It comes with CLI, RPC access, and a Web user interface to manage users.
-Shortdescriptionlistingpage: FreeIPA offers centralized authentication and authorization for networked environments. It comes with CLI, RPC access, and a Web user interface to manage users.
+Shortdescriptionlistingpage: FreeIPA is another open source alternative SSO sultion for Linux/UNIX based networked environment. It is written in Python and provides multiple user interfaces such as Web UI, CLI and JSONRPC API.
 linktitle: FreeIPA
-Imagetext:  Open Source Identity Server
+Imagetext:  Free SSO Solution
 draft: false
 weight: 7
 layout: "single"
-
+GithubLink: https://github.com/freeipa/freeipa
 HomePage_TitleText: Open Source SSO Solution for Python
 
 ListingPage_MenuImage_TitleText: 

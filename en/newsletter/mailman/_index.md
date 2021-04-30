@@ -3,13 +3,13 @@ title: Mailman | Free Newsletter and Marketing Campaign Software
 description: Free newsletter software for the sending of newsletters and discussion between list members. Use MTA like Postfix for sending email campaigns.
 singlepageh1title: Python Based Free Newsletter And Mailing List Software
 singlepageh2title: Free on-premise newsletter software for managing mailing lists and sending newsletters. Send marketing emails to millions of subscribers and turn them into customers.
-Shortdescriptionlistingpage: Free on-premise newsletter software for managing mailing lists and sending newsletters. Send marketing emails to millions of subscribers and turn them into customers.
+Shortdescriptionlistingpage: Mailman is open source newsletter and mailing list manager. Mailman is integrated with the web, allowing users to manage their accounts and lists quickly.
 linktitle: Mailman
 Imagetext:  Free Newsletter Software 
 draft: false
 weight: 5
 layout: "single"
-
+GithubLink: https://gitlab.com/mailman
 HomePage_TitleText: Open Source Email Marketing Platform in Python
 
 ListingPage_MenuImage_TitleText: 

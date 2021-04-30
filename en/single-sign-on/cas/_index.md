@@ -3,13 +3,13 @@ title: CAS | Open Source Multifactor Authentication SSO
 description: Free single sign on solution to control the authentication feature of multiple websites from one place using ticket-based and other standard protocols.
 singlepageh1title: Multilingual Single Sign On With Delegated Authentication
 singlepageh2title: Central Authentication Service is open source SSO software which provides authentication and authorization features using OpenID, OAuth, and SAML protocols
-Shortdescriptionlistingpage: Central Authentication Service is open source SSO software which provides authentication and authorization features using OpenID, OAuth, and SAML protocols
+Shortdescriptionlistingpage: CAS is another open source alternative to provide Authorization, SSO and Federation. It is Multilingual and supports Multifactor Authentication using ticket-based and other standard protocols.
 linktitle: CAS
 Imagetext:  Free SSO Solution
 draft: false
-weight: 2
+weight: 3
 layout: "single"
-
+GithubLink: https://github.com/apereo/cas
 HomePage_TitleText: Open Source SSO Solution for Java
 
 ListingPage_MenuImage_TitleText: 

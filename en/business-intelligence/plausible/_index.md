@@ -3,13 +3,13 @@ title: Plausible | Free and Open Source Web Analytics Platform
 description: Plausible is a self-host, lightweight and open source web analytics platform. It is clutter-free, privacy-friendly & supports Google search console integration.
 singlepageh1title: Lightweight Privacy Protected Google Analytics Alternative
 singlepageh2title: Get page insights by simply installing Plausible on the website. This enterprise business intelligence solution is multi-purpose and privacy-focused.
-Shortdescriptionlistingpage: Get page insights by simply installing Plausible on the website. This enterprise business intelligence solution is multi-purpose and privacy-focused.
+Shortdescriptionlistingpage: Plausible is an alternative solution to Google Analytics. It is highly privacy-oriented, cookie-less, and offers features such as Google Search Console integration and more.
 linktitle: Plausible
-Imagetext:  Open Source Business Intelligence Software
+Imagetext:  Free Business Intelligence Software
 draft: false
 weight: 2
 layout: "single"
-
+GithubLink: https://github.com/plausible/analytics
 HomePage_TitleText: Open Source Business Intelligence Software in Elixir
 
 ListingPage_MenuImage_TitleText: web analytics platform

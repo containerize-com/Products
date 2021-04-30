@@ -3,13 +3,13 @@ title: PrestaShop | Free Shopping Cart Solution For Store Building
 description: PrestaShop is an open source and easy shopping cart software for running eCommerce shop. Quickly setup multistores and manage them from single backoffice.
 singlepageh1title: Run Multiple Stores With Free Shopping Cart Solution
 singlepageh2title: Grow your business with innovative and GDPR compliance open source shopping cart software. Setup online store with all the required features to run shop.
-Shortdescriptionlistingpage: Grow your business with innovative and GDPR compliance open source shopping cart software. Setup online store with all the required features to run shop.
+Shortdescriptionlistingpage: PrestaShop is popular free shopping cart software built on PHP and use on hundreds of thousands eCommerce websites.
 linktitle: PrestaShop
-Imagetext:  Free Shopping Cart Software 
+Imagetext:  Shopping Cart Software 
 draft: false
-weight: 3
+weight: 4
 layout: "single"
-
+GithubLink: https://github.com/PrestaShop/PrestaShop
 HomePage_TitleText: Open Source Shopping Cart in PHP
 
 ListingPage_MenuImage_TitleText: 

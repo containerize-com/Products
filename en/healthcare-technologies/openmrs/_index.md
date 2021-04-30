@@ -3,13 +3,13 @@ title: OpenMRS | Open Source Health Management Information System
 description: OpenMRS is a free and open source health management information system. It is secure, multilingual and comes up with powerful reporting and access features.
 singlepageh1title: Health Management Information System With RESTful Interface
 singlepageh2title: OpenMRS is a web-based solution for healthcare. It offers powerful modules such as location-based login, embedded patient workflows, and flexible reporting.
-Shortdescriptionlistingpage: OpenMRS is a web-based solution for healthcare. It offers powerful modules such as location-based login, embedded patient workflows, and flexible reporting.
+Shortdescriptionlistingpage: OpenMRS is another alternative open source electronic medical record system. It is flexible and provides powerful features such as role-based permissions, embedded patient workflows, and support for multiple languages.
 linktitle: OpenMRS
-Imagetext:  Open Source Healthcare Software
+Imagetext:  Free Healthcare Software
 draft: false
 weight: 2
 layout: "single"
-
+GithubLink: https://github.com/openmrs/openmrs-core
 HomePage_TitleText: Open Source Healthcare Software in Java
 
 ListingPage_MenuImage_TitleText: OpenMRS

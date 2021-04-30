@@ -34,9 +34,3 @@ $ docker run --name tryton -p 8000:8000 --link tryton-postgres:postgres -e DB_PA
 
 After the successful installation, access the application by visiting http://localhost:8000.
 
-#### **Explore**
-
-You may find the following links relevant:
-
-- [Top 5 Open Source ERP Software For Your Business](https://blog.containerize.com/2021/01/11/top-5-open-source-erp-software-for-your-business/)
- 

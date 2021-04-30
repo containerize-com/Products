@@ -3,7 +3,7 @@ title: Joomla | Leading Free CMS Software With Powerful Templates
 description: Free Joomla CMS helps to create fairly complex websites with e-commerce capabilities. Improve visibility of your business by building responsive websites.
 singlepageh1title: Open Source Website Builder Powered By Thousands Of Extensions
 singlepageh2title: Joomla is a CMS platform for building websites with multilingual support. Use responsive Joomla Templates for mobile friendly socialized modern websites.
-Shortdescriptionlistingpage: Joomla is a CMS platform for building websites with multilingual support. Use responsive Joomla Templates for mobile friendly socialized modern websites.
+Shortdescriptionlistingpage: Joomla is the mobile-ready and user-friendly way to build your website. Choose from thousands of features and designs. Joomla is free and open source enterprise cms.
 linktitle: Joomla
 Imagetext:  Free CMS Software 
 draft: false

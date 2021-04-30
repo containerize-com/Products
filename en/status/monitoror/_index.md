@@ -3,12 +3,13 @@ title: Monitoror | Free Application Monitoring Tool
 description: Monitoror is feature packed On-Premise monitoring software that supports popular services like GitLab, GitHub, Azure DevOps, Pingdom, Jenkins, Travis CI.
 singlepageh1title: Free Application Monitoring For All Services In One Place
 singlepageh2title: Monitoror is full featured monitoring wallboard software to monitor services, web applications, CI builds progress, APIs, server ports and even repositories.
-Shortdescriptionlistingpage: Monitoror is full featured monitoring wallboard software to monitor services, web applications, CI builds progress, APIs, server ports and even repositories.
+Shortdescriptionlistingpage: Monitoror is free and open source monitoring software for all your tools at one place. It offers features to monitor all popular services like GitLab, GitHub, Azure DevOps, Pingdom, Jenkins, Travis CI.
 linktitle: Monitoror
 Imagetext:  Free StatusPage Software 
 draft: false
 weight: 3
 layout: "single"
+GithubLink: https://github.com/monitoror/monitoror
 
 HomePage_TitleText: Open Source StatusPage System in Go
 

@@ -3,13 +3,13 @@ title: InvoiceNinja | Open Source Invoicing Software
 description: Online invoicing app for businesses which helps them to create invoices, accept payments, track expenses, create proposals and manage tasks.
 singlepageh1title: Free And Open Source Invoicing Software For Small Businesses
 singlepageh2title: Free invoicing software for businesses which helps them to create invoices, accept payments, track expenses, create proposals and manage tasks.
-Shortdescriptionlistingpage: Free invoicing software for businesses which helps them to create invoices, accept payments, track expenses, create proposals and manage tasks.
+Shortdescriptionlistingpage: Invoice Ninja is a free and open source invoicing system. It can be install and configure the software on a private server, which is a better option for companies that find themselves juggling a large number of payments.
 linktitle: InvoiceNinja
 Imagetext:  Free Invoicing Software 
 draft: false
 weight: 1
 layout: "single"
-
+GithubLink: https://github.com/invoiceninja/invoiceninja
 HomePage_TitleText: Open Source Accounting System in PHP
 
 ListingPage_MenuImage_TitleText: 

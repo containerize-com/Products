@@ -3,13 +3,13 @@ title: Posthog | Scalable Open Source Data Analytics Tool
 description: Posthog is a free and open source data analytics tool. Deploy it on your infrastructure to examine user's insights and track conversion/retention rate.
 singlepageh1title: Track Your Customers And Websites With Open Source BI Tool
 singlepageh2title: Automate every event on your website using Posthog analytics. It is open source and provides full data control, insight visualizations and API for integrations.
-Shortdescriptionlistingpage: Automate every event on your website using Posthog analytics. It is open source and provides full data control, insight visualizations and API for integrations.
+Shortdescriptionlistingpage: Posthog is another alternative open source data analytics tool. It offers automated event capturing, external integrations, conversion/retention tracking, session recording and more.
 linktitle: Posthog
-Imagetext:  Open Source Business Intelligence Software
+Imagetext:  Free Business Intelligence Software
 draft: false
 weight: 5
 layout: "single"
-
+GithubLink: https://github.com/PostHog/posthog
 HomePage_TitleText: Open Source Business Intelligence Software in Python
 
 ListingPage_MenuImage_TitleText: enterprise open source bi tool and business intelligence solution

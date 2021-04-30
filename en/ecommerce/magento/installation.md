@@ -88,9 +88,3 @@ Create Nginx configuration file for Magento and changes settings as per your env
 
 Open your site in browser and follow the installation wizard.
 
-#### **Explore**
-
-You may find the following links relevant:
-
-- [Top 5 Open Source Shopping Cart Software in 2020](https://blog.containerize.com/2020/11/27/top-5-open-source-shopping-cart-software-in-2020/)
- 

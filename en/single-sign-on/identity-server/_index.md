@@ -3,13 +3,13 @@ title: Identity Server  | ASP.NET Core SSO Framework
 description: Set up centralized authentication server for multiple trusted applications and control all organizational apps access at a single place.
 singlepageh1title: Cross Platform SSO Framework Using OpenID Connect and OAuth 2
 singlepageh2title: Single Sign On Framework to build access control solutions for modern web applications and APIs. Simplify authentication management by centralizing to one place.
-Shortdescriptionlistingpage: Single Sign On Framework to build access control solutions for modern web applications and APIs. Simplify authentication management by centralizing to one place.
+Shortdescriptionlistingpage: IdentityServer is a open source framework that uses openid connect and oauth 2.0 to achieve single sign on, acts as a single authentication and authorization server for multiple applications.
 linktitle: IdentityServer
 Imagetext: Free SSO Solution
 draft: false
 weight: 1
 layout: "single"
-
+GithubLink: https://github.com/IdentityServer
 HomePage_TitleText: Open Source SSO Solution for ASP.NET Core
 
 ListingPage_MenuImage_TitleText: 

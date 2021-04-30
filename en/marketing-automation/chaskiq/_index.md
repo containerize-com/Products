@@ -3,12 +3,13 @@ title: Chaskiq | Open source business marketing management software
 description: Chaskiq is a business marketing management tool that enables communications via campaigns in messages or newsletters. It also supports live chat & video calls.
 singlepageh1title: Fully featured platform for Messaging, Support and Marketing
 singlepageh2title: Open source embeddable live chat supporting video calls, customer support, sales and business marketing management platform build as an alternative for Intercom
-Shortdescriptionlistingpage: Open source embeddable live chat supporting video calls, customer support, sales and business marketing management platform build as an alternative for Intercom
+Shortdescriptionlistingpage: Chaskiq is open source fully featured business marketing management Platform for sales, customer support and marketing.
 linktitle: Chaskiq
-Imagetext:  Marketing Automation Software 
+Imagetext:  Marketing Automation Software
 draft: false
 weight: 6
 layout: "single"
+GithubLink: https://github.com/chaskiq/chaskiq
 
 HomePage_TitleText: Open Source business marketing management platform built on Rails
 

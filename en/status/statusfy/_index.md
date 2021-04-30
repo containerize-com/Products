@@ -3,12 +3,13 @@ title: Statusfy | On-Premise Open Source Status Page System
 description: Staytus is feature-packed open source status page software for monitoring websites, web apps, APIs and networks. Also allows integration with external apps.
 singlepageh1title: Free And Open Source Status Page Software For Every Business
 singlepageh2title: Develop static generated or server rendered system with self-Hosted status page system. Keep your users informed with simplicity and speed in any language.
-Shortdescriptionlistingpage: Develop static generated or server rendered system with self-Hosted status page system. Keep your users informed with simplicity and speed in any language.
+Shortdescriptionlistingpage: Staytus is powerful and feature rich open source status page system for monitoring of tools. Send alerts notifications to subscribers and integrate with third party applications for updating incidents.
 linktitle: Statusfy
 Imagetext:  Free StatusPage Software 
 draft: false
 weight: 5
 layout: "single"
+GithubLink: https://github.com/adamcooke/staytus
 
 HomePage_TitleText: Open Source StatusPage System in Node.js
 

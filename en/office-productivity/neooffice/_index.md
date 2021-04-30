@@ -3,9 +3,9 @@ title: NeoOffice | Free Open-Source Office Suite for macOS
 description: NeoOffice is a free and open-source office suite for macOS. It’s based on LibreOffice and OpenOffice and supports all the features.
 singlepageh1title: Open-Source Office Suite, Microsoft Office Replacemnt for macOS
 singlepageh2title: NeoOffice is an open-source office suite for Mac that is based on OpenOffice and LibreOffice. With NeoOffice, you can view, edit, and save OpenOffice documents.
-Shortdescriptionlistingpage: NeoOffice is an open-source office suite for Mac that is based on OpenOffice and LibreOffice. With NeoOffice, you can view, edit, and save OpenOffice documents.
+Shortdescriptionlistingpage: NeoOffice is a 100% free and open-source office productivity suite. This is a great software if you are trying to switch from Microsoft Software but something a little cheaper which is 100% free in this case.
 linktitle: NeoOffice 
-Imagetext:  Free Office Productivity 
+Imagetext:  Office Productivity
 draft: false
 weight: 3
 layout: "single"

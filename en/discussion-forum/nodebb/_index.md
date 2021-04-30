@@ -3,9 +3,9 @@ title: NodeBB | Open Source Discussion Forum and Bulletin Board
 description: Open source internet bulletin board and discussion forum building software featured with streaming posts, instant notifications, and real-time chat.
 singlepageh1title: Free & Fast Community Discussion Board Driven By Web Sockets
 singlepageh2title: Open source discussion forum software with modern social web features for building communities. Promote product brand and create awareness by engaging audience.
-Shortdescriptionlistingpage: Open source discussion forum software with modern social web features for building communities. Promote product brand and create awareness by engaging audience.
+Shortdescriptionlistingpage: Open source discussion forum software with modern social web features for building communities.
 linktitle: NodeBB
-Imagetext:  Free Discussion Forum 
+Imagetext:  Free Forum Software
 draft: false
 weight: 4
 layout: "single"

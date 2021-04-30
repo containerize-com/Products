@@ -3,13 +3,13 @@ title: KeePass | Secure, Portable & Open Source Password Manager
 description: KeePass is one of the most popular free password manager software mainly developed for Windows. It also supports MacOS, Linux, Android and IOS.
 singlepageh1title: Secure, Portable & Open Source Password Manager
 singlepageh2title: KeePass is one of the most popular free password manager software mainly developed for Windows. It also supports MacOS, Linux, Android and IOS.
-Shortdescriptionlistingpage: KeePass is one of the most popular free password manager software mainly developed for Windows. It also supports MacOS, Linux, Android and IOS.
+Shortdescriptionlistingpage: KeePass is one of the most popular free password manager software mainly developed for Windows. It also supports MacOS, Linux, Android and IOS as well.
 linktitle: KeePass
 Imagetext: Free Password Management Software
 draft: false
 weight: 1
 layout: "single"
-
+GithubLink: https://github.com/keepassx/keepassx
 HomePage_TitleText: Open Source Password Management Software
 
 ListingPage_MenuImage_TitleText: keepass logo

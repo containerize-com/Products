@@ -5,10 +5,11 @@ singlepageh1title: Full Featured On Premise Alternative to Sendgrid and Mailgun
 singlepageh2title: Postal is a mail server software with HTTP API for easy integration with web apps. Use postal as central transactional email service to improve email tracking.
 Shortdescriptionlistingpage: Postal is a mail server software with HTTP API for easy integration with web apps. Use postal as central transactional email service to improve email tracking.
 linktitle: Postal
-Imagetext:  Transactional Email Service 
+Imagetext:  Transactional Email Service
 draft: false
 weight: 1
 layout: "single"
+GithubLink: https://github.com/postalhq/postal
 
 HomePage_TitleText: Open Source Email Delivery Platform in Ruby
 

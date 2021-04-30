@@ -3,12 +3,13 @@ title: FormBuilder | Free Open Source Forms Designer
 description: Generate responsive forms using a powerful drag and drop interface which excludes the hassle of writing code for each form’s element and its style
 singlepageh1title: Create Configurable Form Templates With Custom Controls
 singlepageh2title: Drag and drop features to build forms with a rich stack of options including multlingual support, multiple configuration options and several action methods.
-Shortdescriptionlistingpage: Drag and drop features to build forms with a rich stack of options including multlingual support, multiple configuration options and several action methods.
+Shortdescriptionlistingpage: A free open source form designer to design and launch form templates with custom validations and controls.
 linktitle: FormBuilder
 Imagetext:  Free Form Builder
 draft: false
 weight: 6
 layout: "single"
+GithubLink: https://github.com/kevinchappell/formBuilder
 
 HomePage_TitleText: Open Source HTML5 Form Generator in JavaScript jQuery
 

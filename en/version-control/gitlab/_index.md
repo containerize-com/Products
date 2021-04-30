@@ -3,7 +3,7 @@ title: GitLab | Source Code Management For Software Teams
 description: GitLab is one of the leading self hosted version control software. Moreover, it is a complete DevOps platform that allows teams to collaborate and share easily.
 singlepageh1title: Free And Open Source Source Code Management Software
 singlepageh2title: Rapidly coordinate, share and collaborate with self-hosted source code management software. Allows teams to maximize productivity and faster delivery.
-Shortdescriptionlistingpage: Rapidly coordinate, share and collaborate with self-hosted source code management software. Allows teams to maximize productivity and faster delivery.
+Shortdescriptionlistingpage: GitLab is a complete free and open source DevOps platform with built-in full feature version control system.
 linktitle: GitLab
 Imagetext:  Free Version Control Software 
 draft: false

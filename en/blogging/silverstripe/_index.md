@@ -3,11 +3,11 @@ title: SilverStripe | Open Source Web Content Management System
 description: Serendipity provides a stable blog engine with proper security measures. Extend functionality via easy to install plugins available at their online repository.
 singlepageh1title: Highly Customizable and Extensible Replacement of Joomla
 singlepageh2title: SilverStripe is an easy to use CMS for content creators and developers. Customize your website to any level without requiring any prior development knowledge.
-Shortdescriptionlistingpage: SilverStripe is an easy to use CMS for content creators and developers. Customize your website to any level without requiring any prior development knowledge.
+Shortdescriptionlistingpage: Silverstripe CMS is the intuitive content management system and flexible framework loved by editors and developers alike. Equip your web teams to achieve outstanding results.
 linktitle: Silverstripe 
 Imagetext:  Free Blogging Platform 
 draft: false
-weight: 4
+weight: 5
 layout: "single"
 GithubLink: https://github.com/silverstripe/silverstripe-framework
 

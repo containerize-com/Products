@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-<a class="anchor" id="explore" name="explore"></a>Explore
+Explore
 -------
 
 To learn about other free web based database management systems, please check following pages:

@@ -233,12 +233,12 @@ TEMPLATES: [
 
 ```
 
-- Update database credentials / secrets / paths like described in the comments above.
-- To send a test e-mail to <span id="cloak21ede15124b07fd7b5389d8817baeb74">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type="text/javascript">document.getElementById('cloak21ede15124b07fd7b5389d8817baeb74').innerHTML='';var prefix='&#109;a'+'i&#108;'+'&#116;o';var path='hr'+'ef'+'=';var addy21ede15124b07fd7b5389d8817baeb74='s&#111;m&#101;th&#105;ng'+'&#64;';addy21ede15124b07fd7b5389d8817baeb74=addy21ede15124b07fd7b5389d8817baeb74+'s&#111;m&#101;th&#105;ng'+'&#46;'+'c&#111;m';var addy_text21ede15124b07fd7b5389d8817baeb74='s&#111;m&#101;th&#105;ng'+'&#64;'+'s&#111;m&#101;th&#105;ng'+'&#46;'+'c&#111;m';document.getElementById('cloak21ede15124b07fd7b5389d8817baeb74').innerHTML+='<a '+path+'\''+prefix+':'+addy21ede15124b07fd7b5389d8817baeb74+'\'>'+addy_text21ede15124b07fd7b5389d8817baeb74+'<\/a>';</script> execute:
- 
- ```
-python3 ~/psono-server/psono/manage.py sendtestmail <span id="cloak0fbb218bde91120d9212198409d47c2a">This email address is being protected from spambots. You need JavaScript enabled to view it.</span><script type="text/javascript">document.getElementById('cloak0fbb218bde91120d9212198409d47c2a').innerHTML='';var prefix='&#109;a'+'i&#108;'+'&#116;o';var path='hr'+'ef'+'=';var addy0fbb218bde91120d9212198409d47c2a='s&#111;m&#101;th&#105;ng'+'&#64;';addy0fbb218bde91120d9212198409d47c2a=addy0fbb218bde91120d9212198409d47c2a+'s&#111;m&#101;th&#105;ng'+'&#46;'+'c&#111;m';var addy_text0fbb218bde91120d9212198409d47c2a='s&#111;m&#101;th&#105;ng'+'&#64;'+'s&#111;m&#101;th&#105;ng'+'&#46;'+'c&#111;m';document.getElementById('cloak0fbb218bde91120d9212198409d47c2a').innerHTML+='<a '+path+'\''+prefix+':'+addy0fbb218bde91120d9212198409d47c2a+'\'>'+addy_text0fbb218bde91120d9212198409d47c2a+'<\/a>';</script>
-```
+*   Update database credentials / secrets / paths like described in the comments above.
+*   To send a test e-mail to <span id="cloak21ede15124b07fd7b5389d8817baeb74">[something@something.com](mailto:something@something.com)</span> execute:
+        
+        
+        python3 ~/psono-server/psono/manage.py sendtestmail something@something.com
+        
 
 - If you receive this test e-mail, e-mail should be configured proper.
 - Create our database

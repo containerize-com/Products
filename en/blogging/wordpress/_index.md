@@ -3,7 +3,7 @@ title: WordPress is Open Source PHP Blogging and CMS Software
 description: WordPress is open source and free content management system and blogging platform written in PHP and paired with a MySQL or MariaDB database.
 singlepageh1title: WordPress is Open Source Blogging Tool With Big Dev Community
 singlepageh2title: WordPress is Open Source Blogging Platform, with a thriving developer community. It has a wide range of free templates, free plugins, and landing page plugins.
-Shortdescriptionlistingpage: WordPress is Open Source Blogging Platform, with a thriving developer community. It has a wide range of free templates, free plugins, and landing page plugins.
+Shortdescriptionlistingpage: Wordpress! is an online journal/platform for writing updated content that usually displays in reverse order by date.
 linktitle: WordPress
 Imagetext:  Free Blogging Platform 
 draft: false

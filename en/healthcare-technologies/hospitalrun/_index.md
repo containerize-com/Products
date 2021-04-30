@@ -3,13 +3,13 @@ title: Hospitalrun | Free Open Source Patient Record System
 description: Hospitalrun is an open source patient record system with many powerful provisions such as lab integration, drug management and patients discharge system.
 singlepageh1title: An Award-Winning Offline Enabled Medical Information System
 singlepageh2title: HospitalRun is highly rated free HIS with flexible user experience. Automate your patient registrations, appointments and customize billing system, and more.
-Shortdescriptionlistingpage: HospitalRun is highly rated free HIS with flexible user experience. Automate your patient registrations, appointments and customize billing system, and more.
+Shortdescriptionlistingpage: Hospitalrun is another alternative open source patient record system. It automates many of the important processes such as scheduling appointments, billing management, medical records management and many more.
 linktitle: Hospitalrun
-Imagetext:  Open Source Healthcare Software
+Imagetext:  Free Healthcare Software
 draft: false
 weight: 3
 layout: "single"
-
+GithubLink: https://github.com/HospitalRun/hospitalrun
 HomePage_TitleText: Open Source Healthcare Software in JavaScript
 
 ListingPage_MenuImage_TitleText: hospitalrun

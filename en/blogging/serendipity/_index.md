@@ -3,11 +3,11 @@ title: Serendipity | Open Source Blogging Software
 description: Serendipity provides a stable blog engine with proper security measures. Extend functionality via easy to install plugins available at their online repository.
 singlepageh1title: A Web Based Content Management System written in PHP
 singlepageh2title: Serendipity is a free, simple but powerful, self managed blogging platform and CMS. Personalize look and feel of your blog or website with appropriate themes.
-Shortdescriptionlistingpage: Serendipity is a free, simple but powerful, self managed blogging platform and CMS. Personalize look and feel of your blog or website with appropriate themes.
+Shortdescriptionlistingpage: It’s a reliable blog engine which users can trust as its written in world’s most popular programming language PHP with largest open source development community.
 linktitle: Serendipity
 Imagetext:  Free Blogging Platform 
 draft: false
-weight: 5
+weight: 4
 layout: "single"
 GithubLink: https://href.li/?https://github.com/s9y/Serendipity
 

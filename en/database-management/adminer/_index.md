@@ -3,13 +3,13 @@ title: Adminer | Free Web Based Database Management System
 description: A free DBMS tool that can be installed just by placing a single PHP file. It supports a wide range of database management systems.
 singlepageh1title: Free Web Based Database Management System
 singlepageh2title: Open Source database management tool which provides a user-friendly interface for developers to manage Postgres, SQLite, Oracle, MS SQL and MySQL databases.
-Shortdescriptionlistingpage: Open Source database management tool which provides a user-friendly interface for developers to manage Postgres, SQLite, Oracle, MS SQL and MySQL databases.
+Shortdescriptionlistingpage: Adminer is used to manage content of MySQL databases. It is a light-weight database management tool. Other than MySQL, Adminer also supports SQLite, PostgreSQL, Oracle, etc. 
 linktitle: Adminer
-Imagetext: Free Database Management Tool
+Imagetext: Database Management Tool
 draft: false
 weight: 2
 layout: "single"
-
+GithubLink: https://github.com/vrana/adminer
 HomePage_TitleText: Database Management Tool
 
 ListingPage_MenuImage_TitleText: Admine Logo

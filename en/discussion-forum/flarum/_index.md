@@ -3,9 +3,9 @@ title: Flarum | Open Source Discussion Forum and Message Board
 description: Flarum is feature-rich online open source discussion forum and message board builder that makes online discussion simpler and fun.
 singlepageh1title: Open Source, Fast and Reliable Community Discussion Forum
 singlepageh2title: Build beautiful discussion and message board websites with pack full social features.
-Shortdescriptionlistingpage: Build beautiful discussion and message board websites with pack full social features.
+Shortdescriptionlistingpage: Flarum is a wonderfully straightforward discussion platform for your site. It's fast and easy to use, with all the features you have to run a successful community.
 linktitle: Flarum
-Imagetext:  Free Discussion Forum 
+Imagetext:  Free Forum Software
 draft: false
 weight: 2
 layout: "single"

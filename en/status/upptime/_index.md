@@ -3,12 +3,13 @@ title: Upptime | Free Uptime Monitor And Open Source Status Page
 description: Upptime is open source status page system based on the GitHub actions and issues. It allows free monitoring of the websites and creates issues for incidents.
 singlepageh1title: Uptime Monitor And Open Source Status Page System For GitHub
 singlepageh2title: Monitor websites with free monitoring service and open source status page software right from GitHub repository. Powered by GitHub actions, issues, and pages.
-Shortdescriptionlistingpage: Monitor websites with free monitoring service and open source status page software right from GitHub repository. Powered by GitHub actions, issues, and pages.
+Shortdescriptionlistingpage: Upptime is a free uptime monitor and open source status page system powered by GitHub. It uses GitHub actions, issues, and pages for endpoints monitoring and rendering of the status website.
 linktitle: Upptime
 Imagetext: Free StatusPage Software 
 draft: false
 weight: 6
 layout: "single"
+GithubLink: https://github.com/upptime/upptime
 
 HomePage_TitleText: Open Source StatusPage System in Svelte and Sapper
 

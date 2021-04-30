@@ -7,18 +7,17 @@ weight: 2
 
 #### **Features**
 
-Flowblade offers the following key features:
+Flowblade offers the following key features:
 
-- Open Source
-- Fast
-- Configurable
-- Multi-Track Timeline
-- Secure
-- Clip Parenting
-- Drag &amp; Drop UI
-- Rich Media Controls
-- Blend &amp; Transformation
-- Video Effects
-- Multiple text layers
-- Color Effects
- 
+*   Open Source
+*   Fast
+*   Configurable
+*   Multi-Track Timeline
+*   Secure
+*   Clip Parenting
+*   Drag & Drop UI
+*   Rich Media Controls
+*   Blend & Transformation
+*   Video Effects
+*   Multiple text layers
+*   Color Effects

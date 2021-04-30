@@ -3,13 +3,13 @@ title: CUBRID | Free Object-Relational Database Management System
 description: CUBRID is a free DBMS software, consisting of the database server and the CUBRID Manager. It provides a high level of SQL compatibility with MySQL.
 singlepageh1title: Highly Optimized & Scalable Database Management Tool
 singlepageh2title: CUBRID is an open source and free DBMS software. It is a GUI-based administration tool that provides a high level of SQL compatibility with most databases.
-Shortdescriptionlistingpage: CUBRID is an open source and free DBMS software. It is a GUI-based administration tool that provides a high level of SQL compatibility with most databases.
+Shortdescriptionlistingpage: CUBRID is a free DBMS software, consisting of the database server, the broker, and the CUBRID Manager. It provides high level of SQL compatibility with MySQL and other databases.
 linktitle: CUBRID
-Imagetext: Free Database Management Tool
+Imagetext: Database Management Tool
 draft: false
 weight: 4
 layout: "single"
-
+GithubLink: https://github.com/CUBRID/cubrid
 HomePage_TitleText: Database Management Tool
 
 ListingPage_MenuImage_TitleText: Highly Optimized, Scalable & High Performance DBMS Software

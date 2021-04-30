@@ -10,8 +10,8 @@ draft: false
 weight: 28
 menu:
    mainmenu: 
-       name: Free DBMS Software
-       url: FreeDBMSSoftwareApps
+       name: Database Management Systems
+       url: DatabaseManagementSystemsApps
        weight: 28
 
 heading: Top Database Management Systems Include

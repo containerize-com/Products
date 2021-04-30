@@ -3,13 +3,13 @@ title: SQLite | Fast, Small and Open Source DBMS Software
 description: SQLite database management system is built into most mobile phones and computers. It comes bundled inside countless other applications that we daily use.
 singlepageh1title: Fast, Small, Highly Reliable and Open Source DBMS Software
 singlepageh2title: SQLite database management system is built into most mobile phones and computers. It comes bundled inside countless other applications that we daily use.
-Shortdescriptionlistingpage: SQLite database management system is built into most mobile phones and computers. It comes bundled inside countless other applications that we daily use.
+Shortdescriptionlistingpage: SQLite database management system is built into most of the mobile phones and computers. It comes bundled inside countless other applications that we daily use.
 linktitle: SQLite
 Imagetext: Free Database Management System
 draft: false
-weight: 3
+weight: 4
 layout: "single"
-
+GithubLink: https://github.com/sqlite/sqlite
 HomePage_TitleText: Database Management System
 
 ListingPage_MenuImage_TitleText: SQLite logo

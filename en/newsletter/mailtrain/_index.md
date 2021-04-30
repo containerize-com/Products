@@ -3,13 +3,13 @@ title: Mailtrain | Free Open Source Newsletter Software
 description: Send personalized marketing emails using any provider supporting SMTP. Improve email mailing success rate with bounce management features.
 singlepageh1title: On Premise Alternative to Mailchimp for Email Marketing
 singlepageh2title: Improve customer engagement with targeted emails on promotions, updates and grow business by converting subscribers into customers using analytics tools.
-Shortdescriptionlistingpage: Improve customer engagement with targeted emails on promotions, updates and grow business by converting subscribers into customers using analytics tools.
+Shortdescriptionlistingpage: Mailtrain is feature packed email marketing software that lets companies connect directly with customers and and build brand engagement.
 linktitle: Mailtrain
 Imagetext:  Free Newsletter Software 
 draft: false
 weight: 2
 layout: "single"
-
+GithubLink: https://github.com/Mailtrain-org/mailtrain
 HomePage_TitleText: Open Source Email Marketing Platform in JavaScript NodeJS
 
 ListingPage_MenuImage_TitleText: 

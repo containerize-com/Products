@@ -3,12 +3,13 @@ title: Zulip | Free Open Source Live Chat Software
 description: A free open source live chat software which combines the urgency of real-time chat with an email conversation scheme.
 singlepageh1title: Live Chat Software for Remote Teams Collaboration
 singlepageh2title: Zulip follows email conversation model and ignores irrelevant messages. Conduct clean remote collaboration with video conferencing and group chat features.
-Shortdescriptionlistingpage: Zulip follows email conversation model and ignores irrelevant messages. Conduct clean remote collaboration with video conferencing and group chat features.
+Shortdescriptionlistingpage: Zulip combines the immediacy of real-time chat with an email threading model. With Zulip, you can catch up on important conversations while ignoring irrelevant ones.
 linktitle: Zulip
 Imagetext:  Live Chat Software
 draft: false
 weight: 2
 layout: "single"
+GithubLink: https://github.com/zulip
 
 HomePage_TitleText: Open Source Live Chat System in Python.
 

@@ -3,13 +3,13 @@ title: Cachet | Self-Hosted Status Page To Showcase Services Uptime
 description: Cachet is a free and self-hosted status page system for monitoring of websites, web applications, and APIs that helps to improve downtime and system outages.
 singlepageh1title: Improve Downtime With Self-Hosted Status Page System
 singlepageh2title: Free monitoring of websites, applications and APIs with open source status page system. Inform users about downtime, system outages, and scheduled maintenance.
-Shortdescriptionlistingpage: Free monitoring of websites, applications and APIs with open source status page system. Inform users about downtime, system outages, and scheduled maintenance.
+Shortdescriptionlistingpage: Cachet is open source software that helps minimizing downtime. Great companies all over the world are using Cachet to better communicate downtime and system outages to their customers, teams and shareholders.
 linktitle: Cachet
 Imagetext:  Free StatusPage Software 
 draft: false
 weight: 1
 layout: "single"
-
+GithubLink: https://github.com/CachetHQ/Cachet
 HomePage_TitleText: Open Source StatusPage System in PHP
 
 ListingPage_MenuImage_TitleText: 

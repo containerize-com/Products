@@ -1,8 +1,15 @@
 ---
 title: System Requirements
-onpagelink: system requirements
-externallink: system requirements
+onpagelink: systemrequirements
 weight: 1
 
 ---
 
+#### **System Requirements**
+
+Requirements to set up Posthog include:
+
+*   Python 3.8
+*   Docker
+*   Git
+*   Yarn

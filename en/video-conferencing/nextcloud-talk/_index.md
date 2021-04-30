@@ -3,13 +3,13 @@ title: Nextcloud Talk | Open Source Video Conferencing Software
 description: Nextcloud Talk is an open source video conferencing software. It is self-hosted and offers features such as individual/group calls, integrations and more.
 singlepageh1title: WebRTC Enabled Peer-To-Peer Team Collaboration Platform
 singlepageh2title: Build a reliable virtual connection with partners, customers and colleagues using Nextcloud video conferencing. It offers screen sharing, file sharing and more.
-Shortdescriptionlistingpage: Build a reliable virtual connection with partners, customers and colleagues using Nextcloud video conferencing. It offers screen sharing, file sharing and more.
+Shortdescriptionlistingpage: Nextcloud Talk is an alternative open source video conferencing software. It offers screen sharing, whiteboard, user invites, and individual/group video calls.
 linktitle: Nextcloud Talk
 Imagetext:  Free Video Conferencing Software
 draft: false
 weight: 6
 layout: "single"
-
+GithubLink: https://github.com/nextcloud/server
 HomePage_TitleText: Video Conferencing Software
 
 ListingPage_MenuImage_TitleText: open source video conferencing software

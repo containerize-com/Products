@@ -3,13 +3,13 @@ title: Sequel Pro | Open Source Database Management Software
 description: Sequel Pro is one of the most popular, easy-to-use Mac database management applications for working with MySQL databases. Highly popular amongst the beginners. 
 singlepageh1title: Free & Open Source MySQL Client for Mac Operating System
 singlepageh2title: Sequel Pro is a fast, easy-to-use MySQL GUI for Mac. Gives you access to MySQL Databases on local and remote servers. It has a simple & beautiful interface.
-Shortdescriptionlistingpage: Sequel Pro is a fast, easy-to-use MySQL GUI for Mac. Gives you access to MySQL Databases on local and remote servers. It has a simple & beautiful interface.
+Shortdescriptionlistingpage: Sequel Pro is an open-source and 100% free database management application to work with MySQL & MariaDB databases on MacOS.
 linktitle: Sequel Pro
-Imagetext: Free Database Management Tool
+Imagetext: Database Management Tool
 draft: false
 weight: 6
 layout: "single"
-
+GithubLink: https://github.com/sequelpro/sequelpro
 HomePage_TitleText: Database Management Tool
 
 ListingPage_MenuImage_TitleText: Open Source MySQL Client for Mac Operating System

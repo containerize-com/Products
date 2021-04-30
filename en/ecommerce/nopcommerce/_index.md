@@ -3,13 +3,13 @@ title: nopCommerce | APS.NET Based Free Shopping Cart Solution
 description: nopCommerce is modern, feature-packed free eCommerce software for any size and type of business. It's cross-platform and can run it on Windows, Linux, and Mac.
 singlepageh1title: Free Shopping Cart Solution Based On Microsoft Technologies
 singlepageh2title: Quickly create store and scale your business with one of the most popular open source cross-platform shopping cart software built on Microsoft technologies.
-Shortdescriptionlistingpage: Quickly create store and scale your business with one of the most popular open source cross-platform shopping cart software built on Microsoft technologies.
+Shortdescriptionlistingpage: nopCommerce is most popular free and open source shopping cart software built on Microsoft technologies.
 linktitle: nopCommerce
-Imagetext:  Free Shopping Cart Software 
+Imagetext:  Shopping Cart Software 
 draft: false
-weight: 7
+weight: 5
 layout: "single"
-
+GithubLink: https://github.com/nopSolutions/nopCommerce
 HomePage_TitleText: Open Source Shopping Cart in ASP.NET
 
 ListingPage_MenuImage_TitleText: 

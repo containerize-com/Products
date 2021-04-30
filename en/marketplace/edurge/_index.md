@@ -3,12 +3,13 @@ title: Edurge | Open source marketplace for learning and teaching
 description: Edurge is an open source marketplace platform for virtual learning online academy. Edurge is an Udemy alternative & online learning and teaching marketplace
 singlepageh1title: Ruby based Online Learning and Teaching Marketplace
 singlepageh2title: Open source Udemy clone learning and knowledge sharing marketplace. Edurge is free to use and simple to setup online learning and teaching marketplace.
-Shortdescriptionlistingpage: Open source Udemy clone learning and knowledge sharing marketplace. Edurge is free to use and simple to setup online learning and teaching marketplace.
+Shortdescriptionlistingpage: Edurge is an online open source course learning and teaching Udemy Clone marketplace provider aimed at professional adults and students.
 linktitle: Edurge
 Imagetext: Marketplace Software
 draft: false
 weight: 3
 layout: "single"
+GithubLink: https://github.com/yshmarov/edurge
 
 HomePage_TitleText: Open Source course provider marketplace solution for online learning and teaching
 

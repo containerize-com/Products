@@ -104,9 +104,3 @@ sudo chmod -R 755 /var/www/html/InvoicePlane/
 
 Congrats! You have successfully installed InvoicePlane on Ubuntu
 
-#### **Explore**
-
-You may find the following links relevant:
-
-- [Automate Business Operations Using Free and Open Source Software](https://blog.containerize.com/2020/08/27/automate-business-operations-using-open-source-software/)
- 

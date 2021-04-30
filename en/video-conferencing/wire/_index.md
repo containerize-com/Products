@@ -3,13 +3,13 @@ title: Wire | Open Source Robust Web Conferencing Software
 description: Wire is a free web conferencing software. With many options such as file sharing, secured video/audio conversation, WebRTC enabled, user invite, and more.
 singlepageh1title: Free Remote Communication Software With Rich User Experience
 singlepageh2title: Self hosted web collaboration software with enterprise security standards. It provides trusted internal/external conversations and offers many great features.
-Shortdescriptionlistingpage: Self hosted web collaboration software with enterprise security standards. It provides trusted internal/external conversations and offers many great features.
+Shortdescriptionlistingpage: Wire is an alternative open source team collaboration app. It is secure, advanced and comes up with many features such as file sharing, rich chat options, and more.
 linktitle: Wire
-Imagetext:  Free Video Collaboration Platform
+Imagetext:  Free Video Conferencing Software
 draft: false
 weight: 5
 layout: "single"
-
+GithubLink: https://github.com/wireapp/wire-webapp
 HomePage_TitleText: Video Conferencing Software
 
 ListingPage_MenuImage_TitleText: Open Source Video Collaboration Platform

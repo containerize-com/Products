@@ -41,9 +41,3 @@ $ ./docker-compose/setup.sh
 
 Open your web browser and go to your given domain and follow the installation wizard.
 
-#### **Explore**
-
-You may find the following links relevant:
-
-- [Automate Business Operations Using Free and Open Source Software](https://blog.containerize.com/2020/08/27/automate-business-operations-using-open-source-software/)
- 

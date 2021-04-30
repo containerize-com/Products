@@ -5,10 +5,11 @@ singlepageh1title: Open Source Mail Server With Modern Web Interface
 singlepageh2title: Cuttlefish is a self hosted on premise Mail Delivery Software. Use Cuttlefish to send large volumes of emails with ease and analyze bounce rate.
 Shortdescriptionlistingpage: Cuttlefish is a self hosted on premise Mail Delivery Software. Use Cuttlefish to send large volumes of emails with ease and analyze bounce rate.
 linktitle: Cuttlefish
-Imagetext:  Transactional Email Service 
+Imagetext:  Transactional Email Service
 draft: false
 weight: 2
 layout: "single"
+GithubLink: https://github.com/mlandauer/cuttlefish
 
 HomePage_TitleText: Open Source Email Delivery Platform in Ruby
 

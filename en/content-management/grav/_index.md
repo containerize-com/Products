@@ -3,11 +3,11 @@ title: Grav | Open Source CMS Alternative to WordPress
 description: Grav CMS is an open source flat-file content management system. Its built for speed, meeting the requirements of most the latest Google search criteria.
 singlepageh1title: A Self Hosted Flat-file Modern Open Source CMS
 singlepageh2title: Grav CMS is built for performance and speed. It is 100% open source and free content management system.
-Shortdescriptionlistingpage: Grav CMS is built for performance and speed. It is 100% open source and free content management system.
+Shortdescriptionlistingpage: A flat-file CMS is an open source file based content management system (CMS). It stores files and data in text files and folders rather than a database.
 linktitle: Grav
 Imagetext:  Free CMS Software 
 draft: false
-weight: 8
+weight: 7
 layout: "single"
 GithubLink: https://github.com/getgrav/grav
 

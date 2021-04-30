@@ -3,13 +3,13 @@ title: Passbolt | Free, Open Source & Self-hosted Password Manager
 description: Passbolt is an easy-to-use password manager. It can be integrated into servers so that teams across the company level can easily store and access passwords.
 singlepageh1title: Free, Open Source & Self-hosted Password Manager
 singlepageh2title: Passbolt is an easy-to-use password manager. It can be integrated into servers so that teams across the company level can easily store and access passwords.
-Shortdescriptionlistingpage: Passbolt is an easy-to-use password manager. It can be integrated into servers so that teams across the company level can easily store and access passwords.
+Shortdescriptionlistingpage: Passbolt is an easy to use password manager. It can be integrated into servers so that teams across company level can easily store and access passwords.
 linktitle: Passbolt
 Imagetext: Free Password Management Software
 draft: false
-weight: 3
+weight: 2
 layout: "single"
-
+GithubLink: https://github.com/passbolt
 HomePage_TitleText: Open Source Password Management Software
 
 ListingPage_MenuImage_TitleText: Passbolt logo

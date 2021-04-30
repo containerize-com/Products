@@ -3,12 +3,14 @@ title: FormTools | Open Source Robust Free Web Form Builder
 description: PHP based free web form builder offering various modules related to forms and data management including custom layouts, validation and API integrations.
 singlepageh1title: Open Source Solution For Better Data And Forms Management
 singlepageh2title: FormTools is an incredible forms and data management solution with form templates, built-in support for reCAPTCHA, data visualization and export options.
-Shortdescriptionlistingpage: FormTools is an incredible forms and data management solution with form templates, built-in support for reCAPTCHA, data visualization and export options.
+Shortdescriptionlistingpage: A free open source forms manager equipped with powerful modules to meet the business needs related to forms and data management.
+
 linktitle: FormTools
 Imagetext:  Free Form Builder
 draft: false
 weight: 5
 layout: "single"
+GithubLink: https://github.com/formtools/core
 
 HomePage_TitleText: Open Source HTML5 Form Generator in PHP
 

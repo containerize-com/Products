@@ -11,30 +11,19 @@ Download Caddy from GiHub.
 
 Then Use curl command
 
- ```
-<pre class="wp-block-code">```
-<span class="hljs-attr">curl -OL "https://github.com/caddyserver/caddy/releases/latest/download/ASSET"</span>
-```
-```
+    curl -OL "https://github.com/caddyserver/caddy/releases/latest/download/ASSET"
 
 You can also download using using wget command
 
- ```
-<pre class="wp-block-code">```
-<span class="hljs-attr">wget "https://github.com/caddyserver/caddy/releases/latest/download/ASSET"</span>
-```
-```
+    wget "https://github.com/caddyserver/caddy/releases/latest/download/ASSET"
 
 Note\*: Replace \[ASSET\] with the filename for your platform.
 
 Run following commands to install on Debian, Ubuntu, Raspbian
 
- ```
-<pre class="wp-block-code">```
-<span class="hljs-attr">echo "deb [trusted=yes] https://apt.fury.io/caddy/ /" \
-    | sudo tee -a /etc/apt/sources.list.d/caddy-fury.list
-sudo apt update</span>
-```
-```
+    echo "deb [trusted=yes] https://apt.fury.io/caddy/ /" \
+        | sudo tee -a /etc/apt/sources.list.d/caddy-fury.list
+    sudo apt update
 
 After installation, Caddy will start automatically.
+

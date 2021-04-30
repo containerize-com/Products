@@ -3,13 +3,13 @@ title: Password Safe | Simple, Easy-to-Use & Safe Password Manager
 description: Password Safe provides a secure, simple and easy-to-understand interface that makes it accessible for people of all backgrounds and technical knowledge.
 singlepageh1title: A Simple, Easy-to-Use & Safe Password Manager
 singlepageh2title: Password Safe provides a secure, simple and easy-to-understand interface that makes it accessible for people of all backgrounds and technical knowledge.
-Shortdescriptionlistingpage: Password Safe provides a secure, simple and easy-to-understand interface that makes it accessible for people of all backgrounds and technical knowledge.
+Shortdescriptionlistingpage: Password Safe provides a secure, simple and easy to understand interface that makes it accessible for people of all backgrounds and technical knowledge.
 linktitle: Password Safe
 Imagetext: Free Password Management Software
 draft: false
-weight: 2
+weight: 3
 layout: "single"
-
+GithubLink: https://github.com/pwsafe/pwsafe
 HomePage_TitleText: Open Source Password Management Software
 
 ListingPage_MenuImage_TitleText: Password Safe logo

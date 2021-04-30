@@ -3,13 +3,13 @@ title: Flowblade | Free Open Source Video Editing Tool
 description: Flowblade is an open source video editing tool. It is robust, stable, and provides many popular features that include timeline workflow and video effects.
 singlepageh1title: Compose Business Videos With Free Multitrack Video Editor
 singlepageh2title: Flowblade comes up with a configurable diverse track timeline. Drag & drop interface with many features such as batch render queues and powerful media controls.
-Shortdescriptionlistingpage: Flowblade comes up with a configurable diverse track timeline. Drag & drop interface with many features such as batch render queues and powerful media controls.
+Shortdescriptionlistingpage: Flowblade is another alternative open source video editing solution. It offers rich configurations along with powerful features that include multple text layers, media controls and many more.
 linktitle: Flowblade
 Imagetext:  Open Source Video Editing Software
 draft: false
 weight: 3
 layout: "single"
-
+GithubLink: https://github.com/jliljebl/flowblade
 HomePage_TitleText: Open Source Video Editor in Python
 
 ListingPage_MenuImage_TitleText: 

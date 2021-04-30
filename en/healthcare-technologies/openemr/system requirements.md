@@ -1,8 +1,16 @@
 ---
 title: System Requirements
-onpagelink: system requirements
-externallink: system requirements
+onpagelink: systemrequirements
 weight: 1
 
 ---
+
+#### **System Requirements**
+
+Requirements to set up OpenEMR include:
+
+*   Apache
+*   PHP
+*   Xdebug
+*   MYSQL
 

@@ -3,13 +3,13 @@ title: Ethereum | Open Source Platform For Decentralized Apps
 description: Ethereum is an open-source software platform based on blockchain technology. It provides a complete run time environment to build and deploy Decentralized Apps
 singlepageh1title: Track Your Digital Transactions With Ethereum Powered Apps
 singlepageh2title: Ethereum is an open source distributed blockchain network. Build and deploy Smart Contracts and Distributed Applications with complete security and availability
-Shortdescriptionlistingpage: Ethereum is an open source distributed blockchain network. Build and deploy Smart Contracts and Distributed Applications with complete security and availability
+Shortdescriptionlistingpage: Ethereum is an enterprise-level Blockchain Based Platform. It provides a complete framework and run time environment to build and deploy decentralized apps.
 linktitle: Ethereum
-Imagetext:  Open Source Blockchain Platform
+Imagetext:  Free Blockchain Platform
 draft: false
 weight: 1
 layout: "single"
-
+GithubLink: https://github.com/ethereum/go-ethereum
 HomePage_TitleText: Blockchain Platform in Go
 
 ListingPage_MenuImage_TitleText: decentralized apps

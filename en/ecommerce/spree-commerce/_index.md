@@ -3,11 +3,11 @@ title: Spree Commerce | Open Source RoR Based E-commerce Software
 description: Spree Commerce is an open-source e-commerce solution based on Ruby on Rails with a mobile first user interface, rich plugins and social media integration.
 singlepageh1title: Fully Featured Ruby Based Open Source eCommerce Software
 singlepageh2title: Spree Commerce is an open-source E-commerce platform with a responsive user interface, PWA frontend, REST API, GraphQL, and supports 3rd party integrations.
-Shortdescriptionlistingpage: Spree Commerce is an open-source E-commerce platform with a responsive user interface, PWA frontend, REST API, GraphQL, and supports 3rd party integrations.
-linktitle: spree-commerce
-Imagetext: Spree Commerce Free Ecommerce Platform
+Shortdescriptionlistingpage: Spree Commerce is an open-source e-commerce solution based on Ruby on Rails with several official extensions and 3rd party integrations available.
+linktitle: Spree commerce
+Imagetext: Shopping Cart Software 
 draft: false
-weight: 5
+weight: 6
 layout: "single"
 GithubLink: https://github.com/spree/spree
 

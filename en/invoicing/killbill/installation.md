@@ -64,10 +64,3 @@ docker-compose up
 You can login to Kaui by opening following url: http://:9090 and default credentials are:   
  username: admin   
  password: password
-
-#### **Explore**
-
-You may find the following links relevant:
-
-- [Automate Business Operations Using Free and Open Source Software](https://blog.containerize.com/2020/08/27/automate-business-operations-using-open-source-software/)
- 

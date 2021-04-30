@@ -3,13 +3,13 @@ title: iDempiere | Best Free ERP System For Business Ecosystem
 description: Integrate and manage all business operations with one of the top open source ERP software. iDempiere provides out of the box features for CRM and SCM.
 singlepageh1title: Boost Business Performance With Best Free ERP System
 singlepageh2title: Powerful and reliable open source ERP business suite. Integrated with customer relationship management (CRM) and supply chain management (SCM) capabilities.
-Shortdescriptionlistingpage: Powerful and reliable open source ERP business suite. Integrated with customer relationship management (CRM) and supply chain management (SCM) capabilities.
+Shortdescriptionlistingpage: iDempiere is free and open ERP software built on Java. Integrated with modern customer relationship management (CRM) and supply chain management (SCM) features.
 linktitle: iDempiere
 Imagetext:  Free ERP Software 
 draft: false
 weight: 8
 layout: "single"
-
+GithubLink: https://github.com/idempiere/idempiere
 HomePage_TitleText: Open Source ERP Software in Java
 
 ListingPage_MenuImage_TitleText: 

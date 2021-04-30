@@ -3,13 +3,13 @@ title: Phabricator | Open Source Suite of Project Management Tools
 description: Robust software development system lets you plan features, track bugs, and audit code. It provides continuous integration with git and internal chat channels.
 singlepageh1title: Free Tools for Planning Projects and Developing Software
 singlepageh2title: Open source bundle of web-based applications for manage projects, host source code, review code, audit code, manage resources and manage teams.
-Shortdescriptionlistingpage: Open source bundle of web-based applications for manage projects, host source code, review code, audit code, manage resources and manage teams.
+Shortdescriptionlistingpage: Phabricator is robust software development system lets you plan features, track bugs, and audit code. It provides continuous integration with git and internal chat channels.
 linktitle: Phabricator
 Imagetext:  Free Project Management Software 
 draft: false
-weight: 1
+weight: 2
 layout: "single"
-
+GithubLink: https://github.com/phacility/phabricator
 HomePage_TitleText: Open Source Project Management Software in PHP
 
 ListingPage_MenuImage_TitleText: 

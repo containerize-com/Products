@@ -3,13 +3,13 @@ title: Jitsi Meet | WebRTC Enabled Video Collaboration Solution
 description: Jitsi Meet is an open source video collaboration solution. It is flexible, secure, extensible, easy to set up, offers built-in encryption, and HD Audio.
 singlepageh1title: Advanced Web Conferencing Solution With Full Encryption
 singlepageh2title: Collaborate with your remote teams using Jitsi Meet. It provides many features such as support for Etherpad, screen sharing, user invitations and many more
-Shortdescriptionlistingpage: Collaborate with your remote teams using Jitsi Meet. It provides many features such as support for Etherpad, screen sharing, user invitations and many more
+Shortdescriptionlistingpage: Jitsi Meet is an open source video conferencing solution. It is WebRTC compatible and offers many features including encrypted multi party video conferencing.
 linktitle: Jitsi Meet
 Imagetext:  Free Video Conferencing Software
 draft: false
 weight: 1
 layout: "single"
-
+GithubLink: https://github.com/jitsi/jitsi-meet
 HomePage_TitleText: Video Conferencing Software
 
 ListingPage_MenuImage_TitleText: open source Video Conferencing Solution

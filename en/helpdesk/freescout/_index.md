@@ -3,12 +3,13 @@ title: FreeScout | Free Open Source Ticketing System
 description: Free Helpdesk and Customer Support System Featured with seamless integration to your email. Use shared inbox to improve transparency within organization.
 singlepageh1title: Ticketing Based Customer Support Helpdesk and Shared Inbox
 singlepageh2title: Ticketing System, Helpdesk, Email Management and Analytics at one place. Provide cutting edge customer support and take customer satisfaction to next level.
-Shortdescriptionlistingpage: Ticketing System, Helpdesk, Email Management and Analytics at one place. Provide cutting edge customer support and take customer satisfaction to next level.
+Shortdescriptionlistingpage: FreeScout is open source and free helpdesk ticketing software featured with seamless integration to your email. Use shared inbox to improve transparency within organization.
 linktitle: FreeScout
-Imagetext:  Free Helpdesk Software 
+Imagetext:  Free Ticketing System
 draft: false
 weight: 4
 layout: "single"
+GithubLink: https://github.com/freescout-helpdesk/freescout
 
 HomePage_TitleText: Open Source Ticketing Platform and Shared Inbox in PHP
 

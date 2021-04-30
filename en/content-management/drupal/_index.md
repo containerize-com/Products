@@ -3,7 +3,7 @@ title: Drupal | Free Open Source PHP CMS Software
 description: Drupal is powerful CMS with zero cost to design a website. Create a website for a business using Drupal CMS in minutes.
 singlepageh1title: CMS Platform with Text, Media Content and Full Text Search 
 singlepageh2title: Drupal is easy to use without requiring technical knowledge. Create simple to complex websites including job portals, digital magazines like The Economists.
-Shortdescriptionlistingpage: Drupal is easy to use without requiring technical knowledge. Create simple to complex websites including job portals, digital magazines like The Economists.
+Shortdescriptionlistingpage: Drupal is an enterprise content management open source platform for building amazing digital experiences. It's made by a dedicated community. Anyone can use it, and it will always be free.
 linktitle: Drupal
 Imagetext:  Free CMS Software 
 draft: false

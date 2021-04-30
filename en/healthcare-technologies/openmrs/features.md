@@ -9,14 +9,13 @@ weight: 2
 
 OpenMRS features include:
 
-- Secure
-- Easily Manageable Forms
-- Dictionary Interface
-- Patient Repository
-- Multiple Identifiers
-- Multilingual
-- Modular Architecture
-- Role-based Permissions
-- Embedded Patient Workflows
-- Registration Module
- 
+*   Secure
+*   Easily Manageable Forms
+*   Dictionary Interface
+*   Patient Repository
+*   Multiple Identifiers
+*   Multilingual
+*   Modular Architecture
+*   Role-based Permissions
+*   Embedded Patient Workflows
+*   Registration Module

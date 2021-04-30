@@ -14,7 +14,3 @@ Jekyll is a Ruby Gem that can be installed on most systems.
 - RubyGems (which you can check by running ` gem-v`
 - GCC and Make (in case your system doesn’t have them installed, which you can check by running `gcc -v` , `g++ -v` and `make -v` in your system’s command line interface)
  
-Features
---------
-
-Jekyll have following key features

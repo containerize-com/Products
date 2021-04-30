@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-<a class="anchor" id="windows" name="windows_nstallation"></a>Installation Instructions
+Installation Instructions
 -------------------------
 
 ### Windows Installation:

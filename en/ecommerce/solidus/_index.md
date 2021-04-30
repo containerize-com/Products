@@ -3,11 +3,11 @@ title: Solidus | Free, Open-source and Complete eCommerce Software
 description: Solidus is an open-source eCommerce solution, built with Ruby on Rail serving small and medium-sized businesses as well as complex storefronts and big retailers
 singlepageh1title: Ruby Based Fully Customizable and Flexible eCommerce Platform
 singlepageh2title: Solidus is a complete open-source eCommerce solution for fast growing online businesses, complex storefronts and big retailers.
-Shortdescriptionlistingpage: Solidus is a complete open-source eCommerce solution for fast growing online businesses, complex storefronts and big retailers.
+Shortdescriptionlistingpage: Solidus is a Ruby Based complete suite of essential eCommerce features out of the box in a fully modular package.
 linktitle: solidus
-Imagetext: Solidus - Rails eCommerce System
+Imagetext: Shopping Cart Software 
 draft: false
-weight: 6
+weight: 7
 layout: "single"
 GithubLink: https://github.com/solidusio/solidus
 

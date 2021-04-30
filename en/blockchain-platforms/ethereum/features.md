@@ -9,11 +9,12 @@ weight: 2
 
 Ethereum offers the following key features:
 
-- Open Source
-- Secure With Cryptography
-- Cryptocurrency Ether
-- Smart Contracts
-- Dapps
-- Ethereum Virtual Machine
-- Multi-layered Architecture
+*   Open Source
+*   Secure With Cryptography
+*   Cryptocurrency Ether
+*   Smart Contracts
+*   Dapps
+*   Ethereum Virtual Machine
+*   Multi-layered Architecture
+
  

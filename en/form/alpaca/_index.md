@@ -9,6 +9,7 @@ Imagetext:  Free Form Builder
 draft: false
 weight: 7
 layout: "single"
+GithubLink: https://github.com/gitana/alpaca
 
 HomePage_TitleText: Open Source jQuery Form Builder for interactive HTML5 Forms
 

@@ -3,13 +3,13 @@ title: listmonk | Open Source Email Marketing Software
 description: Manage millions of subscribers across multiple lists with super fast bulk importer or JSON APIs. Use Go template language to create dynamic email templates.
 singlepageh1title: Free And Open Source Newsletter & Mailing List Manager
 singlepageh2title: listmonk is a high performance, secure and feature-packed newsletter software with a modern dashboard. Instantly send newsletter to millions of subscribers.
-Shortdescriptionlistingpage: listmonk is a high performance, secure and feature-packed newsletter software with a modern dashboard. Instantly send newsletter to millions of subscribers.
+Shortdescriptionlistingpage: listmonk is an excellent free and open source newsletter and mailing list manager. Design and Send marketing emails to millions of subscribers.
 linktitle: listmonk
 Imagetext:  Free Newsletter Software 
 draft: false
 weight: 3
 layout: "single"
-
+GithubLink: https://github.com/knadh/listmonk
 HomePage_TitleText: Open Source Email Marketing Platform in Go
 
 ListingPage_MenuImage_TitleText: 

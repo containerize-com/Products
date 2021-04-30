@@ -3,13 +3,13 @@ title: WSO2 | Open Source Identity and Access Management Server
 description: Flexible freeware to build customer identity and access management system for the business to federate identities based on open standards such as SAML, OIDC
 singlepageh1title: Build CIAM Platform with Open Source Identity Server
 singlepageh2title: Free open source WSO2 identity server supports all identity standards to provide authentication and expose APIs to integrate with user databases to manage identities
-Shortdescriptionlistingpage: Free open source WSO2 identity server supports all identity standards to provide authentication and expose APIs to integrate with user databases to manage identities
+Shortdescriptionlistingpage: WSO2 is another open source alternative to provide customer identity and access management system. It acts as a protective layer of security over the business’s network by using web services security technologies.
 linktitle: WSO2
 Imagetext:  Open Source Identity Server
 draft: false
 weight: 5
 layout: "single"
-
+GithubLink: https://github.com/wso2/product-is
 HomePage_TitleText: Open Source SSO Solution for JAVA
 
 ListingPage_MenuImage_TitleText: 

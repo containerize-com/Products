@@ -3,13 +3,13 @@ title: Openshot | Powerful Free Open Source Video Editor
 description: Openshot provides high quality video editing experience. This video editor is written in Python and offers many features to provide production ready videos.
 singlepageh1title: Cross Platform Video Editing Software With RESTful Interface
 singlepageh2title: Create professional videos with Openshot. It offers high class video editing capabilities with rich animations, background audio, titles, and video effects.
-Shortdescriptionlistingpage: Create professional videos with Openshot. It offers high class video editing capabilities with rich animations, background audio, titles, and video effects.
+Shortdescriptionlistingpage: Openshot is an enterprise-level open source video editor. It is cross platform, written in Python and offer many powerful features such as 2D 3D animations and more.
 linktitle: Openshot
 Imagetext:  Open Source Video Editing Software
 draft: false
 weight: 1
 layout: "single"
-
+GithubLink: https://github.com/OpenShot/openshot-qt
 HomePage_TitleText: Open Source Video Editor in Python
 
 ListingPage_MenuImage_TitleText: 

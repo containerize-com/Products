@@ -3,9 +3,9 @@ title: Signal is a free, privacy-focused messaging and voice talk service
 description: Signal is most secure free end-to-end encrypted instant messaging service, designed to never collect or store any sensitive information by 3rd parties.
 singlepageh1title: Most Secure and Trusted Open Source Instant Messaging Platform
 singlepageh2title: Signal is an open-source messaging app, designed to never collect or store any sensitive information by other third parties, just like WhatsApp
-Shortdescriptionlistingpage: Signal is an open-source messaging app, designed to never collect or store any sensitive information by other third parties, just like WhatsApp
-linktitle: signalapp
-Imagetext: Signal - Private Messenger
+Shortdescriptionlistingpage: Signal is a completely open source, free, secure, and private instant messaging app, available for iPhone, iPad, Android, Windows, Mac and Linux.
+linktitle: Signalapp
+Imagetext: Live Chat Software 
 draft: false
 weight: 10
 layout: "single"

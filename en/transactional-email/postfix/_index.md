@@ -3,13 +3,13 @@ title: Postfix | Open Source Mail Transfer Agent
 description: This Linux mail server is known for its superior performance and security. It can send over 300 emails per second from a single Postfix instance.
 singlepageh1title: Open Source Mail Transfer Agent for UNIX based Systems
 singlepageh2title: Postfix is a powerful mail transfer agent for email routing and delivery. It offers useful features like junk mail control, database support and log management.
-Shortdescriptionlistingpage: Postfix is a powerful mail transfer agent for email routing and delivery. It offers useful features like junk mail control, database support and log management.
+Shortdescriptionlistingpage: Postfix offers an amazing set of powerful features like junk mail control, database support, log management and many more. It has a wide support for database like MySQL, Memcache SQLite, PostgreSQL, LDAP.
 linktitle: Postfix
-Imagetext:  Mail Transfer Agent
+Imagetext:  Transactional Email Service
 draft: false
 weight: 4
 layout: "single"
-
+GithubLink: https://github.com/vdukhovni/postfix
 HomePage_TitleText: Open Source Email Delivery Platform in Python
 
 ListingPage_MenuImage_TitleText: 

@@ -3,12 +3,13 @@ title: Botpress | Open Source Bot Builder Software
 description: Botpress is a framework for chat management. Other modules like subscription list, scheduled messages, send broadcasts can be used for marketing campaigns.
 singlepageh1title: AI Powered Chat Bot Platform – WordPress of Bots
 singlepageh2title: On premise chat bot software supporting AI and natural language processing to automate conversations and workflows. Train bots to provide 24/7 live support
-Shortdescriptionlistingpage: On premise chat bot software supporting AI and natural language processing to automate conversations and workflows. Train bots to provide 24/7 live support
+Shortdescriptionlistingpage: The Leading Open-source Conversational AI Platform for Enterprise Automation
 linktitle: Botpress
 Imagetext:  Live Chat Software 
 draft: false
 weight: 4
 layout: "single"
+GithubLink: https://github.com/botpress/botpress
 
 HomePage_TitleText: Open Source Live Chat System in TypeScript, JavaScript.
 

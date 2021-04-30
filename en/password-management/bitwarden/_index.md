@@ -9,7 +9,7 @@ Imagetext: Free Password Management Software
 draft: false
 weight: 4
 layout: "single"
-
+GithubLink: https://github.com/bitwarden
 HomePage_TitleText: Open Source Password Management Software
 
 ListingPage_MenuImage_TitleText: Bitwarden logo

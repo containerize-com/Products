@@ -3,7 +3,7 @@ title: Bazaar | Central And Distributed Version Control Software
 description: Bazaar is an outstanding cross-platform and self-hosted version control software. It is available for major Linux distributions, Mac OS X and Microsoft Windows.
 singlepageh1title: Python Based Open Source Version Control Software
 singlepageh2title: Easily collaborate, track project history with an excellent free and open source version control software based on central and distributed repository model.
-Shortdescriptionlistingpage: Easily collaborate, track project history with an excellent free and open source version control software based on central and distributed repository model.
+Shortdescriptionlistingpage: Bazaar is an excellent free and open source version control system. It allows software teams to use central and distributed repository models.
 linktitle: Bazaar
 Imagetext:  Free Version Control Software 
 draft: false

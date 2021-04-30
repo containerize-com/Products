@@ -3,13 +3,13 @@ title: Dolibarr | Open Source Enterprise Resource Planning Software
 description: Dolibarr is web based free ERP solution for managing all business units. It's an easy to install, upgrade and use it from anywhere and any device.
 singlepageh1title: Free Enterprise Resource Planning Software For Businesses
 singlepageh2title: Manage all business operations from one web suite with an excellent open source ERP and CRM software. Suitable for small, medium and large companies.
-Shortdescriptionlistingpage: Manage all business operations from one web suite with an excellent open source ERP and CRM software. Suitable for small, medium and large companies.
+Shortdescriptionlistingpage: Dolibarr is one of the popular open source ERP & CRM software for any type and size of business.
 linktitle: Dolibarr
 Imagetext:  Free ERP Software 
 draft: false
 weight: 2
 layout: "single"
-
+GithubLink: https://github.com/Dolibarr/dolibarr/
 HomePage_TitleText: Open Source ERP in PHP
 
 ListingPage_MenuImage_TitleText: 

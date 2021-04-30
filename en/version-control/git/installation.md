@@ -36,10 +36,3 @@ It will prompt you to install it, if you have not already installed..
 
 Visit https://git-scm.com/download/win and the download will start automatically for your operating system.
 
-#### **Explore**
-
-You may find the following links relevant:
-
-- [Top 5 Open Source Version Control Software In 2020](https://blog.containerize.com/2020/12/11/top-5-open-source-version-control-software-in-2020/)
-- [Beginner’s Guide to Version Control and Source Code Management using Git](https://blog.containerize.com/2021/01/08/guide-to-version-control-and-source-code-management-using-git/)
- 

@@ -3,9 +3,9 @@ title: Mautic | Open Source Content Marketing Technology Platform
 description: Free Marketing Automation platform to generate leads, build marketing campaign, and compose marketing email with seamless integration to popular social networks.
 singlepageh1title: Free, Powerful and Reliable Marketing Automation Software
 singlepageh2title: Boost your sales, improve customer retention, enhance lead nurturing and track your marketing activities with open source and robust marketing automation tool.
-Shortdescriptionlistingpage: Boost your sales, improve customer retention, enhance lead nurturing and track your marketing activities with open source and robust marketing automation tool.
+Shortdescriptionlistingpage: Mautic is an open source marketing software platform that gives a high level of marketing integration with audience intelligence that enables you to make personalized emails and much more.
 linktitle: Mautic
-Imagetext:  Free Marketing Automation Software 
+Imagetext:  Marketing Automation Software 
 draft: false
 weight: 1
 layout: "single"

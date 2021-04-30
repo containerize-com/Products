@@ -3,13 +3,13 @@ title: Drone | Free And Open Source Deployment Tool
 description: Drone is open source continuous integration tool for building and deploying software. Easily configure and run the pipeline in an isolated Docker container.
 singlepageh1title: Build And Test Software With Open Source Deployment Tool
 singlepageh2title: Automate software building, testing, deployment with self-service Continuous Integration and Continuous Delivery platform based on Go language.
-Shortdescriptionlistingpage: Automate software building, testing, deployment with self-service Continuous Integration and Continuous Delivery platform based on Go language.
+Shortdescriptionlistingpage: Drone is a containerized tool for automating software building, testing, and deployment. Works with any source code manager, platform, and language.
 linktitle: Drone
 Imagetext:  Free Deployment Tool 
 draft: false
 weight: 2
 layout: "single"
-
+GithubLink: https://github.com/drone/drone
 HomePage_TitleText: Open Source Deployment Tool in Go
 
 ListingPage_MenuImage_TitleText: Drone - Go Based Free Deployment Tool

@@ -3,13 +3,13 @@ title: metasfresh | Free And Self-Hosted Open Source ERP Software
 description: metasfresh is an free and open source enterprise resource planning (ERP) software. It is an easy-to-use, highly customizable and scalable system.
 singlepageh1title: Java Based Modern Open Source ERP Software
 singlepageh2title: Manage all business operations with flexible and efficient open source ERP software. Designed and developed for small and medium sized companies.
-Shortdescriptionlistingpage: Manage all business operations with flexible and efficient open source ERP software. Designed and developed for small and medium sized companies.
+Shortdescriptionlistingpage: metasfresh is Java based outstanding ERP software that is fully packed with modern features.
 linktitle: metasfresh
 Imagetext:  Free ERP Software 
 draft: false
 weight: 3
 layout: "single"
-
+GithubLink: https://github.com/metasfresh/metasfresh
 HomePage_TitleText: Open Source ERP in Java
 
 ListingPage_MenuImage_TitleText: 

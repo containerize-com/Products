@@ -3,13 +3,13 @@ title: Crater | Laravel Based Self-Hosted Invoicing System
 description: Crater is billing software for small businesses to handle financial operations. Create & send invoices to clients and keep track of transactions.
 singlepageh1title: Free And Open Source Billing Software For Small Businesses
 singlepageh2title: Complete invoicing system which helps small companies for book keeping. Grow business by tracking expenses, payments, create invoices and estimates.
-Shortdescriptionlistingpage: Complete invoicing system which helps small companies for book keeping. Grow business by tracking expenses, payments, create invoices and estimates.
+Shortdescriptionlistingpage: Crater is self-hosted invoicing system that allows small businesses to generate invoices, estimates and handle payments. For better decision making, access various types of reports.
 linktitle: Crater
-Imagetext:  Free Invoicing Software 
+Imagetext:  Free Invoicing Software
 draft: false
 weight: 5
 layout: "single"
-
+GithubLink: https://github.com/bytefury/crater
 HomePage_TitleText: Open Source Accounting System in PHP
 
 ListingPage_MenuImage_TitleText: 

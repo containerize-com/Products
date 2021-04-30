@@ -3,13 +3,13 @@ title: WP ERP | Web Based ERP Software For WordPress
 description: WP ERP is a self-hosted ERP system built on the top of WordPress. Ease your business-critical activities with novel HR, CRM, and Accounting modules.
 singlepageh1title: Free Web Based ERP Software For Small Businesses
 singlepageh2title: Manage and grow business with excellent web-based open source ERP software. Handle everything within the WordPress site and excel company to the next level.
-Shortdescriptionlistingpage: Manage and grow business with excellent web-based open source ERP software. Handle everything within the WordPress site and excel company to the next level.
+Shortdescriptionlistingpage: WP ERP is free and open ERP software based on WordPress. Manage website and business applications from single platform.
 linktitle: WP ERP
 Imagetext:  Free ERP Software 
 draft: false
-weight: 6
+weight: 5
 layout: "single"
-
+GithubLink: https://github.com/wp-erp/wp-erp
 HomePage_TitleText: Open Source ERP in WordPress
 
 ListingPage_MenuImage_TitleText: 

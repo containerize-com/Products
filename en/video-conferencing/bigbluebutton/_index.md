@@ -3,13 +3,13 @@ title: BigBlueButton | Open Source Remote Meeting Solution
 description: BigBlueButton is an open source real-time based remote meeting solution. It offers powerful features such as multi-user whiteboard, shared notes and more.
 singlepageh1title: BigBlueButton Video Conferencing System For Online Webinars
 singlepageh2title: BigBlueButton is a free video collaboration software that provides seamless integration with popular platforms such as Drupal, WordPress, Redmine, and Canvas.
-Shortdescriptionlistingpage: BigBlueButton is a free video collaboration software that provides seamless integration with popular platforms such as Drupal, WordPress, Redmine, and Canvas.
+Shortdescriptionlistingpage: BigBlueButton is an alternative free solution for web conferencing services that offers integrations with popular platforms such as Drupal, WordPress, and more.
 linktitle: BigBlueButton
 Imagetext:  Free Video Conferencing Software
 draft: false
 weight: 2
 layout: "single"
-
+GithubLink: https://github.com/bigbluebutton/bigbluebutton
 HomePage_TitleText: Video Conferencing Software
 
 ListingPage_MenuImage_TitleText: Open Source Video Conferencing Software

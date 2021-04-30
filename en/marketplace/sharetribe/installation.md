@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-**Installation Instructions to setup the production environment**
+**Installation Instructions to setup the production environment**
 -----------------------------------------------------------------
 
 ### Installation on Ubuntu
@@ -14,83 +14,57 @@ Install and configure the necessary dependencies packages.
 
 1\. Get the code. Clone this git repository and check out the latest release:
 
- ```
-git clone git://github.com/sharetribe/sharetribe.git
-cd sharetribe
-git checkout latest
-```
+    git clone git://github.com/sharetribe/sharetribe.git
+    cd sharetribe
+    git checkout latest
 
 2\. Install the required gems by running the following command in the project root directory:
 
- ```
- bundle install 
-```
+     bundle install 
 
 3\. Install node modules:
 
- ```
- npm install 
-```
+     npm install 
 
 4\. Create a database.yml file by copying the example database configuration:
 
- ```
- cp config/database.example.yml config/database.yml 
-```
+     cp config/database.example.yml config/database.yml 
 
 5\. Add your database configuration details to config/database.yml. You will probably only need to fill in the password for the database(s).
 
 6\. Set secret\_key\_base and generate secret key
 
- ```
-```
- rake secret 
-``` Add the following lines to config/config.yml: production: secret_key_base: # add here the generated key
-```
+     rake secret 
 
 Note: You can also set the secret\_key\_base environment variable, if you don't want to store the secret key in a file
 
 7\. Create the database:
 
- ```
- RAILS_ENV=production bundle exec rake db:create 
-```
+     RAILS_ENV=production bundle exec rake db:create 
 
 8\. Initialize your database:
 
- ```
- RAILS_ENV=production bundle exec rake db:structure:load 
-```
+     RAILS_ENV=production bundle exec rake db:structure:load 
 
 9\. Run Sphinx index:
 
- ```
- RAILS_ENV=production bundle exec rake ts:index 
-```
+     RAILS_ENV=production bundle exec rake ts:index 
 
 10\. Start the Sphinx daemon:
 
- ```
- RAILS_ENV=production bundle exec rake ts:start 
-```
+     RAILS_ENV=production bundle exec rake ts:start 
 
 11\. Precompile the assets:
 
- ```
- RAILS_ENV=production NODE_ENV=production bundle exec rake assets:precompile 
-```
+     RAILS_ENV=production NODE_ENV=production bundle exec rake assets:precompile 
 
 12\. Invoke the delayed job worker:
 
- ```
- RAILS_ENV=production bundle exec rake jobs:work 
-```
+     RAILS_ENV=production bundle exec rake jobs:work 
 
 13\. In a new console, open the project root folder and start the server:
 
- ```
- bundle exec rails server -e production 
-```
+     bundle exec rails server -e production 
 
 The built-in WEBrick server (which was started in the last step above) should not be used in production due to performance reasons. A dedicated HTTP server such as unicorn is recommended.
 

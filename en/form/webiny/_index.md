@@ -3,12 +3,13 @@ title: Webiny | Free Open Source Serverless Forms Generator
 description: Experience the best forms builder to build complex forms with full control over form’s look, change tracking, form submissions control and deployment.
 singlepageh1title: Build Production Ready Full-Featured Forms With Webiny
 singlepageh2title: Webiny comes up with a complete open source package containing an elegant drag and drop UI to build forms, version tracking, forms theming and data management.
-Shortdescriptionlistingpage: Webiny comes up with a complete open source package containing an elegant drag and drop UI to build forms, version tracking, forms theming and data management.
+Shortdescriptionlistingpage: A free open source serverless form generator to build responsive full-featured forms to meet the business use cases.
 linktitle: Webiny
 Imagetext:  Free Form Builder
 draft: false
 weight: 4
 layout: "single"
+GithubLink: https://github.com/webiny/webiny-js
 
 HomePage_TitleText: Open Source HTML5 Form Generator in JavaScript ReactJs
 

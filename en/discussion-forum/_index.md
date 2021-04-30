@@ -7,12 +7,12 @@ Shortdescriptionlistingpage: A discussion platform where participants post respo
 linktitle: discussion-forum
 Imagetext:  Open Source Software 
 draft: false
-weight: 7
+weight: 3
 menu:
    mainmenu: 
        name: Discussion Forum
        url: DiscussionForumApps
-       weight: 7
+       weight: 3
 
 heading: Top Open Source Discussion Forum Software Include 
 listingtypetag:  Open Source Software 

@@ -3,13 +3,13 @@ title: Magento | Easy Shopping Cart Software For Building Store
 description: Magento is a feature-rich easy open source shopping cart for small to enterprise-level businesses. Setup Multi-store and manage from single admin panel.
 singlepageh1title: Rapidly Grow Business With Easy Shopping Cart Software
 singlepageh2title: Self-Hosted open source shopping cart software for B2B and B2C business models. Enhance business with flexible and extensible ecommerce platform.
-Shortdescriptionlistingpage: Self-Hosted open source shopping cart software for B2B and B2C business models. Enhance business with flexible and extensible ecommerce platform.
+Shortdescriptionlistingpage: Magento is leading free and open source shopping cart software for small, medium and enterprise-level businesses. It has very impressive and modern feature list.
 linktitle: Magento
-Imagetext:  Free Shopping Cart Software 
+Imagetext:  Shopping Cart Software 
 draft: false
-weight: 1
+weight: 2
 layout: "single"
-
+GithubLink: https://github.com/magento/magento2
 HomePage_TitleText: Open Source Shopping Cart in PHP
 
 ListingPage_MenuImage_TitleText: 

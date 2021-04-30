@@ -3,7 +3,7 @@ title: Tiledesk | Free Open Source Live Chat Software with Chat Bots
 description: Open Source Live Chat Software with Chat Bot Support. Build your own customer support with a multi-channel platform for Web, Android and iOS.
 singlepageh1title: Open Source Live Chat Software with integrated Chatbots.
 singlepageh2title: With Tiledesk, build your own customer support chat bots and instantly response to your customers.
-Shortdescriptionlistingpage: With Tiledesk, build your own customer support chat bots and instantly response to your customers.
+Shortdescriptionlistingpage: Tiledesk is one of the most popular open source live chat software with integrated chatbot support.
 linktitle: Tiledesk
 Imagetext:  Live Chat Software 
 draft: false

@@ -3,13 +3,13 @@ title: Deployer | Free And Open Source PHP Deployment Tool
 description: Deployer is a CLI tool for the deployment of PHP-based applications. It supports popular PHP frameworks, open source CMS, and shopping cart software.
 singlepageh1title: Effortlessly PHP Application Deployment With Deployer
 singlepageh2title: Seamless deployment workflow with free and open source deployment tool for PHP-based applications. Easily set up and supports popular frameworks.
-Shortdescriptionlistingpage: Seamless deployment workflow with free and open source deployment tool for PHP-based applications. Easily set up and supports popular frameworks.
+Shortdescriptionlistingpage: Deployer is another free and open source deployment tool for any PHP applications. It comes with support for popular frameworks, CMS, and eCommerce software.
 linktitle: Deployer
 Imagetext:  Free Deployment Tool 
 draft: false
 weight: 3
 layout: "single"
-
+GithubLink: https://github.com/deployphp/deployer
 HomePage_TitleText: Open Source Deployment Tool in PHP
 
 ListingPage_MenuImage_TitleText: Deployer - PHP Based Free Deployment Tool

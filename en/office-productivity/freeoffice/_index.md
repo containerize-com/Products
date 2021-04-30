@@ -3,9 +3,9 @@ title: FreeOffice | Best Free Office Alternative for all Platforms
 description: FreeOffice is an open-source office suite. It's the best free office alternative for Windows, Mac, and Linux. Includes all major office productivity apps.
 singlepageh1title: The best free office alternative for Windows, Mac, and Linux
 singlepageh2title: FreeOffice is an open-source office suite with a word processor, a spreadsheet, and a presentation application. It's one of the best free office alternatives.
-Shortdescriptionlistingpage: FreeOffice is an open-source office suite with a word processor, a spreadsheet, and a presentation application. It's one of the best free office alternatives.
+Shortdescriptionlistingpage: FreeOffice is a full-featured and free version of SoftMaker Office. It’s the best free office alternative. It includes the three main applications required for any office productivity suite.
 linktitle: FreeOffice 
-Imagetext:  Free Office Productivity 
+Imagetext:  Office Productivity
 draft: false
 weight: 4
 layout: "single"

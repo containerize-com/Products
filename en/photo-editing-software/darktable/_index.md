@@ -9,7 +9,7 @@ Imagetext: Free Photo Editing Software
 draft: false
 weight: 1
 layout: "single"
-
+GithubLink: https://github.com/darktable-org/darktable
 HomePage_TitleText: Open Source Photo Editing Software
 
 ListingPage_MenuImage_TitleText: Darktable logo

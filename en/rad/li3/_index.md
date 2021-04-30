@@ -3,13 +3,13 @@ title: li3 | PHP Based Open Source Free RAD Framework
 description: Set up free web rapid application development software to build production ready applications. It offers rich documentation for development and deployment.
 singlepageh1title: MVC Driven PHP RAD Software For PHP Based Web Applications
 singlepageh2title: li3 is an open source RAD Framework with robust architecture. It supports MongoDB, CouchDB, Elasticsearch, PHP ActiveRecord, PSR-4, and many more.
-Shortdescriptionlistingpage: li3 is an open source RAD Framework with robust architecture. It supports MongoDB, CouchDB, Elasticsearch, PHP ActiveRecord, PSR-4, and many more.
+Shortdescriptionlistingpage: li3 is another open source RAD software written with the latest features of PHP language. It is multilingual, extensible, supports many DB option, global search, and provides a complete development guide.
 linktitle: li3
 Imagetext:  Free RAD Framework
 draft: false
 weight: 4
 layout: "single"
-
+GithubLink: https://github.com/UnionOfRAD/lithium
 HomePage_TitleText: Open Source Rapid Application Development Framework in PHP
 
 ListingPage_MenuImage_TitleText: 

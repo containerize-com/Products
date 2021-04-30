@@ -3,13 +3,13 @@ title: OpenProject | Free Project Management Workflow Software
 description: Open source project tracking and reporting software. Manage multiple projects with shared timelines, project collaboration and task management features.
 singlepageh1title: Simple Project Software for Collaboration and Task Management
 singlepageh2title: Free project management tool for Daily scrum, Sprint planning, Bug tracking, Burndown chart, Gantt charts, Kanban, Project workflow, and Project collaboration.
-Shortdescriptionlistingpage: Free project management tool for Daily scrum, Sprint planning, Bug tracking, Burndown chart, Gantt charts, Kanban, Project workflow, and Project collaboration.
+Shortdescriptionlistingpage: OpenProject is open source project planning and tracking tool to visualize multiple projects with shared timeline. It also offers product roadmap and task management features.
 linktitle: OpenProject
 Imagetext:  Free Project Management System 
 draft: false
 weight: 3
 layout: "single"
-
+GithubLink: https://github.com/opf/openproject
 HomePage_TitleText: Open Source Project Management Software in Ruby
 
 ListingPage_MenuImage_TitleText: 

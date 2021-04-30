@@ -5,9 +5,9 @@ singlepageh1title: Enhance Business With Free Shopping Cart Solution
 singlepageh2title: Free eCommerce system enables companies to sell products, manage orders, handle payments, shipping, and access reports for automated business management.
 Shortdescriptionlistingpage: Free eCommerce system enables companies to sell products, manage orders, handle payments, shipping, and access reports for automated business management.
 linktitle: OpenCart
-Imagetext:  Free Shopping Cart Software 
+Imagetext:  Shopping Cart Software 
 draft: false
-weight: 2
+weight: 1
 layout: "single"
 
 HomePage_TitleText: Open Source Shopping Cart in PHP

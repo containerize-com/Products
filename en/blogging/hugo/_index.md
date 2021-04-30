@@ -3,7 +3,7 @@ title: Hugo | Number One Open Source Static Site Generator
 description: Hugo is the world’s fastest open source static site generator and blogging platform. It’s written in Go (aka Golang) which is popular for its speed.
 singlepageh1title: World’s Most Popular Open Source Static Site Generator
 singlepageh2title: A fast and flexible static site generator. Hugo is great for content-driven websites, because it is completely dependency-free and is easy to get going.
-Shortdescriptionlistingpage: A fast and flexible static site generator. Hugo is great for content-driven websites, because it is completely dependency-free and is easy to get going.
+Shortdescriptionlistingpage: Hugo allows you to output your content in multiple formats, including JSON or AMP, and makes it easy to create your own. It supports unlimited content types, taxonomies, menus, dynamic API-driven content, and more, all without plugins.
 linktitle: Hugo
 Imagetext:  Free Blogging Platform 
 draft: false

@@ -3,13 +3,13 @@ title: Jenkins | Automate CI/CD Processes With Free Deployment Tool
 description: Jenkins is self-hosted open source deployment tool for building, deploying and automating the software delivery process. It is simple to install and configure.
 singlepageh1title: Free Deployment Tool For Software Building And Delivery
 singlepageh2title: Build code, run tests and deploy software with free and open source Java based deployment tool. Enables software teams to automate deployment workflow.
-Shortdescriptionlistingpage: Build code, run tests and deploy software with free and open source Java based deployment tool. Enables software teams to automate deployment workflow.
+Shortdescriptionlistingpage: Jenkins is widely used free and open source automation server that helps teams to build code, run tests, and deploy software quickly.
 linktitle: Jenkins
 Imagetext:  Free Deployment Tool 
 draft: false
 weight: 1
 layout: "single"
-
+GithubLink: https://github.com/jenkinsci/jenkins
 HomePage_TitleText: Open Source Deployment Tool in Java
 
 ListingPage_MenuImage_TitleText: Jenkins - Java Based Free Deployment Tool

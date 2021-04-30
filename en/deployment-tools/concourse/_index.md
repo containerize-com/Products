@@ -3,13 +3,13 @@ title: Concourse | Self-Hosted Open Source CI/CD Tool
 description: Concourse is one of the best open source CI/CD systems for automating software deployment processes. Easily configure pipelines and view progress in the web UI.
 singlepageh1title: Free And Open Source CI/CD Tool For Software Automation
 singlepageh2title: Boost productivity by automating software deployment workflows with an open source CI/CD system. Quickly configure pipeline and keep watching the progress.
-Shortdescriptionlistingpage: Boost productivity by automating software deployment workflows with an open source CI/CD system. Quickly configure pipeline and keep watching the progress.
+Shortdescriptionlistingpage: Concourse is one of the best free and open source CI/CD tool for building, testing, and deployment of software. It allows DevOps teams for automating software delivery workflows.
 linktitle: Concourse
 Imagetext:  Free Deployment Tool 
 draft: false
 weight: 6
 layout: "single"
-
+GithubLink: https://github.com/concourse/concourse
 HomePage_TitleText: Open Source Deployment Tool in Go
 
 ListingPage_MenuImage_TitleText: Concourse - Go Based Free Deployment Tool

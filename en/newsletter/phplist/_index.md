@@ -3,13 +3,13 @@ title: phpList | Free And Open Source Newsletter Software
 description: Define branded template for email marketing. Send newsletter, new offers, critical announcements and urgent updates to any number of subscribers.
 singlepageh1title: Handy Open Source Newsletter and Email Marketing Software
 singlepageh2title: Send instantly or schedule newsletters, marketing campaigns and announcements by email to a large numbers of subscribers.
-Shortdescriptionlistingpage: Send instantly or schedule newsletters, marketing campaigns and announcements by email to a large numbers of subscribers.
+Shortdescriptionlistingpage: phpList is used for sending email newsletters, announcements and notifications. It is designed to send a single message (a campaign), by email to large numbers of recipients (subscribers).
 linktitle: phpList
 Imagetext:  Free Newsletter Software 
 draft: false
 weight: 1
 layout: "single"
-
+GithubLink: https://github.com/phpList/phplist3
 HomePage_TitleText: Open Source Email Marketing Platform in PHP
 
 ListingPage_MenuImage_TitleText: 

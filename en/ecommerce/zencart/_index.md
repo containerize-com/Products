@@ -3,13 +3,13 @@ title: Zen Cart | Build Store With Free Shopping Cart Solution
 description: Zen Cart is a free open source shopping cart system for creating stores. Easily customizable and supports integration with popular payment gateways.
 singlepageh1title: Free Shopping Cart Solution For Small And Medium Businesses
 singlepageh2title: Materialize your business ideas with open source eCommerce platform. Easy to use and feature-packed solution, ideal for small and medium size businesses.
-Shortdescriptionlistingpage: Materialize your business ideas with open source eCommerce platform. Easy to use and feature-packed solution, ideal for small and medium size businesses.
+Shortdescriptionlistingpage: Zen Cart is another one of the popular free and open source shopping cart software built on PHP. Suitable for small and medium size businesses.
 linktitle: Zen Cart
-Imagetext:  Free Shopping Cart Software 
+Imagetext:  Shopping Cart Software 
 draft: false
 weight: 8
 layout: "single"
-
+GithubLink: https://github.com/zencart/zencart
 HomePage_TitleText: Open Source Shopping Cart in PHP
 
 ListingPage_MenuImage_TitleText: 

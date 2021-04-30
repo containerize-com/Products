@@ -9,7 +9,7 @@ Imagetext: Free Photo Editing Software
 draft: false
 weight: 3
 layout: "single"
-
+GithubLink: https://github.com/google-code-export/photivo
 HomePage_TitleText: Open Source Photo Editing Software
 
 ListingPage_MenuImage_TitleText: Photivo logo

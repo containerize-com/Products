@@ -3,13 +3,13 @@ title: inoERP | PHP based open source enterprise resource planning software
 description: inoERP is an open-source ERP system. It's built using open source technologies and has a wide range of features suitable for various kinds of businesses.
 singlepageh1title: An open-source alternative to Oracle R12 and SAP for small to midsize businesses
 singlepageh2title: inoERP is a web-based open-source ERP system that contains all the required modules for a midsize business. It also contains an integrated lightweight CMS.
-Shortdescriptionlistingpage: inoERP is a web-based open-source ERP system that contains all the required modules for a midsize business. It also contains an integrated lightweight CMS.
+Shortdescriptionlistingpage: If you are looking for an open-source ERP solution for your business and you need a simple and easy to use web-based solution. Then, inoERP is one of the choices you can have..
 linktitle: inoERP
-Imagetext:  Free Enterprise Resource Planning Software 
+Imagetext:  Free ERP Software
 draft: false
 weight: 7
 layout: "single"
-
+GithubLink: https://github.com/inoerp/inoERP
 HomePage_TitleText: Open Source ERP Software in PHP
 
 ListingPage_MenuImage_TitleText: 

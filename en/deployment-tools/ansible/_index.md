@@ -3,13 +3,13 @@ title: Ansible | Automate Tasks With Free Software Deployment Tool
 description: Ansible is a cross-platform and open source deployment automation tool. It is agentless and enables DevOps teams for building, testing and deploying software.
 singlepageh1title: Free Software Deployment Tool For Deploying Applications
 singlepageh2title: Automate software deployment workflows with open source deployment tool. Easily handle configuration management, intra-service orchestration and provisioning.
-Shortdescriptionlistingpage: Automate software deployment workflows with open source deployment tool. Easily handle configuration management, intra-service orchestration and provisioning.
+Shortdescriptionlistingpage: Ansible is an agentless, cross-platform and free software deployment tool. Easily handle complex tasks including configuration management, intraservice orchestration and provisioning
 linktitle: Ansible
 Imagetext:  Free Deployment Tool 
 draft: false
 weight: 7
 layout: "single"
-
+GithubLink: https://github.com/ansible/ansible
 HomePage_TitleText: Open Source Deployment Tool in Python
 
 ListingPage_MenuImage_TitleText: Ansible - Python Based Free Deployment Tool

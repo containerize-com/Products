@@ -3,12 +3,13 @@ title: UVdesk | Open Source Ecommerce Ticketing System
 description: Single ticketing system platform to provide all purpose customer support integrated with popular Ecommerce, Marketplace, Upfront Website and Email Software. 
 singlepageh1title: Free Ticketing System Linked with Ecommerce and Marketplace
 singlepageh2title: Open source ecommerce ticketing system featured with real time reporting and multi-channel support to deliver easier and effortless customer support.
-Shortdescriptionlistingpage: Open source ecommerce ticketing system featured with real time reporting and multi-channel support to deliver easier and effortless customer support.
+Shortdescriptionlistingpage: UVDesk is Built on top of PHP based symfony framework and backbone.js. It is a service oriented, event driven extensible freeware helpdesk ticket system.
 linktitle: UVdesk
-Imagetext:  Free Ecommerce Ticketing System 
+Imagetext:  Free Ticketing System
 draft: false
 weight: 2
 layout: "single"
+GithubLink: https://github.com/uvdesk/community-skeleton
 
 HomePage_TitleText: Open Source Ticketing Software in PHP
 
