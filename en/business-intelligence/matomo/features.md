@@ -8,7 +8,7 @@ weight: 2
 
 #### **Features**
 
-Matomo features include:
+Matomo features include::
 
 *   Open Source
 *   GDPR, CNIL Compliant
