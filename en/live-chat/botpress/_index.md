@@ -18,9 +18,9 @@ ListingPage_MenuImage_AltText: Botpress is leading conversational AI platform
 ListingPage_Link_TitleText: 
 
 SinglePage_HeaderImage_TitleText: 
-SinglePage_HeaderImage_AltText: Botpress is AI powered chat bot platform
+SinglePage_HeaderImage_AltText: Botpress is AI powered open source chatbot builder
 SinglePage_MenuImage_TitleText: 
-SinglePage_MenuImage_AltText: Botpress is opne source bot builder
+SinglePage_MenuImage_AltText: Botpress is open source chatbot builder
 
 ---
 
