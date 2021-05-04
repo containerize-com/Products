@@ -1,6 +1,7 @@
 ---
 title: Botpress | Open Source Chatbot Builder Software
 description: Botpress is an open-source chatbot builder software for chat management. Automate your business with an open-source chatbot platform with AI support.
+keywords: open source chatbot software, chatbot builder, chatbot platform, create chatbot, build chatbot
 singlepageh1title: AI Supported Open-Source Chatbot Platform – WordPress of Bots
 singlepageh2title: On-premise open-source chatbot software supporting AI and natural language processing to automate conversations and workflows. Build and deploy virtual employees.
 Shortdescriptionlistingpage: The Leading Open-source Conversational AI Platform for Enterprise Automation
