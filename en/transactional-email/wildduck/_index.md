@@ -7,7 +7,7 @@ Shortdescriptionlistingpage: WildDuck is a self hosted on premise Mail Delivery 
 linktitle: WildDuck
 Imagetext:  Transactional Email Service
 draft: false
-weight: 2
+weight: 7
 layout: "single"
 GithubLink: https://github.com/nodemailer/wildduck
 
