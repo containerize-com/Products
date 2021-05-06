@@ -1,8 +1,8 @@
 ---
-title: Tryton | Free And Open Source ERP Software
-description: Tryton is flexible, feature-rich, cost-effective and 100% open source ERP software. It’s an easy-to-use and ideal for businesses of any size and type.
-singlepageh1title: Flexible And Cost-Effective Open Source ERP System
-singlepageh2title: Integrate and manage all business units with modular and web based Enterprise Resource Planning (ERP) software. Ideal for companies of any size and type.
+title: Tryton | Free Enterprise Resource Planning Software
+description: Tryton is flexible, feature-rich, and cost-effective business software. It’s an easy-to-use free ERP application and ideal for businesses of any size and type.
+singlepageh1title: Flexible And Cost-Effective Free ERP Solution For Businesses
+singlepageh2title: Integrate and manage all business units with web-based free open source ERP software. Highly scalable, secure, and modular system for every type of business.
 Shortdescriptionlistingpage: Tryton is modular, scalable, secure and 100% open source ERP software for companies of all scales.
 linktitle: Tryton
 Imagetext:  Free ERP Software 
@@ -13,13 +13,13 @@ GithubLink: https://github.com/tryton/tryton
 HomePage_TitleText: Open Source ERP in Python
 
 ListingPage_MenuImage_TitleText: 
-ListingPage_MenuImage_AltText: Tryton - Popular Open Source ERP Software
+ListingPage_MenuImage_AltText: Tryton - Enterprise Resource Planning
 ListingPage_Link_TitleText: Explore Tryton
 
 SinglePage_HeaderImage_TitleText: 
-SinglePage_HeaderImage_AltText: Tryton - Open Source ERP Software
+SinglePage_HeaderImage_AltText: Tryton - Enterprise Resource Planning
 SinglePage_MenuImage_TitleText: 
-SinglePage_MenuImage_AltText: Tryton - Python Based Open Source ERP Software
+SinglePage_MenuImage_AltText: Tryton - Enterprise Resource Planning
 
 ---
 
