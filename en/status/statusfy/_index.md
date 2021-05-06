@@ -17,9 +17,9 @@ ListingPage_MenuImage_TitleText:
 ListingPage_MenuImage_AltText: Free Status Page
 ListingPage_Link_TitleText: Explore Statusfy
 
-SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_TitleText: Free Status Page
 SinglePage_HeaderImage_AltText: Free Status Page
-SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_TitleText: Free Status Page
 SinglePage_MenuImage_AltText: Free Status Page
 
 ---
