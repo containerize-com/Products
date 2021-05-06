@@ -1,6 +1,7 @@
 ---
 title: WildDuck | A free modern cross-platform open-source email server
 description: WildDuck is a free, open-source email server for Microsoft Windows, Mac, Linux, or any OS that supports Node.js, MongoDB, and Redis. WildDuck supports Unicode.
+keywords: open source email server, email server, spam protection, email server for All Platforms, free mail server, node.js, mongodb
 singlepageh1title: A Self Hosted Open Source Email Server for All Platforms
 singlepageh2title: WildDuck Mail Server is an open-source email server for large setups with a built-in REST API. WildDuck supports the most common protocols (IMAP, SMTP, POP3)
 Shortdescriptionlistingpage: WildDuck is a self hosted on premise Mail Delivery Software. Use WildDuck when you have a large number of email accounts with large quotas.
