@@ -5,8 +5,7 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
 After you have checked all requirements and set up your web server, you can now start the installation.
 

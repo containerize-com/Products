@@ -4,8 +4,7 @@ onpagelink: installation
 weight: 3
 
 ---
-Installation Instructions
--------------------------
+### Installation
 
 After setting up Python, run the following command to install virtualenv:  
 

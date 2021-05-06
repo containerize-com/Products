@@ -4,8 +4,7 @@ onpagelink: installation
 weight: 3
 
 ---
-Installation Instructions
--------------------------
+### Installation
 
 We use Vagrant and Ansible to automatically set up a fresh server with everything you need to run Cuttlefish. It's a fairly complicated affair as Cuttlefish does have quite a few moving parts but all of this is with the purpose of making it easier for the developer sending mail.
 

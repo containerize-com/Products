@@ -5,8 +5,7 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
 Please follow the instructions to setup Umbraco CMS Software.
 

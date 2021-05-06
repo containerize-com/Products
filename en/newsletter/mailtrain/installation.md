@@ -5,8 +5,7 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
 ### Install Mailtrain on Ubuntu 16.04 LTS using Github
 

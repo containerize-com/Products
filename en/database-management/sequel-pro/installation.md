@@ -5,8 +5,7 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
 There are several different ways to install MySQL on Mac OS X. You can download the official package from their website
 
