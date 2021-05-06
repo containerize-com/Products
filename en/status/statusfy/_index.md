@@ -1,8 +1,8 @@
 ---
-title: Statusfy | On-Premise Open Source Status Page System
-description: Staytus is feature-packed open source status page software for monitoring websites, web apps, APIs and networks. Also allows integration with external apps.
-singlepageh1title: Free And Open Source Status Page Software For Every Business
-singlepageh2title: Develop static generated or server rendered system with self-Hosted status page system. Keep your users informed with simplicity and speed in any language.
+title: Statusfy | Free Status Page For Showcase Services Uptime
+description: Staytus is a feature-packed open source status page system for monitoring websites, web apps, APIs and networks. Also allows integration with external apps.
+singlepageh1title: Free And Open Source Status Page System For Every Business
+singlepageh2title: Develop static generated or server rendered system with free status page software. Timely inform users about services downtime and system outages.
 Shortdescriptionlistingpage: Staytus is powerful and feature rich open source status page system for monitoring of tools. Send alerts notifications to subscribers and integrate with third party applications for updating incidents.
 linktitle: Statusfy
 Imagetext:  Free StatusPage Software 
@@ -14,16 +14,17 @@ GithubLink: https://github.com/adamcooke/staytus
 HomePage_TitleText: Open Source StatusPage System in Node.js
 
 ListingPage_MenuImage_TitleText: 
-ListingPage_MenuImage_AltText: Statusfy - Node.js Based StatusPage system
+ListingPage_MenuImage_AltText: Free Status Page
 ListingPage_Link_TitleText: Explore Statusfy
 
 SinglePage_HeaderImage_TitleText: 
-SinglePage_HeaderImage_AltText: Statusfy - Open Source Status Page Software
+SinglePage_HeaderImage_AltText: Free Status Page
 SinglePage_MenuImage_TitleText: 
-SinglePage_MenuImage_AltText: Statusfy - Open Source Status Page For Every Business
+SinglePage_MenuImage_AltText: Free Status Page
 
 ---
 
-Statusfy is a wonderful open source status page system and it's is easy to use. You can build and deploy a fast static generated or server rendered site to a range of hosting services. Using Markdown, you just create your incidents and Statusfy generates all the logic required for your Status Page System. You can create a web application from CLI, so it can be easily configured or tailored to your requirements.
+Statusfy is a free status page to showcase services uptime. It is an easy to use and open source status page system.
+It can be used by developers to create and deploy a fast static created or server rendered site to a variety of hosting services. Simply build incidents in Markdown, and Statusfy will produce all of the logic needed for the status page system. It allows developers to create a web application from the command line, allowing it to be easily customized to meet their needs.
 
-Statusfy core feature is the Progressive Web App because page loading speed is important to gain trust of visitors. PWA enables fast page loading and initially loads only essential HTML, CSS, JavaScript and data. Use your own logo and customize the default theme, so you can retain the specifications of your brand. You can deploy static generated system to a variety of hosting services without costly server costs.
+Since page loading speed is critical for gaining visitor confidence, Statusfy's core feature is the Progressive Web App. PWA speeds up page loading by loading only the most important HTML, CSS, JavaScript, and data at first. Use your own logo and configure the default theme to maintain your brand's requirements. Without incurring costly server, deploy a static-generated status page system to a variety of hosting services.
