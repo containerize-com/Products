@@ -5,11 +5,9 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
-Installation Instructions
--------------------------
+### Installation
 
 ### Installation using Github
 

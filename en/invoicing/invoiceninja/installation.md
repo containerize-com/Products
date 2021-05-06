@@ -5,8 +5,7 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
 ### Install InvoiceNinja on Ubuntu 16.04 LTS with Nginx using Github
 

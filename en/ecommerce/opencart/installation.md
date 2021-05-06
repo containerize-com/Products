@@ -5,8 +5,7 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
 ### Install OpenCart on Ubuntu 16.04 LTS with Nginx
 
