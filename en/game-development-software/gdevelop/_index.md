@@ -2,7 +2,7 @@
 title: GDevelop | Cross-Platform Free Game Development Software
 description: GDevelop is an open source free game development software. It is self-hosted, extensible, and lets users develop games without any programming skills.
 singlepageh1title: Best Game Engine Powered By Multiple Pre-Built Behaviours
-singlepageh2title: Develop and publish production-ready games for IOS, Android, Linux, Windows, and Web. GDevelop is a 2D game development software with quick prototyping features.
+singlepageh2title: Develop and publish production-ready games for iOS, Android, Desktop, and Web. GDevelop is a 2D game development software with quick prototyping features.
 Shortdescriptionlistingpage: GDevelop is an open source easy game making software. It requires no programming skills and lets its users build and publish video games for multiple platforms.
 linktitle: GDevelop
 Imagetext:  Free Game Development Software
