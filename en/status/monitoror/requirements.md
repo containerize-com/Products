@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
+### System Requirements
 -------------------
 
 Monitoror has no installation requirement except you have running machine. It is development in Go Language and you can use precompile binary for your operating system.

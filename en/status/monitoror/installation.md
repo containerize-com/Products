@@ -7,7 +7,7 @@ weight: 3
 
 ### Installation
 
-### Installing on Linux
+#### Installing on Linux
 
 Download the latest release.
 
@@ -29,7 +29,7 @@ Run monitoror.
 
 You have installed successfully. Now, you can create configuration file for monitoring of services.
 
-### Installation using Docker
+#### Installation using Docker
 
  ```
 docker run -p 8080:8080 monitoror/monitoror

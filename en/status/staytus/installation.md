@@ -7,7 +7,7 @@ weight: 3
 
 ### Installation
 
-### Installing on Ubuntu 16.04
+#### Installing on Ubuntu 16.04
 
 First install Ruby, Node.js and MySQL by following these commands.
 
