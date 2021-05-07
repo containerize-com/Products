@@ -7,9 +7,9 @@ weight: 3
 
 ### Installation
 
-### Install Mailtrain on Ubuntu 16.04 LTS using Github
+#### Install Mailtrain on Ubuntu 16.04 LTS using Github
 
-### Install Node.js and NPM
+#### Install Node.js and NPM
 
 Install Node.js by using NodeSource APT repository.
 
@@ -30,7 +30,7 @@ node -v && npm -v
 
 ```
 
-### Install MySQL Server
+#### Install MySQL Server
 
 Next, need to install database Server, use the following command to install MySql server
 
@@ -58,7 +58,7 @@ Create a database user called "" with new password. and granted user full access
  FLUSH PRIVILEGES; EXIT;
 ```
 
-### Install Nginx web server
+#### Install Nginx web server
 
 Run below command to install Nginx.
 
@@ -111,7 +111,7 @@ Restart Nginx web server.
 sudo systemctl restart nginx
 ```
 
-### Install and Configure Mailtrain
+#### Install and Configure Mailtrain
 
 Create directory for Mailtrain installation.
 
