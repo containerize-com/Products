@@ -8,26 +8,26 @@ weight: 3
 
 ### Installation
 
-### Installation using Github
+#### Installation using Github
 
 First make sure you have installed all the dependencies. Clone the latest Phabricator and dependencies from github into document root folder::
 
     git clone https://github.com/phacility/libphutil.git
     git clone https://github.com/phacility/arcanist.git
     git clone https://github.com/phacility/phabricator.git
-    
+
 
 Navigate to the phabricator directory:
 
     cd  phabricator
-    
+
 
 Run following commands to configure MySQL configuration file:
 
     ./bin/config set mysql.host localhost
     ./bin/config set mysql.user root
     ./bin/config set mysql.pass MySQL_root_password
-    
+
 
 Load the Phabricator schema by executing the following command:
 
@@ -41,6 +41,6 @@ Load the Phabricator schema by executing the following command:
      ANALYZE  Analyzing tables...
     Done.
      ANALYZED  Analyzed 510 table(s).
-    
+
 
 Configure Virtual host for Apache or Nginx. Finally, open your web browser and navigate to http://phabricator.yourdomain.com or as per your virtual host settings.

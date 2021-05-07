@@ -5,8 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
--------------------
+### System Requirements
 
 Phabricator is PHP and MySQL based project planning, tasking tracking and source code management software. It requires following software.
 

@@ -6,8 +6,7 @@ weight: 1
 ---
 
 
-System Requirements
--------------------
+### System Requirements
 
 Redmine is Ruby on Rails and MySQL / Postgres based issue tracking, time tracking and project tracking software. It requires following software.
 
