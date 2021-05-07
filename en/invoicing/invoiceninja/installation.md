@@ -7,7 +7,7 @@ weight: 3
 
 ### Installation
 
-### Install InvoiceNinja on Ubuntu 16.04 LTS with Nginx using Github
+#### Install InvoiceNinja on Ubuntu 16.04 LTS with Nginx using Github
 
 Nginx is the most popular and secure web server. In order to install Nginx, use the following command
 

@@ -7,7 +7,7 @@ weight: 3
 
 ### Installation
 
-### Installing using Docker
+#### Installing using Docker
 
 Create YAML file with below command.
 
