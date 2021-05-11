@@ -7,7 +7,7 @@ weight: 3
 
 ### Installation
 
-### Install Hadoop on Ubuntu
+#### Install Hadoop on Ubuntu
 
 First, run below command to install OpenSSH server and client.
 

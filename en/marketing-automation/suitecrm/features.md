@@ -5,8 +5,7 @@ weight: 2
 
 ---
 
-Features
---------
+### Features
 
 SuiteCMR is fully customizable to satisfy the requirements of business in any industry. Key features include
 
@@ -23,4 +22,3 @@ SuiteCMR is fully customizable to satisfy the requirements of business in any in
 - Pricing strategy control
 - Contract renewals servicing
 - Q&amp;A support
- 

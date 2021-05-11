@@ -7,7 +7,7 @@ weight: 3
 
 ### Installation
 
-### Install InvoicePlane on Ubuntu 16.04/18.04 LTS with Nginx using GitHub
+#### Install InvoicePlane on Ubuntu 16.04/18.04 LTS with Nginx using GitHub
 
 Nginx is the most popular and secure web server. In order to install Nginx, use the following command
 

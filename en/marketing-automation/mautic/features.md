@@ -5,8 +5,7 @@ weight: 2
 
 ---
 
-Features
---------
+### Features
 
 Following are the key features of Mautic
 
@@ -24,4 +23,3 @@ Following are the key features of Mautic
 - Crucial campaign run
 - Saves time
 - Works even when you sleep
- 

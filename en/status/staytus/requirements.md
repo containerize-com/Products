@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
+### System Requirements
 -------------------
 
 Staytus is Ruby and Node.js based open source staytus page system. Current requirement of Staytus are following:

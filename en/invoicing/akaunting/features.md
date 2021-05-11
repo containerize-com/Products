@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-Features
+### Features
 --------
 
 Some of the features are listed below and experience true power of Akaunting software.

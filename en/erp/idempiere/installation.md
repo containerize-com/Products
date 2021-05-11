@@ -7,7 +7,7 @@ weight: 3
 
 ### Installation
 
-### Installing using Docker
+#### Installing using Docker
 
 Get latest image from hub.docker.com.
 

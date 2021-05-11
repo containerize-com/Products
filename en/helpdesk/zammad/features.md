@@ -5,8 +5,7 @@ weight: 2
 
 ---
 
-Features
---------
+### Features
 
 Following are the key features of Zammad
 
@@ -30,4 +29,3 @@ Following are the key features of Zammad
 - VIP
 - External authentication
 - Zammad migrator
- 

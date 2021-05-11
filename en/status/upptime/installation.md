@@ -7,7 +7,7 @@ weight: 3
 
 ### Installation
 
-### Creating repository from the Upptime template
+#### Creating repository from the Upptime template
 
 Follow the below steps for creating repository from the template.
 
@@ -16,7 +16,7 @@ Follow the below steps for creating repository from the template.
 - Enter a name for your new repository and check "Include all branches".
 - Click on "Create repository from template"
  
-### Enable GitHub Pages
+#### Enable GitHub Pages
 
 Enable GitHub pages for generating static website. Follow the below steps to newly created repository.
 
@@ -27,7 +27,7 @@ Enable GitHub pages for generating static website. Follow the below steps to new
 - Skip the "Theme Chooser" option.
 - Click on "Save"
  
-### Update Configuration File
+#### Update Configuration File
 
 The ".upptimerc.yml" file is used as the central configuration to add endpoints/websites for monitoring and configure status website. Configuration file should look like this one.
 

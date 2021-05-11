@@ -5,8 +5,7 @@ weight: 2
 
 ---
 
-Features
---------
+### Features
 
 Following are the key features of CiviCRM
 
@@ -58,4 +57,3 @@ Following are the key features of CiviCRM
 - Save Reports format in .pdf, spreadsheet, .csv and other formats
 - Most reports can be saved in table or pie chart form
 - Automated Report Delivery – Reports can be delivered by email
- 
