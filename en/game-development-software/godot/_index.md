@@ -16,9 +16,9 @@ ListingPage_MenuImage_TitleText: free game development software
 ListingPage_MenuImage_AltText: Godot is an Open Source free game creation platform for building cross platform games
 ListingPage_Link_TitleText: free game creation platform for building cross platform games
 
-SinglePage_HeaderImage_TitleText: free game creation platform
+SinglePage_HeaderImage_TitleText: free game creation platform for building cross platform games
 SinglePage_HeaderImage_AltText: Godot is an Open Source free game creation platform for building cross platform games
-SinglePage_MenuImage_TitleText: free game creation platform
+SinglePage_MenuImage_TitleText: free game creation platform for building cross platform games
 SinglePage_MenuImage_AltText: Godot is an Open Source free game creation platform for building cross platform games
 
 ---
