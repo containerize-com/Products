@@ -7,19 +7,19 @@ Shortdescriptionlistingpage: Godot is another alternative game development softw
 linktitle: Godot
 Imagetext:  Free Game Development Software
 draft: false
-weight: 1
+weight: 2
 layout: "single"
 GithubLink: https://github.com/godotengine/godot
 HomePage_TitleText: Game Development Software in C++
 
 ListingPage_MenuImage_TitleText: free game development software
-ListingPage_MenuImage_AltText: Godot is an Open Source free game creation platform
-ListingPage_Link_TitleText: free game creation platform
+ListingPage_MenuImage_AltText: Godot is an Open Source free game creation platform for building cross platform games
+ListingPage_Link_TitleText: free game creation platform for building cross platform games
 
-SinglePage_HeaderImage_TitleText: free game development software
-SinglePage_HeaderImage_AltText: Godot is an Open Source free game creation platform
-SinglePage_MenuImage_TitleText: free game development software
-SinglePage_MenuImage_AltText: Godot is an Open Source free game creation platform
+SinglePage_HeaderImage_TitleText: free game creation platform
+SinglePage_HeaderImage_AltText: Godot is an Open Source free game creation platform for building cross platform games
+SinglePage_MenuImage_TitleText: free game creation platform
+SinglePage_MenuImage_AltText: Godot is an Open Source free game creation platform for building cross platform games
 
 ---
 
