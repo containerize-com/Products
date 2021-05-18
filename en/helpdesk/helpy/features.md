@@ -5,8 +5,7 @@ weight: 2
 
 ---
 
-Features
---------
+### Features
 
 Helpy has all the advance features that you can imagine from top helpdesk software. Main features include
 
@@ -20,4 +19,3 @@ Helpy has all the advance features that you can imagine from top helpdesk softwa
 - Sends HTML email
 - Customizable
 - GDPR Compliant
- 

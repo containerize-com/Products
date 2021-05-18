@@ -5,8 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
--------------------
+### System Requirements
 
 OpenProject is Ruby and PostgreSQL based free project management and tracking software. It requires following software.
 

@@ -7,7 +7,7 @@ weight: 3
 
 ### Installation
 
-### Install Akaunting on Ubuntu 18.04 LTS with Nginx using downloaded package
+#### Install Akaunting on Ubuntu 18.04 LTS with Nginx using downloaded package
 
 Nginx is the most popular and secure web server. In order to install Nginx, use the following command
 

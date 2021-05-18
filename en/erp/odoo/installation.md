@@ -5,17 +5,15 @@ weight: 3
 
 ---
 
-### Installation
+#### Installation
 
-### Installation
-
-### Installation using Github
+#### Installation using Github
 
 First make sure you have installed all the dependencies. Then clone the latest Odoo repository into document root folder:
 
     git clone https://github.com/odoo/odoo.git
     cd odoo
-    
+
 
 Create a postgres user with a password using the pg admin gui:
 
@@ -30,7 +28,7 @@ Navigate to the path of your Odoo Community installation (CommunityPath) and run
 
     spip install setuptools wheel
     pip install -r requirements.txt
-    
+
 
 Install rtlcss:
 
@@ -42,8 +40,8 @@ Once all dependencies are set up, Odoo can be launched by running odoo-bin. Comm
 *   Custom addon paths beyond the defaults, to load your own modules.
 
       
-      
-      
+    
+    
         python odoo-bin -r dbuser -w dbpassword –addons-path=addons -d mydb
 
 Your Odoo web applications are ready to use.

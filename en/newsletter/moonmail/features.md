@@ -5,8 +5,7 @@ weight: 2
 
 ---
 
-Features
---------
+### Features
 
 MoonMail is web based newsletter, mailing list and email marketing software. Main features include:
 
@@ -21,4 +20,3 @@ MoonMail is web based newsletter, mailing list and email marketing software. Mai
 - React powered frontend / UI to send campaigns
 - Apply liquid syntax within the campaigns
 - Public API to interact with the SAAS version
- 

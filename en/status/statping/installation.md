@@ -7,7 +7,7 @@ weight: 3
 
 ### Installation
 
-### Installing on Linux
+#### Installing on Linux
 
 You can install Statping on Linux by downloading tar.gz file, unzipping, and running the executable Or you can simply run the install/upgrade script below.
 
@@ -15,7 +15,7 @@ You can install Statping on Linux by downloading tar.gz file, unzipping, and run
 curl -o- -L https://statping.com/install.sh | bash
 ```
 
-### Install using Snapcraft
+#### Install using Snapcraft
 
 You can simply run this command to install Statping.
 
@@ -23,7 +23,7 @@ You can simply run this command to install Statping.
 sudo snap install statping
 ```
 
-### Installation using Docker
+#### Installation using Docker
 
 Pull Statping image from hub.docker.com
 

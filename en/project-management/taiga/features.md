@@ -5,8 +5,7 @@ weight: 2
 
 ---
 
-Features
---------
+### Features
 
 Taiga has all the modern features that you can imagine from top agile project management software. Main features include
 
@@ -18,4 +17,3 @@ Taiga has all the modern features that you can imagine from top agile project ma
 - Wiki
 - Tasks Management
 - Mobile App
- 

@@ -7,7 +7,7 @@ weight: 3
 
 ### Installation
 
-### Install UVDesk on Ubuntu
+#### Install UVDesk on Ubuntu
 
 Install the community-skeleton project via composer using the below-structured command:
 
@@ -15,13 +15,13 @@ Clear Cache:
 
  ```
  composer clear-cache
-```
+ ```
 
 Create Project:
 
  ```
 composer create-project uvdesk/community-skeleton helpdesk-project
-```
+ ```
 
 Or, Download **ZIP** as per your System’s PHP version.
 

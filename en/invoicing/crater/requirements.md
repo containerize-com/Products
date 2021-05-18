@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
+### System Requirements
 -------------------
 
 In order to install Crater, you must have the following softwares:
