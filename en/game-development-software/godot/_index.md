@@ -1,8 +1,8 @@
 ---
 title: Godot | Free Software For Building Cross Platform Games
-description: Build 3D, cross platform games with open source Godot. It provides intuitive drag & drop interface and live coding editor to control objects and behavior.
+description: Build cross platform 3D games with open source Godot. It provides an intuitive drag & drop interface and live coding editor to control objects and behavior.
 singlepageh1title: 3D Game Maker With A Node-Based Interface And REST API
-singlepageh2title: Open Source game development software with persistent live editing, context-sensitive UI, and sprite-based animations to build enterprise Godot engine games.
+singlepageh2title: Godot is a 3D game designer with a simple interface and persistent live editing capabilities. It is lightweight, robust, supports animations and sound effects.
 Shortdescriptionlistingpage: Godot is another alternative game development software for building cross platform games. It offers context-sensitive UI, REST API and many other features.
 linktitle: Godot
 Imagetext:  Free Game Development Software
