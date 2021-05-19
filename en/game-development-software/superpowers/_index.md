@@ -1,32 +1,32 @@
 ---
-title: Godot | Free Software For Building Cross Platform Games
-description: Build cross platform 3D games with open source Godot. It provides an intuitive drag & drop interface and live coding editor to control objects and behavior.
-singlepageh1title: 3D Game Maker With A Node-Based Interface And REST API
-singlepageh2title: Godot is a 3D game designer with a simple interface and persistent live editing capabilities. It is lightweight, robust, supports animations and sound effects.
-Shortdescriptionlistingpage: Godot is another alternative game development software for building cross platform games. It offers context-sensitive UI, REST API and many other features.
-linktitle: Godot
+title: Superpowers | Open Source Free 3D Game Maker
+description: Superpowers is an open source free 3D game maker. It provides an HTML5 development environment along with many features such as 3D models and more.
+singlepageh1title: Cross Platform Tool For Creating Customized 2D 3D Games
+singlepageh2title: Learn free game development with the rich-featured editor. Built-in support for license-free sprites, sound effects, game examples, and live error reporting.
+Shortdescriptionlistingpage: Superpowers is an alternative free 3D game maker. It is flexible and offers features such as shared projects, syntax highlighting, cross-platform and more.
+linktitle: Superpowers
 Imagetext:  Free Game Development Software
 draft: false
-weight: 2
+weight: 3
 layout: "single"
-GithubLink: https://github.com/godotengine/godot
-HomePage_TitleText: Game Development Software in C++
+GithubLink: https://github.com/superpowers/superpowers-core
+HomePage_TitleText: Game Development Software in TypeScript
 
-ListingPage_MenuImage_TitleText: free game development software
-ListingPage_MenuImage_AltText: Godot is an Open Source free game creation platform for building cross platform games
-ListingPage_Link_TitleText: free game creation platform for building cross platform games
+ListingPage_MenuImage_TitleText: free 3D game maker
+ListingPage_MenuImage_AltText: Superpowers is a free 3D game maker
+ListingPage_Link_TitleText: free 3D game maker
 
-SinglePage_HeaderImage_TitleText: free game creation platform for building cross platform games
-SinglePage_HeaderImage_AltText: Godot is an Open Source free game creation platform for building cross platform games
-SinglePage_MenuImage_TitleText: free game creation platform for building cross platform games
-SinglePage_MenuImage_AltText: Godot is an Open Source free game creation platform for building cross platform games
+SinglePage_HeaderImage_TitleText: free 3d game maker
+SinglePage_HeaderImage_AltText: free 3d game maker for building cross platform games
+SinglePage_MenuImage_TitleText: free 3d game maker
+SinglePage_MenuImage_AltText: free 3d game maker for building cross platform games
 
 ---
 
-Godot is a rich-featured open source game-making platform for building cross platform games. It provides full support for creating 2D, 3D objects. There is a node-based architecture for building games where users can create and connect various nodes depending upon the desires scenes. The whole ecosystem is developer-friendly with a live coding experience and users can create plugins for needed functionality. Further, it offers high definition graphics with the support of MSAA and FXAA. There is the capability of pre-baking the graphics for low-end devices.
+Superpowers is an open source free 3d game maker. It lets game developers write code in TypeScript for building video games. This free tool is flexible and provides the HTML5 development environment with syntax highlighting, and code auto competition. There is complete support for 3D modeling and sound effects in this free game editor. It also provides an offline version for making games. Moreover, users can invite other users to work on a shared project. It is highly extensible and comes with easy integration with plugins.
 
-This free online 3d game maker incorporates beautiful effects that include tonemapper. It supports HDR, auto exposure, bloom. and screen-space reflections. Moreover, it supports a kinematic controller for collision detection. This free 3d game maker works on all popular platforms such as Windows, Linux, and macOS either 32-bit or 64-bit. It is secure, robust, and easy to set up on local or cloud servers. Above all, it provides REST API for third-party integrations.
+This open source game design app is cross-platform and supports almost all popular operating systems such as Windows, OS X, and Linux. Further, there are built-in games libraries and examples that make game development easy for beginners. Once the project is ready, users can publish it with one click residing o the user interface. This easy 3D game maker provides an intuitive dashboard with logical navigation.
 
-Godot is written in C++. In addition, this open source game editor has its own scripting language named GDScript that is used to build animated cross platform games. However, there is detailed documentation available regarding development and deployment. 
+Superpowers is written in TypeScript. Therefore, this free 3D game maker has detailed documentation regarding development, usage, and deployment. You can download the source code and deploy it on your own premises.
 
 <a class="anchor" id="requirements" name="requirements" style="font-size: 12.16px;"></a>

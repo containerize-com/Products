@@ -10,20 +10,17 @@ weight: 3
 
 Once all the pre-requisites are installed, run the following command in the terminal to clone the source code:
 
-    git clone https://github.com/godotengine/godot.git
+    git clone https://github.com/superpowers/superpowers-core superpowers/core
 
-After that, go to the root directory of the engine source code and run the following command to compile for Intel (x86-64) powered Macs:
+After that, run the following commands to make build:
 
-    scons platform=osx arch=x86_64 --jobs=$(sysctl -n hw.logicalcpu)
+    cd superpowers/core
+    npm run build
 
-Run the following command to compile for Apple Silicon (ARM64) powered Macs:
+Now, start the server if all goes well by running this command:
 
-    scons platform=osx arch=arm64 --jobs=$(sysctl -n hw.logicalcpu)
+    node server start
 
-Then, run the following command:
-
-    lipo -create bin/godot.osx.tools.x86_64 bin/godot.osx.tools.arm64 -output bin/godot.osx.tools.universal
-
-Finally, find the executable binary in to the bin/ subdirectory.
+Finally, you can access the application into the browser at this address http://localhost:4237/.
 
 
