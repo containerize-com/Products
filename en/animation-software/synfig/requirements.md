@@ -8,7 +8,7 @@ weight: 1
 System Requirements
 -------------------
 
-While installing Photivo for Ubuntu make sure you have the following system requirements:
+While installing Synfig for Ubuntu make sure you have the following system requirements:
 
 - Ubuntu 18.04
 - A non-root user with sudo permissions
