@@ -7,17 +7,20 @@ weight: 2
 
 ### **Features**
 
-Superpowers offers the following key features:
+Godot offers the following key features:
 
 *   Open Source
-*   Flexible
-*   Syntax Highlighting
-*   Extensible
-*   Support for 3D Models
-*   Sound Effects, Fonts
-*   Live Error Reporting
+*   REST API
+*   Self-Hosted
+*   Secure
+*   2D,3D Support
+*   Node-Based Architecture
+*   Animations
 *   Cross-Platform
-*   2D, 3D Games
-*   Support For Shared project
+*   Export Options
+*   Extensible
+*   Visual Scripting
+*   Drag & drop UI
+*   Robust
 
  

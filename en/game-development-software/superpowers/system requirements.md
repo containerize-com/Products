@@ -7,9 +7,10 @@ weight: 1
 
 ### **System Requirements**
 
-Requirements to setup Superpowers include:
+Requirements to setup Godot include:
 
+*   Python 3.5+.
 *   Git
-*   Node.js
-*   Visual Studio Code (optional)
+*   SCons 3.0+ 
+*   Xcode
 
