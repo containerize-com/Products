@@ -35,39 +35,37 @@ Snyk is also provided as a set of Docker images that carry the runtime environme
 
 The host project folder will be mounted to /project on the container and will be used to read the dependencies file and write results for CI builds. Here's an example of running snyk test and snyk monitor in the image for RubyGems:
 
-		docker run -it
-		    -e "SNYK_TOKEN="
-		    -e "USER_ID=1234"
-		    -e "MONITOR=true"
-		    -v ":/project"
-		  snyk/snyk-cli:rubygems test --org=my-org-name
+docker run -it
+    -e "SNYK_TOKEN="
+    -e "USER_ID=1234"
+    -e "MONITOR=true"
+    -v ":/project"
+  snyk/snyk-cli:rubygems test --org=my-org-name
 
 
 The following Ruby on Rails manifest files are supported:
 
-		Gemfile
-		Gemfile.lock
+Gemfile
+Gemfile.lock
 
 
 The following environment variables can be used when running the container on docker:
 
-		SNYK_TOKEN
-		USER_ID
-		MONITOR
-		PROJECT_FOLDER
-		ENV_FLAGS
-		TARGET_FILE
+SNYK_TOKEN
+USER_ID
+MONITOR
+PROJECT_FOLDER
+ENV_FLAGS
+TARGET_FILE
 
 
 To add projects, view vulnerability results for imported projects and then fix vulnerabilities via fix pull/merge requests, please check [Getting started with Snyk Open Source](https://support.snyk.io/hc/en-us/articles/360014875297-Getting-started-with-Snyk-Open-Source)
 
 Congratulations! You have successfully installed Snyk CLI and build-time tool. Enjoy!
 
-<div class="col-lg-12"><a class="anchor" id="explore" name="explore"></a>Explore
+Explore
 -------
 
 In this article we discussed about Snyk open source security software. To learn about other open source security softwares, please visit following page:
 
-- [Best Open Source Security Scanning Tools](https://products.containerize.com/securityapps/)
- 
- </div>
+*   [Best Open Source Security Scanning Tools](https://products.containerize.com/securityapps/)
