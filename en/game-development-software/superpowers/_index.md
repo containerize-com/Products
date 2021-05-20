@@ -1,4 +1,5 @@
 ---
+keywords: free 3d game maker, free game editor, game design app, easy 3d game maker,cross platform tool, free game development
 title: Superpowers | Open Source Free 3D Game Maker
 description: Superpowers is an open source free 3D game maker. It provides an HTML5 development environment along with many features such as 3D models and more.
 singlepageh1title: Cross Platform Tool For Creating Customized 2D 3D Games
