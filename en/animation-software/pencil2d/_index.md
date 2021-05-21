@@ -1,5 +1,5 @@
 ---
-keywords: open source animation software, free 2d animation software, top animation software, best animation software
+keywords: free 2d animation software, best animation software for beginners, free animation app, open source animation software
 title: Pencil2D | Cross-platform Free 2D Animation Software
 singlepageh1title: Cross-platform & Open Source Free 2D Animation Software
 description: Pencil2D is a traditional animation software that lets you create hand drawn cartoons and animations. It is free to use and open source as well.
