@@ -9,7 +9,7 @@ weight: 1
 System Requirements
 -------------------
 
-The following key app tech and services dependency packages are used to install the Forem best online communities tech stack:
+The following key app tech and services dependency packages are used to install the Forem best brand communities tech stack:
 
 *   Rails 6.1.3.2
 *   Ruby 2.7.2

@@ -8,7 +8,7 @@ weight: 2
 Features
 --------
 
-Some of the great list of features and general app concepts of Forem online communities and forums are listed below:
+Some of the great list of features and general app concepts of Forem to build community site, online communities and forums are listed below:
 
 *   Articles or posts
 *   Collections or series

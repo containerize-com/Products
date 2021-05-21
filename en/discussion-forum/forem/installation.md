@@ -9,7 +9,7 @@ weight: 3
 
 ### Install Forem on Ubuntu
 
-There are many different ways to install Forem best online communities environment but here we will discuss installation steps for Ubuntu. Forem forum community is easy to setup and get started. To get started with Forem quickly, configure and setup Rails development environment with the necessary dependencies packages.
+There are many different ways to install Forem for how to build a community but here we will discuss installation steps for Ubuntu. Forem community building project is easy to setup and get started. To get started with Forem for how to create a community quickly, configure and setup Rails development environment with the necessary dependencies packages.
 
     sudo npm install -g yarn
     sudo apt-get install libpq-dev
@@ -43,6 +43,6 @@ Congratulations! You have successfully installed Forem online community manageme
 Explore
 -------
 
-In this article we discussed about Forem open source forum community software. To learn about other open source online communities and forums, please visit following page:
+In this article we discussed about Forem for building brand communities software. To learn about other open source online communities and forums, please visit following page:
 
 *   [Top Open Source Community Discussion Forums List](https://products.containerize.com/discussion-forum)
