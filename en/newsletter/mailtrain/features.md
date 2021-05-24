@@ -6,7 +6,6 @@ weight: 2
 ---
 
 ### Features
---------
 
 - Subscriber list management
 - List segmentation
