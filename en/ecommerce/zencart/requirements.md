@@ -5,8 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
--------------------
+### System Requirements
 
 Zen Cart is PHP and MySQL based open source shopping cart software. Current requirements for Zen Cart include:
 

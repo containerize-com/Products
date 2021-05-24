@@ -7,7 +7,7 @@ weight: 3
 
 ### Installation
 
-### Install Magento on Ubuntu 18.04 LTS with Nginx
+#### Install Magento on Ubuntu 18.04 LTS with Nginx
 
 Run command to install Nginx web server.
 
