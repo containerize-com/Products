@@ -1,9 +1,9 @@
 ---
 keywords: open source task scheduler, message queue software, best open source job scheduler, open source cron scheduler, run job in background linux, linux background process
-title: Sidekiq | Simple and efficient best open source job scheduler
-description: Sidekiq is a free, simple to integrate and best open source job scheduler to handle many jobs at the same time in the same process with multiple threads.
+title: Sidekiq | Simple and reliable open source job scheduler
+description: Sidekiq is free, simple and one of the best open source job schedulers to handle multiple jobs concurrently in the same process with multiple threads.
 singlepageh1title: Ruby based simple and efficient background processing tool.
-singlepageh2title: Sidekiq is a ruby based fully featured, high performance and simple to integrate with any Rails application fastest background jobs processing system.
+singlepageh2title: Sidekiq is a Ruby-based fully-featured, robust, and simple to integrate with any Rails application. It is one of the fastest background job processing systems.
 Shortdescriptionlistingpage: Sidekiq is a simple to integrate, fully featured and very high performance fastest best open source job scheduler. Rails sidekiq scheduler handles many jobs at the same time in the same process.
 linktitle: Sidekiq
 Imagetext: Free Message Queue Software
