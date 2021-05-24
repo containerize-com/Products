@@ -8,7 +8,7 @@ weight: 2
 Features
 --------
 
-Some of the great list of features Sidekiq are listed below:
+Some of the great list of features Sidekiq open source job scheduler with ui are listed below:
 
 *   Scheduled jobs
 *   Error handling

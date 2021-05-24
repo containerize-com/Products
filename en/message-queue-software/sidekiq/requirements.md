@@ -9,7 +9,7 @@ weight: 1
 System Requirements
 -------------------
 
-The following key dependency packages are required to install the Sidekiq:
+The following key dependency packages are required to install the Sidekiq best open source job scheduler:
 
 *   Ruby: MRI 2.5+ or JRuby 9.2+.
 *   Redis: 4.0+
