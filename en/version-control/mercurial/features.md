@@ -5,8 +5,7 @@ weight: 2
 
 ---
 
-Features
---------
+### Features
 
 Mercurial is shipped with powerful features of version control software. Some of the key features are listed below:
 

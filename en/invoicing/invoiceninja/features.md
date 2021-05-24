@@ -6,7 +6,6 @@ weight: 2
 ---
 
 ### Features
---------
 
 Invoice ninja boasts many great features, depending on the plan that you chooce: Free, Pro, or Enterprise. Following are the key features of InvoiceNinja:
 

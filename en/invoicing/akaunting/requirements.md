@@ -6,7 +6,6 @@ weight: 1
 ---
 
 ### System Requirements
--------------------
 
 In order to install Akaunting, you must have the following softwares:
 

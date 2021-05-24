@@ -6,7 +6,6 @@ weight: 2
 ---
 
 ### Features
---------
 
 Dolibarr has an excellent feature list and some of them are:
 

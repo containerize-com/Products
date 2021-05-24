@@ -7,7 +7,7 @@ weight: 3
 
 ### Installation
 
-### Installing using Ubuntu
+#### Installing using Ubuntu
 
 Run below command to install it.
 
@@ -15,7 +15,7 @@ Run below command to install it.
 $ sudo apt install capistrano
 ```
 
-### Installing using GitHub
+#### Installing using GitHub
 
 Execute below commands in the same order to install it from repository.
 
@@ -28,7 +28,7 @@ $ gem install *.gem
 
 ```
 
-### Installing using Ruby Gem
+#### Installing using Ruby Gem
 
 Execute following command to install it via Ruby Gem.
 

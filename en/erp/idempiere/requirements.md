@@ -6,7 +6,6 @@ weight: 1
 ---
 
 ### System Requirements
--------------------
 
 Requirements to setup iDempiere include:
 

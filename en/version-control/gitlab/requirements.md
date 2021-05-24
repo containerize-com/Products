@@ -5,8 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
--------------------
+### System Requirements
 
 GitLab is Ruby and PostgreSQL based open source version control software. It requires following software.
 

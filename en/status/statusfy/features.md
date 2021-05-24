@@ -6,7 +6,6 @@ weight: 2
 ---
 
 ### Features
---------
 
 - Beautiful and Responsive UI
 - Progressive Web App

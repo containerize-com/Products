@@ -7,7 +7,7 @@ weight: 3
 
 ### Installation
 
-### Installing using Ubuntu
+#### Installing using Ubuntu
 
 Add the repository key to the system.
 
