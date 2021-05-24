@@ -5,7 +5,6 @@ weight: 1
 
 ---
 
-System Requirements
--------------------
+### System Requirements
 
 Bazaar does not has any unique criteria for installation. Please check the installation section.

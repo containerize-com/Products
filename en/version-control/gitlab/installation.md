@@ -7,7 +7,7 @@ weight: 3
 
 ### Installation
 
-### Installing on Ubuntu
+#### Installing on Ubuntu
 
 Install and configure the necessary dependencies packages.
 
