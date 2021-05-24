@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-#### **Explore**
+### Explore
 
 You may find the following links relevant:
 

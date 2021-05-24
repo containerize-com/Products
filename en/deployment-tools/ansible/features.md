@@ -5,8 +5,7 @@ weight: 2
 
 ---
 
-Features
---------
+### Features
 
 Ansible has an excellent feature list and some of them are:
 
