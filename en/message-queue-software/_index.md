@@ -1,4 +1,5 @@
 ---
+keywords: message queue software, best open source message queue, best open source job scheduler, open source task scheduler, open source cron scheduler, run job in background linux, linux background process, message queue middleware, open source job scheduler with ui, redis message queue, message queuing service, message queue example, best message queue
 title: Free and Open Source Best Message Queue Softwares
 description: Open source message queuing service handles a variety of tasks asynchronously. End user doesn’t have to wait for one task to complete to go onto the next task.
 singlepageh1title: Best Free Message Queue (MQ) Softwares
