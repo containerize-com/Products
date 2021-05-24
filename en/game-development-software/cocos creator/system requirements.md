@@ -11,4 +11,4 @@ Requirements to setup Cocos Creator include:
 
 *   Gulp-cli v2.3.0 +
 *   Node.js v9.11.2 +
-*   Git
+*   git
