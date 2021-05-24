@@ -6,7 +6,6 @@ weight: 2
 ---
 
 ### Features
---------
 
 iDempiere has an excellent feature list and some of them are:
 

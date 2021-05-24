@@ -6,7 +6,6 @@ weight: 1
 ---
 
 ### System Requirements
--------------------
 
 ERPNext is based on Python, JavaScript and MariaDB. Current requirements for ERPNext include:
 
