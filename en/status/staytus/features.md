@@ -6,7 +6,6 @@ weight: 2
 ---
 
 ### Features
---------
 
 Staytus provides all the modern features that you can anticipate from top status page system. Key features are listed below.
 
