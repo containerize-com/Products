@@ -1,5 +1,5 @@
 ---
-title: Best Free and Open Source Security Softwares
+title: Best Free and Open Source Security Software
 description: Automatically find, prioritize and fix vulnerabilities in your applications. Application security at scale requires developers to be the first step in the security process.
 singlepageh1title: Best Free and Open Source Security Softwares
 singlepageh2title: Automatically find, prioritize and fix vulnerabilities in your applications. Application security at scale requires developers to be the first step in the security process.
