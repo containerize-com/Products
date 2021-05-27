@@ -5,7 +5,7 @@ keywords: open-source mail server, free mail server, free email software, mail s
 singlepageh1title: A Docker-based full-featured open-source mail server
 singlepageh2title: Mailu is 100% free and open-source mail server software. It's a full-featured free email software with support to IMAP, IMAP+, SMTP, and Submission Protocols.
 Shortdescriptionlistingpage: Mailu is a self hosted on premise Free SMTP Server Software. It support dozens of protocols and authentication methods.
-linktitle: Mailu Free Mail Server
+linktitle: Mailu
 Imagetext:  Transactional Email Service
 draft: false
 weight: 10
