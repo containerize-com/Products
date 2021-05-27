@@ -66,6 +66,6 @@ Congratulations! You have successfully installed Snyk CLI and build-time tool. E
 Explore
 -------
 
-In this article we discussed about Snyk open source security software. To learn about other open source security softwares, please visit following page:
+In this article we discussed about Snyk open source security software. To learn about other open source security software, please visit following page:
 
-*   [Best Open Source Security Scanning Tools](https://products.containerize.com/securityapps/)
+*   [Best Open Source Security Scanning Tools](https://products.containerize.com/security-testing-tools/)

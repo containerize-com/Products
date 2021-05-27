@@ -6,7 +6,6 @@ weight: 2
 ---
 
 ### Features
---------
 
 Following are the key features of Apache Storm:
 

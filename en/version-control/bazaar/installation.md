@@ -7,7 +7,7 @@ weight: 3
 
 ### Installation
 
-### Installing on Ubuntu
+#### Installing on Ubuntu
 
 Run command to add PPA to your system.
 
@@ -27,7 +27,7 @@ Install Bazaar.
 sudo apt-get install bzr
 ```
 
-### Installing on Fedora
+#### Installing on Fedora
 
 Run command to install it on Fedora.
 

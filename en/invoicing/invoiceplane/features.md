@@ -6,7 +6,6 @@ weight: 2
 ---
 
 ### Features
---------
 
 Some of the features are listed below and experience true power of InvoicePlane software.
 

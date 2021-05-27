@@ -6,7 +6,6 @@ weight: 2
 ---
 
 ### Features
---------
 
 - Multi-lingual support
 - Subscriber Management

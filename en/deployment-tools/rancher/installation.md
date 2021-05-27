@@ -7,7 +7,7 @@ weight: 3
 
 ### Installation
 
-### Installing using Ubuntu
+#### Installing using Ubuntu
 
 Run below command to install Rancher server.
 

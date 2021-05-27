@@ -6,7 +6,6 @@ weight: 2
 ---
 
 ### Features
---------
 
 - Self-Hosted
 - Newsletter Manager

@@ -45,6 +45,6 @@ Congratulations! You have successfully installed coderwall web developer communi
 Explore
 -------
 
-In this article we discussed about coderwall open source programmer community software. To learn about other open source web developer forum softwares, please visit following page:
+In this article we discussed about coderwall open source programmer community software. To learn about other open source web developer forum software, please visit following page:
 
 *   [Best Open Source Community Forums](https://products.containerize.com/discussion-forum)
