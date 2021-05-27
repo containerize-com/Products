@@ -5,8 +5,7 @@ weight: 3
 
 ---
 
-Installation
-------------
+**Installation**
 
 - Open terminal and update your local server’s package index by typing following command:
   

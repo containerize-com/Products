@@ -5,8 +5,7 @@ weight: 2
 
 ---
 
-Features
---------
+**Features**
 
 Here are some good to know features about this open source animation software:
 
