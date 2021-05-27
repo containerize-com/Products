@@ -8,7 +8,7 @@ Shortdescriptionlistingpage: Pencil2D is a traditional animation software that l
 linktitle: Pencil2D
 Imagetext: Free Animation Software
 draft: false
-weight: 1
+weight: 2
 layout: "single"
 GithubLink: https://github.com/pencil2d/pencil
 HomePage_TitleText: Open Source Animation Software

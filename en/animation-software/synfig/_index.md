@@ -8,7 +8,7 @@ Shortdescriptionlistingpage: Synfig is an ideal animation software for solo arti
 linktitle: Synfig
 Imagetext: Free Animation Software
 draft: false
-weight: 1
+weight: 3
 layout: "single"
 GithubLink: https://github.com/synfig/synfig
 HomePage_TitleText: Open Source Animation Software
