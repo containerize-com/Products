@@ -18,7 +18,7 @@ menu:
 heading: Top Open Source Message Queue Software Include
 listingtypetag: Open Source Software
 
-HomePage_Link_TitleText: Best Open Source Message Queue Softwares
+HomePage_Link_TitleText: Best Open Source Message Queue Software
 
 ListingPage_HeaderImage_TitleText: Best Open source Message Queue Software
 ListingPage_HeaderImage_AltText: Best Open source Message Queue Service

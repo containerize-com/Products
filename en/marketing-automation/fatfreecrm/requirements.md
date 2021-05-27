@@ -8,7 +8,7 @@ weight: 1
 System Requirements
 -------------------
 
-Fat Free CRM is a great free software to carry out project planning, tasks, activities of the day, week, month. It requires following softwares.
+Fat Free CRM is a great free software to carry out project planning, tasks, activities of the day, week, month. It requires following software.
 
 - Ruby 2.4+
 - Rails 3.x or later

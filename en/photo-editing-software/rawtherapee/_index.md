@@ -7,7 +7,7 @@ Shortdescriptionlistingpage: RawTherapee is a powerful image processing software
 linktitle: RawTherapee
 Imagetext: Free Photo Editing Software
 draft: false
-weight: 1
+weight: 5
 layout: "single"
 GithubLink: https://github.com/KDE/RawTherapee
 

@@ -7,7 +7,7 @@ Shortdescriptionlistingpage: Digikam is an open-source photo management applicat
 linktitle: DigiKam
 Imagetext: Free Photo Editing Software
 draft: false
-weight: 1
+weight: 2
 layout: "single"
 GithubLink: https://github.com/KDE/digikam
 

@@ -9,7 +9,7 @@ Imagetext: Free Security Software
 draft: false
 weight: 1
 layout: "single"
-HomePage_TitleText: Open Source Security Softwares
+HomePage_TitleText: Open Source Security Software
 ListingPage_MenuImage_TitleText: 
 ListingPage_MenuImage_AltText: Snyk is open source Security software
 ListingPage_Link_TitleText: Snyk is open source Security software
@@ -23,4 +23,4 @@ SinglePage_MenuImage_AltText: Snyk open source application security tool is used
 
 Snyk is CLI build-time security/vulnerability/risk scanning tools supporting Ruby and other languages with many safe defaults. Continuously and automatically finding, fixing and monitoring vulnerabilities in open-source dependencies throughout your development process. Security at scale requires application developers to be the first step in the security process to test website vulnerability. Snyk open source application security helps developers to develop fast and stay secure. Secure all the components of the modern cloud native applications in a single Snyk open source scanning tool. Snyk’s cloud app security platform is purpose built to be easily used by open source developers for secure and risk free development at scale and speed.
 
-Snyk web application security solution is helping developers to use open source dependencies and stay secure. Snyk is free cloud app security software for open source. Snyk automatically find, fix, monitor and prevent vulnerabilities in your Ruby, Node.js, Java, Python and Scala applications. Snyk monitors and tracks vulnerabilities in over 800,000 open source softwares and helps protect over 25,000 applications online. 83 percent of Snyk web application vulnerability scan application users found risks and vulnerabilities in their online applications, and new vulnerabilities are disclosed regularly, putting your application at risk.
+Snyk web application security solution is helping developers to use open source dependencies and stay secure. Snyk is free cloud app security software for open source. Snyk automatically find, fix, monitor and prevent vulnerabilities in your Ruby, Node.js, Java, Python and Scala applications. Snyk monitors and tracks vulnerabilities in over 800,000 open source software and helps protect over 25,000 applications online. 83 percent of Snyk web application vulnerability scan application users found risks and vulnerabilities in their online applications, and new vulnerabilities are disclosed regularly, putting your application at risk.

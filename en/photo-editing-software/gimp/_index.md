@@ -7,7 +7,7 @@ Shortdescriptionlistingpage: GIMP is an easy to use, free to download image edit
 linktitle: GIMP
 Imagetext: Free Photo Editing Software
 draft: false
-weight: 2
+weight: 3
 layout: "single"
 GithubLink: https://github.com/GNOME/gimp
 HomePage_TitleText: Open Source Photo Editing Software

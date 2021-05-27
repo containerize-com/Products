@@ -32,4 +32,4 @@ Explore
 
 In this article we discussed about Sidekiq best open source job scheduler for linux background process. To learn about other open source message queue software, please visit following page:
 
-*   [Top Open Source Message Queue (MQ) Softwares List](https://products.containerize.com/message-queue-software/)
+*   [Top Open Source Message Queue (MQ) Software List](https://products.containerize.com/message-queue-software/)
