@@ -1,6 +1,7 @@
 ---
 title: Hadoop | Open Source Big Data Tool For Data Processing
 description: Hadoop is one of the best big data software for distributed storage and processing of a large amount of data. It is easy to deploy on any number of nodes.
+keywords: Hadoop, open source big data tool, big data analytics software, best big data software, hadoop big data
 singlepageh1title: Analyze Complex Data Sets With Big Data Analytics Software
 singlepageh2title: Faster processing of complex data with free and open source big data tools. Deal with massive volume, variety of data sets and improve business decision making.
 Shortdescriptionlistingpage: Hadoop is a free and open source big data tool that helps companies to analyze variety of complex data sets and perform faster data processing.
