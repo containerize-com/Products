@@ -85,6 +85,6 @@ Congratulations! You have successfully installed Cocorico marketplace. Enjoy!
 Explore
 -------
 
-In this article we have discussed cocorico marketplace software to sell services Online. To learn about other open source marketplace softwares, please check following pages:
+In this article we have discussed cocorico marketplace software to sell services Online. To learn about other open source marketplace software, please check following pages:
 
-*   [Best Open Source Marketplace Softwares](https://products.containerize.com/marketplace)
+*   [Best Open Source Marketplace Software](https://products.containerize.com/marketplace)

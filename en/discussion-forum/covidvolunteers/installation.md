@@ -47,6 +47,6 @@ Congratulations! You have successfully installed covid volunteer organization. E
 Explore
 -------
 
-In this article we discussed about CovidVolunteers open source virtual volunteer opportunities software. To learn about other open source community service opportunities softwares, please visit following page:
+In this article we discussed about CovidVolunteers open source virtual volunteer opportunities software. To learn about other open source community service opportunities software, please visit following page:
 
 *   [Best Open Source Discussion Forum](https://products.containerize.com/discussion-forum)

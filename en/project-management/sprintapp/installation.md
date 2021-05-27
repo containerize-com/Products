@@ -45,6 +45,6 @@ Congratulations! You have successfully installed SprintApp free project manageme
 Explore
 -------
 
-In this article we discussed about SprintApp open source project management and time tracking software. To learn about other open source project management softwares, please visit following page:
+In this article we discussed about SprintApp open source project management and time tracking software. To learn about other open source project management software, please visit following page:
 
 *   [Best Open Source Project Management Tools](https://products.containerize.com/project-management)
