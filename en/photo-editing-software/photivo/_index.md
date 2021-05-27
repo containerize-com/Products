@@ -7,7 +7,7 @@ Shortdescriptionlistingpage: Photivo is an open source image editor that fits ri
 linktitle: Photivo
 Imagetext: Free Photo Editing Software
 draft: false
-weight: 3
+weight: 4
 layout: "single"
 GithubLink: https://github.com/google-code-export/photivo
 HomePage_TitleText: Open Source Photo Editing Software
