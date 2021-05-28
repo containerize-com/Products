@@ -1,7 +1,7 @@
 ---
 keywords: 3d game development software, 3d game engine, free game software, open source game maker, open source game making software
 title: Panda3D | Open Source 3D Game Development Software
-description: Panda3D is a free 3D game development software. It offers support for OpenGL, DirectX, OpenAL along with other features such as animation optimisers and more.
+description: Panda3D is a free 3D game development software. It offers support for OpenGL, DirectX, OpenAL along with other features such as animation optimizers and more.
 singlepageh1title: Innovative 3D Game Engine With Visualization And Simulation
 singlepageh2title: Cross platform open source game making software with powerful features such as OpenGL, multiple render targets, rapid prototyping, and flexible asset handling.
 Shortdescriptionlistingpage: Panda3D is an alternative free 3D game development software. This cross-platform software provides features such as asset handling, rapid prototyping and more.

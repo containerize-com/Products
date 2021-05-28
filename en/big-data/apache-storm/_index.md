@@ -1,6 +1,7 @@
 ---
 title: Apache Storm | Free Tool For Real-time Data Processing
 description: Apache Storm is a free and open source tool for big data processing. It makes easy to process realtime data processing instead of batch processing.
+keywords: Apache Storm, realtime data processing, big data processing, free big data analytics, real time analytics
 singlepageh1title: Free Big Data Analytics Tools For Processing Data Streams
 singlepageh2title: Quickly process large amount of data in a fault-tolerant and horizontal scalable method using big data processing tool and access real-time data analytics.
 Shortdescriptionlistingpage: Apache Storm is a free and open source distributed real-time data processing tool. Easily integrate with existing queueing and database technologies.
