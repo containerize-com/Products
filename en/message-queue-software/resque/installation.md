@@ -49,13 +49,13 @@ If you've installed Resque as a gem running the front end then standalone is eas
 
 Press ctrl-c to kill background process all workers. Resque workers support basic logging to STDOUT. You can control the logging threshold in config/initializers/resque.rb
 
-Resque.logger.level = Logger::DEBUG
+    Resque.logger.level = Logger::DEBUG
 
 Now start your application:
 
-rails s
+    rails server
 
-Congratulations! You have successfully installed Resque open source batch scheduler on Linux cloud server. Enjoy!
+Congratulations! You have successfully installed Resque open source batch scheduler on linux cloud server. Enjoy!
 
 Explore
 -------
