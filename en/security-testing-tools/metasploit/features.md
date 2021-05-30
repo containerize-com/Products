@@ -8,7 +8,7 @@ weight: 2
 Features
 --------
 
-Some of the great features of metasploit are listed below:
+Some of the great features of rapid7 metasploit framework are listed below:
 
 *   The GUI environment
 *   Support for testing large networks

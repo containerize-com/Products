@@ -8,7 +8,7 @@ weight: 1
 System Requirements
 -------------------
 
-The following key dependency packages are required to install metasploit development environment:
+The following key dependency packages are required to install metasploit offensive security development environment:
 
 *   Ruby: 2.7.2
 *   Redis: 3.0+
