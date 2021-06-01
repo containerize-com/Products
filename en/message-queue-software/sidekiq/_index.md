@@ -8,7 +8,7 @@ Shortdescriptionlistingpage: Sidekiq is a simple to integrate, fully featured an
 linktitle: Sidekiq
 Imagetext: Free Message Queue Software
 draft: false
-weight: 7
+weight: 1
 layout: "single"
 GithubLink: https://github.com/mperham/sidekiq/
 HomePage_TitleText: Simple and efficient open source task scheduler

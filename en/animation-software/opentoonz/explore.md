@@ -7,7 +7,7 @@ weight: 4
 
 #### **Explore**
 
-In this article we have discussed OpenToonz's overview and features that makes it one of the 2D best animation software for beginners. To learn about other best free animation software, please check following pages:
+In this article we have discussed OpenToonz's overview and features that makes it one of the best 2D animation software for beginners. To learn about other best free animation software, please check following pages:
 
 - [Best Open Source Animation Software](/animation-software)
  

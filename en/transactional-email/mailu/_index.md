@@ -1,5 +1,5 @@
 ---
-title: Mailu | A free open-source mail server as a set of Docker images
+title: Mailu | Open-source mail server as a set of Docker images
 description: Mailu is a simple yet powerful open-source mail server as a set of Docker images. It’s a free email software that is very easy to set up and maintain.
 keywords: open-source mail server, free mail server, free email software, mail server software, free SMTP server
 singlepageh1title: A Docker-based full-featured open-source mail server

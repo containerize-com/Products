@@ -1,6 +1,7 @@
 ---
 title: Apache Spark | Open Source Big Data Processing Framework
 description: Apache Spark is a big data processing engine that allows real-time stream processing and in-memory computing that increases the processing speed of the application.
+keywords: Apache Spark, big data processing, in memory computing, large scale data processing, in memory data processing, big data processing engine
 singlepageh1title: In-Memory Data Processing With Free Big Data Tool
 singlepageh2title: Flexible, Lightweight, and faster unified analytics engine for large-scale data processing. Integrated with Hadoop and supports multiple languages.
 Shortdescriptionlistingpage: Apache Spark is an open source big data processing engine for large-scale data processing. Increase processing speed of an application with in-memory computing.

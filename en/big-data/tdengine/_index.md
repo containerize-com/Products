@@ -3,7 +3,7 @@ keywords: TDengine, big data framework, big data system, open source big data pl
 title: TDengine | Handle Data With Open Source Big Data Framework
 description: TDengine is a free and open source big data platform for handling any type of data. Easily integrate it with Telegraf, Grafana, Matlab, R, and many other tools.
 singlepageh1title: Free Big Data Framework For Internet of Things (IoT)
-singlepageh2title: Open Source big data platform enables businesses the processing any type of massive amounts of data and analyzes it with powerful data analysis tool.
+singlepageh2title: Open Source big data platform for handling historical data and real-time data. It provides SQL like query language and supports C/C++, Java, Python, and more.
 Shortdescriptionlistingpage: TDengine is a free and open source big data framework. It can handle any type of big data and is 10 times faster than conventional databases.
 linktitle: TDengine
 Imagetext:  Free Big Data Tool
