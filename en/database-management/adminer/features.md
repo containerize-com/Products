@@ -5,8 +5,7 @@ weight: 2
 
 ---
 
-Features
---------
+#### **Features**
 
 - Supports PHP 5 with enabled sessions
 - It can also connect to any database server with username and password
