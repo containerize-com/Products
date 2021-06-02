@@ -6,9 +6,9 @@ name: CopyChangesToProdRepo
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
-    branches: [ Production ]
+    branches: [ production ]
   pull_request:
-    branches: [ Production ]
+    branches: [ production ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -31,4 +31,4 @@ jobs:
         dst_owner: fahadadeel
         dst_repo_name: hugo-test
         dst_branch: Production
-        src_branch: Production
+        src_branch: production
