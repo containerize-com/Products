@@ -5,8 +5,7 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
 Run the following command to clone the repo:
 

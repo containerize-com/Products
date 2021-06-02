@@ -5,10 +5,9 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
-### Installing using Ubuntu
+#### Installing using Ubuntu
 
 First, Install the latest version of Docker..
 

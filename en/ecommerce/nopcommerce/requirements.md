@@ -5,8 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
--------------------
+### System Requirements
 
 nopCommerce is ASP.NET based open source shopping cart software. It requires following software.
 

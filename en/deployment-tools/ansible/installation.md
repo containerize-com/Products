@@ -5,10 +5,9 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
-### Installing using Ubuntu
+#### Installing using Ubuntu
 
 Run below commands in order to install Ansible.
 
@@ -20,7 +19,7 @@ $ sudo apt-get install ansible
 
 ```
 
-### Installing using Pip
+#### Installing using Pip
 
 Execute the following command to install pip (Python package manager).
 

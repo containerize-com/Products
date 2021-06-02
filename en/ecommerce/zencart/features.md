@@ -5,8 +5,7 @@ weight: 2
 
 ---
 
-Features
---------
+### Features
 
 Zen Cart provides all the modern features and some of the key features are:
 

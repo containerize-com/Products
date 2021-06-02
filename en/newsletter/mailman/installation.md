@@ -5,16 +5,15 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
-### Install Postfix SMTP server
+#### Install Postfix SMTP server
 
 Install SMTP server such as Postfix by following guideline.
 
 [How to install and configure Postfix SMTP server](https://products.containerize.com/transactional-email/postfix)
 
-### Install GNU Mailman
+#### Install GNU Mailman
 
 Install GNU Mailman from repository.
 

@@ -5,8 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
--------------------
+### System Requirements
 
 In order to install InvoiceNinja, you must have the following softwares:
 

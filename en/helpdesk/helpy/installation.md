@@ -5,10 +5,9 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
-### Installation using Github
+#### Installation using Github
 
 Clone the latest Helpy repository into document root folder:
 
@@ -27,11 +26,11 @@ Now set up the database and secrets files:
     nano config/database.yml
     touch /home/deploy/helpy/log/production.log
     chmod 0664 /home/deploy/helpy/log/production.log
-    
+
 Unpack the Helpy assets and setup your database:
 
     RAILS_ENV=production rake assets:precompile
     RAILS_ENV=production rake db:setup
-    
+
 
 Now start up passenger/nginx and your site should be live!

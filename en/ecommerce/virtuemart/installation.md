@@ -5,8 +5,7 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
 - Download latest version from: http://dev.virtuemart.net/projects/virtuemart/files
 - Unzip the downloaded file. After extracting, you can see three zipped files.

@@ -4,16 +4,15 @@ onpagelink: installation
 weight: 3
 
 ---
-Installation Instructions
--------------------------
+### Installation
 
-### Installation using Github
+#### Installation using Github
 
 Let’s first install nigix with following commands:
 
     sudo apt-get update
     sudo apt install nginx
-    
+
 
 Next, install PHP and required modules:
 
@@ -32,7 +31,7 @@ Login to MySQL and create FreeScout database and user:
     CREATE DATABASE `freescout` CHARSET utf8mb4 COLLATE utf8mb4_unicode_ci;
     GRANT ALL PRIVILEGES ON `freescout`.* TO `freescout`@`localhost` IDENTIFIED BY “XXX”;
     EXIT;
-    
+
 
 Create FreeScout directory and download application from github.
 
@@ -40,7 +39,7 @@ Create FreeScout directory and download application from github.
     sudo chown www-data:www-data /var/www/html
     cd /var/www/html
     git clone https://github.com/freescout-helpdesk/freescout
-    
+
 
 Change owner and assign permissions to user:
 
@@ -48,7 +47,7 @@ Change owner and assign permissions to user:
     sudo usermod -a -G www-data freescout
     find /var/www/html -type f -exec chmod 664 {} \;
     find /var/www/html -type d -exec chmod 775 {} \;
-    
+
 
 Create nigix configuration file:
 
@@ -56,7 +55,7 @@ Create nigix configuration file:
     rm /etc/nginx/sites-enabled/default
     ln -s /etc/nginx/sites-available/example.com /etc/nginx/sites-enabled/example.com
     sudo nano /etc/nginx/sites-enabled/example.com
-    
+
 
 Nigix config file should be like following:
 
@@ -107,13 +106,13 @@ Nigix config file should be like following:
     deny all;
     }
     }
-    
+
 
 Next, Reload Nigix:
 
     nginx -t
     service nginx reload
-    
+
 
 Install Certbot and enable HTTPS:
 
@@ -125,7 +124,7 @@ Install Certbot and enable HTTPS:
     apt-get install certbot python-certbot-nginx
     certbot –nginx –register-unsafely-without-email
     certbot renew –dry-run
-    
+
 
 When asked choose option 2: Redirect – Make all requests redirect to secure HTTPS access. Setup cronjob for auto renewal.
 
@@ -133,7 +132,7 @@ When asked choose option 2: Redirect – Make all requests redirect to secure HT
 
 Finally, Open web installer https://example.com/install and follow instructions
 
-### Installation using Docker
+#### Installation using Docker
 
 Pull FreeScout Image from hub.docker.com:
 
@@ -151,11 +150,11 @@ Configure Docker-compose.yml:
     links:
     – freescout-db
     volumes:
-    ### If you want to perform customizations to the source and have access to it, then uncomment this line – This includes modules
+    #### If you want to perform customizations to the source and have access to it, then uncomment this line – This includes modules
     #- ./data:/www/html
-    ### Or, if you just want to use Stock Freescout and hold onto persistent files like cache and session use this, one or the other.
+    #### Or, if you just want to use Stock Freescout and hold onto persistent files like cache and session use this, one or the other.
     – ./data:/data
-    ### If you want to just keep the original source and add additional modules uncomment this line
+    #### If you want to just keep the original source and add additional modules uncomment this line
     #- ./modules:/www/html/Modules
     – ./logs/:/www/logs
     environment:
@@ -224,7 +223,7 @@ Configure Docker-compose.yml:
     proxy-tier:
     external:
     name: nginx-proxy
-    
+
 
 Create an environment file. List of environment available at [https://github.com/tiredofit/docker-freescout#environment-variables](https://github.com/tiredofit/docker-freescout#environment-variables)
 

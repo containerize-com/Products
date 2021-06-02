@@ -5,8 +5,7 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
 ### Install Kandan on Ubuntu
 
@@ -83,7 +82,7 @@ bundle exec thin start
 <div class="asposeptyltd containerize"> </div><div class="col-lg-12">Explore
 -------
 
-In this article we have discussed Kandan chat application that allows you to manage several conversations simultaneously. To learn about other open source live chat softwares, please visit page:
+In this article we have discussed Kandan chat application that allows you to manage several conversations simultaneously. To learn about other open source live chat software, please visit page:
 
 - [Best Open Source Live Chat Applications](https://products.containerize.com/live-chat)
  

@@ -5,10 +5,9 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
-### Installation using Github
+#### Installation using Github
 
 First make sure you have installed all the dependencies. Then clone the latest SuiteCRM repository into document root folder:
 
@@ -16,12 +15,12 @@ First make sure you have installed all the dependencies. Then clone the latest S
 <pre class="command">```
 git clone https://github.com/salesagility/SuiteCRM.git
 sudo mv SuiteCRM suitecrm
-```
+ ```
 ```
 
 Set appropriate permissions for suitecrm directory:
 
- ```
+```
 <pre class="command">```
 sudo chown -R www-data:www-data suitecrm 
 sudo chmod -R 755 suitecrm 

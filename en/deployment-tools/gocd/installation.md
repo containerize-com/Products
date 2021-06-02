@@ -5,10 +5,9 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
-### Installing using Ubuntu
+#### Installing using Ubuntu
 
 Run below commands in order to install GoCD Server.
 

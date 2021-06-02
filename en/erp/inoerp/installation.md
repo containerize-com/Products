@@ -5,8 +5,7 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
 ### Installation for Master Branch &amp; Future Version
 

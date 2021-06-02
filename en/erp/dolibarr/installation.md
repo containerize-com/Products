@@ -5,10 +5,9 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
-### Installing ERPNext on Ubuntu 18.04
+#### Installing ERPNext on Ubuntu 18.04
 
 Update and Upgrade APT.
 

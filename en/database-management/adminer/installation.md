@@ -5,8 +5,7 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+#### **Installation**
 
 - Update system using following commands
  

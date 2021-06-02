@@ -5,11 +5,9 @@ weight: 1
 
 ---
 
-System Requirements
--------------------
+### System Requirements
 
 MoonMail is React and Serverless framework based newsletter software. It requires following software.
 
 - yarn
 - Serverless
- 

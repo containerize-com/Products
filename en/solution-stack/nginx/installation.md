@@ -6,8 +6,7 @@ weight: 3
 ---
 
 
-Installation Instructions
--------------------------
+### Installation
 
 Install NGINX from Ubuntu’s default repositories using apt command
 

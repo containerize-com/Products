@@ -5,10 +5,9 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
-### Installing on Ubuntu
+#### Installing on Ubuntu
 
 Run below commands.
 
@@ -19,7 +18,7 @@ $ apt-get install libapache2-svn
 
 ```
 
-### Installing on Red Hat Linux
+#### Installing on Red Hat Linux
 
 Run following commands.
 

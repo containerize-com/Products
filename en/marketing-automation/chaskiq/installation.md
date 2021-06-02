@@ -4,8 +4,7 @@ onpagelink: installation
 weight: 3
 
 ---
-Installation Instructions
--------------------------
+### Installation
 
 ### Install Chaskiq on Ubuntu
 
@@ -52,6 +51,6 @@ Congratulations! You have successfully installed Chaskiq business marketing tool
 Explore
 -------
 
-In this article we discussed about Chaskiq open source software. To learn about other open source free online business marketing management softwares, please visit following page:
+In this article we discussed about Chaskiq open source software. To learn about other open source free online business marketing management software, please visit following page:
 
-*   [Best Open Source Business Marketing Management Softwares](https://products.containerize.com/marketing-automation)
+*   [Best Open Source Business Marketing Management Software](https://products.containerize.com/marketing-automation)

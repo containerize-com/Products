@@ -5,10 +5,9 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
-### Install OpenCart on Ubuntu
+#### Install OpenCart on Ubuntu
 
 Nginx is the most popular and secure web server. In order to install Nginx, use the following command
 

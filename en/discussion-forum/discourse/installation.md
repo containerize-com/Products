@@ -4,10 +4,9 @@ onpagelink: installation
 weight: 3
 
 ---
-Installation Instructions
--------------------------
+### Installation
 
-### Installation using Github
+#### Installation using Github
 
 Clone the Discourse repository
 
@@ -42,7 +41,7 @@ Start rails server:
 After you have logged in as the root user, we can begin the docker install by entering the following commands. You should use the root user throughout the rest of the setup and bootstrapping process.
 
      sudo -s  
-
+    
      git clone https://github.com/discourse/discourse_docker.git /var/discourse  
 
 Now, cd into the Discourse folder.

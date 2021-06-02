@@ -5,10 +5,9 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
-### Installing on Ubuntu
+#### Installing on Ubuntu
 
 Run below command to install Nginx web server.
 

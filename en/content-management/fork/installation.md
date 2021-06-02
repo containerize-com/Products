@@ -5,8 +5,7 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
 - Make sure you have composer installed.
 - Run `composer create-project forkcms/forkcms` . in your document root.

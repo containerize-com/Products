@@ -5,10 +5,9 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
-### Installing by downloading Binary
+#### Installing by downloading Binary
 
 Download the latest release and extract the listmonk binary.
 

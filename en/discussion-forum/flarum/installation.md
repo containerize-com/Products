@@ -5,12 +5,11 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
 ### Install Flarum on Ubuntu 18.04 LTS with Composer
 
-You will need to install Apache, MariaDB and PHP to your system. First, install Apache and MariaDB using the following command:
+#### You will need to install Apache, MariaDB and PHP to your system. First, install Apache and MariaDB using the following command:
 
     sudo apt-get install apache2 mariadb-server -y
 
@@ -132,7 +131,7 @@ Configure Docker-compose.yml:
     – MYSQL_PASSWORD=xxxxxxxxxx
     volumes:
     – /mnt/docker/mysql/db:/var/lib/mysql
-    
+
 
 Create an environment file:
 
@@ -155,12 +154,12 @@ Create an environment file:
     FLARUM_ADMIN_PASS=xxxxxxxxxx
     FLARUM_ADMIN_MAIL=admin@domain.tld
     FLARUM_TITLE=Test flarum
-    
+
 
 Run your docker-compose:
 
     docker-compose up -d mariadb
     docker-compose up -d flarum
-    
+
 
 Congrats! You have successfully installed Flarum

@@ -6,16 +6,15 @@ weight: 3
 ---
 
 
-Installation Instructions
--------------------------
+### Installation
 
-### Installation using Github
+#### Installation using Github
 
 First make sure you have installed all the dependencies. Clone the latest kanboard repository from github into document root folder:
 
     git clone https://github.com/kanboard/kanboard.git
     cd kanboard
-    
+
 
 Check if the directory data is writeable by the web server user
 

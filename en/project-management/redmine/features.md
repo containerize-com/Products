@@ -6,8 +6,7 @@ weight: 2
 ---
 
 
-Features
---------
+### Features
 
 Redmine has all the advance features that you can envision from top project management software. Main features include
 

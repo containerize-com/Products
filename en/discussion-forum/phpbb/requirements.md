@@ -5,8 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
--------------------
+### System Requirements
 
 phpBB is PHP based online community builder software that support various databases. It requires following software.
 
@@ -19,4 +18,3 @@ phpBB is PHP based online community builder software that support various databa
   - PostgreSQL 8.3+
   - SQLite 3.6.15+
 - Nigix / IIS
- 

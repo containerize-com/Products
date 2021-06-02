@@ -5,8 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
--------------------
+### System Requirements
 
 Vanilla Forums is PHP and MySQL / MariaDB. Strongly recommended requirements are following:
 
@@ -15,4 +14,3 @@ Vanilla Forums is PHP and MySQL / MariaDB. Strongly recommended requirements are
 - MySQL version 5.7 or newer (or Percona/MariaDB equivalent).
 - Web server software (Nginx, Apache ...).
 - SSL encryption.
- 

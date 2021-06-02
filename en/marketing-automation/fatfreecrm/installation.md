@@ -4,8 +4,7 @@ onpagelink: installation
 weight: 3
 
 ---
-Installation Instructions
--------------------------
+### Installation
 
 ### Install FatFreeCRM on Linux (Debian-based)
 

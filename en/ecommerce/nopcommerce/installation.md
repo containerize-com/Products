@@ -5,10 +5,9 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
-### Installing on Windows
+#### Installing on Windows
 
 First, you need to download it from https://www.nopcommerce.com/download-nopcommerce
 
@@ -20,7 +19,7 @@ Open browser and visit your site, it will redirect to the installation wizard. F
 
 Click Install button in order to start the installation process. Project home page will display once installation is complete.
 
-### Installing on Linux
+#### Installing on Linux
 
 Run below command to register Microsoft key and feed.
 

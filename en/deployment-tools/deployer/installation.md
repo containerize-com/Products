@@ -5,10 +5,9 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
-### Installing using Ubuntu
+#### Installing using Ubuntu
 
 Install the PHP, if it is not installed.
 

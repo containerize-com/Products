@@ -5,10 +5,9 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
-### Installing using downloaded package:
+#### Installing using downloaded package:
 
 Download the latest release from https://craterapp.com/downloads.
 
@@ -18,7 +17,7 @@ Point your domain or subdomain to the public directory inside the Crater directo
 
 Open your web browser and go to your given domain and follow the installation wizard.
 
-### Installing using Docker:
+#### Installing using Docker:
 
 Install Docker and docker-compose on your server.
 

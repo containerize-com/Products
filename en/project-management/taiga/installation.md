@@ -5,27 +5,26 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
-### Installation using Github
+#### Installation using Github
 
 First make sure you have installed all the dependencies. Clone the latest taiga-back from github into document root folder:
 
     git clone https://github.com/taigaio/taiga-back.git taiga-back
     cd taiga-back
     git checkout stable
-    
+
 
 Create a new virtualenv named taiga:
 
     mkvirtualenv -p /usr/bin/python3 taiga
-    
+
 
 Install all Python dependencies:
 
     pip install -r requirements.txt
-    
+
 
 Execute all migrations to populate the database with basic necessary initial data:
 
@@ -34,7 +33,7 @@ Execute all migrations to populate the database with basic necessary initial dat
     python manage.py loaddata initial_project_templates
     python manage.py compilemessages
     python manage.py collectstatic --noinput
-    
+
 
 The above migrations create an administrator account. The login credentials are the following: username: admin password: 123123
 
@@ -75,7 +74,7 @@ Copy-paste the following config into ~/taiga-back/settings/local.py and update i
     # to enable GitHub login/sign-in.
     #GITHUB_API_CLIENT_ID = "yourgithubclientid"
     #GITHUB_API_CLIENT_SECRET = "yourgithubclientsecret"
-    
+
 
 Download the frontend code from GitHub:
 
@@ -83,12 +82,12 @@ Download the frontend code from GitHub:
     git clone https://github.com/taigaio/taiga-front-dist.git taiga-front-dist
     cd taiga-front-dist
     git checkout stable
-    
+
 
 Copy the example config file:
 
     cp ~/taiga-front-dist/dist/conf.example.json ~/taiga-front-dist/dist/conf.json
-    
+
 
 Edit the example configuration following the pattern below (replace with your own details):
 
@@ -104,6 +103,6 @@ Edit the example configuration following the pattern below (replace with your ow
     	"maxUploadFileSize": null,
     	"contribPlugins": []
     }
-    
+
 
 Having taiga-front-dist downloaded and configured is insufficient. The next step is to expose the code (in dist directory) under a static file web server.

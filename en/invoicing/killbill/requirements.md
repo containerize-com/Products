@@ -5,8 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
--------------------
+### System Requirements
 
 In order to install Kill Bill, you must have the following softwares:
 

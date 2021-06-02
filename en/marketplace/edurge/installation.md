@@ -4,8 +4,7 @@ onpagelink: installation
 weight: 3
 
 ---
-Installation Instructions
--------------------------
+### Installation
 
 ### Install Edurge on Ubuntu
 
@@ -41,6 +40,6 @@ Congratulations! You have successfully installed Edurge marketplace. Enjoy!
 Explore
 -------
 
-In this article we discussed about Edurge courses online free open source marketplace software. To learn about other open source marketplace softwares, please visit following page:
+In this article we discussed about Edurge courses online free open source marketplace software. To learn about other open source marketplace software, please visit following page:
 
-*   [Best Open Source Marketplace Softwares](https://products.containerize.com/marketplace)
+*   [Best Open Source Marketplace Software](https://products.containerize.com/marketplace)

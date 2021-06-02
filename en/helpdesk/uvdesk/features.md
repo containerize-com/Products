@@ -5,8 +5,7 @@ weight: 2
 
 ---
 
-Features
---------
+### Features
 
 UVdesk is efficient ticketing based helpdesk system featured with Ecommerce, MarketPlace, Website Upfront and Email integration which allow you connect with most popular application e.g. Amazon, eBay, Etsy, Flipkart, Magento, Prestashop, Shopify, CS-Cart, Opencart, Contact Form, Feedback Form, Gmail, Yahoo mail, Hotmail etc. Top features of UVdesk include.
 
@@ -34,4 +33,3 @@ UVdesk is efficient ticketing based helpdesk system featured with Ecommerce, Mar
 - Translation Support
 - Unlimited Agents, Group, Team, Customers, Tickets etc
 - User Friendly Web Installer
- 

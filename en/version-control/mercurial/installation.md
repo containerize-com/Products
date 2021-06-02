@@ -5,16 +5,15 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
-### Installing on Windows
+#### Installing on Windows
 
 Download the latest version of TortoiseHg from http://tortoisehg.bitbucket.org/download/windows.html.
 
 Run installer and follow wizard.
 
-### Installing on Ubuntu
+#### Installing on Ubuntu
 
 Run below commands.
 
@@ -22,7 +21,7 @@ Run below commands.
 $ apt-get install mercurial
 ```
 
-### Installing on Fedora
+#### Installing on Fedora
 
 Run command to install it on Fedora.
 
@@ -30,7 +29,7 @@ Run command to install it on Fedora.
 $ dnf install mercurial
 ```
 
-### Installing on MacOS
+#### Installing on MacOS
 
 Run command to install it on MacOS.
 
@@ -38,7 +37,7 @@ Run command to install it on MacOS.
 $ brew install mercurial
 ```
 
-### Installing on MacOS
+#### Installing on MacOS
 
 Run following commands to install it on FreeBSD.
 

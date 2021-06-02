@@ -5,8 +5,7 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
 Follow these steps to Install MongoDB on Ubuntu 18.04:
 

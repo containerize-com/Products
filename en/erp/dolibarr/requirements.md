@@ -5,8 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
--------------------
+### System Requirements
 
 Dolibarr is PHP and MariaDB based open source ERP software. Current requirements for Dolibarr include:
 

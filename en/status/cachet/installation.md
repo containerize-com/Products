@@ -5,10 +5,9 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
-### Install Cachet on Ubuntu 16.04 LTS with Nginx using Github
+#### Install Cachet on Ubuntu 16.04 LTS with Nginx using Github
 
 Nginx is the most popular and secure web server. In order to install Nginx, use the following command
 

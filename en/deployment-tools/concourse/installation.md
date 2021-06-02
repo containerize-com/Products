@@ -5,10 +5,9 @@ weight: 3
 
 ---
 
-Installation Instructions
--------------------------
+### Installation
 
-### Installing using Docker
+#### Installing using Docker
 
 Run below commands to install Concourse server with Docker compose.
 
