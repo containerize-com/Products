@@ -14,7 +14,7 @@ GithubLink: https://github.com/defold/defold
 HomePage_TitleText: Game Development Software in C++
 
 ListingPage_MenuImage_TitleText: game creation platform
-ListingPage_MenuImage_AltText: PlayCanvas is a game creation platform
+ListingPage_MenuImage_AltText: Defold is a game creation platform
 ListingPage_Link_TitleText: game creation platform
 
 SinglePage_HeaderImage_TitleText: game creation platform
