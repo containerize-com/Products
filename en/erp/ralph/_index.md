@@ -4,7 +4,7 @@ title: Ralph | Free Open Source Resource Management Software
 description: Ralph is an open source resource management software. It is Apache 2.0 licensed and offers features such as built-in DC visualization, easy to extend and more.
 singlepageh1title: A Robust Solution For Real Time Asset Tracking And Reporting
 singlepageh2title: Keep track of all your assets with this equipment management solution. It offers RESTful interface and designed for data center infrastructure management.
-Shortdescriptionlistingpage: Ralph is another alternative open source resource management software. It is self-hosted,m lightweight and offers many features such as asset tracking, and REST API.
+Shortdescriptionlistingpage: Ralph is another alternative open source resource management software. It is self-hosted, lightweight and offers many features such as asset tracking, REST API, and more.
 linktitle: Ralph
 Imagetext:  Free ERP Software 
 draft: false
