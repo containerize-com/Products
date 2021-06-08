@@ -1,5 +1,5 @@
 ---
-keywords: resource management software, real time asset tracking, open source inventory tracking software, equipment management solution, open source digital asset management software, equipment maintenance management software
+keywords: resource management software, real time asset tracking, open source inventory tracking software, equipment management solution, equipment maintenance management software
 title: Ralph | Free Open Source Resource Management Software
 description: Ralph is an open source resource management software. It is Apache 2.0 licensed and offers features such as built-in DC visualization, easy to extend and more.
 singlepageh1title: A Robust Solution For Real Time Asset Tracking And Reporting
