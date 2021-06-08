@@ -6,12 +6,12 @@ singlepageh1title: A Robust Solution For Real Time Asset Tracking And Reporting
 singlepageh2title: Keep track of all your assets with this equipment management solution. It offers a REST API and is designed for data centers and office support management.
 Shortdescriptionlistingpage: Ralph is another alternative open source resource management software. It is self-hosted, lightweight and offers many features such as asset tracking, REST API, and more.
 linktitle: Ralph
-Imagetext:  Free ERP Software 
+Imagetext:  Free CMDB Software 
 draft: false
 weight: 9
 layout: "single"
 GithubLink: https://github.com/allegro/ralph
-HomePage_TitleText: Open Source ERP Software in Python
+HomePage_TitleText: Open Source CMDB Software in Python
 
 ListingPage_MenuImage_TitleText: resource management software
 ListingPage_MenuImage_AltText: Ralph is an open source resource management software
