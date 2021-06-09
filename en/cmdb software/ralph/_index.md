@@ -8,7 +8,7 @@ Shortdescriptionlistingpage: Ralph is an open source free resource management so
 linktitle: Ralph
 Imagetext:  Free CMDB Software 
 draft: false
-weight: 9
+weight: 1
 layout: "single"
 GithubLink: https://github.com/allegro/ralph
 HomePage_TitleText: Open Source CMDB Software in Python
