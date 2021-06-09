@@ -2,9 +2,9 @@
 keywords: open source 3d modeling software, best 3d animation software, free 3d modeling software, free 3d modeling software for beginners
 title: K-3D | Free To Use & Open Source 3d Modeling Software
 singlepageh1title: Free To Use & Open Source 3d Modeling Software
-description: K-3D is an open source software that can be used for 3D animation and modelling. It has a plugin oriented procedural engine for powerful and quick processing.
-singlepageh2title: K-3D is an open source software that can be used for 3D animation and modelling. It has a plugin oriented procedural engine for powerful and quick processing.
-Shortdescriptionlistingpage: K-3D is an open source software that can be used for 3D animation and modelling. It has a plugin oriented procedural engine for powerful and quick processing.
+description: K-3D is an open source software that can be used for 3D animation and modeling. It has a plugin-oriented procedural engine for powerful and quick processing.
+singlepageh2title: K-3D is an open source software that can be used for 3D animation and modeling. It has a plugin-oriented procedural engine for powerful and quick processing.
+Shortdescriptionlistingpage: K-3D is an open source software that can be used for 3D animation and modeling. It has a plugin-oriented procedural engine for powerful and quick processing.
 linktitle: K-3D
 Imagetext: Free Animation Software
 draft: false
