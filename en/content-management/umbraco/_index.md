@@ -3,7 +3,7 @@ keywords: self hosted cms, open source web content management system, web based 
 title: Umbraco CMS | ASP.NET Based Open Source Self Hosted CMS
 description: Umbraco CMS is a free self hosted CMS software that provides pre-made sets of HTML web pages, several document types, global search, and data validations.
 singlepageh1title: Highly Flexible Open Source Web Content Management System
-singlepageh2title: A web based CMS software with an intuitive user interface and many features such as multilingual support, activity log views, global search, and post scheduling.
+singlepageh2title: A web based CMS software with an intuitive user interface and rich features i.e., multilingual support, activity log views, global search, and post scheduling.
 Shortdescriptionlistingpage: Umbraco CMS is another open source self hosted CMS alternative that is written in ASP.Net. It offers an enterprise level user interface and many features such as smart search, support for media files and many more.
 linktitle: Umbraco CMS 
 Imagetext:  Free CMS Software 
