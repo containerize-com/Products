@@ -13,5 +13,5 @@ In this article we have discussed K-3D's overview and features that makes it one
 - [OpenToonz](/animation-software/opentoonz)
 - [Pencil2D](/animation-software/pencil2d)
 - [Syfig](/animation-software/synfig)
-- [Krita](/animation-software/krita
+- [Krita](/animation-software/krita)
  
