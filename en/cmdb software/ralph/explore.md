@@ -9,4 +9,4 @@ weight: 4
 
 You may find the following links relevant:
 
-*   **[Top 5 Open Source ERP Software For Your Business](https://blog.containerize.com/2021/01/11/top-5-open-source-erp-software-for-your-business/)**
+*   **[Automate Business Operations Using Free and Open Source Software](https://blog.containerize.com/2020/08/27/automate-business-operations-using-open-source-software/)**
