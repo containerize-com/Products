@@ -27,7 +27,7 @@ SinglePage_MenuImage_AltText: Joomla is one of the most powerful CMS.
 
 #### Overview
 
-Joomla is one of the the most popular content management system available, with an ever growing developer community. Joomla is running nearly 2 million active websites. Whether you want to build simple websites or complex applications, Joomla helps you in both cases. Huge user base and a thriving developer community makes Joomla an ideal platform for your next application.
+Joomla is one of the most popular content management system available, with an ever growing developer community. Joomla is running nearly 2 million active websites. Whether you want to build simple websites or complex applications, Joomla helps you in both cases. Huge user base and a thriving developer community makes Joomla an ideal platform for your next application.
 
 Joomla Extension Directory host thousands of Joomla extensions and plugins. A number of online template shops have thousands of free joomla templates as well as paid available. Setting up Joomla templates is easy to install even if you are not an advanced user. Joomla can be used for a vast verity of applications ranging from simple static websites to online shops to multi vendor market place.
 
