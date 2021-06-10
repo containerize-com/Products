@@ -1,6 +1,6 @@
 ---
-title: Apache James | Enterprise Grade Open-Source Mail Server
-description: Apache James is an open source mail server for big enterprises. It’s a free email software and a 100% pure Java SMTP, IMAP, JMAP and POP3 Mail server.
+title: Apache James | Enterprise-Grade Open-Source Mail Server
+description: Apache James is an open source mail server for big enterprises. It’s a free email software and a 100% pure Java SMTP, IMAP, JMAP, and POP3 Mail server.
 keywords: open-source mail server, enterprise grade, mail server, apache james, incoming mail server, outgoing mail server, pop3 mail server, imap server, mail server software, smtp server
 singlepageh1title: On Premise Open-Source Mail Server for Enterprises
 singlepageh2title: Apache James is an open-source mail server software for big enterprises. It's a free mail server with the following supported protocols IMAP, SMTP, JMAP, POP3.
