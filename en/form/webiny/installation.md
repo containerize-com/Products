@@ -5,15 +5,16 @@ weight: 3
 
 ---
 
-#### **Installation Instructions**
+### **Installation Instructions**
 
-Run this command to create Webiny project:
+Firstly, run this command to create Webiny project:
 
  ```
  npx create-webiny-project new-project
 ```
 
-Set up the database now. Place the `.env.json` file in the root directory of your project and after changing the `MONGODB_SERVER` and `MONGODB_NAME` parameters your .env.json file should look like this:
+Secondly, set up the database now.
+Thirdly, place the .env.json file in the root directory of your project, and after changing the MONGODB_SERVER and MONGODB_NAME parameters your .env.json file should look like this:
 
  ```
 { <br></br>"default": {
@@ -26,9 +27,9 @@ Set up the database now. Place the `.env.json` file in the root directory of you
 }
 ```
 
-Values of AWS parameters can be found from your AWS account.
+However, values of AWS parameters can be found from your AWS account.
 
-Now, we need to set-up API environment locally and it may take 10 to 15 minutes.
+Then, we need to set-up API environment locally and it may take 10 to 15 minutes.
 
  ```
  yarn webiny deploy api --env=local
