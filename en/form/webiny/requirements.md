@@ -5,9 +5,9 @@ weight: 1
 
 ---
 
-#### **System Requirements**
+### **System Requirements**
 
-Requirements to setup Webiny include
+Following are the requirements to set up Webiny
 
 - Node.js &gt;= 10.9.0
 - npm &amp; npx
