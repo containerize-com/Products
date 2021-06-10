@@ -1,7 +1,7 @@
 ---
 keywords: html form designer,bootstrap form designer, open source drag and drop form builder, css form designer, website form builder software
 title: Webiny | Free Open Source Serverless HTML Form Designer
-description: Experience the best html form designer to build complex forms with full control over form’s look, change tracking, form submissions control and deployment.
+description: Experience the best HTML form designer to build complex forms with full control over form’s look, change tracking, form submissions control, and deployment.
 singlepageh1title: Build Production Ready Forms With A Bootstrap Form Designer
 singlepageh2title: Webiny is an open source drag and drop form builder that offers a complete package containing version tracking, forms theming, data management, and more.
 Shortdescriptionlistingpage: A free open source serverless html form designer to build responsive full-featured forms to meet the business use cases.
