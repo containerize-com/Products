@@ -2,9 +2,9 @@
 keywords: animation program for beginners, open source animation software, best free animation software, free 2d animation software
 title: TupiTube | Open Source Animation Program For Beginners
 singlepageh1title: Free & Open Source Animation Program For Beginners
-description: Tupitube is a free to use and download 2D animation software specifically created and designed keeping young users and beginner artists in mind.
-singlepageh2title: Tupitube is a free to use and download 2D animation software specifically created and designed keeping young users and beginner artists in mind.
-Shortdescriptionlistingpage: Tupitube is a free to use and download 2D animation software specifically created and designed keeping young users and beginner artists in mind.
+description: Tupitube is a free and open-source 2D animation software. It offers easy to use interface that provides amateur artists a simpler user experience.
+singlepageh2title: Tupitube is a free and open-source 2D animation software. It offers easy to use interface that provides amateur artists a simpler user experience.
+Shortdescriptionlistingpage: Tupitube is a free and open-source 2D animation software. It offers easy to use interface that provides amateur artists a simpler user experience.
 linktitle: TupiTube
 Imagetext: Free Animation Software
 draft: false
