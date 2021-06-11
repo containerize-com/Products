@@ -8,7 +8,7 @@ Shortdescriptionlistingpage: Brakeman is a free static code analysis and source 
 linktitle: Brakeman
 Imagetext: Free Security Software
 draft: false
-weight: 1
+weight: 7
 layout: "single"
 GithubLink: https://github.com/presidentbeef/brakeman
 HomePage_TitleText: Open Source Security Software
