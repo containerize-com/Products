@@ -6,8 +6,7 @@ weight: 2
 ---
 
 
-Features
---------
+### **Features**
 
 *   OAuth v2 Protocol
 *   OpenID & OpenID Connect Protocol
