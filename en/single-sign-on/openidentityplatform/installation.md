@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation**
 
 Run the following command to clone the repo:
 
@@ -15,7 +15,7 @@ After a successful clone run the following command:
 
     mvn install -f OpenAM
 
-Add FQDN host name in /etc/hosts (Windows c:\\windows\\systems32\\drivers\\etc\\hosts):
+Then, add FQDN host name in /etc/hosts (Windows c:\\windows\\systems32\\drivers\\etc\\hosts):
 
     127.0.0.1 login.domain.com
 
