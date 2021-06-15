@@ -1,6 +1,6 @@
 ---
 keywords: single sign on software, authentication software, single sign on technology, sso tool, single sign on system
-title: CAS | Enterprise Level Free Single Sign On software
+title: CAS | Enterprise Level Free Single Sign On Software
 description: A free single sign on software to control the authentication feature of multiple websites from one place using ticket-based and other standard protocols.
 singlepageh1title: Multilingual Authentication Software With Logs Management
 singlepageh2title: Central Authentication Service is an open source SSO tool that provides authentication and authorization features using OpenID, OAuth, and SAML protocols.
