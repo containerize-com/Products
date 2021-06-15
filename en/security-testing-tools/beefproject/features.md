@@ -5,8 +5,7 @@ weight: 2
 
 ---
 
-Features
---------
+### **Features**
 
 Some of the great features of BeEF penetration testing framework are listed below:
 

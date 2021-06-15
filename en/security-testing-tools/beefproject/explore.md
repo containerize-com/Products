@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-#### **Explore**
+### **Explore**
 
 In this article we discussed about BeEF browser exploitation framework. To learn about other open source security testing tools, please visit following page:
 
