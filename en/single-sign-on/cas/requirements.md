@@ -5,8 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
--------------------
+### **System Requirements**
 
 *   JDK 11
 *   Apache Tomcat
