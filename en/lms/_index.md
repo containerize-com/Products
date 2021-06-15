@@ -2,7 +2,7 @@
 title: Open Source Distance Learning Tools And Moodle Alternatives
 description: Distance learning platforms help organizations to build online e-learning sites. Choose one of the best free learning management systems (LMS) from the list.
 singlepageh1title: Best Free And Open Source Distance Learning Options
-singlepageh2title: Free e-learning tools enable educators to quickly set up online learning platform. Create training material, deliver to students, and monitor their progress.
+singlepageh2title: Free e-learning tools that help to set up online learning platforms to create and distribute training material. It also supports monitoring student's progress.
 linktitle: lms
 Imagetext: Open Source Software
 draft: false
