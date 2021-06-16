@@ -3,7 +3,7 @@ title: Chamilo | Free And Open Source LMS For E-learning Sites
 description: Chamilo is a free and open-source e-learning platform. Lightweight & flexible cross-platform solution for web-based applications that is compatible with SCORM.
 keywords: lms for elearning, elearning lms, free elearning tool, open source elearning platform, free learning management software
 singlepageh1title: Create Online Learning Website With Free E-learning Tool
-singlepageh2title: Improve access to education by building online e-learning platform with free learning management software. Quickly create courses and track student's progress.
+singlepageh2title: Improve access to education by building online e-learning platforms with free learning management software. Easily create courses and track student's progress.
 Shortdescriptionlistingpage: Chamilo is a free and open-source LMS for e-learning sites. It's a lightweight and adaptable PHP-based web program that supports LDAP for user authentication.
 linktitle: Chamilo
 Imagetext:  LMS For E-learning
