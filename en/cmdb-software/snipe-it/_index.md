@@ -1,7 +1,7 @@
 ---
 keywords: open source cmdb software, open source cmdb tool, configuration management software, it configuration management software, resource management platform
 title: Snipe-IT | Web-Based Open Source CMDB Software
-description: Snipe-IT is a free open source CMDB software with rich backup options. It provides a logical interface, email notifications, assets and license management.
+description: Snipe-IT is a free open-source CMDB software with rich backup options. It provides an intuitive interface, email notifications, assets, and license management.
 singlepageh1title: Cross-Platform Open Source CMDB Tool Supported By AWS
 singlepageh2title: Free multilingual configuration management software with SAML support. It offers REST API for integrations with many popular apps such as Slack, and LDAP.
 Shortdescriptionlistingpage: Snipe-IT is an other open source alternative open source cmdb software. It provides RESTful interface, SAML based login, integrations with Slack and LDAP.
