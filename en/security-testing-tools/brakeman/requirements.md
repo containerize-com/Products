@@ -5,8 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
--------------------
+### **System Requirements**
 
 The following key dependency packages are required to install Brakeman static analysis software:
 
