@@ -7,7 +7,7 @@ weight: 3
 
 ### **Installation**
 
-Run the following command to clone the repo of this free saml service provider:
+Run the following command to clone the repo of this free SAML service provider:
 
     git clone --recursive  https://github.com/OpenIdentityPlatform/OpenAM.git
 
