@@ -5,9 +5,9 @@ weight: 3
 
 ---
 
-### Installation
+#### **Installation**
 
-### Windows Installation:
+#### **Windows Installation**
 
 - To install XAMPP as localhost web server, download it from [here](https://www.apachefriends.org/de/download.html).
  
@@ -26,7 +26,7 @@ weight: 3
  
 ![XAMPP - open source web server solution stack](/images/xampp4.png "XAMPP - open source web server solution stack")
 
-### Ubuntu Installation:
+#### **Ubuntu Installation**
 
 - Download XAMPP to download folder from [here](https://www.apachefriends.org/de/download.html).
  
