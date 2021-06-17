@@ -5,8 +5,7 @@ weight: 2
 
 ---
 
-Features
---------
+### **Features**
 
 *   Extensibility
 *   Open Source
