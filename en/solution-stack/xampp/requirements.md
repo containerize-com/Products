@@ -5,8 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
--------------------
+#### **System Requirements**
 
 - Microsoft Visual C++ 2017 Redistributable
 - 64 MB RAM (RECOMMENDED)
