@@ -13,7 +13,7 @@ First, run the following command to get the clone
  git clone https://github.com/jitsi/docker-jitsi-meet && cd docker-jitsi-meet
 ```
 
-After a successful clone, Create a .env file by copying and adjusting env.example
+After that, Create a .env file by copying and adjusting env.example
 
  ```
  cp env.example .env
