@@ -3,7 +3,7 @@ keywords: rapid application development platform, rapid application development 
 title: CUBA Platform | Free Rapid Application Development Platform
 description: Develop your business applications with the Cuba Platform. It is a free rapid application development platform that offers many productive features and add-ons.
 singlepageh1title: Powerful Java Based Rapid Application Development Tool
-singlepageh2title: Cuba Platform provides a modular architecture to build scalable web apps. This code generation software offers compatibility with all popular RDBMS and REST API.
+singlepageh2title: Cuba Platform provides a modular architecture to build scalable web apps. This code generation software offers compatibility with all popular RDBMS & REST API.
 Shortdescriptionlistingpage: CUBA Platform is an enterprise-level open source rapid application development platform. It is multilingual, scalable and offers OAuth2 based authentication with LDAP and SAML support. 
 linktitle: CUBA Platform
 Imagetext:  Free RAD Framework
