@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-#### **Installation Instructions**
+### **Installation Instructions**
 
 After installing the above mentioned prerequisites, run the following command
 

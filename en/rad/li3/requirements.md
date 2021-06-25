@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-#### **System Requirements**
+### **System Requirements**
 
 Requirements to setup li3 include:
 
