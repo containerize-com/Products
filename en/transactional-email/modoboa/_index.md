@@ -3,7 +3,7 @@ title: Modoboa | A Modern and Simplified Open-Source Email Server
 description: Modoboa is an open-source email server including a modern and simplified Web User Interface. It integrates well with popular software like Postfix and Dovecot.
 keywords: open-source email server, free open-source email server, python-based email server, incoming mail server, outgoing mail server, mail transfer agent
 singlepageh1title: Setup your Open Source Email Server with Modoboa
-singlepageh2title: Modoboa is a free open-source email server for big enterprises. It has all the features of a fully functional email server similar to commercial services.
+singlepageh2title: Modoboa is a free and open-source email server for big enterprises. It has all the features of a fully functional email server similar to commercial services.
 Shortdescriptionlistingpage: Modoboa is and Open-Source email Server. It’s a simple and easy setup free email server for big enterprises.
 linktitle: Modoboa
 Imagetext:  Transactional Email Service
