@@ -5,8 +5,7 @@ weight: 2
 
 ---
 
-Features
---------
+### **Features**
 
 Some of the key features of private cloud storage open source ownCloud are listed below:
 
