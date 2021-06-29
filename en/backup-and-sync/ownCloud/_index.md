@@ -13,7 +13,7 @@ layout: "single"
 GithubLink: https://github.com/owncloud/core
 HomePage_TitleText: Open source ownCloud is a private cloud software
 
-ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_TitleText: Open source ownCloud self hosted private cloud storage solution.
 ListingPage_MenuImage_AltText: PHP Based Self Hosted Private Cloud Storage Solution.
 ListingPage_Link_TitleText: Open source ownCloud is free private cloud storage solution and open source market-leading tool
 
