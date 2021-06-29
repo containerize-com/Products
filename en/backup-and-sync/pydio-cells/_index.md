@@ -1,6 +1,6 @@
 ---
 keywords: open source file sharing, file sync and share, secure file sync, enterprise file sync and share, open source file sharing server, open source secure file sharing, open source cloud file sharing
-title: Pydio Cells | Open source file sharing and synchronisation platform
+title: Pydio Cells | Self hosted open source file sharing platform.
 description: Pydio cells is a self hosted open source file sharing platform. It is top open source cloud storage and backup software that offers greater flexibility features
 singlepageh1title: Go-based nextgen file sharing platform for organizations.
 singlepageh2title: Pydio cells is a secure and self-hosted open source file sharing and synchronization tool. It allows you to access all data storage from the central location.
