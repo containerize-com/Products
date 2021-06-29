@@ -7,7 +7,7 @@ weight: 3
 
 ### **Installation**
 
-### **Install Pydio Cells On Ubuntu**
+### Install Pydio Cells On Ubuntu
 
 There are many different ways to install cells enterprise file synchronization and sharing but here we will discuss installation steps for Ubuntu. Pydio Cells sharesync is easy to setup and get started. To get started with Pydio Cells quickly, configure and setup environment with the necessary dependencies packages. Assuming that your system meets the above prerequisites packages. Building the pydio cells efss backend from the source code is simple and quite straight forward. After getting database access information and login as non-root user, get the source code:
 
