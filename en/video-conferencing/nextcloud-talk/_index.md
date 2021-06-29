@@ -9,7 +9,7 @@ Imagetext:  Free Video Conferencing Software
 draft: false
 weight: 6
 layout: "single"
-GithubLink: https://github.com/nextcloud/server
+GithubLink: https://github.com/nextcloud/spreed
 HomePage_TitleText: Video Conferencing Software
 
 ListingPage_MenuImage_TitleText: open source video conferencing software
