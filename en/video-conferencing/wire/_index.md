@@ -17,9 +17,9 @@ ListingPage_MenuImage_TitleText: Open Source video conferencing app
 ListingPage_MenuImage_AltText: Open Source video conferencing app
 ListingPage_Link_TitleText: Wire is a free video conferencing app
 
-SinglePage_HeaderImage_TitleText:video conferencing app
+SinglePage_HeaderImage_TitleText: video conferencing app
 SinglePage_HeaderImage_AltText: Wire is open source video conferencing app
-SinglePage_MenuImage_TitleText:video conferencing app
+SinglePage_MenuImage_TitleText: video conferencing app
 SinglePage_MenuImage_AltText: wire is an open source video conferencing app
 
 ---
