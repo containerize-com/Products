@@ -3,7 +3,7 @@ keywords: web based game engine,html5 game creator, video gaming software, open 
 title: PlayCanvas | Open Source Web Based Game Engine
 description: PlayCanvas is a cross platform free web based game engine with features such as fast loading time, WebGL editor, mobile optimized, and real time collaboration.
 singlepageh1title: Invite Team Members And Build Games Using HTML5 Game Creator
-singlepageh2title: Game development platform with provision to enable rich media adds on games. Built on WebGL with professional visualizations and console quality games.
+singlepageh2title: Game development platform with provision to enable rich media ads on games. Built on WebGL with professional visualizations and console quality games.
 Shortdescriptionlistingpage: PlayCanvas is another web based game engine that focuses on the rapid development of browser based video games. It uses WebGL to render 2D & 3D graphics.
 linktitle: PlayCanvas
 Imagetext:  Free Game Development Software
