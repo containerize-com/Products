@@ -1,9 +1,9 @@
 ---
 title: Canvas | Free And Open Source Ruby Based LMS For Schools
-description: Canvas LMS is a free and open-source e-learning platform for building LMS for schools, and universities. Supports API and integration with other tools.
+description: Canvas LMS is a free and open-source e-learning platform for building LMS for schools and universities. It supports API and integration with other tools.
 keywords: lms for schools, canvas learning system, lms for business, e-learning lms, canvas education platform, canvas school software, canvas school platform, canvas education software, canvas lms
 singlepageh1title: Create Learning Websites With Canvas Learning System
-singlepageh2title: Powerful e-learning LMS for building educational platforms for schools, universities, and training centers. Supports rich communication tools for collaboration.
+singlepageh2title: E-learning LMS for building educational platforms for schools, universities, and training centers. Supports rich communication tools for collaboration.
 Shortdescriptionlistingpage: Canvas is a free and open source LMS for schools, universities, and training centers. Easily create coursework, distribute training material and collaborate with trainees.
 linktitle: Canvas
 Imagetext:  LMS For Schools
