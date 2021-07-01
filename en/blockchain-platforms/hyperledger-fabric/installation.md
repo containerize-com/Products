@@ -6,7 +6,7 @@ weight: 3
 ---
 
 
-#### **Installation Instructions**
+### **Installation Instructions**
 
 Once you have installed the pre-requisites, the first next step is to Install Samples, Binaries, and Docker Images.
 
@@ -24,7 +24,7 @@ Now, run the following command:
 
     cd fabric-samples/test-network
 
-In this directory, you will find an annotated script, `network.sh`, that stands up a Fabric network using the Docker images on your local machine.
+Then, you will find an annotated script, `network.sh`, that stands up a Fabric network using the Docker images on your local machine.
 
 After that, from inside the `test-network` directory, run the following command to remove any containers or artifacts from any previous runs:
 
