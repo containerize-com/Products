@@ -4,7 +4,7 @@ title: iTop | Free Multipurpose Open Source CMDB Tool
 description: iTop is a web based open source CMDB tool. It is self-hosted, flexible software that provides an operational portal for managing IT assets and services.
 singlepageh1title: IT Service Management Solution With Rich Stack Of Plugins
 singlepageh2title: iTop is a change and configuration management software with powerful features such as configurable notifications, data Import/export RESTful interface, and more.
-Shortdescriptionlistingpage: iTop another alternative open source CMDB tool. It provides powerful features such as REST API, data import/export, incident and change management and assets documentation.
+Shortdescriptionlistingpage: iTop is another alternative open source CMDB tool. It provides powerful features such as REST API, data import/export, incident and change management and assets documentation.
 linktitle: iTop
 Imagetext:  Free CMDB Software 
 draft: false
