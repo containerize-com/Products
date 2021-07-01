@@ -1,7 +1,7 @@
 ---
 title: FAQs
 onpagelink: faqs
-weight: 4
+weight: 5
 
 ---
 
