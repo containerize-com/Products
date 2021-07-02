@@ -1,9 +1,9 @@
 ---
 keywords: open source cloud storage, open source file sync, open source file sharing server, open source file storage, file sync and share, best free cloud backup, open source secure file sharing
 title: Nextcloud | Open source cloud storage and file collaboration
-description: NextCloud is an open source cloud storage software that can be installed on your private server. It is safe, secure and compliant file sync and share solution.
+description: NextCloud is an open source cloud storage software that can be installed on your private server. It is a safe, secure, compliant file sync, and shares solution.
 singlepageh1title: PHP-based secure file synchronization and sharing solution
-singlepageh2title: Nextcloud is self-hosted open source cloud storage solution, written in PHP language. It is secure and compliant file synchronization and sharing solution.
+singlepageh2title: Nextcloud is a self-hosted open source cloud storage solution, written in PHP language. It is a secure and compliant file synchronization and sharing solution.
 Shortdescriptionlistingpage: Nextcloud is an self hosted and open source cloud storage solution, written in PHP language. It is safe, secure and compliant file synchronization and sharing solution, similar to Dropbox.
 linktitle: Nextcloud
 Imagetext: Free Backup and Sync Software
