@@ -5,11 +5,10 @@ weight: 2
 
 ---
 
-#### **Features**
+### **Features**
 
 ConsenSys Quorum offers the following key features:
 
-*   Open Source
 *   Permissioned Network
 *   Robust
 *   Pluggable Architecture
