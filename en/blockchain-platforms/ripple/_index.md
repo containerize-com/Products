@@ -1,5 +1,5 @@
 ---
-keywords: distributed infrastructure, decentralized platform, decentralized payment system, digital ledger technology, distributed digital ledger,
+keywords: distributed infrastructure, decentralized platform, decentralized payment system, digital ledger technology, distributed digital ledger
 title: Ripple | Free Blockchain Based Distributed Infrastructure
 description: Ripple is an open source distributed infrastructure. It offers many services that provide end to end payment transfer with maximum security and transparency.
 singlepageh1title: Build Financial Infrastructure Using Decentralized Ledger
@@ -30,6 +30,6 @@ It is an open source distributed payment system based on the XRP ledger that is 
 
 Moreover, the security of this digital ledger technology depends upon ECDSA signatures. In addition, this digital financial technology is fast as there is a quick transaction validation mechanism in Ripple’s network. It is an open network so all the transactions are publicly available.
 
-This open source distributed infrastructure is written in C++, Objective C, and a little input of some other languages. Further, anyone can deploy the instance of this distributed payment system. It has 0% failure as mentioned in their documentation.
+This open source distributed infrastructure is written in C++, Objective C, and a little input of some other languages. Further, anyone can deploy the instance of this distributed payment system. This decentralized platform has 0% failure as mentioned in their documentation.
 
 <a class="anchor" id="requirements" name="requirements" style="font-size: 12.16px;"></a>
