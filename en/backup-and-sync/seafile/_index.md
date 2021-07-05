@@ -1,5 +1,5 @@
 ---
-keywords: keywords: cloud file hosting service, open source cloud storage, best file sharing app, open source file storage, file sharing tool, file sharing self hosted, file sync and share
+keywords: cloud file hosting service, open source cloud storage, best file sharing app, open source file storage, file sharing tool, file sharing self hosted, file sync and share
 title: Seafile | Open source self-hosted cloud file hosting service
 description: Seafile is a self-hosted cloud file hosting service written in Python language. It is high performance and secure file synchronization and sharing solution.
 singlepageh1title: Python-based secure high performance cloud storage system
