@@ -8,7 +8,7 @@ Shortdescriptionlistingpage: Nextcloud is an self hosted and open source cloud s
 linktitle: Nextcloud
 Imagetext: Free Backup and Sync Software
 draft: false
-weight: 1
+weight: 7
 layout: "single"
 GithubLink: https://github.com/nextcloud/server
 HomePage_TitleText: Nextcloud is an enterprise file sync and share software
