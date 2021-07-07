@@ -4,7 +4,7 @@ onpagelink: features
 weight: 2
 
 ---
-#### **Features**
+### **Features**
 
 Ripple offers the following key features:
 
