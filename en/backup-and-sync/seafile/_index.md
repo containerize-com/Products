@@ -3,7 +3,7 @@ keywords: cloud file hosting service, open source cloud storage, best file shari
 title: Seafile | Open source self-hosted cloud file hosting service
 description: Seafile is a self-hosted cloud file hosting service written in Python language. It is high performance and secure file synchronization and sharing solution.
 singlepageh1title: Python-based secure high performance cloud storage system
-singlepageh2title: Seafile is an open source cross-platform file sync and share solution. It is self-hosted, high reliability, performance and productivity file sharing tool.
+singlepageh2title: Seafile is an open source cross-platform file sync and share solution. It is self-hosted, high reliability, performance, and productivity file sharing tool.
 Shortdescriptionlistingpage: Seafile is an open source cloud file hosting service that can be installed on your personal server. It is cross-platform and secure file sync and share solution
 linktitle: Seafile
 Imagetext: Free Backup and Sync Software
