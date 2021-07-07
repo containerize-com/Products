@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-#### **Installation Instructions**
+### **Installation Instructions**
 
 For Ubuntu, run the following commands to pull all the dependencies:
 
