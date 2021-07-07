@@ -8,7 +8,7 @@ Shortdescriptionlistingpage: Seafile is an open source cloud file hosting servic
 linktitle: Seafile
 Imagetext: Free Backup and Sync Software
 draft: false
-weight: 1
+weight: 7
 layout: "single"
 GithubLink: https://github.com/haiwen/seafile
 HomePage_TitleText: Seafile is an open source self-hosted file sync and share solutio
