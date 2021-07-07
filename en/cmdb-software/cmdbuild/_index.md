@@ -3,8 +3,8 @@ keywords: digital asset management platform, digital media management software, 
 title: CMDBuild | Open Source Digital Asset Management Platform
 description: CMDBuild is a free digital asset management platform. It is built on top of enterprise architecture with features such as a visual graph, DB modeling, and more.
 singlepageh1title: Free Multitenant And Customizable IT Automation Software
-singlepageh2title: Schedule operations, manage documents, configure workflows, dashboards integrations, and reports with this multitenant digital media management software.
-Shortdescriptionlistingpage: CMDBuild is another aleternate digital asset management platform. It is multitenant, and provides features such as webservices, reporting, SSO, and data import/export.
+singlepageh2title: Schedule operations, manage documents, configure workflows, dashboard integrations, and reports with this multitenant digital media management software.
+Shortdescriptionlistingpage: CMDBuild is another alternative digital asset management platform. It is multitenant, and provides features such as webservices, reporting, SSO, and data import/export.
 linktitle: CMDBuild
 Imagetext:  Free CMDB Software 
 draft: false
