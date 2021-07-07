@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-#### **Installation Instructions**
+### **Installation Instructions**
 
 Once all the prerequisites are installed, extract the Boost into a folder, note the location, and run the following command to ensure that your `BOOST_ROOT` environment points to the directory created by the Boost installation:
 
@@ -52,7 +52,7 @@ Set the `[node_db]`, `[database_path]` and \[debug\_logfile\]
 
     cp cfg/validators-example.txt $HOME/.config/ripple/validators.txt
 
-Finally, access your build directory and start the rippled with the following command:
+Finally, access your build directory and start this distributed infrastructure rippled with the following command:
 
      ./rippled 
 
