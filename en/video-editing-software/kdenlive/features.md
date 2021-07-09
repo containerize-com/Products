@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-#### **Features**
+### **Features**
 
 Kdenlive offers the following key features:
 
@@ -17,9 +17,5 @@ Kdenlive offers the following key features:
 *   Configurable Shortcuts
 *   2D Titles
 *   Effects and Transitions
-*   Audio/Video Scopes
-*   Proxy Editing
-*   Timeline Preview
-*   Open Source
 
  
