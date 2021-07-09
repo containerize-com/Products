@@ -1,8 +1,8 @@
 ---
 keywords: software defined storage, distributed file storage, object storage system, ceph storage cluster, sds storage, software defined storage solution, open source sds, ceph distributed file system
-title: Ceph | Open source self-hosted software defined storage.
-description: Ceph is a widely used high performance distributed and open source storage platform. It is reliable and scalable storage designed for any business organization.
-singlepageh1title: Python & C++ based high performance software defined storage
+title: Ceph | Open Source Self-hosted Storage Software
+description: Ceph is a widely used high-performance distributed and open source storage platform. It is a reliable and scalable storage tool for any business organization.
+singlepageh1title: Python & C++ Based High-performance Storage Software
 singlepageh2title: Ceph is an open source distributed object, block, and software defined storage. It is fully featured high performance and reliable distributed file storage.
 Shortdescriptionlistingpage: Open source Ceph file system CephFS is a robust, fully featured POSIX-compliant distributed file system. It has snapshots, quotas and multi-cluster mirroring.
 linktitle: Ceph
