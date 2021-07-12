@@ -1,6 +1,6 @@
 ---
 keywords: editing app for video, video editing application, open source video editing software, free video making tool, open source video editor
-title: Blender | Free Open Source Video Editing Software
+title: Blender | Free Open Source Editing App For Video
 description: Blender is a free editing app for video written in C and C++ with many powerful features such as audio mixing, live preview, animations, and transitions.
 singlepageh1title: Cycles Render Engine Based Free Video Editing Application
 singlepageh2title: Blender provides a built-in video sequence editor. This free video making tool comes up with wide range of features such as video cuts, video masking and more.
