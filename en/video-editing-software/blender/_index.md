@@ -10,7 +10,7 @@ Imagetext:  Open Source Video Editing Software
 draft: false
 weight: 5
 layout: "single"
-GithubLink: https://github.com/KDE/kdenlive
+GithubLink: https://github.com/blender/blender
 HomePage_TitleText: Open Source Video Editor in C
 
 ListingPage_MenuImage_TitleText: editing app for video
