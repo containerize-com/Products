@@ -8,7 +8,7 @@ Shortdescriptionlistingpage: Apache Kafka is a distributed message queue softwar
 linktitle: Kafka
 Imagetext: Free Message Queue Software
 draft: false
-weight: 1
+weight: 5
 layout: "single"
 GithubLink: https://github.com/apache/kafka
 HomePage_TitleText: Simple and efficient open source task scheduler
