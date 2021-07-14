@@ -5,11 +5,9 @@ weight: 1
 
 ---
 
-#### **System Requirements**
+### **System Requirements**
 
 Requirements to set up Posthog include:
 
-*   Python 3.8
-*   Docker
-*   Git
-*   Yarn
+*   Python 3.8 / Docker
+*   Git / Yarn
