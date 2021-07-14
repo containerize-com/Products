@@ -6,12 +6,11 @@ weight: 2
 ---
 
 
-#### **Features**
+### **Features**
 
 Posthog features include:
 
-*   API
-*   Self-Hosting
+*   API & Self-Hosted
 *   Data Import
 *   Full Data Control
 *   Event Auto capturing
@@ -19,5 +18,4 @@ Posthog features include:
 *   External Integrations
 *   Feature Flags
 *   Conversion/Retention Tracking
-*   Multi-Site
-*   Push Notifications
+*   Multi-Site & Push Notifications
