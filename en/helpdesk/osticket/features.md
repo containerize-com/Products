@@ -7,7 +7,7 @@ weight: 2
 
 ### Features
 
-osTicket is a popular ticketing based helpdesk that is equipped with all the essential features to manage wide range of businesses like electrics, production, service provider, game development and construction. Important features include
+osTicket is a popular help desk ticket system software that is equipped with all the essential features to manage wide range of businesses like electrics, production, service provider, game development and construction. Important features include
 
 #### Customer Portal
 
