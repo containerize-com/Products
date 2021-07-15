@@ -6,17 +6,15 @@ weight: 2
 ---
 
 
-#### **Features**
+### **Features**
 
 Plausible features include:
 
 *   No Cross-Site Tracking 
 *   Utmost Privacy
-*   User Friendly
-*   LightWeight
+*   User Friendly & LightWeight
 *   Simple Metrics
 *   Easy To Integrate
-*   Quick
 *   Unlimited Websites
 *   Customizable Dashboard
 *   Google Search Console Integration
