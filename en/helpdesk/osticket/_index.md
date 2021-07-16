@@ -1,9 +1,9 @@
 ---
 keywords: help desk management software, customer help desk software, help desk support software, small business help desk software, ticket management, it help desk ticketing software, web based help desk software, open source ticketing system php mysql
 title: osTicket | Open Source Ticketing Based Helpdesk System
-description: Fully customizable ticketing based Helpdesk and Customer Care System equipped with wide range of features to provide incredible customer support experience.
+description: Fully customizable ticketing based Helpdesk and Customer Care System equipped with a wide range of features to provide incredible customer support experience.
 singlepageh1title: Popular Free Ticketing Based Helpdesk and Customer Care System
-singlepageh2title: Reliable Ticketing Based Helpdesk and Customer Support System to deliver swift response to customer inquiries from your email, phone and web-based form.
+singlepageh2title: Reliable Ticketing Based Helpdesk and Customer Support System to deliver swift responses to customer inquiries from your email, phone, and web-based form.
 Shortdescriptionlistingpage: osTicket is a widely-used, trusted, open source and free IT help desk software developed in PHP. Easily scale and streamline your customer service systematically.
 linktitle: osTicket
 Imagetext:  Free Ticketing System
