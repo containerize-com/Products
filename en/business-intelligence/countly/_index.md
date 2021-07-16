@@ -3,7 +3,7 @@ keywords: enterprise business intelligence solution, Enterprise BI Solution, Web
 title: Countly | Free Enterprise Business Intelligence Solution
 description: Countly is an enterprise business intelligence solution. It offers campaign attribution, visitor information, push notifications, and error reporting features.
 singlepageh1title: Extensible Self Hosted Open Source Enterprise BI Solution
-singlepageh2title: Engage your customers using business intelligence reporting tool. Countly offers many plugins to help you understand the visitor's behavior and site performance.
+singlepageh2title: Engage your customers using business intelligence reporting tools. Countly offers many plugins to help you know the visitor's behavior and site performance.
 Shortdescriptionlistingpage: Countly is another alternative enterprise enterprise business intelligence solution. It offers site monitoring, push notifications, custom event tracking, custom plugin development and more.
 linktitle: Countly
 Imagetext:  Free Business Intelligence Software
