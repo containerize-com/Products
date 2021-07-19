@@ -11,4 +11,4 @@ In this article we discussed about RabbitMQ. To learn about other message queue 
 
 *   **[Top 5 Open Source Message Queue (MQ) Software](https://blog.containerize.com/2021/07/09/top-5-open-source-message-queue-software-in-2021/)**
 *   **[Redis-backed queuing system for background processing](https://products.containerize.com/message-queue-software/resque/)**
-*   **[https://products.containerize.com/message-queue-software/sidekiq/](https://products.containerize.com/message-queue-software/sidekiq/)**
+*   **[Simple and Efficient Background Processing Tool](https://products.containerize.com/message-queue-software/sidekiq/)**
