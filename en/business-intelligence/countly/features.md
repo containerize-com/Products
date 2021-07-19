@@ -5,17 +5,14 @@ weight: 2
 
 ---
 
-#### **Features**
+### **Features**
 
 Countly features include:
 
 *   Plugins
 *   Push Notifications
 *   Self-Hosted
-*   Secure
-*   Extensible
-*   Data Visualization
-*   API
+*   Data Visualization & API
 *   Custom Event Tracking
 *   Error Reporting
 *   Visitors Details

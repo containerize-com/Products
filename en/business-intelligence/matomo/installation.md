@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-#### **Installation Instructions**
+### **Installation Instructions**
 
 Once pre-requisites are installed, download the source code from this [**link**](https://builds.matomo.org/matomo.zip).
 
