@@ -1,7 +1,7 @@
 ---
 keywords: Business Intelligence Solution, data tracking system, bi application, business intelligence analytics software, data reporting solution
 title: Matomo | Free Self-Hosted Business Intelligence Solution
-description: Matomo is a free business intelligence analytics software. It provides enterprise-level features such as tracking personal data, data privacy, and more.
+description: Matomo is an open source business intelligence solution. It provides enterprise-level features such as tracking personal data, data privacy, and more.
 singlepageh1title: Free Highly Customizable Real Time Data Tracking System
 singlepageh2title: Free Google analytics alternative BI application that provides data integrity, privacy with ownership. Import your GA data of unlimited websites and users.
 Shortdescriptionlistingpage: Matomo is an enterprise-level business intelligence solution. It offers data privacy, security and lets users import GA data of unlimited websites and users.
