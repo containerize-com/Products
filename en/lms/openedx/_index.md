@@ -3,7 +3,7 @@ title: OpenEdx | Python Based Open Source Learning Platform
 description: OpenEdx is an open source learning platform for creating an e-learning system. Top brands including IBM, Microsoft, MIT, Harvard are using it for training.
 keywords: open source learning, lms for elearning, lms features, open source elearning software, free distance learning software, open source distance learning platform
 singlepageh1title: Build E-learning System With Free Distance Learning Software
-singlepageh2title: Create learning platform for providing education at a large scale with open source e-learning software. Ideal solution for enterprises and training centers.
+singlepageh2title: Create a learning platform for providing education at a large scale with open source e-learning software. Ideal solution for enterprises and training centers.
 Shortdescriptionlistingpage: OpenEdx is another free and open source LMS for businesses, higher education, and public authorities. Trusted by companies including IBM, Microsoft, MIT, Harvard, and many more.
 linktitle: OpenEdx
 Imagetext:  LMS For Business
