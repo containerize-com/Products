@@ -6,7 +6,7 @@ weight: 3
 ---
 
 
-#### **Installation Instructions**
+### **Installation Instructions**
 
 Once pre-requisites are installed, run the following command to clone the source code:
 
