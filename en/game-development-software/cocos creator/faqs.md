@@ -7,7 +7,7 @@ weight: 4
 
 ### **FAQs**
 
-### What is Coco creator?
+### What is Cocos creator?
 Coco creator is an open source 3D game creation software. It is scripted platform with many powerful features such as real-time preview, asset management and more. 
 ### What is Cocos creator used for?
 This free gaming software is used to build 2D & 3D games using TypeScript.
