@@ -9,10 +9,8 @@ weight: 2
 
 Godot offers the following key features:
 
-*   Open Source
 *   REST API
 *   Self-Hosted
-*   Secure
 *   2D,3D Support
 *   Node-Based Architecture
 *   Animations
@@ -21,6 +19,5 @@ Godot offers the following key features:
 *   Extensible
 *   Visual Scripting
 *   Drag & drop UI
-*   Robust
 
  
