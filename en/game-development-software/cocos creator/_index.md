@@ -3,7 +3,7 @@ keywords: 3d game creation software, video game development , free gaming softwa
 title: Cocos Creator | Multi-Platform 3D Game Creation Software
 description: Cocos Creator is an open source 2D & 3D game creation software. It is a self-hosted editor for building and publishing fully animated cross-platform HDR games.
 singlepageh1title: Powerful Scripted Cross Platform Open Source Gaming Software
-singlepageh2title: Start video game development with Cocos Creator. It provides editor extensions, Sekeletal animation, asset management, 3D effects and real-time game preview.
+singlepageh2title: Start video game development with Cocos Creator. It provides editor extensions, skeletal animation, asset management, 3D effects, and real-time game preview.
 Shortdescriptionlistingpage: Cocos Creator is an alternative free 3D game creation software. It is built on component-based architecture with features such as a 3D scene editor and more.
 linktitle: Cocos Creator
 Imagetext:  Free Game Development Software
