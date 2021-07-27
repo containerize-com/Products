@@ -10,5 +10,4 @@ weight: 1
 Requirements to setup Panda3D include:
 
 *   Visual Studio
-*   Microsoft Platform SDK
-*   DirectX SDK
+*   Microsoft Platform SDK / DirectX SDK

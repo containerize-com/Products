@@ -9,7 +9,6 @@ weight: 2
 
 Panda3D offers the following key features:
 
-*   Open Source 
 *   Performance Profiling
 *   Platform Portability
 *   Asset Handling
@@ -18,6 +17,5 @@ Panda3D offers the following key features:
 *   Third-Party Integrations
 *   Rapid Prototyping
 *   Self-Hosted
-*   Secure
 
  
