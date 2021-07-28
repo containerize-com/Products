@@ -9,7 +9,6 @@ weight: 1
 
 Requirements to setup Superpowers include:
 
-*   Git
-*   Node.js
+*   Git / Node.js
 *   Visual Studio Code (optional)
 

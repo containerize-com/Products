@@ -9,7 +9,6 @@ weight: 2
 
 Superpowers offers the following key features:
 
-*   Open Source
 *   Flexible
 *   Syntax Highlighting
 *   Extensible
