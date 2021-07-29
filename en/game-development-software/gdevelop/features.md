@@ -9,7 +9,6 @@ weight: 2
 
 GDevelop offers the following key features:
 
-*   Open Source
 *   Extensible
 *   Cross-Platform
 *   Support For Multiple Effects
