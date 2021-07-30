@@ -3,7 +3,7 @@ title: Subversion | Manage Source Code With Version Control Software
 description: Subversion is free and open source version control software for managing project source code such as directories, files and changes made to them.
 keywords: version control software, source control system, apache subversion, svn version control, cvs version control, subversion svn, subversion version control, cvs source control, centralized version control system, subversion software, svn source control
 singlepageh1title: Incredible Open Source Centralized Version Control System
-singlepageh2title: Manage source code with enterprise-level source control system. Enable developers to examine project history, recover old versions and secure valuable data.
+singlepageh2title: Manage source code with the enterprise-level source control system. Enable developers to examine project history, recover old versions, and secure data.
 Shortdescriptionlistingpage: Subversion is popular and open source centralized version control system for teams to work simultaneously on single project.
 linktitle: Subversion
 Imagetext:  Free Version Control Software 
