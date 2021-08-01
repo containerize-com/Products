@@ -10,7 +10,7 @@ Imagetext:  Open Source Video Editing Software
 draft: false
 weight: 4
 layout: "single"
-GithubLink: https://github.com/blender/blender
+GithubLink: https://github.com/KDE/kdenlive
 HomePage_TitleText: Open Source Video Editor in C++
 
 ListingPage_MenuImage_TitleText: open source video maker
