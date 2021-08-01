@@ -3,7 +3,7 @@ title: Git | Free And Open Source Version Control System
 description: Git is an easy and feature-rich distributed version control system. It helps software developers to manage their code and work in an isolated environment.
 keywords: Git, version control system, git version control, version control tool, distributed version control system, open source git, source code management tools
 singlepageh1title: Free Version Control Tool For Source Code Management
-singlepageh2title: Distributed version control system for handling any type of projects. Keeps track of software resources and make efficient development processes.
+singlepageh2title: Distributed version control system for handling any type of projects. Keeps track of software resources and makes efficient development processes.
 Shortdescriptionlistingpage: Git is a free and open source version control system for software code management and help teams to work parallel.
 linktitle: Git
 Imagetext:  Free Version Control Software 
