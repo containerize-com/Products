@@ -6,7 +6,7 @@ weight: 3
 ---
 
 
-#### **Installation Instructions**
+### **Installation Instructions**
 
 Firstly, visit this [link](https://www.solismed.com/startup.html) and download the source code available under the "Do It Yourself" section.
 

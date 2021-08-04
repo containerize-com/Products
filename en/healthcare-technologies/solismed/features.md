@@ -5,16 +5,14 @@ weight: 2
 
 ---
 
-#### **Features**
+### **Features**
 
 Solismed features include:
 
-*   Open Source
 *   Patient Demographics
-*   Secure
+*   Secure / Reliable
 *   Appointment Reminders
 *   e-Prescribing
-*   Reliable
 *   Medical Billing Service
 *   Appointment Scheduling
 *   Patient Portal
