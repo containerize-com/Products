@@ -3,7 +3,7 @@ title: Open Hospital | Free Medical Records Management System
 description: Open Hospital is an open source medical records management system. It is multilingual and offers features such as patients registration and drug management.
 singlepageh1title: Health Management System with Smooth Integration Features
 singlepageh2title: Manage patient records with open source Open Hospital. It allows you to automate hospitalizations, patient visits, laboratory data, and treatment history.
-Shortdescriptionlistingpage: Open Hospital is another alternative open source medical records management system. It is multilingual, secure and provides RESTful interface with many other features such as patients visits, registeration and medicines.
+Shortdescriptionlistingpage: Open Hospital is another alternative open source patient portal solution. It is multilingual, secure and provides RESTful interface with many other features such as patients visits, registeration and medicines.
 linktitle: Open Hospital
 Imagetext:  Free Healthcare Software
 draft: false

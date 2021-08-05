@@ -1,7 +1,7 @@
 ---
 keywords: hospital information management system, health record management system, patient record management system, health management information system, medical record management system
 title: OpenMRS | Open Source Hospital Information Management System
-description: OpenMRS is a free and open-source hospital information management system. It is secure, multilingual, and comes up with powerful reporting and access features.
+description: OpenMRS is a free and open source hospital information management system. It is secure, multilingual and comes up with powerful reporting and access features.
 singlepageh1title: Health Record Management System With RESTful Interface
 singlepageh2title: OpenMRS is a web-based patient record management system. It offers modules such as location-based login, embedded patient workflows, and flexible reporting.
 Shortdescriptionlistingpage: OpenMRS is another alternative open source hospital information management system. It is flexible and provides powerful features such as role-based permissions, embedded patient workflows, and support for multiple languages.
