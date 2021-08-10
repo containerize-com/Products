@@ -3,7 +3,7 @@ title: Craft | Open Source Content Management System
 description: An Open Source Content Management System which is popular for being flexible, user-friendly to create custom digital experiences on the web and beyond.
 singlepageh1title: A Self-Hosted Open Source Content Management System; A WordPress Alternative
 singlepageh2title: With its user-friendly interface and a fully customizable backend. Craft CMS is designed to make the content creator’s life easy.
-Shortdescriptionlistingpage: Craft CMS is a digital content management system, developed in the world's most popular language PHP. It is an open source WordPress alternative for publishers who want deeper control. And, want more powerful performance from their content management system.
+Shortdescriptionlistingpage: Craft CMS is an other web cms, developed in the world's most popular language PHP. It is an open source WordPress alternative for publishers who want deeper control. And, want more powerful performance from their content management system.
 linktitle: Craft
 Imagetext:  Free CMS Software 
 draft: false
