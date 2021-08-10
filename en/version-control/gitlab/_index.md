@@ -1,6 +1,7 @@
 ---
 title: GitLab | Source Code Management For Software Teams
-description: GitLab is one of the leading self hosted version control software. Moreover, it is a complete DevOps platform that allows teams to collaborate and share easily.
+description: GitLab is one of the leading free source control software. Moreover, it is a complete DevOps platform that allows teams to collaborate and share easily.
+keywords: source code management, source control software, open source version control, self hosted version control
 singlepageh1title: Free And Open Source Source Code Management Software
 singlepageh2title: Rapidly coordinate, share and collaborate with self-hosted source code management software. Allows teams to maximize productivity and faster delivery.
 Shortdescriptionlistingpage: GitLab is a complete free and open source DevOps platform with built-in full feature version control system.
@@ -23,7 +24,7 @@ SinglePage_MenuImage_AltText: GitLab - Source Code Management
 
 ---
 
-GitLab is one of the leading free **source code management** software. It was planned for the Linux OS. It can run on most Linux flavors, except Windows. In addition to **SCM**, it can be used for issue tracking, code review, CI/CD, and many more. Further, it can be deployed on a private server by using source code and a container.
+GitLab is one of the leading free **source code management** software. It was planned for the Linux OS. It can run on most Linux flavors, except Windows. In addition to **source control software**, it can be used for issue tracking, code review, CI/CD, and many more. Further, it can be deployed on a private server by using source code and a container.
 
 GitLab is a full DevOps open source platform and its central feature is version control. A significant aspect of software creation is **source code management**. GitLab helps to communicate and improve productivity for software development teams. It also allows teams to use outstanding features such as code reviews, monitoring of asset versions, feedback loops, and strong branching.
 
