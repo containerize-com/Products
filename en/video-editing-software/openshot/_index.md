@@ -12,13 +12,13 @@ layout: "single"
 GithubLink: https://github.com/OpenShot/openshot-qt
 HomePage_TitleText: Open Source Video Editor in Python
 
-ListingPage_MenuImage_TitleText: 
+ListingPage_MenuImage_TitleText: open source video editing software
 ListingPage_MenuImage_AltText: Open Source Video Editor in C
-ListingPage_Link_TitleText: 
+ListingPage_Link_TitleText: open source video editing software
 
-SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_TitleText: open source video editing software
 SinglePage_HeaderImage_AltText: Openshot is open source video editing software
-SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_TitleText: open source video editing software
 SinglePage_MenuImage_AltText: Openshot is open source video editor 
 
 ---

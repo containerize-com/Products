@@ -21,7 +21,7 @@ listingtypetag: Open Source Software
 HomePage_Link_TitleText: Open Source Video Editing Software
 
 ListingPage_HeaderImage_TitleText:
-ListingPage_HeaderImage_AltText: Top Open Source Video editors
+ListingPage_HeaderImage_AltText: Top open source video editing software
 
 ---
 
