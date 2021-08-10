@@ -4,7 +4,7 @@ title: Shotcut | Open Source Cross Platform Video Editing App
 description: CMDBuild is a free digital asset management platform. It is built on top of enterprise architecture with features such as a visual graph, DB modeling, and more.
 singlepageh1title: Multilingual Open Source Video Editor With 3-Point Editing
 singlepageh2title: Shotcut is professional open source video editing software . It offers powerful features such as 4K resolutions, volume control, video filters, 3-point editing.
-Shortdescriptionlistingpage: Shotcut is another alternative open source video editing app. It provides support for popular video/audio/image formats along with many other features such as 3-point editing, and more.
+Shortdescriptionlistingpage: Shotcut is another alternative open source video trimmer. It provides support for popular video/audio/image formats along with many other features such as 3-point editing, and more.
 linktitle: Shotcut
 Imagetext:  Open Source Video Editing Software
 draft: false
