@@ -12,9 +12,9 @@ layout: "single"
 GithubLink: https://github.com/jliljebl/flowblade
 HomePage_TitleText: Open Source Video Editor in Python
 
-ListingPage_MenuImage_TitleText: 
-ListingPage_MenuImage_AltText: flowblade is an open source video editor
-ListingPage_Link_TitleText: 
+ListingPage_MenuImage_TitleText: open source video editing software
+ListingPage_MenuImage_AltText: flowblade is an oopen source video editing software
+ListingPage_Link_TitleText: open source video editing software
 
 SinglePage_HeaderImage_TitleText: open source video editing tool
 SinglePage_HeaderImage_AltText: Flowblade is open source video editing tool
