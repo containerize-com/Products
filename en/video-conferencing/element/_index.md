@@ -12,13 +12,13 @@ layout: "single"
 GithubLink: https://github.com/vector-im/element-web
 HomePage_TitleText: Video Conferencing Software
 
-ListingPage_MenuImage_TitleText: Open Source Group Messenger Platform
+ListingPage_MenuImage_TitleText: Open Source Video Conferencing Software
 ListingPage_MenuImage_AltText: Open Source Group Messenger Platform
-ListingPage_Link_TitleText: Element
+ListingPage_Link_TitleText: Open Source Video Conferencing Software
 
-SinglePage_HeaderImage_TitleText: team communication software
+SinglePage_HeaderImage_TitleText: Open Source Video Conferencing Software
 SinglePage_HeaderImage_AltText: element is open source team communication software
-SinglePage_MenuImage_TitleText: team communication software
+SinglePage_MenuImage_TitleText: Open Source Video Conferencing Software
 SinglePage_MenuImage_AltText: element is open source team communication software
 
 ---
