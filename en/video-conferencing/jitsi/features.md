@@ -9,12 +9,9 @@ weight: 2
 
 Jitsi Meet offers the following key features:
 
-- Open Source
 - Self-Hosted
-- Secure
 - WebRTC Compatible
 - Scalable
-- Flexible
 - Encryption
 - Multi-Party Video Conference
 - Support For Etherpad

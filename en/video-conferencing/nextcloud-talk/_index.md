@@ -14,7 +14,7 @@ HomePage_TitleText: Video Conferencing Software
 
 ListingPage_MenuImage_TitleText: open source video conferencing software
 ListingPage_MenuImage_AltText: open source video conferencing software
-ListingPage_Link_TitleText: Nextcloud Talk
+ListingPage_Link_TitleText: Open Source Video Conferencing Software
 
 SinglePage_HeaderImage_TitleText: open source video conferencing software
 SinglePage_HeaderImage_AltText: open source video conferencing software

@@ -3,7 +3,7 @@ title: OpenVidu | Free Customizable Video Conferencing Platform
 description: Openvidu is a smart video conferencing platform to establish multiparty encrypted video calls. It is easy to set up and provides support for many frameworks
 singlepageh1title: Multiparty Video Call Platform With Rich Audio/Video Filters
 singlepageh2title: WebRTC based platform with session configuration capabilities. It offers powerful features such as screen sharing, intelligent layout, self hosted and many more
-Shortdescriptionlistingpage: OpenVidu is an alternative open source web meeting software. It provides a complete framework to build and host a rich featured video collaboration software.
+Shortdescriptionlistingpage: OpenVidu is an alternative open source web based meeting software. It provides a complete framework to build and host a rich featured video collaboration software.
 linktitle: OpenVidu
 Imagetext:  Free Video Conferencing Software
 draft: false
@@ -12,13 +12,13 @@ layout: "single"
 GithubLink: https://github.com/OpenVidu/openvidu
 HomePage_TitleText: Video Conferencing Software
 
-ListingPage_MenuImage_TitleText: Open Source Video Conferencing Platform
+ListingPage_MenuImage_TitleText: Open Source web based meeting software
 ListingPage_MenuImage_AltText: Open Source Video Conferencing Platform
-ListingPage_Link_TitleText: OpenVidu
+ListingPage_Link_TitleText: web based meeting software
 
-SinglePage_HeaderImage_TitleText: 
+SinglePage_HeaderImage_TitleText: web based meeting software
 SinglePage_HeaderImage_AltText: openvidu is open source video conferencing software
-SinglePage_MenuImage_TitleText: 
+SinglePage_MenuImage_TitleText: web based meeting software
 SinglePage_MenuImage_AltText: Openvidu is open source Video Conferencing Software
 
 ---
