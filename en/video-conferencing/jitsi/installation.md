@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-#### **Installation Instructions using Docker**
+### **Installation Instructions using Docker**
 
 First, run the following command to get the clone
 
