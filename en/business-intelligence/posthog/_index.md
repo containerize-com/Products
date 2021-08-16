@@ -4,7 +4,7 @@ title: Posthog | Scalable Open Source Data Analytics Solution
 description: Posthog is a free and open source data analytics solution. Deploy it on your infrastructure to examine user's insights and track conversion/retention rate.
 singlepageh1title: Track Your Customers And Websites With A Free BI Solution
 singlepageh2title: Automate every event on your website using Posthog analytics. This business reporting software provides insight visualizations, API for integrations, and more.
-Shortdescriptionlistingpage: Posthog is another alternative open source data analytics solution. It offers automated event capturing, external integrations, conversion/retention tracking, session recording and more.
+Shortdescriptionlistingpage: Posthog is another alternative free business reporting software. It offers automated event capturing, external integrations, conversion/retention tracking, session recording and more.
 linktitle: Posthog
 Imagetext:  Free Business Intelligence Software
 draft: false
