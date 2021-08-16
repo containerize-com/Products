@@ -9,7 +9,7 @@ weight: 3
 
 ### Install MVT On Linux
 
-This guide explains how to setup and run Mobile Verification Toolkit or MVT on Ubuntu. Below installation steps assume that all the depency packages of Ceph software defined storage solution are installed and up to date on your system. For Linux distributions, please follow the below installing ceph steps. First install basic dependencies that are necessary to build all required tools using command:
+This guide explains how to setup and run Mobile Verification Toolkit or MVT on Ubuntu. Below installation steps assume that all the depency packages of MVT software are installed and up to date on your system. For Linux distributions, please follow the below installing mvt steps. First install basic dependencies that are necessary to build all required tools using command:
 
     sudo apt install python3 python3-pip libusb-1.0-0 sqlite3
 
