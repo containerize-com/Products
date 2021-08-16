@@ -7,7 +7,7 @@ weight: 2
 
 ### **Features**
 
-Some of the key features of Mobile Verification Toolkit or MVT are listed below:
+Some of the key features of Mobile Verification Toolkit or MVT for nso group pegasus are listed below:
 
 *   Decrypt encrypted iOS backups.
 *   Process and parse records from iOS system.
