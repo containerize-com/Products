@@ -81,10 +81,3 @@ php bin/console assetic:dump --env=dev
 You need to configure a couple Cron jobs in order to properly run your marketplace in production. See the [Crons documentation](https://github.com/Cocolabs-SAS/cocorico/blob/master/doc/crons.md). You can read about Cocorico features in more detail on the platform’s site, but the idea here is that Cocorico has everything our clients typically ask for.
 
 Congratulations! You have successfully installed Cocorico marketplace. Enjoy!
-
-Explore
--------
-
-In this article we have discussed cocorico marketplace software to sell services Online. To learn about other open source marketplace software, please check following pages:
-
-*   [Best Open Source Marketplace Software](https://products.containerize.com/marketplace)
