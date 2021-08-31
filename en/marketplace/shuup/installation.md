@@ -7,7 +7,7 @@ weight: 3
 
 ### **Installation Instructions**
 
-## Install Shuup On Ubuntu
+### Install Shuup On Ubuntu
 
 First, ensure that all the depency packages of Shuup multivendor store are installed and up to date. Fastest way to get Shuup up and running is to use Docker:
 
