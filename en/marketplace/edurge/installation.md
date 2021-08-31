@@ -36,10 +36,3 @@ You should now be able to connect to Edurge application on http://localhost:3000
     
 
 Congratulations! You have successfully installed Edurge marketplace. Enjoy!
-
-Explore
--------
-
-In this article we discussed about Edurge courses online free open source marketplace software. To learn about other open source marketplace software, please visit following page:
-
-*   [Best Open Source Marketplace Software](https://products.containerize.com/marketplace)
