@@ -3,7 +3,7 @@ keywords: open source medical software, hospital information system, medical car
 title: FreeMED | Self-Hosted Open Source Medical Software
 description: FreeMED is a free, multilingual, open source medical software that is developed to provide health care information management to the medical industry.
 singlepageh1title: Free Medical Care Solution Based On XML-RPC Web Services
-singlepageh2title: An open source medical care solution built on a modular architecture with powerful features such as HL7 interface, patient scheduling, billing service and more.
+singlepageh2title: Web based hospital information system built on a modular architecture with robust features such as HL7 interface, patient scheduling, billing service and more.
 Shortdescriptionlistingpage: FreeMED is another alternative free and open source medical software. It provides HL7 interface along with other powerful features such as patient scheduling, document management and more.
 linktitle: FreeMED
 Imagetext:  Free Healthcare Software
