@@ -7,8 +7,7 @@ weight: 1
 
 ### **System Requirements**
 
-Requirements to set up Solismed include:
+Requirements to set up FreeMED include:
 
-*   PHP Version: 7.1 +
-*   XAMPP | WAMP
+*   Docker
 
