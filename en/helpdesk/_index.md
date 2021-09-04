@@ -1,9 +1,9 @@
 ---
-keywords: free it help desk software, free help desk ticketing software, free online help desk ticketing system, online help desk software, free help desk online, free hosted ticketing system
+keywords: free it help desk software, free help desk ticketing software, free online help desk ticketing system, online help desk software, free help desk online, free hosted ticketing system, help desk management software,ticketing solutions, help desk tool, it help desk solutions
 title: Free IT Help Desk Software | osTicket and Alternatives
-description: Choose the best ticketing system freeware suiting for your business. All the options listed here are open source help desk ticketing software.
+description: Choose the best ticketing system freeware suitable for your business. All the options listed here are open-source help desk ticketing software.
 singlepageh1title: Best Open Source and Free IT Help Desk Software
-singlepageh2title: A helpdesk organizes customer communication with tickets. Grow customer satisfaction by systematic issue tracking and quick responses.
+singlepageh2title: A helpdesk software solution organizes customer communication with issue tracking system tickets. It automates the complaints resolution faster and efficiently.
 Shortdescriptionlistingpage: A helpdesk organizes customer communication with tickets. Grow customer satisfaction by systematic issue tracking and quick responses.
 linktitle: helpdesk
 Imagetext:  Open Source Software 
