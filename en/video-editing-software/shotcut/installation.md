@@ -6,7 +6,7 @@ weight: 3
 ---
 
 
-#### **Installation Instructions**
+### **Installation Instructions**
 
 Once pre-requisites are in place, open the command line and run and check dependencies are satisfied and various paths correctly set to find different libraries and include files.
 
