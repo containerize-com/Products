@@ -8,7 +8,7 @@ Shortdescriptionlistingpage: Pitivi is another alternative open source video edi
 linktitle: Pitivi
 Imagetext:  Open Source Video Editing Software
 draft: false
-weight: 2
+weight: 6
 layout: "single"
 GithubLink: https://github.com/pitivi/pitivi
 HomePage_TitleText: Open Source Video Editor in Python
