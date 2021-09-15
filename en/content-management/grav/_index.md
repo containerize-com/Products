@@ -24,7 +24,7 @@ SinglePage_MenuImage_AltText: Grav is one of the most powerful open source CMS.
 
 ---
 
-#### Overview
+### Overview
 
 A flat-file CMS is an open source file-based content management system (CMS). It stores files and data in text files and folders rather than a database. Therefore, Grav CMS requires no installing. Since all of its components are pre-installed and all it takes to set it up is to simply download it and extract an archive. It is open source and has all the source code available at [Github](https://github.com/getgrav/grav).
 

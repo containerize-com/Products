@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
+### System Requirements
 -------------------
 
 concrete5 is written primarily in PHP. Additionally, some PHP extensions which provide extra functionality are needed. The version of the PHP interpreter and the PHP extensions needed depends on the version of concrete5 in use. Below you will find details for both supported major versions of concrete5.

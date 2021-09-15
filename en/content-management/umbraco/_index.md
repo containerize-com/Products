@@ -25,6 +25,8 @@ SinglePage_MenuImage_AltText: Umbraco provides an open source self hosted CMS
 
 ---
 
+### Overview
+
 Umbraco CMS provides the quickest ways to set up a website for business by offering ready-made design templates. An intuitive dashboard is in place to let users build, update, and publish content efficiently. Further, this self hosted CMS offers a complete echo system according to which the system auto-updates itself with the latest features and bug fixes.
 
 This digital content management system provides an enterprise-level user interface. In addition, this tree structure is completely searchable with a search field. The user can search any component by its name. Therefore, a pool of extensions is available to use. This multilingual CMS offers complete documentation regarding the development and deployment of the new extensions.  

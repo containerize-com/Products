@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
+### System Requirements
 -------------------
 
 In order to install Refinery CMS,you’ll need to install some dependencies and prerequisites:

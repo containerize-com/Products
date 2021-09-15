@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-Features
+### Features
 --------
 
 LocomotiveCMS offers features that may not be available to other PHP based CMS, like WordPress Joomla or Drupal. You will have out of the box.
