@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-Features
+### Features
 --------
 
 Contao has an intuitive user interface that uses Ajax and Web 2.0 technologies for optimal usability. Multiple back end languages and themes, a powerful permission system, versioning and undo management, advanced search and sorting options, and the Contao Manager are just a few of the many features that make Contao stand out from other Content Management Systems. The Contao front end is 100% template based and generates accessible XHTML strict output that meets the W3C/WAI requirements. Search engine-friendly URLs, GZip support, a PDF export function, multi-language support, and much more help you to build contemporary websites without being a programmer.

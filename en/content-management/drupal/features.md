@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-Features
+### Features
 --------
 
 Drupal is quite easy to customize and deploy. It is scalable, well suited for design and development with a robust platform. Some of the other features that make Drupal different from others are listed below:

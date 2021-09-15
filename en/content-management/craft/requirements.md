@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
+### System Requirements
 -------------------
 
 Following are the recommended system requirements for the Craft CMS:

@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
+### System Requirements
 -------------------
 
 Requirements for installing and running Fork CMS are:

@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### **Features**
+### Features
 --------
 
 Following are the key features of Umbraco CMS
