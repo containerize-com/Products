@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-Features
+### Features
 --------
 
 Following are the features that give you flexibility and control throughout the entire process.

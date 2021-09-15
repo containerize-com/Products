@@ -24,7 +24,7 @@ SinglePage_MenuImage_AltText: Contao is one of the most robust open source CMS.
 
 ---
 
-#### Overview
+### Overview
 
 Contao CMS is an open source CMS, developed in the world’s most popular language PHP. It is a WordPress alternative for publishers who want simplicity and scalability. And, want more powerful performance from their content management system. Con­tao is based on open web stan­dards and is eas­i­ly adapt­able to your needs.
 

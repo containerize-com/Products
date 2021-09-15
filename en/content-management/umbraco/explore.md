@@ -7,7 +7,7 @@ weight: 4
 
 * * *
 
-### **Explore**
+### Explore
 
 *   **[Automate Business Operations Using Free and Open Source Software](https://blog.containerize.com/2020/08/27/automate-business-operations-using-open-source-software/)**
 *   **[Beginner’s Guide to Create a Basic Joomla template](https://blog.containerize.com/2021/01/22/beginners-guide-to-create-a-basic-joomla-template/)**

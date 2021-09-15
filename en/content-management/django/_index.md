@@ -24,6 +24,8 @@ SinglePage_MenuImage_AltText: Django is a free web content management software
 
 ---
 
+### Overview
+
 Digital world has become so competitive and alive that it keeps things turning around for the sake of updates and fresh content. The digital platform is dependent on rich and high rated content. Regardless of the platform, web content management software is the essence of all the marketing techniques. Hence, there is a strong need in the community regarding creating, managing, and publishing the content.
 
 Open source community has played a vital role to meet these requirements by providing several web content management software and Django is one of those which provides an open source CMS. It has been in the market since 2007 and thousands of websites are supported by this CMS. It meets most of the content related use cases of enterprise business. For example, If your business needs regular publishing of posts and blogs in multiple languages then Django CMS is the best fit.
