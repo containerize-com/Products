@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-Requirements
+### Requirements
 ------------
 
 The requirements class takes care of including CSS and JavaScript into your applications. This is preferred to hard coding any references in thetag of your template, as it enables a more flexible handling through the Requirements class.

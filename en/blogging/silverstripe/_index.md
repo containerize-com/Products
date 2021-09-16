@@ -24,7 +24,7 @@ SinglePage_MenuImage_AltText: Silverstripe can customize website to any level
 
 ---
 
-#### Overview
+### Overview
 
 SilverStripe is one of the best open source PHP based content management system as well as a flexible framework which makes it equally loved by both editors and developers. With the use of SliverStripe you actually give your teams an amazing software to achieve amazing results. It has all the powers of Joomla and simplicity of WordPress all in one package.
 

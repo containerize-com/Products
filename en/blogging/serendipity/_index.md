@@ -24,7 +24,7 @@ SinglePage_MenuImage_AltText: Serendipity is a free and self managed blogging pl
 
 ---
 
-#### Overview
+### Overview
 
 Reliability, Security, Extensibility and Ease of use are the core features of any Software and Serendipity fulfills all the requirements of an amazing blogging software.
 

@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-Requirements
+### Requirements
 ------------
 
 1. Hugo runs on a standard version of all major desktop operating systems - Windows, MacOS and the various flavors of Unix.

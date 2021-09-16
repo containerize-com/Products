@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-Features
+### Features
 --------
 
 - Blazing Fast - Node.js brings you incredible generating speed. Hundreds of files take only seconds to build.
