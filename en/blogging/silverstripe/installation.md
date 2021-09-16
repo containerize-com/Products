@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-Installation Guide
+### Installation Guide
 ------------------
 
 These instructions show you how to install SilverStripe on any web server. Check out our operating system specific guides for Linux, Windows Server and Mac OSX.

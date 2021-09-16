@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-Requirements
+### Requirements
 ------------
 
 WordPress has a web template system by means of a template processor. Its architecture is a front controller, routing all requests for non-static URIs to a single PHP file which analyses the URI and recognizes the target page. This allows support for more human-readable permalinks. WordPress is written in PHP and paired with a MySQL or Maria DB database.
@@ -15,7 +15,7 @@ WordPress has a web template system by means of a template processor. Its archit
 - HTTPS / SSL Certificate Support
 - Apache or Nginx as these are the most reliable and powerful servers for WordPress otherwise you can install any server as long as its support PHP and MySQL
  
-Features
+### Features
 --------
 
 WordPress is the background behind many of the websites and blogs which users visit every day. WordPress is an influential semantic publishing platform, and it comes with an unlimited set of features planned to make users capability as a publisher on the Internet equally easy, pleasing, and attractive. There are other following features which makes WordPress one the most easy and useable interface for its users.
