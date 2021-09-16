@@ -1,9 +1,9 @@
 ---
 keywords: open source video editor tool, video trimmer, creative video editor, easy video maker, open source video maker
 title: Open Source Video Editor Tool For Web | Pitivi
-description: Pitivi is an open source video editor tool that offers comprehensive documentation. Features include animated effects, automatic zoom adjustment and more.
+description: Pitivi is an open-source video editor tool that offers comprehensive documentation. Its features include animated effects, automatic zoom adjustment, and more.
 singlepageh1title: Free Video Trimmer Based On GStreamer Multimedia Framework
-singlepageh2title: Pitivi is a highly creative video editor that supports any format of video for editing. Real-time trimming previews, non modal cutting, are prominent features.
+singlepageh2title: Pitivi is a highly creative video editor that supports any format of video for editing. Real-time trimming previews, non-modal cutting, are prominent features.
 Shortdescriptionlistingpage: Pitivi is another alternative open source video editor tool that provides powerful features such as automatic zoom adjustment, rich timeline, effects, trimming and more.
 linktitle: Pitivi
 Imagetext:  Open Source Video Editing Software
