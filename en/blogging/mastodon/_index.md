@@ -25,7 +25,7 @@ SinglePage_MenuImage_AltText: Mastodon is a free and open-source social network 
 
 ---
 
-#### Overview
+### Overview
 
 Mastodon is a free, open-source social network server based on ActivityPub where users can follow friends and discover new ones. On Mastodon, users can publish small updates to a stream of updates like posts, links, pictures, text, video. All Mastodon servers are interoperable as a federated network where users on one server can communicate with users from another one and discover new ones.
 

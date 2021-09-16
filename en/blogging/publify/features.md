@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-Features
+### Features
 --------
 
 Some of the great features of Publify are listed below:

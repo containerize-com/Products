@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-#### **Explore**
+### Explore
 
 In this article we discussed about Mastodon blogging platform. To learn about other open source blogging applications, please visit following page:
 

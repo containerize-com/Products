@@ -25,7 +25,7 @@ SinglePage_MenuImage_AltText: Publify is the easiest and powerful blogging platf
 
 ---
 
-#### Overview
+### Overview
 
 Publify is a free but full featured web publishing software. It's built around a blogging engine and a small message system connected to Twitter. Publify follows the principles of the IndieWeb, which are self hosting your Web site, and Publish On your Own Site, Syndicate Everywhere. Publify has been around since 2004 and is the oldest Ruby on Rails open source project alive.
 

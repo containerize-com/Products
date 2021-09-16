@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-#### **Explore**
+### Explore
 
 In this article we discussed about Publify blogging engine. To learn about other open source blogging platforms, please visit following page:
 

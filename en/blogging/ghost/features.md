@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-Features
+### Features
 --------
 
 Ghost have following key features
