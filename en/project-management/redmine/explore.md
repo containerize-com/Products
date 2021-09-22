@@ -7,7 +7,7 @@ weight: 5
 
 ### Explore
 
-You may find the following links relevant:
+You may find the following open source software project management tool links relevant:
 
 - [Phabricator](https://products.containerize.com/project-management/phabricator/)
 - [Taiga](https://products.containerize.com/project-management/taiga/)

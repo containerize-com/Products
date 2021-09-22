@@ -10,7 +10,7 @@ weight: 3
 
 #### Installation using Github
 
-First make sure you have installed all the dependencies. Clone the latest Redmine repository into document root folder:
+First make sure you have installed all the dependencies. Clone the latest Redmine pms project management system repository into document root folder:
 
     git clone https://github.com/redmine/redmine
 
@@ -36,7 +36,7 @@ Install Bundler first if you use Ruby 2.5 or earlier:
 
     gem install bundler
 
-Then you can install all the gems required by Redmine using the following command:
+Then you can install all the gems required by Redmine free agile project management software using the following command:
 
     bundle install --without development test
 
