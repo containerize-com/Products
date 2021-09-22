@@ -1,10 +1,9 @@
 ---
-keywords: source code management software, gitlab open source, version control software, source code management tool, self hosted gitlab, source control management system, open source gitlab, install gitlab self hosted, gitlab self hosted free, self hosted version control, open source version control, version control tool, source code management system
+keywords: source code management software, gitlab open source, version control software, source code management tool, self hosted gitlab, source control management system, open source gitlab, install gitlab self hosted, gitlab self hosted free, self hosted version control, open source version control, version control tool, source code management system, source code management, source control software
 title: GitLab | Source Code Management For Software Teams
-description: GitLab is one of the leading free source control software. Moreover, it is a complete DevOps platform that allows teams to collaborate and share easily.
-keywords: source code management, source control software, open source version control, self hosted version control
+description: GitLab is one of the leading free self-hosted source control software. It is a complete DevOps platform that allows teams to easily collaborate and share.
 singlepageh1title: Free And Open Source Source Code Management Software
-singlepageh2title: Rapidly coordinate, share and collaborate with self-hosted source code management software. Allows teams to maximize productivity and faster delivery.
+singlepageh2title: Rapidly coordinate, share, and collaborate with self-hosted source code management software. Allows teams to maximize productivity and faster delivery.
 Shortdescriptionlistingpage: GitLab is a complete free and open source DevOps platform with built-in full feature version control system.
 linktitle: GitLab
 Imagetext:  Free Version Control Software 
