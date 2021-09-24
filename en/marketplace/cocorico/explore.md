@@ -5,7 +5,7 @@ weight: 5
 
 ---
 
-### **Explore**
+### Explore
 
 In this article we discussed about Open source marketplace Cocorico. To learn about other marketplace software, please visit following pages:
 
