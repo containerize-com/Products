@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-### **FAQs**
+### FAQs
 
 ### What is Edurge?
 Open source Edurge marketplace is best Udemy clone on the market. You can set up your online school in minutes with the help of Edurge marketplace.

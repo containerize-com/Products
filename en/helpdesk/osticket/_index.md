@@ -23,6 +23,7 @@ SinglePage_MenuImage_TitleText:
 SinglePage_MenuImage_AltText: osTicket is open source customer care technology
 
 ---
+### Overview
 
 osTicket is an open source ticketing based helpdesk system with intuitive control panel and real-time reporting component to design personalized reports. It has easy to use inquires management module that allows you to create inquiries from your phone, email and web-based forms. osTicket helpdesk ticketing system software has strong community and wide range of plugins is available to extend functionally as per your business requirements.
 

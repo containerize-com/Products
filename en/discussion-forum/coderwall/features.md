@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-Features
+### Features
 --------
 
 Some of the great list of features of coderwall developer community are listed below:

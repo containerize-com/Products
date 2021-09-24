@@ -6,7 +6,7 @@ weight: 1
 ---
 
 
-System Requirements
+### System Requirements
 -------------------
 
 Coderwall collaborative learning platform is built from the following components and in order to install coderwall open source web developer community tool, you’ll need to install following dependency packages:

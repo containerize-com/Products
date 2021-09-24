@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-**System Requirements**
+### System Requirements
 -----------------------
 
 For ShareTribe production installation I’d recommend that you go with Heroku. That way you get easily the scalability when needed, as well as handling of database e.g. Thinking-sphinx addon for indexing and searching. Of course, you can go with AWS directly and it requires following dependencies.

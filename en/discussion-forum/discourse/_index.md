@@ -24,7 +24,7 @@ SinglePage_MenuImage_AltText: Discourse is Open Source Modern Forum Software
 
 ---
 
-#### Overview
+### Overview
 
 Discourse is a 100% free, fully open source, modern, easy to use, feature-rich community-based discussion forum software. It's a robust, reliable, and adaptable platform that accompanies a wide range of tools for community discussions. It is designed for building community discussion platforms, mailing list or chat room for your team, clients, fans, supporters, or friends.
 

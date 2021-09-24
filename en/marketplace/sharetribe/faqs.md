@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-### **FAQs**
+### FAQs
 
 ### What is Sharetribe used for?
 Sharetribe is a self hosted peer-to-peer marketplace platform that can be used to sell, rent, offer services, or provide services away for free.  You can create a marketplace type that best suits your needs using different order types. You can handle hosting, transactions and accept online payments or only facilitate contact between marketplace users.
