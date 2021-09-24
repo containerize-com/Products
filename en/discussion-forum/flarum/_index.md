@@ -24,7 +24,7 @@ SinglePage_MenuImage_AltText: Flarum is PHP bases free message board.
 
 ---
 
-#### Overview
+### Overview
 
 Flarum is an open source, free and straightforward discussion forum for your site. It’s reimagined and beautiful designed forum software with packed full of features. It’s fast, simple and easy to deploy forum builder powered by PHP and Mithril.
 

@@ -5,7 +5,7 @@ weight: 5
 
 ---
 
-### **Explore**
+### Explore
 
 In this article we discussed about open source marketplace Shuup. To learn about other marketplace software, please visit following pages:
 
