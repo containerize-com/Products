@@ -7,7 +7,7 @@ weight: 5
 
 ### Explore
 
-You may find the following links relevant:
+You may find the following version control tools relevant links:
 
 - [Git](https://products.containerize.com/version-control/git/)
 - [Subversion](https://products.containerize.com/version-control/subversion/)

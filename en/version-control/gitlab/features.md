@@ -7,7 +7,7 @@ weight: 2
 
 ### Features
 
-GitLab is shipped with powerful features of version control software. Some of the key features are listed below:
+GitLab is shipped with powerful features of version control software. Some of the key features of gitlab self hosted free software are listed below:
 
 - User Management
 - Code Analytics

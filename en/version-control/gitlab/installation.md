@@ -9,7 +9,7 @@ weight: 3
 
 #### Installing on Ubuntu
 
-Install and configure the necessary dependencies packages.
+Install gitlab self hosted software and configure the necessary dependencies packages.
 
  ```
 

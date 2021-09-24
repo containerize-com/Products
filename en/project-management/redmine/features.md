@@ -8,7 +8,7 @@ weight: 2
 
 ### Features
 
-Redmine has all the advance features that you can envision from top project management software. Main features include
+Redmine has all the advance features that you can envision from top project management software. Project management software main features include
 
 *   Multiple projects support
 *   Multiple subproject support
