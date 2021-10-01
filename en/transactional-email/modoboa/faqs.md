@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-### **FAQs**
+### FAQs
 
 ### What is Modoboa used for?
 Modoboa is an open source email server. That helps enterprises to setup their own open source email server for free.
