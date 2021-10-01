@@ -24,8 +24,7 @@ SinglePage_MenuImage_AltText: Signal is a free, privacy-focused messaging and vo
 
 ---
 
-Overview
---------
+### Overview
 
 Using a secure texting app like Signal is a good idea for talking as the primary use of a phone. It is a lot easier to store and work with plain text than it is to do with audio. Signal is a trusted private messaging application and its simplicity allows you to seamlessly continue conversations back and forth between your mobile device and your desktop computer. Everything is end-to-end encrypted in order to keep your communication safe. It allows you to send high-quality private group, text, pictures, and video messages for free.
 

@@ -5,7 +5,7 @@ weight: 5
 
 ---
 
-### **Explore**
+### Explore
 
 You may find the following links relevant:
 - [Top 5 Open Source Mail Transfer Agents for Linux in 2020](https://blog.containerize.com/2020/10/02/top-5-open-source-mail-transfer-agents-for-linux-in-2020/)

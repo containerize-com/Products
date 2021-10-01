@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### **System Requirements**
+### System Requirements
 
 You will need a Server to perform well with at least:
 

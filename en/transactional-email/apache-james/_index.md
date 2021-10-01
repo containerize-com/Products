@@ -24,6 +24,7 @@ SinglePage_MenuImage_TitleText:
 SinglePage_MenuImage_AltText: Apache James is an open-source mail server for enterprises.
 
 ---
+### Overview
 
 Apache James is a 100% free and open-source mail server. James stands for Java Apache Mail Enterprise Server. It’s designed to be a complete and portable enterprise mail engine solution based on currently available open protocols like IMAP, SMTP, JMAP, and POP3. Apache James is also a mail application platform. It comes with a JAVA API to let you write Java code to process emails.
 

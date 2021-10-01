@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-#### **Installation Instructions**
+### Installation Instructions
 
 First step to set-up FormBuilder locally is to clone the repo:
 
