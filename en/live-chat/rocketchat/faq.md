@@ -4,8 +4,8 @@ onpagelink: faq
 weight: 4
 
 ---
-
-<a class="anchor" id="faq" name="faq"></a>### FAQ
+### FAQs
+<a class="anchor" id="faq" name="faq"></a>
 
 #### **When will my snap installation get the latest release?**
 

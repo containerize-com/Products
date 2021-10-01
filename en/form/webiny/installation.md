@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### **Installation Instructions**
+### Installation Instructions
 
 Firstly, run this command to create Webiny project:
 

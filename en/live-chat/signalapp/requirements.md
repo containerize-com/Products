@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
+### System Requirements
 -------------------
 
 Signal Desktop has below minimum OS system requirements

@@ -23,6 +23,7 @@ SinglePage_MenuImage_TitleText:
 SinglePage_MenuImage_AltText: Rocket.Chat supports customer chat out of box
 
 ---
+### Overview
 
 Rocket.Chat is amongst the popular live chat softwares partly an open source live chat project. It has a free live chat version as community edition as well as a paid hosted live chat version for large companies with private internal chat features. This live chat application runs in the browser but can be installed on your own server as well.
 

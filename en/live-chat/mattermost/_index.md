@@ -23,6 +23,7 @@ SinglePage_MenuImage_TitleText:
 SinglePage_MenuImage_AltText: Mattermost centralize all your communications
 
 ---
+### Overview
 
 Mattermost app is an open source team collaboration and live chat software that is highly secure and scalable. It's considered an alternative to the most popular proprietary live chat apps and team collaboration software. It’s a mixture of both Slack and Microsoft Teams and makes it a superset of both the applications.
 

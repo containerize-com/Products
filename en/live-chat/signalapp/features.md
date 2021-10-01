@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-Features
+### Features
 --------
 
 Signal is a privacy focused WhatsApp alternative application and it provides below functionality
