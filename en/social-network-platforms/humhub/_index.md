@@ -23,7 +23,7 @@ SinglePage_MenuImage_TitleText: open source social network
 SinglePage_MenuImage_AltText: Free open source social network
 
 ---
-### Overview
+### **Overview**
 
 HumHub is an open source social network to build private/public social spaces within your organization. This social collaboration tool provides self-hosting capabilities along with other powerful features. However, it is highly customizable and offers a marketplace with a bunch of themes and modules. Moreover, it let's users create spaces for specific purposes such as team, project or any topic. Then, admins can add other users and assign role based permissions. Above all, the prominent features of this open source social media tool are notifications, comment, follow, like, activity stream, user profiles, and more.
 

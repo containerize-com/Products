@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 
 HumHub offers the following key features:
  

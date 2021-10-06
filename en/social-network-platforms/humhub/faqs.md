@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-### FAQs
+### **FAQs**
 
 ### Is HumHub free?
 In fact, this open source social network is free and comes with self-hosting capabilities.
