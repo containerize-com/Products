@@ -14,7 +14,7 @@ GithubLink: https://github.com/humhub/humhub
 HomePage_TitleText: Open Source Social Network Platform in PHP
 
 ListingPage_MenuImage_TitleText: Open Source Social Network Platform
-ListingPage_MenuImage_AltText: alt= Free Open Source Social Network Platform
+ListingPage_MenuImage_AltText: Free Open Source Social Network Platform
 ListingPage_Link_TitleText: Open Source Social Network Platform
 
 SinglePage_HeaderImage_TitleText: Open Source Social Network Platform
