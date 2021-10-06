@@ -13,14 +13,14 @@ layout: "single"
 GithubLink: https://github.com/humhub/humhub
 HomePage_TitleText: Open Source Social Network Platform in PHP
 
-ListingPage_MenuImage_TitleText: Open Source Social Network Platform
-ListingPage_MenuImage_AltText: Free Open Source Social Network Platform
-ListingPage_Link_TitleText: Open Source Social Network Platform
+ListingPage_MenuImage_TitleText: open source social network
+ListingPage_MenuImage_AltText: Free open source social network
+ListingPage_Link_TitleText: open source social network
 
-SinglePage_HeaderImage_TitleText: Open Source Social Network Platform
-SinglePage_HeaderImage_AltText: Free Open Source Social Network Platform
-SinglePage_MenuImage_TitleText: Open Source Social Network Platform
-SinglePage_MenuImage_AltText: Free Open Source Social Network Platform
+SinglePage_HeaderImage_TitleText: open source social network
+SinglePage_HeaderImage_AltText: Free open source social network
+SinglePage_MenuImage_TitleText: open source social network
+SinglePage_MenuImage_AltText: Free open source social network
 
 ---
 ### Overview
