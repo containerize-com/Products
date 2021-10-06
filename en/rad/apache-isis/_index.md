@@ -10,7 +10,7 @@ draft: false
 weight: 5
 layout: "single"
 GithubLink: https://github.com/apache/isis
-HomePage_TitleText: Open Source Rapid Application Development Framework in Java**
+HomePage_TitleText: Open Source Rapid Application Development Framework in Java
 
 ListingPage_MenuImage_TitleText: 
 ListingPage_MenuImage_AltText: alt="Open Source Rapid Application Development Framework"
