@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+###  **System Requirements**
 -------------------
 
 In order to install Joomla 3.x, you must have the following softwares

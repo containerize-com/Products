@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 
 FreeScout is powerful and lightweight helpdesk system to provide excellent customer care. It is definitive choice for entertainment, production, services, manufacturing, construction, gaming related industries. Important features include
 

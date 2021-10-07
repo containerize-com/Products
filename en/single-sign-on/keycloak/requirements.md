@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
+### **System Requirements**
 -------------------
 
 *   Any OS that runs Java

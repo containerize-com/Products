@@ -25,7 +25,7 @@ SinglePage_MenuImage_AltText: Shuup is free and open source marketplace software
 
 ---
 
-### Overview
+### **Overview**
 
 Shuup is an open source marketplace multivendor platform. It is a reliable, user-friendly, easy to use, customizeable and scalable marketplace solution. Shuup marketplace uses common standards that will promote your web and mobile applications. Shuup is built on top of the powerful Python and Django web framework. Shuup architecture provides secure work and advanced features for your marketplace store. This eCommerce framework allows you to use responsive templates and themes that will make customizations very easy.
 

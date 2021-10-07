@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
+### **System Requirements**
 -------------------
 
 In order to install OpenSourceBilling, below are the system requirements

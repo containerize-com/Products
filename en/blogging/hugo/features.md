@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 --------
 
 Hugo boasts blistering speed, robust content management, and a powerful templating language making it a great fit for all kinds of static websites.

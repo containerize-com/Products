@@ -24,7 +24,7 @@ SinglePage_MenuImage_AltText: Hexo is the easiest and powerful blogging platform
 
 ---
 
-### Overview
+### **Overview**
 
 Static Site Generators are a new, hybrid approach to web development that allow you to build a powerful, server-based website locally on your computer but pre-builds the site into static files for deployment. Static site generators are growing in popularity among developers. And, Hexo is one of the best choices available.
 

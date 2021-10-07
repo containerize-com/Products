@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
 Helpy is Ruby on Rails and Postgres based ticketing based customer support software. It requires following software.
 

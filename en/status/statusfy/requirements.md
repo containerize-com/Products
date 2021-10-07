@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
 - Node.js &gt;= 8
  

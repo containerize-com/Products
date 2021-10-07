@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 
 This is a list of features (in no real particular order) of things that Postal can do.
 

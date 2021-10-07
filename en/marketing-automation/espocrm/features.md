@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 
 EspoCRM is enriched with all the modern marketing and sales automation features. Main features include
 

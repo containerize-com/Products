@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
 Orbeon Forms runs on any platform that supports:
 

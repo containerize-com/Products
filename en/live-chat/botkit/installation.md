@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation Instructions
+### **Installation Instructions**
 
 The best way to get started locally with Botkit is by installing our command line tool, and using it to create a new Botkit project. This will install and configure a starter kit for you!
 

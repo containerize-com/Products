@@ -24,7 +24,7 @@ SinglePage_MenuImage_AltText: LocomotiveCMS offers features that may not be avai
 
 ---
 
-### Overview
+### **Overview**
 --------
 
 Locomotive, the Ruby on Rails application, also named Engine, is an open source platform to create, publish and edit sites (CMS). It is designed to save time, uses mongodb and liquid templates and help you focus on what matters: front-end technology, standard development process and a very low learning curve for your clients. Locomotive CMS uses the exact same template engine as for Shopify, one of the best hosted e-commerce solution. All you do is write your content and its instantly published.

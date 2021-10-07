@@ -22,7 +22,7 @@ SinglePage_MenuImage_TitleText:
 SinglePage_MenuImage_AltText: Mailtrain - Node.js Based Newsletter Platform
 
 ---
-
+### **Overview** 
 Mailtrain is Mailchimp clone and feature-rich self-hosted newsletter software that is great for sending emails to millions of subscribers. Mailtrain provides superb features such as campaign automation with analytics.
 
 Mailtrain lets you maintain very large lists and you may manually add subscribers, through the API or import them from a CSV file. All lists come with custom field support, and even combine tags. You can add different resources such as custom fields, including text fields, numbers, drop downs &amp; checkboxes, via the merge tags. Just send messages to list subscribers that fit preset segmentation rules. You don’t need to create independent and small separated lists.

@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation**
 
 #### Install Zammad on Debian 7, 8 / Ubuntu 16.04 / Ubuntu 18.04 (with Nginx &amp; MySQL)
 

@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
 It can easily run on any major operating system which supports Java Runtime Environment. Java version 1.8 is required to run the James Application. On Linux/Unix platforms, root access will be required to run Apache James. 
 

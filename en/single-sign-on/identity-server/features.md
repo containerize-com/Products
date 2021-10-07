@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-Features
+### **Features**
 --------
 
 - Authentication as Service:

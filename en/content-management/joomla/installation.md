@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation**
 
 ### Install Joomla CMS on Ubuntu 16.04 LTS with Nginx
 

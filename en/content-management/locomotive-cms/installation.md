@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation**
 
 ### Install LocomotiveCMS on Linux (Debian-based)
 

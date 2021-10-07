@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 
 Flarum is equipped with feature set to support wide range of industries e.g. entertainment, production, services, manufacturing, construction, gaming etc. Key Features include
 

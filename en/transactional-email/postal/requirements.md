@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
 There are a couple of pre-reqs for running Postal. This page outlines how to quickly install the things needed on an Ubuntu 16.04 server.
 

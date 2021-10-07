@@ -24,7 +24,7 @@ SinglePage_MenuImage_AltText: Jekyll is a free static website builder
 
 ---
 
-### Overview
+### **Overview**
 
 A static site generator is an application that takes your site contents, applies it to some template and generate purely static HTML files ready to be hosted on any hosting platform. Before the Dynamic CMSs like WordPress, Joomla and Drupal internet was all about static websites. All these dynamic content management systems improved the management of the content but at the cost of simplicity and speed.
 

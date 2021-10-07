@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation**
 
 #### Install Akaunting on Ubuntu 18.04 LTS with Nginx using downloaded package
 

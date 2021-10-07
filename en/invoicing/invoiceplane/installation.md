@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation**
 
 #### Install InvoicePlane on Ubuntu 16.04/18.04 LTS with Nginx using GitHub
 

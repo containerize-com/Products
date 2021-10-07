@@ -24,7 +24,7 @@ SinglePage_MenuImage_AltText: Mautic is PHP based Marketing Automation and CRM S
 
 ---
 
-### Overview
+### **Overview**
 --------
 
 Mautic is a free and open source marketing automation software that gives you complete control over your marketing emails, landing pages, workflows and the measures for your marketing activities. It automates the way toward getting and supporting leads created from landing pages and forms, contacts and sends workflow email, instant messages, notifications, social network tracking, and incorporating with your CRM and different software.

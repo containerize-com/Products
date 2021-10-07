@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
 Vanilla Forums is PHP and MySQL / MariaDB. Strongly recommended requirements are following:
 

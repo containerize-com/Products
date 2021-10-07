@@ -22,7 +22,7 @@ SinglePage_MenuImage_AltText: CovidVolunteers is an open source virtual voluntee
 
 
 ---
-### Overview
+### **Overview**
 
 CovidVolunteers is an virtual volunteering platform to organize volunteers for COVID-19 related projects. CovidVolunteers virtual volunteer opportunities service helps you successfully manage your COVID-19 related projects and you can book a time with community service opportunities active volunteers. CovidVolunteers volunteer services help in volunteering for one of active virtual volunteer opportunities and how projects bring people together and the progress they made. CovidVolunteers helped healthcare to find the resources and volunteer opportunities near me.
 

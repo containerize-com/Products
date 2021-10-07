@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation Instructions
+### **Installation Instructions**
 
 Install database Server, use the following command to install MongoDB
 

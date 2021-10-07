@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 
 MoonMail is web based newsletter, mailing list and email marketing software. Main features include:
 

@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-### FAQs
+### **FAQs**
 
 ### What is Shuup Marketplace?
 Shuup is a true open source marketplace solution that enables two-sided or single-vendor marketplaces for all B2B, B2C, and P2P solutions. Shuup offers complete flexibility in its open source marketplace platform.

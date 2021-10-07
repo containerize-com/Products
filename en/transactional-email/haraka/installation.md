@@ -4,7 +4,7 @@ onpagelink: installation
 weight: 3
 
 ---
-### Installation
+### **Installation**
 
 Haraka requires Node.js to run you can install Haraka with npm:
 ```

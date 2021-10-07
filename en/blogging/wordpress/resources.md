@@ -7,7 +7,7 @@ weight: 5
 
 - - - - - -
 
-### Resources
+### **Resources**
 
 - [Boost Your Leads with WordPress and CiviCRM Integration](https://blog.containerize.com/2020/10/13/boost-your-leads-with-wordpress-and-civicrm-integration/ "Boost Your Leads with WordPress and CiviCRM Integration")
 - [Automate ticketing system using WordPress and osTicket](https://blog.containerize.com/2020/10/13/automate-ticketing-system-using-wordpress-and-osticket/ "Automate ticketing system using WordPress and osTicket")

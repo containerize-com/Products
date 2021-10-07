@@ -22,7 +22,7 @@ SinglePage_MenuImage_TitleText: Cachet - Self-Hosted Status Page
 SinglePage_MenuImage_AltText: Cachet - Self-Hosted Status Page 
 
 ---
-
+### **Overview** 
 Cachet is a free and **self-hosted status page** system. This **free status page software** enables businesses to timely inform subscribers about system outages and scheduled maintenance. It also helps to improve downtime and companies are using it to better communicate to customers and teams. Further, a subscriber can subscribe to one or all components/sites to get email notifications. Cachet comes with outstanding features such as responsive UI, Multi-lingual, metrics, Two-factor authentication, and many more.
 
 Cachet has a beautiful responsive UI and the admin can customize the look and feel of the status page from the back-office. User authentication is the first and necessary step for every web application. Cachet has powerful user authentication and authorization mechanism. In addition, the admin can enable Tow-factor authentication for user's accounts to apply an additional security layer. Cachet **open source status page system** comes with an out-of-the-box powerful API that can be used to perform different CRUD operations for components, incidents, and many more. There are several third-party libraries available for **web applications monitoring** and use built-in API for updating Cachet.

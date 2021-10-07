@@ -23,7 +23,7 @@ SinglePage_MenuImage_TitleText:
 SinglePage_MenuImage_AltText: Live Helper Chat supports customer chat out of box
 
 ---
-### Overview
+### **Overview**
 
 Live Helper Chat is an open source live chat software which brings simplicity and usability in one place. With Live Helper Chat you can bring live support on your website for free. There are lots of other open source live chat applications. Like, ZulipChat, Rocket.Chat and Lets-Chat but Live Helper Chat has made its position because of its simplicity and usability.
 

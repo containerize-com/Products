@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 -------------------
 
 LocomotiveCMS features like permalinks, categories, pages, posts, and custom layouts are all top content and SEO friendly. Locomotive CMS depends on below technologies.

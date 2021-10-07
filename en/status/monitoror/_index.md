@@ -23,7 +23,7 @@ SinglePage_MenuImage_TitleText: Monitoror - Go Based Free Application Monitoring
 SinglePage_MenuImage_AltText: Monitoror - Go Based Free Application Monitoring
 
 ---
-
+### **Overview** 
 Monitoror is free application monitoring software. It is lightweight and reliable software for monitoring of all tools in one place. Monitoror supports out of the box features for monitoring of services such as applications, servers, and APIs. Further, this free server monitoring software allows for checking server status by pinging, checking any specific ports, displaying your CI status, and keeping track of its progress live. In addition, this free server monitoring software supports two types of configurations such as Core and UI. User can set core configuration with environment variables and UI configuration defines in json file.
 
 Monitoror also allows to do various customizations for shaping the wallboard. This best open source monitoring tool enables businesses to monitor popular services such as GitLab, GitHub, Azure DevOps, Pingdom, Jenkins, and Travis CI. It is developed in GO language and source code is available at GitHub. The license for this free application monitoring system is MIT.

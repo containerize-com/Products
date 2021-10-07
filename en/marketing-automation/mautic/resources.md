@@ -7,7 +7,7 @@ weight: 4
 
 - - - - - -
 
-### Explore
+### **Explore**
 
 - [Marketing Automation using Mautic and WordPress WooCommerce](https://blog.containerize.com/2020/10/12/marketing-automation-using-mautic-and-wordpress-woocommerce/ "Marketing Automation using Mautic and WordPress WooCommerce")
 - [Integrate Mautic with Joomla for marketing automation](https://blog.containerize.com/2020/10/09/integrate-mautic-with-joomla-for-marketing-automation/ "Integrate Mautic with Joomla for marketing automation")

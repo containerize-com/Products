@@ -4,7 +4,7 @@ onpagelink: installation
 weight: 3
 
 ---
-### Installation
+### **Installation**
 
 To install the Mailu open-source mail server, you must first ensure that your system has a valid IP address and a fully qualified domain name. There should also be a valid MX record for the domain. To set server IP and hostname, run the below commands:
 

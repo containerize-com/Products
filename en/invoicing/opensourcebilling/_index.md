@@ -24,7 +24,7 @@ SinglePage_MenuImage_AltText: OpenSourceBilling is a powerful, flexible and scal
 
 ---
 
-Overview
+### **Overview**
 --------
 
 OpenSourceBilling or OSB is a free easy-to-use web-based open source billing solution that gives you all the flexibility and customizable options with responsive and adaptive user interface. OSB software is for creating and sending invoices, receiving payments, managing clients, managing companies and tracking and reporting. OpenSourceBilling being free and online accounting software does it all for free and easily. OpenSourceBilling can produce reports of sales, payments and collected revenues. OSB can fulfill the billing and payment needs of nearly any online business.

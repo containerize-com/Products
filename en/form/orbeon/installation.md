@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation Instructions
+### **Installation Instructions**
 
 #### Java virtual machine configuration
 

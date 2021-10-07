@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation Instructions
+### **Installation Instructions**
 
 #### Installing Exim binaries and scripts
 

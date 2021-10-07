@@ -23,7 +23,7 @@ SinglePage_MenuImage_TitleText:
 SinglePage_MenuImage_AltText: Chatwoot is open source live chat software that supports customer chat out of box
 
 ---
-### Overview
+### **Overview**
 
 Chatwoot is an open-source live chat software for customer support service that can serve as an alternative to the likes of Intercome, Drift, and [Rocket.Chat](https://products.containerize.com/live-chat/rocketchat) . Chatwoot lets the businesses to collect their customer queries from multiple channels. And, let the customer agents reply to them from the one unified inbox. What differentiates the chatwoot from others is its 100% open source and it can be installed on-premises by the business.
 

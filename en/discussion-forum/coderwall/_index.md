@@ -24,7 +24,7 @@ SinglePage_MenuImage_AltText: Ruby based open source professional developer comm
 
 ---
 
-### Overview
+### **Overview**
 
 Coderwall is a professional network for software engineers and described as 'Where developers come to meet'. Coderwall is developer community website in the Development category used by nearly half a million developers each month to learn and share programming tips. Coderwall community helps developers to unlock and share new tech skills. Coderwall connects with others fellow community experts, such as developers, designers, and entrepreneurs. Get inspired by amazing teams in tech community, what they're building, and problems they're solving every day.
 

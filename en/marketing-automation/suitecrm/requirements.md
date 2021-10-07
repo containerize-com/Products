@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
 SuiteCRM is PHP and MySQL / MariaDB / SQL Server base marketing automation software. It requires following software.
 

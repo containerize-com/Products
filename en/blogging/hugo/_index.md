@@ -24,7 +24,7 @@ SinglePage_MenuImage_AltText: Hugo is the easiest and powerful blogging platform
 
 ---
 
-### Overview
+### **Overview**
 
 What is a Static Site Generator (SSG)? These days websites has grown to deliver more and more content. As result, the web development industry found new ways to make the process of maintaining and updating sites more efficient. A static site generator is essentially a set of tools for building static websites based on a set of input files.
 

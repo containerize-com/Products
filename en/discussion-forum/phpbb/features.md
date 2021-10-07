@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 
 phpBB is the world's driving Open Source flat style community discussion board software. It incorporates all the modern features that you anticipate from top discussion forum software. Key features include
 

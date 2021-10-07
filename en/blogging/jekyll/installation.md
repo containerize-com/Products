@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation Guide
+### **Installation Guide**
 ------------------
 
  ```

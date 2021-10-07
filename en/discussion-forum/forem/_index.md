@@ -23,7 +23,7 @@ SinglePage_MenuImage_TitleText: Ruby Based software for building building brand 
 SinglePage_MenuImage_AltText: Ruby Based software for building building brand communities.
 
 ---
-### Overview
+### **Overview**
 
 Forem is free and open source software for building a community web application. Forem online communities and forums have its own standalone databases, authentications, configurations with dedicated URL. Alongside this independence, forum community is highly compatible with one another in order to build a cohesive ecosystem for your peers, customers, fanbases, families, friends where people need to come to be part of a collective together. In forem ecosystem, members of multiple Forems can move between community apps without sharing any data about the individual. Forem rails backend software is currently transitioning to a Preact-first frontend for how to create a community.
 

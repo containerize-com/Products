@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### Requirements
+### **Requirements**
 
 - Hard Drive: Recommended 64 GB of free space or above.
 - Memory (RAM): Recommended 4 GB or above.

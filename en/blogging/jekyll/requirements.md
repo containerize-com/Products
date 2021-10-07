@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### Requirements
+### **Requirements**
 ------------
 
 Jekyll is a Ruby Gem that can be installed on most systems.

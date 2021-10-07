@@ -24,7 +24,7 @@ SinglePage_MenuImage_AltText: Craft is one of the most powerful open source CMS.
 
 ---
 
-### Overview
+### **Overview**
 
 Craft CMS is an open source content management system, developed in the world’s most popular language PHP. It is a WordPress alternative for publishers who want deeper control. And, want more powerful performance from their content management system.
 

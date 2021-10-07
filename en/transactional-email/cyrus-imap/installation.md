@@ -4,7 +4,7 @@ onpagelink: installation
 weight: 3
 
 ---
-### Installation
+### **Installation**
 
 The first place to start with a new installation of Cyrus IMAP is with your OS distribution of choice and their packaging, where available. In this tutorial, we’ll explain for CentOS Distribution.
 

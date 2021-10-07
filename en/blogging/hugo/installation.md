@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation Guide
+### **Installation Guide**
 ------------------
 
 Install Hugo on macOS, Windows, Linux, OpenBSD, FreeBSD, and on any machine where the Go compiler tool chain can run.

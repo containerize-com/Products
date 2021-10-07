@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 
 Most of the basic features for chatting, sharing files, and integrating with other apps like Trello or Google Drive are available in every version. However for some advanced features you'll have to choose paid plans of the Rocket.Chat. Following are the key features of Rocket Chat
 

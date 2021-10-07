@@ -23,7 +23,7 @@ SinglePage_MenuImage_TitleText: federated identity management system
 SinglePage_MenuImage_AltText: WSO2 is free and open source federated identity management system
 
 ---
-
+### **Overview**
 In the present point of digital time, there are numerous teams in different departments working with unique roles. Further, there is always a high risk of a security breach to the user’s data integrity. Businesses need to be proactive to protect internal resources and provide easy access to the resources to all the entities such as employees, partners, vendors, and customers using a federated identity management system.
 
 WSO2 is an open source identity server that comes up with a complete identity and access management solution to provide a protective layer of security over the business’s network. However, this identity manager serves Single Sign On with multi-factor authentication which lets users access the internal resources across multiple applications and devices by entering credentials only one time.

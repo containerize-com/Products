@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
 Discourse is based on Ruby on Rails, Ember.js, PostgreSQL and Redis. Current requirements for Discourse include
 

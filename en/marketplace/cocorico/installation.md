@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation Instructions to setup the production environment
+### **Installation Instructions to setup the production environment**
 -----------------------------------------------------------------
 
 ### Installation on Ubuntu

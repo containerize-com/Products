@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 
 Some of the key features of Shuup multivendor marketplace are listed below:
 

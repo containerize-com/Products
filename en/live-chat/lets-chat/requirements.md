@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### Requirements
+### **Requirements**
 
 - Node.js 0.11+
 - MongoDB 2.6+

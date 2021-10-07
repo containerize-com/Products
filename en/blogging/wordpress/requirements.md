@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### Requirements
+### **Requirements**
 ------------
 
 WordPress has a web template system by means of a template processor. Its architecture is a front controller, routing all requests for non-static URIs to a single PHP file which analyses the URI and recognizes the target page. This allows support for more human-readable permalinks. WordPress is written in PHP and paired with a MySQL or Maria DB database.

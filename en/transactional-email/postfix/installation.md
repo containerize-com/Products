@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation Instructions
+### **Installation Instructions**
 
 Postfix is included in Ubuntu’s default repositories, so installation is incredibly simple.
 

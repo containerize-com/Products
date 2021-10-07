@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 
 Vanilla is robust customer-centric platform to build social bond, improve your product or service with feedback and surge trust with potential customers. It is fully featured community software with nice look and feel. Vital features include
 

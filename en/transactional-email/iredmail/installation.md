@@ -4,7 +4,7 @@ onpagelink: installation
 weight: 3
 
 ---
-### Installation Instructions
+### **Installation Instructions**
 
 #### Preparations
 

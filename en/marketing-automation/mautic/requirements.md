@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
 Mautic is PHP and MySQL / MariaDB based marketing lead generator and campaign builder. It requires following software.
 

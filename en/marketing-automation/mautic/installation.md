@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation**
 
 #### Install Mautic on Ubuntu 17.04 LTS with Apache
 

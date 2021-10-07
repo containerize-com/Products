@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation Guide
+### **Installation Guide**
 ------------------
 
 Once all the requirements are installed, you can install Hexo with npm:

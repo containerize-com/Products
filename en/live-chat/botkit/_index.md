@@ -22,7 +22,7 @@ SinglePage_MenuImage_TitleText:
 SinglePage_MenuImage_AltText: Botkit is a bot designing tool
 ---
 
-### Overview
+### **Overview**
 
 Reaching out and engaging customers with good user experience is a big challenge of the current digital age and chat bots are a great way to meet this challenge. Botkit is an easy to learn and simple to use NodeJS based open source bot framework. The broad support for major messaging platforms makes it one of the best choice for the bot building.
 

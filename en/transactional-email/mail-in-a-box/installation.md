@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation Instructions
+### **Installation Instructions**
 
 SSH into your new VPS. Use the IP address that you took note of earlier.
 

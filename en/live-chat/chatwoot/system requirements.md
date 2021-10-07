@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
 Actual requirement varies greatly with, for installation on ubuntu following things required
 

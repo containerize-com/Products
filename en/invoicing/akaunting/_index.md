@@ -22,7 +22,7 @@ SinglePage_MenuImage_TitleText: Akaunting - PHP Laravel Based Open Source Accoun
 SinglePage_MenuImage_AltText: Akaunting - PHP Laravel Based Open Source Accounting Software
 
 ---
-
+### **Overview** 
 Akaunting is an **open source accounting** software for small businesses. It is completely free, easy to set up and configure. This free accounting tool is simple and beautifully designed. Users can access financial data from anywhere using devices such as a computer, tablet, and mobile. It helps to run the business from anywhere and keep a tight check on the cash flow.
 
 Akaunting is one of the **best invoicing** system for managing everything related to finances. Businesses can keep track of money going in and out with various out of the box features. Create professional invoices easily and share them with clients. Akaunting comes with a separate client portal that allows customers to view invoices and handle payments. Moreover, this **SME accounting** system has a powerful reporting module. Reports help businesses to stay on top of cash flow and quickly take financial decisions.
