@@ -1,9 +1,9 @@
 ---
 keywords: open source social network, open source social media tool, self hosted social network, social collaboration tool, free social software
 title: Enterprise-Level Open Source Social Network | HumHub
-description: HumHub is a free open-source social network that comes up with a wide range of features such as activity streams, public/private groups, file sharing and more.
+description: HumHub is a free open-source social network that comes up with a wide range of features such as activity streams, public/private groups, file sharing, and more.
 singlepageh1title: Self-Hosted Social Network For Public/Private Collaboration
-singlepageh2title: Establish enterprise social intranet to boost up business operations. This free social software offers marketplace with many modules and social tools.
+singlepageh2title: Establish enterprise social intranet to boost up business operations. This free social software offers the marketplace module and rich social tools.
 Shortdescriptionlistingpage: HumHub is a free open-source social network that is easy to extend and self-host. It offers a wide range of plugins and themes along with complete documentation.
 linktitle: HumHub
 Imagetext:  Free Social Network Platform
