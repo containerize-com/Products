@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-Features
+### **Features**
 --------
 
 The new age market comprises a wide variety of billing and invoicing tools but robust functionality of OpenSourceBilling allows the businesses to setup currencies, to use communication templates and even perform some custom branding.

@@ -23,7 +23,7 @@ SinglePage_MenuImage_TitleText: single sign on software
 SinglePage_MenuImage_AltText: CAS is an Open source single sign on software
 
 ---
-
+### **Overview**
 Web applications are rapidly growing and businesses tend to target several areas with intentions to provide services and tools. There is a huge number of users increasing day by day and data security and data management are becoming the main concerns for enterprise businesses. However, the open source community has provided many solutions to coup these concerns, and single sign on software is one of them.
 
 CAS is a free and open source single sign on system and it uses CAS a ticket-based protocol that is exclusively built to provide user authentication and authorization. The architecture of this protocol is based on client and server collaboration. CAS server authenticates users and grants access to the applications. Whereas, the client of this single sign on technology takes care of retrieving information of the users granted by the CAS server.

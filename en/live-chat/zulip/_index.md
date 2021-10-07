@@ -23,7 +23,7 @@ SinglePage_MenuImage_TitleText:
 SinglePage_MenuImage_AltText: Zulip filters irrelevant messages from the threads
 
 ---
-### Overview
+### **Overview**
 
 Zulip is one of the popular live chat softwares which focuses on ignoring the irrelevant messages. Zulip is 100% open source live chat software developed by a vibrant developer community. Zulip’s development community is more active than the other modern open source live chat softwares like Rocket.Chat, Mattermost and Lets-Chat.
 

@@ -25,7 +25,7 @@ SinglePage_MenuImage_AltText: Joomla is one of the most powerful CMS.
 
 ---
 
-### Overview
+### **Overview**
 
 Joomla is one of the most popular content management system available, with an ever growing developer community. Joomla is running nearly 2 million active websites. Whether you want to build simple websites or complex applications, Joomla helps you in both cases. Huge user base and a thriving developer community makes Joomla an ideal platform for your next application.
 

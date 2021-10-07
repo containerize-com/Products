@@ -24,7 +24,7 @@ SinglePage_MenuImage_TitleText:
 SinglePage_MenuImage_AltText: Modoboa is an open-source email server for enterprises
 
 ---
-### Overview
+### **Overview**
 
 Modoboa is a 100% free and open-source email server. It is a highly scalable python-based email server with simplicity and speed at its core. Modoboa brings together the best open source tools to install, configure and secure your own email server. It is written in Python and can be extended. All the source code is available on Github.
 

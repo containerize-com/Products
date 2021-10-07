@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 --------
 
 Some of the great list of features of open source marketplace platform free Edurge are listed below with Roles \[:admin, :teacher, :student\].

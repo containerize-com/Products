@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
 Flarum is based on PHP and MySQL / MariaDB. Current requirements for Flarum include
 

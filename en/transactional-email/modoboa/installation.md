@@ -4,7 +4,7 @@ onpagelink: installation
 weight: 3
 
 ---
-### Installation
+### **Installation**
 
 Modoboa Installer is the easiest and the quickest way to set up a fully functional server (modoboa, postfix, dovecot, amavis and more) on one machine.
 

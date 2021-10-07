@@ -24,7 +24,7 @@ SinglePage_MenuImage_AltText: Django is a free web content management software
 
 ---
 
-### Overview
+### **Overview**
 
 Digital world has become so competitive and alive that it keeps things turning around for the sake of updates and fresh content. The digital platform is dependent on rich and high rated content. Regardless of the platform, web content management software is the essence of all the marketing techniques. Hence, there is a strong need in the community regarding creating, managing, and publishing the content.
 

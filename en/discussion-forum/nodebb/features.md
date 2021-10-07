@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 
 NodeBB is equipped with all the modern features to build interactive online communities of any kind. It is best suited for gaming, entertainment, and software companies, product manufacturer, service provider, education institutes. Major Features include
 

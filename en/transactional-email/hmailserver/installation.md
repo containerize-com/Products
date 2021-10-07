@@ -4,7 +4,7 @@ onpagelink: installation
 weight: 3
 
 ---
-### Installation
+### **Installation**
 
 You can manually install WildDuck Mail Server following the instructions below:
 

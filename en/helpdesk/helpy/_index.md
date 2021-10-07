@@ -23,7 +23,7 @@ SinglePage_MenuImage_TitleText:
 SinglePage_MenuImage_AltText: Helpy free helpdesk and customer support software
 
 ---
-### Overview
+### **Overview**
 
 Helpy is free and open source ticketing based customer support software with knowledge base and public community features. It is touch optimized that helps your support team to promptly answers support tickets from anywhere at any time. Its embed widget feature allow your users to contact you from any page of your website. Helpy has all the essential SEO features that you can imagine in any top helpdesk software.
 

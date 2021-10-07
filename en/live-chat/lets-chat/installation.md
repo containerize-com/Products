@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation Instructions
+### **Installation Instructions**
 
  **Install with GitHub**Clone the Let’s Chat repository, and install dependencies.
 

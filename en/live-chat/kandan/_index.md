@@ -23,7 +23,7 @@ SinglePage_MenuImage_TitleText: Kandan is a free ruby based well-supported open 
 SinglePage_MenuImage_AltText: Kandan is a free ruby based well-supported open source chat application.
 
 ---
-### Overview
+### **Overview**
 
 Kandan is a free open source and well-supported chat application developed with Ruby on Rails. Kandan real-time chat application is a fast, secure, and stable chat solution based on Ruby on Rails. Kandan Chat has an elegant, clean design and it will get you to reconsider your standard instant messaging system.
 

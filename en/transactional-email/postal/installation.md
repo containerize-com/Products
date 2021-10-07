@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation Instructions
+### **Installation Instructions**
 
 To get up and running quickly, you can follow these steps. You'll have a basic Postal installation ready to go in in less than 10 minutes.
 

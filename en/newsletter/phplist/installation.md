@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation Instructions
+### **Installation Instructions**
 
 #### Install phpList on Ubuntu 16.04 LTS with Nginx
 

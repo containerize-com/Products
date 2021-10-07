@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 ------------
 
 Cocorico open source web-based marketplace platform has features to optimize service based transactions. With the help of cocorico platform features, you can build your marketplace exactly the way you want. If you don't spot the feature you need, contact Containerize support to learn more about how to get it built and some of the key features of cocorico are listed below:

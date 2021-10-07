@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation Guide for Live Helper Chat
+### **Installation Guide for Live Helper Chat**
 
 #### Install from command line
 

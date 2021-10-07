@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 
 Exim supports all the modern features that you can imagine from top open source mail transfer agent software. These are some of the main features of Exim:
 

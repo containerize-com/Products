@@ -25,7 +25,7 @@ SinglePage_MenuImage_AltText: Sharetribe is free and open source marketplace sof
 
 ---
 
-### Overview
+### **Overview**
 
 Sharetribe is a peer-to-peer open source marketplace platform to create and run online marketplaces with a complete feature set where your users can rent or sell goods, offer services online, or give things away for free. Sharetribe top online marketplace order types can create a marketplace type that best suits your needs. Sharetribe best open source b2b ecommerce platform handles all the hosting, is easy to use and simple to customize.
 

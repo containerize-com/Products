@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 -------------------
 
 In order to install Edurge open source marketplace solution, you’ll need to install following dependencies and prerequisites:

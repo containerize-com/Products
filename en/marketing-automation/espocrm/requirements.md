@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
 EspoCRM is PHP and MySQL base customer relationship management software. It requires following software.
 

@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 
 Chatwoot gives an integrated view of conversations happening in different communication channels.  
   

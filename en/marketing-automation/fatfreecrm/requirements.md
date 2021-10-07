@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 -------------------
 
 Fat Free CRM is a great free software to carry out project planning, tasks, activities of the day, week, month. It requires following software.

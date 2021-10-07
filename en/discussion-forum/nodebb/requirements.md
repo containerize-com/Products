@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
 NodeBB is Node.js and MongoDB / Redis based social community builder. It requires following software.
 

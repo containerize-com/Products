@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
 Zammad is Ruby and MySQL based customer support system which requires following software.
 

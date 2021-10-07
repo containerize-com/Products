@@ -4,7 +4,7 @@ onpagelink: installation
 weight: 2
 
 ---
-### Installation Instructions
+### **Installation Instructions**
 
 Copy the following code into theblock of your webpage:
 

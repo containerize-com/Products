@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 --------
 
 Some of the great list of features of Chaskiq business marketing are listed below:

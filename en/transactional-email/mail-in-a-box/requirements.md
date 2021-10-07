@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
 To setup Mail server using Mail-in-a-Box, you must have the following requirements.
 

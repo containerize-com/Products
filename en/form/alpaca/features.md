@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### Features
+### **Features**
 
 Following are the key features of Alpaca Forms
 

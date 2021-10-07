@@ -24,7 +24,7 @@ SinglePage_MenuImage_TitleText:
 SinglePage_MenuImage_AltText: Haraka is an open-source smtp server for high traffic sites
 
 ---
-### Overview
+### **Overview**
 
 Haraka is a 100% free and open-source SMTP server. It is a highly scalable node.js email server with a modular plugin architecture. It can serve thousands of concurrent connections and can deliver thousands of messages per second. It is written in Node.js and can be extended. All the source code is available on Github.
 

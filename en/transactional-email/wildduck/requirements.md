@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
 WildDuck Mail Server can be installed on any operating system which supports following
 

@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation**
 
 ### Install Drupal CMS on Ubuntu 16.04 LTS with Nginx
 

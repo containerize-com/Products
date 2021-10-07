@@ -23,7 +23,7 @@ SinglePage_MenuImage_TitleText:
 SinglePage_MenuImage_AltText: Staytus - Ruby and Node.js based open source status page system
 
 ---
-
+### **Overview** 
 Customers are a vital part of every company. It will help you gain trust by keeping them informed about issues. Your services run 24×7 and things can go wrong at any moment. It would be perfect to send timely alerts to customers for system outages, instead of they contact support. Organizations can manage this situation through setting up status page application, so they can monitor product status.
 
 Staytus will help you monitor your products, services, APIs and send updates to subscribers. Staytus is an open source and powerful status page system that can be installed on your private server. It helps you to retain control of all data. You can either manually update the status of incidents or automate using JSON API. You can schedule maintenance session and keep updating progress.

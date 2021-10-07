@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation via Docker Compose
+### **Installation via Docker Compose**
 
 Run Docker Compose services using the following code:
 

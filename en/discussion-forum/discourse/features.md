@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 
 Discourse is built by developers of stackoverflow with premium quality. It is ultimate choice of games, education, makers, development, product, media, associations and other. Discourse supports integration with slack, wordpress, zendesk, patreon, github, google analytics and more. Discourse has a vibrant feature set. Major features include
 

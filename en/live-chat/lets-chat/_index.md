@@ -23,7 +23,7 @@ SinglePage_MenuImage_TitleText:
 SinglePage_MenuImage_AltText: Let's Chat is a remote collaboration open source software
 
 ---
-### Overview
+### **Overview**
 
 Let’s Chat is an open source live chat software for small teams. This live chat software is designed to be easily deployable and solve the common communication problems of small and medium teams.
 

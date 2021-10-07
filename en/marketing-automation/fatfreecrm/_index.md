@@ -24,7 +24,7 @@ SinglePage_MenuImage_AltText: open source Ruby on Rails based customer relations
 
 ---
 
-### Overview
+### **Overview**
 --------
 
 Fat Free CRM is an open source free Ruby on Rails based customer relationship management (CRM) system and it focuses on simplicity of use. Fat Free CRM includes features such as campaign management, group collaboration and lead management, contact lists, and opportunity tracking. Fat Free CRM can be customized by implementing callback hooks and extended by creating Rails plugins. With regards to system requirements, Fat Free CRM is available as SaaS software.

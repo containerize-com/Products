@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
 CiviCRM is PHP and MySQL / MariaDB based marketing automation and CRM software. It requires following software.
 

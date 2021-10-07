@@ -4,7 +4,7 @@ onpagelink: installation
 weight: 3
 
 ---
-### Installation
+### **Installation**
 
 Download distribution from [James release mirrors](http://james.apache.org/download.cgi). Extract or copy all the files in the archive or dist directory into your installation directory. After unpacking the binary, the next step is to adjust the initial configuration. All configuration files are embedded in jars. For detailed configuration guide follow [official documentation](https://james.apache.org/server/install.html).
 

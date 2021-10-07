@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-### FAQs
+### **FAQs**
 
 ### What is Cocorico?
 Cocorico is a web-based open source marketplace solution world's first solution specifically designed for selling services and rentals online for companies around the world. Companies often sell services via marketplaces - think Blablacar, Fiverr, AirBNB etc.

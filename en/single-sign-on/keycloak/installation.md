@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation**
 
 Unzip downloadable distribution file –  ‘keycloak-11.0.0.\[zip|tar.gz\]
 

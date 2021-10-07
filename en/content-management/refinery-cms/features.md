@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 --------
 
 Key features of Refinery CMS are

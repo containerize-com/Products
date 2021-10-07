@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### Requirements
+### **Requirements**
 ------------
 
 Installing Hexo is quite easy and only requires the following beforehand:

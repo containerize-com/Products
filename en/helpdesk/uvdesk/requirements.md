@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
 UVdesk is PHP and MySQL based ecommerce ticketing system, you must have the following software
 

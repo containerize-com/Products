@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation guide for Linux VM
+### **Installation guide for Linux VM**
 
 #### Deploying to Linux VM
 

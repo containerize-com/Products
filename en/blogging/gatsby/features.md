@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 --------
 
 - Performance - Builds a site that is fast with small response time, completely accessible and responsive to user input.

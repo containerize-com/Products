@@ -24,7 +24,7 @@ SinglePage_MenuImage_AltText: Ghost is purely a blogging tool.
 
 ---
 
-### Overview
+### **Overview**
 
 There are a lot of blogging software available these days like WordPress, Joomla, Drupal, and Medium, and to start a blog very first decision you have to make is to choose which blog software is best. A simple easy to use and stable blogging platform can make your work a lot easier.
 

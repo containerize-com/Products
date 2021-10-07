@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 -----------------------
 
 For cocorico production installation, I’d recommend that you go with AWS. You can go with AWS directly and Cocorico requires following installation dependencies.

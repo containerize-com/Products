@@ -24,7 +24,7 @@ SinglePage_MenuImage_AltText: Vanilla is PHP bases discussion board and knowledg
 
 ---
 
-### Overview
+### **Overview**
 
 Vanilla Forum is free, open source, customizable, standard-complaint internet discussion forum built in PHP using the Garden framework. Vanilla has an exceptionally lightweight foundation with various discretionary plugins, including chat, private messages, Who's Online, and attachments.
 

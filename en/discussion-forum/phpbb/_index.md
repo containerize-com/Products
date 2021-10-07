@@ -24,7 +24,7 @@ SinglePage_MenuImage_AltText: phpBB is Free Internet Bulletin Board Software
 
 ---
 
-### Overview
+### **Overview**
 
 phpBB is free and open source flat-style discussion forum software that is most widely used and time tested since last two decades. Its comfy forum structure and broad hierarchy phpBB gives flat message structure instead of threaded one, which is considerably easier for the users. It has meticulous security system that let you ban users by username, name and IP address. Its advance search feature let you easily apply full-text search and other advance search operations.
 

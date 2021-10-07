@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 --------
 
 Some of the great list of features and general app concepts of Forem to build community site, online communities and forums are listed below:

@@ -23,7 +23,7 @@ SinglePage_MenuImage_TitleText: multi factor authentication software
 SinglePage_MenuImage_AltText: OIP is an open source multi factor authentication software
 
 ---
-
+### **Overview**
 Enterprise businesses tend to have a large employee base as well as the application base. Security and management loop wholes can never be omitted where several employees switch from one application to another. Therefore, here multi factor authentication software comes, SSO provides cost-effective solutions to let employees sign in with a single pair of credentials and get access to multiple applications with greater security and usability.
 
 Then, the Open Identity Platform introduces Open identity management with SSO capabilities which is a completely free and open source. Further, this free identity provider is mainly written in Java with a little input from other languages too. In addition, open access management is incorporated with cross domain SSO authentication where users can switch to multiple apps without re-authentication.

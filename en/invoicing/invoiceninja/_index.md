@@ -22,7 +22,7 @@ SinglePage_MenuImage_TitleText: InvoiceNinja - PHP Laravel Based Open Source Inv
 SinglePage_MenuImage_AltText: InvoiceNinja - PHP Laravel Based Open Source Invoicing System
 
 ---
-
+### **Overview**
 InvoiceNinja is an open source invoicing software. It's easy to use and provides a large number of features for handling all billing tasks. It is 100% free and developers all over the world are actively involved in it. This free accounting system is ideal for freelancers and small businesses. It easily allows to generate invoices and track payments.
 
 This powerful open source invoice system comes with modern and impressive features. It supports features for managing invoices, payments, quotations, expenses, reporting, and many more. Further, it allows the creation of multiple companies and handles them from a single system. Moreover, InvoiceNinja helps time tracking of tasks and use them for billing to clients.

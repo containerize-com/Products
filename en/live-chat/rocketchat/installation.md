@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation via Snap on Ubuntu
+### **Installation via Snap on Ubuntu**
 
 Installing a snap on Ubuntu is as easy as
 

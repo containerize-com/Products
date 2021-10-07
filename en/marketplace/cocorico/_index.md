@@ -24,7 +24,7 @@ SinglePage_MenuImage_AltText: Cocorico open source marketplace solution has all 
 
 ---
 
-### Overview
+### **Overview**
 
 Cocorico, a Cocolabs software, web-based open source marketplace solution is a very powerful solution for in-service and rental marketplaces. Cocorico is fully specialized in building service-based marketplace solutions. Cocorico web-based open source marketplace platform has all the features to optimize service-based and rental transactions.
 

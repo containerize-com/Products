@@ -4,7 +4,7 @@ onpagelink: installation
 weight: 3
 
 ---
-### Installation
+### **Installation**
 
 To begin first you must [download](https://github.com/mailslurper/mailslurper/releases) the version of MailSlurper for your operating system. If you are on a Mac running OSX you will need to download the file named mailslurper-x.x-osx.zip. If you are going to run MailSlurper on Windows download the file named mailslurper-x.x-windows.zip.
 

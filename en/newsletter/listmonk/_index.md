@@ -23,6 +23,7 @@ SinglePage_MenuImage_AltText: listmonk - Go Based Open Source Email Marketing So
 
 ---
 
+### **Overview** 
 listmonk is a free and open source email marketing software. It's easy to set up and features packed into a single binary. listmonk supports powerful and dynamic email templates. listmonk offers highly configurable multi-threaded, multi-SMTP email queues with high throughput for super fast distribution of the newsletter. Further, it allows sending Whatsapp messages, SMS, FCM notifications, and many more.
 
 listmonk is one of the best email newsletter software and give importance to subscriber's privacy. This allows subscribers to export complete profile data with statistics. Besides, subscribers can block themselves and delete their data with a single click. Moreover, listmonk offers the facility S3 for storage for storing images.

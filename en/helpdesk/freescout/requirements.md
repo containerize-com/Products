@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
 FreeScout is PHP and MySQL / MariaDB. Strongly recommended requirements are following:
 
