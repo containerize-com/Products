@@ -22,6 +22,7 @@ SinglePage_MenuImage_TitleText:
 SinglePage_MenuImage_AltText: Kanboard is Kanban based project management software
 
 ---
+### **Overview**
 
 Kanboard is an open source project management software that implements the Kanban methodology. The main concepts of Kanban technology are visualizing workflow, clear focus, and incremental changes over time. Kanboard provides information about your projects, assigned tasks, subtasks, and calendar in one place. It allows the use of markdown syntax for defining tasks, add comments and documents to tasks, and assign a color, the category, the assignee, and the due date. It offers features to automate your workflow, you can automatically change assignee, categories, and colors.
 

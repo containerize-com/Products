@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
 Kanboard is PHP based and support various databases. It requires following software.
 

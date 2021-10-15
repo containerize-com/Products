@@ -6,7 +6,7 @@ weight: 2
 ---
 
 
-### Features
+### **Features**
 
 Phabricator has all the modern features that you can anticipate from top project management and source code management software. Main features include
 

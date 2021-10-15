@@ -52,7 +52,7 @@ That's it! You can enjoy siwapp now entering on your heroku app url.
 
 Congratulations! You have successfully installed Siwapp free online pdf invoice generator tool. Enjoy!
 
-Explore
+### **Explore**
 -------
 
 In this article we discussed about Siwapp an invoice and open source billing system . To learn about other open source easy invoice manager and billing system, please visit following page:

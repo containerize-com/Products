@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 
 OpenProject has all the advanced features that you can anticipate from top agile and classical project management software. Key features include
 

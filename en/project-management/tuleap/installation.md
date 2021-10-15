@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation**
 
 The full installation is the common way to install tuleap. It uses your distribution package system and will provide a fully configurable and adjustable environment. It is robust so you can deploy production environment this way.
 

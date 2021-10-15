@@ -6,7 +6,7 @@ weight: 1
 ---
 
 
-System Requirements
+### **System Requirements**
 -------------------
 
 In order to install SprintApp open source project management tool, you’ll need  to install following dependencies and prerequisites:
