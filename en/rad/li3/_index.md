@@ -23,6 +23,7 @@ SinglePage_MenuImage_TitleText: rapid application development software
 SinglePage_MenuImage_AltText: li3 is open source full-stack rapid application development software
 
 ---
+### **Overview**
 
 li3 is a popular open source software for rapid application development software. It gives complete control to the user because of its component-oriented architecture. This free RAD framework is highly flexible to adopt any change in its ecosystem due to its lightweight design. It makes full use of the latest features of PHP language such as closures, namespaces, and late static binding. Moreover, this open source prototyping software is multilingual and provides integration with third-party applications.
 

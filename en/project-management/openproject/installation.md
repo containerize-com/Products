@@ -6,7 +6,7 @@ weight: 3
 ---
 
 
-### Installation
+### **Installation**
 
 #### Installation using DEB/RPM packages
 

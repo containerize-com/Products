@@ -5,7 +5,7 @@ weight: 5
 
 ---
 
-### Explore
+### **Explore**
 
 You may find the following open source software project management tool links relevant:
 

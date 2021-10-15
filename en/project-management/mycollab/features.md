@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-Features
+### **Features**
 --------
 
 MyCollab provides the rich set features of Project Management, Customer Management module and online collaboration methods.

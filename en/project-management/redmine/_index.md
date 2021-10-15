@@ -23,6 +23,7 @@ SinglePage_MenuImage_TitleText: Redmine is open source project management framew
 SinglePage_MenuImage_AltText: Redmine is free project planning tool
 
 ---
+### **Overview**
 
 Redmine is a free and open source project management framework for task management, issue tracking, and resource management. It is pretty simple to extend and customize as per your business needs with custom fields feature. Redmine self hosted project management tool permission management and role management features provide flexible control of user access. Open source redmine is a lightweight and easy to use best web based project management software that let you manage your projects, teams, and resources. It’s Gantt chart and customized reports features provide additional support to project planning and visualization. Plan your projects using drag and drop in easy redmine gantt chart project management dashboard. Benefits of redmine gantt Plugin are easiest planning of tasks, gantt chart milestones and the projects.
 

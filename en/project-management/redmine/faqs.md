@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-### FAQs
+### **FAQs**
 
 ### What is Redmine?
 Redmine is a very popular web based flexible project management and issue tracking system. It supports several database and allows users to manage multiple projects and associated subprojects. It is written using Ruby on Rails framework and includes features like project wikis and forums, time tracking and role-based access control.

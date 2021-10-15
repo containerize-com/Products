@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
 Taiga’s frontend developed in AngularJS and CoffeeScript; backend, in Django and Python. It requires following software.
 
