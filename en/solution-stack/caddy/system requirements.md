@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-#### **System Requirements**
+### **System Requirements**
 
 Caddy is Go based open source web server. It requires following software.
 

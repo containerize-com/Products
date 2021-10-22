@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-#### **Components**
+### **Components**
 
 XAMPP is a free and open-source local web server package. It has following components:
 

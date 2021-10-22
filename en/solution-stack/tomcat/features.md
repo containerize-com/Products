@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-Features
+### **Features**
 --------
 
 Apache Tomcat software provides almost all web server features including Tread pool, Connection pool, Https, Mutual and info Source. It offers a set of very rich API, which is powerfully incorporated with practically main IDE including Eclipse, and IntelliJ. Following are some stand out features of Tomcat:

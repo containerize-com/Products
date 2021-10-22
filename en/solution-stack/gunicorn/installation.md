@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-#### **Installation Instructions**
+### **Installation Instructions**
 
 First of all, update the package index using following command:
 

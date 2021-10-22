@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-#### **Features**
+### **Features**
 
 *   Easy configuration with the Caddyfile
 *   HTTP/1.1 (plaintext HTTP)

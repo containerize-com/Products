@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-#### **Features**
+### **Features**
 
 *   Support for FastCGI, SCGI, CGI interfaces
 *   Small size, only 1MB

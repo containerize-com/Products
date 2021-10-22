@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-#### **Features**
+### **Features**
 
 - Works with Paster, Django, and WSGI out of the box.
 - Worker process management is automatic.

@@ -22,6 +22,7 @@ SinglePage_MenuImage_TitleText: Open Source Web Server & Load Balancer Solution 
 SinglePage_MenuImage_AltText: Open Source Web Server & Load Balancer Solution Stack
 
 ---
+### **Overview**
 
 Caddy server is extremely easy to configure and use. It takes care of TLS certificate renewals, OCSP stapling, static file serving, reverse proxying, Kubernetes ingress, and much more. It is cross-platform, open source solution stack, and can run across all major operating systems including macOS, Linux and Windows. Caddy is a flexible and efficient static file web server as well as powerful and scalable reverse proxy.
 

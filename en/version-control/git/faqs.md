@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-### FAQs
+### **FAQs**
 
 ### What is Git?
 Git is a Distributed Version Control system (DVCS). It enables developers to keep track of changes and revert them.

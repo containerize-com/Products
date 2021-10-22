@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-### FAQs
+### **FAQs**
 
 ### What is GitLab?
 GitLab is a source code management tool that allows teams to collaborate. In addition, it enables developers to Plan, build, secure, and deploy software.
