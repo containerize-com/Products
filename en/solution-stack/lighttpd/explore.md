@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-#### **Explore**
+### **Explore**
 
 In this tutorial, we have explained the installation process and features of Lighttpd lightweight web server solution stack. To learn about other open source solution stack option, please check following pages:
 

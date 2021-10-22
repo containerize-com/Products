@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-### FAQs
+### **FAQs**
 
 ### What is Subversion?
 Subversion is a centralized version control system that is free and open-source. It's used to keep track of current and previous versions of projects.

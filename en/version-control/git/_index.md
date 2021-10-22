@@ -23,6 +23,7 @@ SinglePage_MenuImage_TitleText: Git - Version Control System
 SinglePage_MenuImage_AltText: Git - Version Control System
 
 ---
+### **Overview**
 
 In real life, multiple developers work on a single project in parallel. Each developer is working on individual tasks or part of a big assignment. It’s very difficult for managing the code and then integrate modifications from all developers. Therefore, we need to have VCS (Version Control System) system to deal with this use case. Version Control System (VCS) is software that allows developers to collaborate and retain a full work history. The Version Control System allows developers to work concurrently and keeps a history of each version. The major types of VCS are: Centralized Version Control and Distributed Version Control System.
 

@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-<a class="anchor" id="explore" name="explore"></a>#### **Explore**
+### **Explore**
 
 In this tutorial, we have explained the installation process and features of Gunicorn Python web server. To learn about other open source solution stack option, please check following pages:
 

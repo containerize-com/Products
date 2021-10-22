@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 
 Bazaar is fully packed with modern features of version control software. Some of the key features are listed below:
 

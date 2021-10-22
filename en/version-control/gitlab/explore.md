@@ -5,7 +5,7 @@ weight: 5
 
 ---
 
-### Explore
+### **Explore**
 
 You may find the following version control tools relevant links:
 

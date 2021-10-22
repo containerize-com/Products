@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 
 Subversion is shipped with powerful features of version control software. Some of the key features are listed below:
 
