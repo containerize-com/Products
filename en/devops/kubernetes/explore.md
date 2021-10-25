@@ -1,7 +1,7 @@
 ---
 title: Explore
 onpagelink: explore
-weight: 4
+weight: 5
 
 ---
 
