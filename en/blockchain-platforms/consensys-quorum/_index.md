@@ -25,6 +25,7 @@ SinglePage_MenuImage_AltText: ConsenSys Quorum is an open source digital ledger 
 
 
 ---
+### **Overview**
 
 Firstly, ConsenSys Quorum is a free open source digital ledger technology. In fact, it is self-hosted and offers many features to build blockchain-based enterprise solutions. However, users can build a public network or private permissioned network on their own premises. Above all, security standards are high to protect data in the private network. Moreover, this free software is highly extensible and developers familiar with Entereum’s tools and environment can find ease in working with it. There are multiple consensus algorithms such as Raft-based Consensus, Istanbul BFT, and Clique POA Consensus. 
 

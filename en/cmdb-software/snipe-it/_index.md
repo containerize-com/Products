@@ -23,6 +23,7 @@ SinglePage_MenuImage_TitleText: open source cmdb software
 SinglePage_MenuImage_AltText: Snipe-IT is an open source cmdb software
 
 ---
+### **Overview**
 
 Snipe-IT is an open source asset management software. It is free and comes with self-hosted capabilities. This open source CMDB software offers high security using 2F authentication using Google, encryption techniques, CSRF protection and some others. It is powered by AWS and hence, provides fast connections. It is mobile friendly, web based and run on any operating system. Moreover, this open source CMDB tool is extensible and provides a RESTful interface for third party integrations such as LDAP, Slack . Further, it is multilingual and offers support for many languages. However, there are rich options for data backup that need just one click.
 

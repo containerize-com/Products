@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-#### **Installation Instructions**
+### **Installation Instructions**
 
 Before setting up the development environment, you first need to setup a BigBlueButton 2.2 server that can be found at this [link](https://docs.bigbluebutton.org/2.2/install.html)
 

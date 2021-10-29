@@ -7,7 +7,7 @@ weight: 3
 
 
 
-#### **Installation Instructions**
+### **Installation Instructions**
 
 First, run the following command to clone the openchain/docker repository from GitHub:
 

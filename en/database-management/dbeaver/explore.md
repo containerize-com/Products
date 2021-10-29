@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-<a class="anchor" id="explore" name="explore"></a>Explore
+### **Explore**
 -------
 
 To learn about other open source database management software and phpMyAdmin alternatives, please check following pages:

@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-#### **Installation**
+### **Installation**
 
 - Update system using following commands
  

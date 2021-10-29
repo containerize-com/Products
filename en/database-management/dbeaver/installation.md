@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-Installation
+### **Installation**
 ------------
 
 Here are the complete installation instruction for Ubuntu. Update system using following commands

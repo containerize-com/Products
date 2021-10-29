@@ -22,6 +22,7 @@ SinglePage_MenuImage_TitleText: Sqlectron | Open Source Client for MySQL and Pos
 SinglePage_MenuImage_AltText: Sqlectron | Open Source Client for MySQL and PostgreSQL
 
 ---
+### **Overview**
 
 Sqlectron is an open-source and 100% free database management application to work with MySQL, MariaDB, PostgreSQL, and many other relational databases. The application is developed in JavaScript and is highly customizable. Source code is available on Github and you can extend the features by cloning the repository.
 

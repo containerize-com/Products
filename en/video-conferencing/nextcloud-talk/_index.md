@@ -22,6 +22,7 @@ SinglePage_MenuImage_TitleText: open source video conferencing software
 SinglePage_MenuImage_AltText: open source video conferencing software
 
 ---
+### **Overview**
 
 Nextcloud Talk is a free open source video conferencing software. It is self-hosted and gives complete control over data. This free software is built on peer-to-peer architecture and uses WebRTC for cross-platform real-time communication. However, it is available for Web, Android, and IOS. Moreover, it uses advanced encrypted communication technologies for data security. Further, this open source meeting software is fully compliant with GDPR and CCPA. In addition, there is a complete mechanism for integrations with third-party applications. Users can have individual and group video calls with one another. After that, push notifications are used for calls and messages.
 

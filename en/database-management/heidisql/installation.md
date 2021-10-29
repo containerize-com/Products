@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation**
 
 - Use following command to download wine from the Ubuntu repository:
  

@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-#### **Features**
+### **Features**
 
 - Fully transactional, ACID compliant
 - ANSI SQL

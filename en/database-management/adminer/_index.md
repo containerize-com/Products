@@ -22,6 +22,7 @@ SinglePage_MenuImage_TitleText: Adminer | Free Web Based Database Management Sys
 SinglePage_MenuImage_AltText: Adminer | Free Web Based Database Management System
 
 ---
+### **Overview**
 
 Adminer is a free web based database management system as well as a lightweight alternative to phpMyAdmin. Compared to phpMyAdmin, Adminer consists of a single PHP file. Adminer is a tool used to manage content in various databases. It can also be installed and integrated with XAMPP server.
 

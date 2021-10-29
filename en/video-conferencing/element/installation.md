@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-#### **Installation Instructions**
+### **Installation Instructions**
 
 Element is based on `matrix-react-sdk` and `matrix-js-sdk` modules. Therefore, let's set them up first.
 

@@ -22,6 +22,7 @@ SinglePage_MenuImage_TitleText: remote meeting solution
 SinglePage_MenuImage_AltText: BigBlueButton is open source remote meeting solution
 
 ---
+### **Overview**
 
 BigBlueButton is an open source free video collaboration software designed particularly for the educational market. There are several features packaged together in this remote meeting solution. It offers a complete solution to conduct a virtual session for students and teachers. Therefore, It provides robust features such as video conferencing, shared whiteboard, electronic hand-raising, HD Audio, on-demand Webcasting, file sharing, presentation tools, Screen sharing, send public/private messages, chats with emojis.
 

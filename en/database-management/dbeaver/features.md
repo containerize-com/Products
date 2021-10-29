@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-Features
+### **Features**
 --------
 
 DBeaver is a user-friendly GUI based database management tool that comes with great features. Here’s a list of some important features:

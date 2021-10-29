@@ -23,6 +23,7 @@ SinglePage_MenuImage_TitleText: game creation platform
 SinglePage_MenuImage_AltText: free game creation platform for building games
 
 ---
+### **Overview**
 
 Defold is a free open source game creation platform. It is built on top of the component-based architecture. Moreover, the modular echo system provides better performance. It is mainly developed to focus on 2D games. However, this free game development software is capable of building 3D games. In addition, it provides 2D sprites, Spine models, and Tile map editor for 2D levels. There is also provision for 3D models, shaders are written in GLSL and lets its users create and modify 3D geometry at runtime. Then, this game building platform provides a particle effects editor with a live preview of emitter and modifier behavior and a Curve editor for controlling particle parameter changes over particle lifespan.
 
