@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-#### **System Requirements**
+### **System Requirements**
 
 Adminer is PHP based database management tool that requires following software.
 

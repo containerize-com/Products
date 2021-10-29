@@ -23,6 +23,7 @@ SinglePage_MenuImage_TitleText: distributed infrastructure
 SinglePage_MenuImage_AltText: Ripple is an open source distributed infrastructure
 
 ---
+### **Overview**
 
 Ripple is an open source digital currency and payment solution. It provides ways for the fast and secured transaction of payment within its network. There are three roles that a Ripple node can take. Firstly, it can act as a normal user who transfers or receives payments. Secondly, the market maker can be a trade enabler in the system. Thirdly, the validating server usually validates transactions and runs a consensus protocol in this distributed infrastructure.
 

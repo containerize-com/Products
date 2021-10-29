@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-#### **Installation**
+### **Installation**
 
 **Follow these instruction to install CUBRID on Ubuntu.**
 

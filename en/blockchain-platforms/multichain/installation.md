@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-#### **Installation Instructions**
+### **Installation Instructions**
 
 First, for Ubuntu, install the dependencies by running the following commands:
 

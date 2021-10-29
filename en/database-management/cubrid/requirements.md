@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-#### **System Requirements**
+### **System Requirements**
 
 - Ubuntu 18.04
 - A non-**root** user with sudo privileges

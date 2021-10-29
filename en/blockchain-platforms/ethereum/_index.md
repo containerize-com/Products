@@ -22,6 +22,7 @@ SinglePage_MenuImage_TitleText:
 SinglePage_MenuImage_AltText: Ethereum is open source distributed blockchain network
 
 ---
+### **Overview**
 
 Ethereum is an open source blockchain based platform that is used to build Decentralized Apps. Decentralized Applications(dapps) run on a decentralized network which means no one has control over these apps. Smart contracts are code snippets that control and govern the transactions over the network. Anyone can build a smart contract and deploy it on the public network. Ethereum software is built on top of the Ethereum virtual machine(EVM) which is a run time environment for smart contracts. Moreover, Ethereum maintains its own native cryptocurrency called Ether. The miner who mines the new block into the blockchain earns a bounty in the form of an Ether.
 

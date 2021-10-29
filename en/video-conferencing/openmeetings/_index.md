@@ -22,6 +22,7 @@ SinglePage_MenuImage_TitleText: open source video conferencing software
 SinglePage_MenuImage_AltText: open source video conferencing software
 
 ---
+### **Overview**
 
 Apache OpenMeetings is a free and open-source web-based software written in Java. It is used for presenting online trainings, web conferencing, collaborative white board drawing, collaborative documents editing and user desktop screen sharing.This software is based on a number of open source tools like OpenLaszlo RIA framework, Red5 Media Server, HTML5 and Flash. The communication takes place in a virtual meeting room.It is availabe in 30 + languages and it comes with lots of features.
 

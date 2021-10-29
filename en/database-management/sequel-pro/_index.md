@@ -22,6 +22,7 @@ SinglePage_MenuImage_TitleText: Sequel Pro | Open Source MySQL Client for Mac Op
 SinglePage_MenuImage_AltText: Sequel Pro | Open Source MySQL Client for Mac Operating System
 
 ---
+### **Overview**
 
 Sequel Pro is an open-source and 100% free database management application to work with MySQL &amp; MariaDB databases on MacOS. The application is developed in Objective-C and is highly customizable. Anyone can download the source code from Github and enhance its features as per their needs.
 

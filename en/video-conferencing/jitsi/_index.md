@@ -23,6 +23,7 @@ SinglePage_MenuImage_TitleText: open source video collaboration software
 SinglePage_MenuImage_AltText: Jitsi Meet is an open source video collaboration software
 
 ---
+### **Overview**
 
 Jitsi Meet is a self-hosted open source software with video conference abilities. This video collaboration software is a collection of various projects. Moreover, it uses WebRTC compatible software Video bridge for high-quality video conferences. In addition, WebRTC enabled server is used to route video streams amongst members. Whereas, Jitsi conference focus is being used to manage media sessions. Jitsi Gateway to SIP is another server-side application that controls SIP clients who wish to join the conference. In addition, this open source video conferencing software uses Jibri software to record the video streams. However, signaling happens with an XMPP server prosody. Above all, all these applications work together to provide a real-time web video conferencing experience.
 

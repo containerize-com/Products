@@ -23,6 +23,7 @@ SinglePage_MenuImage_TitleText: web based game engine
 SinglePage_MenuImage_AltText: free 3D web based game engine for building games
 
 ---
+### **Overview**
 
 PlayCanvas is a free open source game making software for mobile or desktop browsers. It is robust, flexible, and comes with self-hosting capabilities. In addition, this web based game engine is based on WebGL, HTML5 and offers utilities to speed up the development processes. Further, it is used for game development and used for Animations, Ads, Virtual reality, and Augmented reality. Moreover, this web-based game engine lets users work collaboratively where users can invite other team members to work on projects. It provides fine support for mobile-based browsers where it loads very quickly by using various features such as script concatenation, deferred loading of non-essential assets, minification, and more.
 

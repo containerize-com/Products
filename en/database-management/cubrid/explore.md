@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-#### **Explore**
+### **Explore**
 
 To learn about other open source database management tools, please check following pages:
 

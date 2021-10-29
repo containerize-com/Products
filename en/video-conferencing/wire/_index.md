@@ -23,6 +23,7 @@ SinglePage_MenuImage_TitleText: video conferencing app
 SinglePage_MenuImage_AltText: wire is an open source video conferencing app
 
 ---
+### **Overview**
 
 Wire is an entirely open source software designed with a robust business model. It is very simple to use and easy to setup. Then, this remote collaboration platform offers many powerful features that include video/audio calls, file sharing, screen sharing, guest rooms, secure inter/external conversation with end to end encryption, and forward and backward secrecy mechanism. However, this video conferencing app allows you to invite users into a video conferencing call by sharing a link.
 

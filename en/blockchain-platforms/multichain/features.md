@@ -6,7 +6,7 @@ weight: 2
 ---
 
 
-#### **Features**
+### **Features**
 
 Multichain offers the following key features:
 

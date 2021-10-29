@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-<a class="anchor" id="explore" name="explore"></a>Explore
+### **Explore**
 -------
 
 In this article we discussed the features and installation of HeidiSQL, which is an open source administration tool for MySQL and other database management systems. You may find following links relevant:

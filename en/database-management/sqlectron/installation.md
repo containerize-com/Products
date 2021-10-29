@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Installation
+### **Installation**
 
 You can download the pre-built binaries for Mac or Windows from the official Github repository
 
