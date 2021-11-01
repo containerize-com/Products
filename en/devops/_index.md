@@ -1,5 +1,6 @@
 ---
-title: Open Source Devops Tools List | Kubernetes and Alternatives
+keywords: devops tools list, top devOps tools, devops technologies, open source devops tools, devops open source, tools used in devops
+title: Open Source Devops Tools List | Kubernetes & Alternatives
 description: DevOps is a methodology to improve and combine software development (Dev) and IT operations (Ops). It focuses on constant testing and rapid IT service delivery.
 singlepageh1title: Best Open Source Devops Tools
 singlepageh2title: DevOps technologies bring development and operations teams together by combining software development and IT operations. It focuses on constant service delivery
