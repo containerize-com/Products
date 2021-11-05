@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-<a class="anchor" id="explore" name="explore"></a>Explore
+### **Explore**
 -------
 
 To learn about other Open Source DBMS software, please check following pages:

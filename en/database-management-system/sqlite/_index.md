@@ -22,6 +22,7 @@ SinglePage_MenuImage_TitleText: SQLite | Fast, Small and Open Source DBMS Softwa
 SinglePage_MenuImage_AltText: SQLite | Fast, Small and Open Source DBMS Software
 
 ---
+### **Overview**
 
 SQLite DBMS is a Library of C-language that acts as a database engine. It is a small, fast, self-contained as well as highly-reliable and open source DBMS software. It is a built-in or embedded database engine, so it doesn’t require any configuration on your system. SQLite DBMS is available for different platforms like Windows (Win32, WinCE, WinRT) and also for UNIX (Linux, Mac OS-X, Android, iOS). No external dependencies are required for SQLite because it is self-contained. This SQLite DMBS is stored in a single cross-platform disk file.
 

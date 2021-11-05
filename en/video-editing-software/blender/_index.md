@@ -23,6 +23,7 @@ SinglePage_MenuImage_TitleText: editing app for video
 SinglePage_MenuImage_AltText: Blender is an open source editing app for video
 
 ---
+### **Overview**
 
 Blender is an open source free editing app for video. It is based on Video Sequence Editor that works with the Blender. There are options to combine multiple video channels and add effects. This free tool provides high-quality animations. It lets you integrate different video clips and apply various fades and effects to create the final video. Moreover, you can synchronize the audio with the video.
 

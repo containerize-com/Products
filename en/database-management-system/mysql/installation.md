@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-Installation
+### **Installation**
 ------------
 
 Follow these steps to Install MySQL on Ubuntu 18.04:

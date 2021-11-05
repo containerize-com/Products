@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 
 ERPNext has a vibrant feature set and major ones include:
 
