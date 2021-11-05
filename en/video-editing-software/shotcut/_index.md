@@ -23,6 +23,7 @@ SinglePage_MenuImage_TitleText: video editing app
 SinglePage_MenuImage_AltText: Shotcut is open source video editing app
 
 ---
+### **Overview**
 
 Shotcut is an enterprise-level free and open source app for videography. It is a complete package for video editor enthusiasts. It provides support for almost all popular image formats such as BMP, GIF, WebP, PNG, SVG, TGA, TIFF, and JPEG. There is support available for high resolutions. Moreover, there is a multi-frame timeline in this video editor where users can mix resolutions and frame rates. This video editing app comes up with rich volume controls and audio filters such as balance, bass & treble, fade in fade out, low pass, swap channels, and more.
 

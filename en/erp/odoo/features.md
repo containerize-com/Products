@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 
 Odoo is comprehensive bundle of business applications that includes Odoo CRM, eCommerce, Point of Sale, Marketing, Billing &amp; Accounting. Main features of Odoo business applications include
 

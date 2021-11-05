@@ -22,6 +22,7 @@ SinglePage_MenuImage_TitleText:
 SinglePage_MenuImage_AltText: Odoo is open source Enterprise Resource Planning.
 
 ---
+### **Overview**
 
 Odoo is a bundle of web-based open source business applications that includes CRM, eCommerce, Point of Sale, Marketing, Billing &amp; Accounting, Warehouse Management, Website Builder, Project Management, Human Resource, and Manufacturing. All these applications are integrated seamlessly to exchange data. Odoo CRM helps your sales teams to monitor their top leads and opportunities. It allows customization of your sales workflow, statistics reports, and predictions and prepares the marketing campaign automation process to boost their sales.
 

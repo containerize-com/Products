@@ -22,6 +22,7 @@ SinglePage_MenuImage_TitleText:
 SinglePage_MenuImage_AltText: inoERP is open source Enterprise Resource Planning.
 
 ---
+### **Overview**
 
 Enterprise resource planning (ERP) refers to a type of software that organizations use to manage day-to-day business activities such as accounting, procurement, project management, risk management and compliance, and supply chain operations. A complete ERP suite also includes enterprise performance management, software that helps plan, budget, predict, and report on an organization’s financial results.
 

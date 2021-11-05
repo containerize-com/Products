@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
 Odoo is Python and PostgreSQL based Enterprise Resource Planning software. It requires following software.
 

@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
+### **System Requirements**
 -------------------
 
 Following are the requirements to install MongoDB on Ubuntu 18.04

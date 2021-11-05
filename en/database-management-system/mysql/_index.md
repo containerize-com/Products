@@ -22,6 +22,7 @@ SinglePage_MenuImage_TitleText: MySQL | Open Source Relational Database Manageme
 SinglePage_MenuImage_AltText: MySQL | Open Source Relational Database Management System
 
 ---
+### **Overview**
 
 MySQL open source DBMS is used as the database for the development of web-based, desktop-based and mobile applications. It is suitable to use for small as well as for big and complex web applications. MySQL is a free and open source relational database management system and provides support for cross-platforms. Furthermore, it provides built-in replication support. It works with many languages including PHP, PERL, C, C++, JAVA, etc. MySQL works very quickly and works well even with large data sets. It is customizable, so it allows programmers to modify the MySQL software to fit their specific environments and requirements.
 

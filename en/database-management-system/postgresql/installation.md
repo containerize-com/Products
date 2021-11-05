@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation**
 
 Follow these steps to Install PostgreSQL on Ubuntu 18.04:
 

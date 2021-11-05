@@ -22,6 +22,7 @@ SinglePage_MenuImage_TitleText: MariaDB | A Relational Database Management Syste
 SinglePage_MenuImage_AltText: MariaDB | A Relational Database Management System
 
 ---
+### **Overview**
 
 MariaDB Server is one of the most popular open source relational database management system. It is an open source RDBMS software software that provides reliability, data integrity, concurrency, consistency as well as disaster recovery and extensibility for your web applications. It is intended to maintain high compatibility with MySQL. It’s developed by the original developers of MySQL. It is part of most cloud offerings and the default in most Linux distributions. MariaDB also supports relational, JSON and hybrid data models along with the transactional, analytical and hybrid workloads.
 

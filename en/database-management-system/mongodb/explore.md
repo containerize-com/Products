@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-<a class="anchor" id="explore" name="explore"></a>Explore
+### **Explore**
 -------
 
 In this article we have discussed features and installtion of MongoDB open source NoSQL database.To learn about other open source DBMS software, please check following pages:

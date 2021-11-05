@@ -22,6 +22,7 @@ SinglePage_MenuImage_TitleText: iDempiere - Best Free ERP System
 SinglePage_MenuImage_AltText: iDempiere - Best Free ERP System
 
 ---
+### **Overview**
 
 iDempiere is one of the **best free ERP system**. iDempiere supports out-of-the-box features for ERP, CRM, and SCM. It is a high-quality, reliable, robust, and extensible system. Any type and size of an organization can use it for managing its operations. Further, it's cross-platform and can be used on Windows, Linux, and Mac operating systems. Also, this **Java ERP** is completely assisted by active communities who actively improve and enhance the system. Companies can scale their business with this **top open source ERP** by introducing multiple servers and load balancing.
 

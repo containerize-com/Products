@@ -23,6 +23,7 @@ SinglePage_MenuImage_TitleText: open source video editor tool
 SinglePage_MenuImage_AltText: Pitivi is an open source video editor tool
 
 ---
+### **Overview**
 
 Pitivi is an open source video maker with powerful provisions for the users. It is free, flexible, and comes with self-hosting capabilities. Moreover, it is supported by the GStreamer Multimedia framework that is also an open source software to create media applications. However, it has the ability to accept and process any format for videos for editing purposes. Further, it provides powerful features such as industry-standard transitions, video/audio effects, animated effects, and filters. So, it is very precise and with the capabilities of automatic zoom adjustment.
 
