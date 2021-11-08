@@ -16,4 +16,4 @@ Yes, Portainer is open source container orchestration management software. Porta
 ### In what language is Portainer written?
 Portainer is written in Go and Javascript programming languages.
 ### Does Portainer work with Kubernetes?
-Portainer works with all flavors of either self hosted or managed Kubernetes to ensure any app deployed is safe and secure.
+Portainer docker swarm management ui works with all flavors of either self hosted or managed Kubernetes to ensure any app deployed is safe and secure.

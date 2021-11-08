@@ -1,5 +1,5 @@
 ---
-keywords: kubernetes container orchestration, kubernetes microservices architecture, best container management platform, best container management software, container orchestration using kubernetes, kubernetes container orchestration platform
+keywords: container management tool, portainer container, container management platform, best container management software, container management system, docker container management, open source container management
 title: Portainer | Open Source Container Management Tool
 description: Portainer is a universal container-as-a-service, simplified, container management tool set designed to build and manage Docker Swarm and Kubernetes environments
 singlepageh1title: A lightweight & self-hosted container management platform
@@ -25,6 +25,6 @@ SinglePage_MenuImage_AltText: Portainer | Open Source Container Management Tool
 
 ---
 
-Portainer Business is fully featured, fully supported, and suitable for use in both single and multi-cluster environments. It provides the platform security and management functionality organizations need to run containers at scale. Portainer is a container management tool that "allows anyone to deploy and manage containers without the need to write code. 
+Portainer is an open source, powerful lightweight GUI and easy-to-use container management tool. It help customers to adopt container technology, build, manage, and maintain container based evironments with Docker, Kubernetes, Docker Swarm and Azure ACI. Portainer is easy to deploy tool with an intuitive interface for both software developers and IT operations. Portainer removes the need to use the CLI and hides the complexity of managing containers.
 
-Portainer is a universal container-as-a-service solution that works with Docker and Kubernetes. It helps organizations manage and deploy cloud-native applications and can be deployed on top of any Kubernetes distro in the cloud, on-premise, and at the edge. The tool can be supported on Windows and also on Linux systems, and the deployment Authentication tools offered are powerful, and even the system interface arrangement is excellent.
+Portainer container management platform consists of two components, the Portainer Server, and the Portainer Agent. These both elements run as lightweight Docker containers on a Docker engine. It enables centralized configurations, management and security of Kubernetes and Docker production environments. It gives a detailed overview of the environment and allows devops to manage containers, images, volumes, networks and more. It is also compatible with the standalone Docker engine and with Docker Swarm.
