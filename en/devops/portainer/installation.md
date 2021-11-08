@@ -13,7 +13,7 @@ This document installation steps assume that all the depency packages of the com
 
     docker volume create portainer_data
 
-Next, download and install the Portainer Server container by running below in terminal:
+Next, download and install the Portainer best container management software by running below in terminal:
 
     docker run -d -p 8000:8000 -p 9443:9443 --name portainer \
         --restart=always \
@@ -21,7 +21,7 @@ Next, download and install the Portainer Server container by running below in te
         -v portainer_data:/data \
         portainer/portainer-ce:latest
 
-By default, Portainer installation generates a self-signed SSL certificate to secure port 9443. If you need HTTP port 9000 open for legacy reasons then you can add the following in docker run command:
+By default, Portainer container management system installation generates a self-signed SSL certificate to secure port 9443. If you need HTTP port 9000 open for legacy reasons then you can add the following in docker run command:
 
     -p 9000:9000
 
@@ -37,4 +37,4 @@ Portainer Agent provides additional functionality such as volume browsing from P
 
     https://localhost:9443
 
-You need to replace localhost with the IP or Fully qualified domain name(FQDN) and you will see the initial setup page for Portainer Server. That's it, Portainer Server has been installed. Congratulations! You have successfully setup Portainer Server on Linux. Enjoy!
+You need to replace localhost with the IP or Fully qualified domain name(FQDN) and you will see the initial setup page for Portainer Server. That's it, Portainer Server has been installed. Congratulations! You have successfully setup Portainer docker container management server on Linux. Enjoy!

@@ -8,7 +8,7 @@ weight: 1
 
 ### **System Requirements**
 
-The installation instructions make the following assumptions for the Portainer Server container on your Linux environment:
+The installation instructions make the following assumptions for the Portainer open source container management server on your Linux environment:
 
 *   The latest version of Docker installed
 *   sudo access to host Portainer Server instance
