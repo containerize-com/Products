@@ -8,7 +8,7 @@ Shortdescriptionlistingpage: Elgg is a free open-source social collaboration too
 linktitle: Elgg
 Imagetext:  Free Social Network Platform
 draft: false
-weight: 1
+weight: 2
 layout: "single"
 GithubLink: https://github.com/elgg/elgg
 HomePage_TitleText: Open Source Social Network Platform in PHP
