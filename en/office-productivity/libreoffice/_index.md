@@ -24,7 +24,7 @@ SinglePage_MenuImage_AltText: LibreOffice is a free Microsoft Office alternative
 
 ---
 
-#### Overview
+#### **Overview**
 
 Due to digitalization, the world is going more paperless. Hence the demand for office productivity software has increased as well. Microsoft Office has been dominating this domain for a very long time. But as the demand increases and the choice of open-source office software as well. More and more people are looking towards free open-source office productivity tools. Libre Office is a powerful and free office suite. It’s a successor to OpenOffice, used by millions of people around the world.
 

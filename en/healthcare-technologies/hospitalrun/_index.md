@@ -22,6 +22,7 @@ SinglePage_MenuImage_TitleText:  patient record system
 SinglePage_MenuImage_AltText: free patient record system
 
 ---
+### **Overview**
 
 HospitalRun is a free open source **hospital information management system**. It comes up with both online and offline versions. It is easy to use with an enterprise-level user interface. There is a complete system of syncing records with remote clinics. Moreover, this free software is capable enough to be deployed with the least resources. Further, it provides an intuitive user experience for admins and clinicians. Users can manage the inventory of medicine, and patients records such as patients visits, assessments, and medication in this **patient record system**.
 

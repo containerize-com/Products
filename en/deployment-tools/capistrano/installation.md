@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation*|*
 
 #### Installing using Ubuntu
 

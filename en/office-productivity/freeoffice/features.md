@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-Features
+### **Features**
 --------
 
 ### Full-featured, easy to use, compatible ... and free!

@@ -22,6 +22,7 @@ SinglePage_MenuImage_TitleText: Capistrano - Open Source Deployment Tool
 SinglePage_MenuImage_AltText: Capistrano - Open Source Deployment Tool
 
 ---
+### **Overview**
 
 Capistrano is an **open source deployment tool** for deploying web applications. It is one of the **best deployment tool** that allows software teams to build automated deployment scripts. Capistrano can simultaneously **deploy web applications** on multiple servers. It allows teams to define deployment once for multiple stages such as dev, staging, and production. It helps software teams to automate audits such as checking login logs, enumerating uptimes, and applying security patches for the number of servers. Further, Capistrano allows automating common tasks like changing databases.
 
