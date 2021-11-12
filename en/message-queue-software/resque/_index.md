@@ -1,7 +1,7 @@
 ---
 keywords: open source scheduler, open source queueing system, distributed job scheduler, open source job scheduler, run process in background, job scheduling tool
 title: Resque | Redis-backed open source scheduler
-description: Resque is an open-source scheduler backed by Redis. It helps you create background jobs, place them on multiple queues, and process them later.
+description: Resque is an open-source scheduler backed by Redis. It helps you create background jobs, places them on multiple queues, and process them later.
 singlepageh1title: Redis-backed queuing system for background processing.
 singlepageh2title: Resque is an open source queueing system backed by Redis. It creates background jobs, places them on multiple queues, and schedules jobs to process later.
 Shortdescriptionlistingpage: Resque is ruby based open source scheduler. Resque distributed job scheduler is used for creating background jobs using Redis, placing them on multiple queues and then schedule them later.
