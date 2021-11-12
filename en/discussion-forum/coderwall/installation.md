@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### **Installation**
+### Installation
 
 ### Install Coderwall on Heroku
 
@@ -41,10 +41,3 @@ The following environment variables can be set:
 		STRIPE_SECRET_KEY
 
 Congratulations! You have successfully installed coderwall web developer community tool. Enjoy!
-
-Explore
--------
-
-In this article we discussed about coderwall open source programmer community software. To learn about other open source web developer forum software, please visit following page:
-
-*   [Best Open Source Community Forums](https://products.containerize.com/discussion-forum)
