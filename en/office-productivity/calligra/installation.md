@@ -5,6 +5,6 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation**
 
 You can visit their official website’s download section https://calligra.org/download/ and download the the package for relevant platform.

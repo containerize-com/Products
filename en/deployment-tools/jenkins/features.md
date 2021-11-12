@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 
 Jenkins has an excellent feature list and some of them are:
 

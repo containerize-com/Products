@@ -24,7 +24,7 @@ SinglePage_MenuImage_AltText: Calligra is open-source office alternative and eas
 
 ---
 
-#### Overview
+#### **Overview**
 
 Calligra Suite is an open-source office suite developed by KDE. It’s one of the good open-source office alternatives available for all the major platforms. Unlike other free open-source office alternatives, in Calligra Suite each component is designed to be tightly integrated with each other for ease of information transfer between applications.
 

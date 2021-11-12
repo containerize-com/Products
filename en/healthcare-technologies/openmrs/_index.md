@@ -23,6 +23,7 @@ SinglePage_MenuImage_TitleText: hospital information management system
 SinglePage_MenuImage_AltText: OpenMRS is an open source hospital information management system
 
 ---
+### **Overview**
 
 OpenMRS is an open source electronic hospital information management system. It is based on a modular architecture that is flexible to accept any expansion. Similarly, it is highly adaptable software and provides integration with third-party libraries. This web-based software comes up with many helpful add-ons such as ID-Generation, HTML Form entry, Admin UI module, Legacy UI module, and XForms. Reporting add-on provides a user interface that is used to manage report designs, data sets, and this health management information system also offers API for further development.
 

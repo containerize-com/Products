@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-Features
+### **Features**
 --------
 
 ### More performance, more compatibility

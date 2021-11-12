@@ -23,6 +23,7 @@ SinglePage_MenuImage_TitleText: Open Source Medical Software
 SinglePage_MenuImage_AltText: FreeMED is an Open Source Medical Software
 
 ---
+### **Overview**
 
 FreeMED is an open source hospital management system that comes with self-hosting capabilities. It provides rich import and export formats. Further, this medical care solution is highly extensible and developers can customize it as per requirements. It is multilingual and provides support in many languages. This open source medical software provides HL7 (health level seven) interface that is a set of standards used to govern the data transfer between the healthcare provider. Above all, its architecture is modular and stores the medical records in the database layer.
 

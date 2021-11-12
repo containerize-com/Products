@@ -23,6 +23,7 @@ SinglePage_MenuImage_TitleText: medical record management system
 SinglePage_MenuImage_AltText: free medical record management system
 
 ---
+### **Overview**
 
 Solismed is an open source healthcare software for outpatient and inpatient clinics. This clinic information management system provides many features to save time and boost productivity. Further, it offers a user-friendly user interface where users can navigate easily. Similarly, users can open multiple tabs at one time with different task panes. Moreover, this medical record management system offers prominent features include secured medical records, e-prescribing, patient encounter management, patient portal, inventory control, billing, and appointment scheduling.
 
