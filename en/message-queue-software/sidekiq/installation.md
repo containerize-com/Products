@@ -26,10 +26,3 @@ Start sidekiq unique jobs from the root of your Rails application so the jobs wi
     bundle exec sidekiq
 
 Congratulations! You have successfully installed sidekiq open source job scheduler with ui software. Enjoy!
-
-Explore
--------
-
-In this article we discussed about Sidekiq best open source job scheduler for linux background process. To learn about other open source message queue software, please visit following page:
-
-*   [Top Open Source Message Queue (MQ) Software List](https://products.containerize.com/message-queue-software/)
