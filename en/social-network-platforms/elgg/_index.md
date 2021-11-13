@@ -1,9 +1,9 @@
 ---
 keywords: social collaboration tool, social network platform, open source social network, social networking engine, collaborative platform,
 title: Elgg | Open Source Social Collaboration Tool
-description: Elgg is an open-source self-hosted social collaboration tool that offers wide range of features and plugins to build a professional social solution for teams.
+description: Elgg is an open-source self-hosted social collaboration tool that offers a wide range of features and plugins to build a professional social solution for teams.
 singlepageh1title: An Award-Winning Solution To Build Social Network Platform
-singlepageh2title: Elgg offers enterprise-level collaborative platform for social web apps. It exposes documented API, offers plugins and security using cryptographic approaches.
+singlepageh2title: Elgg offers an enterprise-level collaborative platform for social web apps. It exposes documented API, offers plugins and security using cryptographic methods.
 Shortdescriptionlistingpage: Elgg is a free open-source social collaboration tool that comes up with thousands of plugins and many powerful features such as access control system, API, cryptography based security and more.
 linktitle: Elgg
 Imagetext:  Free Social Network Platform
