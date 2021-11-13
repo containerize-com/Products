@@ -32,7 +32,7 @@ Kick up a server with foreman running at localhost:5000
 
     bundle exec foreman start
 
-Follow the configuration wizard steps and you have your OpenProject website ready to use. Login using default username: [admin@example.com](mailto:admin@example.com)document.getElementById('cloak6102f4ce28263a3da67d9f424fe302aa').innerHTML='';var prefix='&#109;a'+'i&#108;'+'&#116;o';var path='hr'+'ef'+'=';var addy6102f4ce28263a3da67d9f424fe302aa='&#97;dm&#105;n'+'&#64;';addy6102f4ce28263a3da67d9f424fe302aa=addy6102f4ce28263a3da67d9f424fe302aa+'&#101;x&#97;mpl&#101;'+'&#46;'+'c&#111;m';var addy\_text6102f4ce28263a3da67d9f424fe302aa='&#97;dm&#105;n'+'&#64;'+'&#101;x&#97;mpl&#101;'+'&#46;'+'c&#111;m';document.getElementById('cloak6102f4ce28263a3da67d9f424fe302aa').innerHTML+='<a '+path+'\\''+prefix+':'+addy6102f4ce28263a3da67d9f424fe302aa+'\\'>'+addy\_text6102f4ce28263a3da67d9f424fe302aa+'<\\/a>'; and password: password
+Follow the configuration wizard steps and you have your OpenProject website ready to use. Login using default username: admin@example.com and password: password
 
 There are a few ways you can customize SprintApp for your needs.
 
@@ -41,10 +41,3 @@ There are a few ways you can customize SprintApp for your needs.
     Edit the SMTP settings for outgoing mail, needed to email notifications of ticket updates for the production environment.
 
 Congratulations! You have successfully installed SprintApp free project management tool. Enjoy!
-
-Explore
--------
-
-In this article we discussed about SprintApp open source project management and time tracking software. To learn about other open source project management software, please visit following page:
-
-*   [Best Open Source Project Management Tools](https://products.containerize.com/project-management)

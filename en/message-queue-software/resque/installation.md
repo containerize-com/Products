@@ -56,10 +56,3 @@ Now start your application:
     rails server
 
 Congratulations! You have successfully installed Resque open source batch scheduler on linux cloud server. Enjoy!
-
-Explore
--------
-
-In this article we discussed about Resque open source job scheduler. To learn about other open source job scheduling tools list, please visit following page:
-
-*   [Top Open Source Background Processing Tools](https://products.containerize.com/message-queue-software/)
