@@ -39,10 +39,3 @@ Setup the database and run migrations:
     rake db:create db:migrate
 
 Congratulations! You have successfully installed Forem online community management software. Enjoy!
-
-Explore
--------
-
-In this article we discussed about Forem for building brand communities software. To learn about other open source online communities and forums, please visit following page:
-
-*   [Top Open Source Community Discussion Forums List](https://products.containerize.com/discussion-forum)
