@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-Installation
+### **Installation**
 ------------
 
 Follow these steps to Install KeePassx(A Linux port of KeePass) on Ubuntu 18.04:

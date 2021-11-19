@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-Installation
+### **Installation**
 ------------
 
 Follow these steps to Install Bitwarden on Ubuntu 20.04 LTS Focal Fossa:

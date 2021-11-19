@@ -22,6 +22,7 @@ SinglePage_MenuImage_TitleText: Password Safe | A Simple, Easy-to-Use & Safe Pas
 SinglePage_MenuImage_AltText: Password Safe | A Simple, Easy-to-Use & Safe Password Manager
 
 ---
+### **Overview**
 
 Open-source password managers are a great option when it comes to making sure that your passwords are not only stored in one place but won’t fall in the wrong hands either. Password Safe is a good contender as an easy-to-use and free to download credentials management software. It was built upon Bruce Scheiner’s Blowfish encryption algorithm that uses the same key to decrypt and encrypt a message. It is one of the best free password vaults as well as a safe password manager.
 

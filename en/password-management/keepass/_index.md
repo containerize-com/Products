@@ -22,6 +22,7 @@ SinglePage_MenuImage_TitleText: KeePass | Secure, Portable & Open Source Passwor
 SinglePage_MenuImage_AltText: KeePass | Secure, Portable & Open Source Password Manager
 
 ---
+### **Overview**
 
 Credential management apps are a convenient way of storing your passwords for different accounts and websites at one place. Especially if you use complex password combinations consisting of alphanumeric and special characters, then it can be hard remembering them all. KeePass is an open source password manager which makes it simple and easy for users to store and manage their usernames and passwords. You just need to remember one master password to login into any app. It is one of the best free password manager software.
 

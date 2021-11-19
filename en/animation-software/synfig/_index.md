@@ -24,6 +24,7 @@ SinglePage_MenuImage_AltText: Synfig | Free & Open Source Animation Software
 
 
 ---
+### **Overview**
 
 Synfig is an open source animation software that uses a “tweenless” animation system that is designed to speed up the animation process instead of adding more load to the illustration process where animators have to draw every frame. With Synfig you a combined front-end and back-end application to design and render animations, whether on the same computer or not.
 

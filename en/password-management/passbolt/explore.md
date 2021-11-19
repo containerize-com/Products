@@ -4,8 +4,7 @@ onpagelink: explore
 weight: 4
 
 ---
-
-Explore
+### **Explore**
 -------
 
 To learn about other open source password managers, please check following pages:

@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-Installation
+### **Installation**
 ------------
 
 Follow these steps to Install Password Safe on Ubuntu server:

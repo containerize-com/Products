@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-Explore
+### **Explore**
 -------
 
 In this article we have discussed Bitwarden's overview and features that makes it a reliable cross-platform password manager. To learn about other open source credentials management software, please check following pages:

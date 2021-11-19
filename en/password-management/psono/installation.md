@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-Installation
+### **Installation**
 ------------
 
 This guide will install the Psono server, and runs it with gunicorn and nginx. It has been tested on Ubuntu 18.04.

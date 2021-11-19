@@ -23,6 +23,7 @@ SinglePage_MenuImage_TitleText:  open source data analytics solution
 SinglePage_MenuImage_AltText:  enterprise open source data analytics solution and business intelligence solution
 
 ---
+### **Overview**
 
 Posthog is an open source data analytics solution that provides out-of-the-box features to understand the website’s analytics. There is a complete system of auto event auto capturing in which it captures the event right on time when any activity takes place on the website. Further, this business intelligence and analytics software is self-hosted and you completely own your data. After that, this open source analytics software identifies the more engaging and less engaging part of your site. Moreover, the feature flag option informs about the impact of any new feature in the application. Then, you can easily roll out or roll back new features depending upon their usage.
 
