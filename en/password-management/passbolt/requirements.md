@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
+### **System Requirements**
 -------------------
 
 Passbolt is written in PHP and uses MySQL/MariaDB database server. While installing Passbolt for Ubuntu make sure you have the following system requirements:

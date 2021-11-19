@@ -6,7 +6,7 @@ weight: 2
 ---
 
 
-Features
+### **Features**
 --------
 
 Some of the great list of features of Hypercable business intelligence application are listed below, including functionality, reporting and more:

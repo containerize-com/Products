@@ -24,6 +24,7 @@ SinglePage_MenuImage_AltText: Countly is an enterprise business intelligence sol
 
 
 ---
+### **Overview**
 
 Countly is an open source web analytics software that provides full ownership of data. It is self-hosted and works well on all the platforms such as Mobile, Desktop, and Web. Moreover, this enterprise business intelligence solution is highly extensible as users can develop plugins to add needed functionality. There is a rich-featured dashboard in this free tool where users can see all the information such as user profiles, push notifications, and other analytical stats. Further, this free alternative to google analytics gives a deep level of analysis of site visitors such as sessions and other activities. Above all, there is a complete mechanism of push notification where it lets you send notifications to your customers about any update or promotion.
 

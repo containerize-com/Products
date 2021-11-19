@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-Installation
+### **Installation**
 ------------
 
 Follow these steps to Install Passbolt on Ubuntu server:

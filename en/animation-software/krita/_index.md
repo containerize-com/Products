@@ -24,6 +24,7 @@ SinglePage_MenuImage_AltText: Krita | Open Source & Free Painting Program
 
 
 ---
+### **Overview**
 
 Having the right tools to improve and enhance your digital animation workflow can make a huge difference in the quality and quantity of visuals you can create. Krita is an open source and free painting program that lets artists create 2D animations whether they are just starting out their careers or are professional animators.
 

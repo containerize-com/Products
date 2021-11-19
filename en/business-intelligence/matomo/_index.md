@@ -24,6 +24,7 @@ SinglePage_MenuImage_AltText: Matomo is business intelligence analytics software
 
 
 ---
+### **Overview**
 
 Matomo is an open source free analytics platform. It comes with self-hosting capabilities and is very easy to set up. This business intelligence solution offers API to create custom reports. However, an intuitive dashboard provides utmost customization where users can modify the widgets and theme. Above all, there is a complete assurance of data privacy where users have complete control. There is no limitation regarding adding websites and users. It shows all the important analytics such as location, interest, and real-time visitor information.
 

@@ -24,6 +24,7 @@ SinglePage_MenuImage_AltText: OpenToonz | Free 2D Animation Software for Beginne
 
 
 ---
+### **Overview**
 
 Developed by Dwango Opnetoonz is one of the most beginner friendly 2d animation software that can really help coming animators create beautiful 2D animations and sketches. Opentoonz has been used by some popular animation studios such as Studio Ghibli and Rough Draft Studios. It is open source, free to download for both small projects and commercial films, and anyone can modify the source code to fit their requirements.
 

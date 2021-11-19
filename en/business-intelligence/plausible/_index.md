@@ -24,6 +24,7 @@ SinglePage_MenuImage_AltText:  Plausible is an open source business intelligence
 
 
 ---
+### **Overview**
 
 Plausible is an open source free web analytics platform. It is lightweight (< 1 KB) and comes with very easy installation steps. In addition, this open source analytics software provides valuable stats about the users and helps site owners understand and improve site visitors’ experience. However, this open source business intelligence reporting tool is cookie-less and fully compliant with international privacy laws. There is no personal data collection and cross-site tracking. Just like Google Analytics, it provides an installation script that is 45 times smaller in weight than Google analytics’s installation script. Therefore, it increases the site speed and reduces the page loading time.
 
