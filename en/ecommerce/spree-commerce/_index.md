@@ -1,4 +1,5 @@
 ---
+keywords: open source ecommerce, best open source ecommerce, open source ecommerce software,  open source b2b ecommerce platform, open source ecommerce website, headless ecommerce open source
 title: Spree Commerce | Open Source ecommerce RoR Based Software
 description: Spree Commerce is an open source ecommerce solution based on Ruby on Rails with a mobile first user interface, rich plugins and social media integration.
 singlepageh1title: Fully Featured Ruby Based Open Source eCommerce Software
