@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-Installation
+### **Installation**
 ------------
 
 - Open terminal (Ctrl+Alt+T) and run command to add the PPA:

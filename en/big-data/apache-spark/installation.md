@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation**
 
 #### **Install Apache Spark on Ubuntu 18.04**
 

@@ -24,6 +24,7 @@ SinglePage_MenuImage_AltText: Open Source Big Data Tool
 
 
 ---
+### **Overview**
 
 Hadoop is a free and open source big data tool. It is robust, reliable, and scalable big data analytics software. HDFS (High Distributed File System), MapReduce, and YARN are the three key components of Hadoop. HDFS is a storage layer that is made up of two kinds of nodes: NameNodes and DataNodes. The metadata about a block's location is stored in NameNode. In a predetermined period, DataNodes stores the block and sends block reports to NameNode. The MapReduce processing layer is divided into two phases: the Map phase and the Reduce phase. It is intended for concurrent processing of data that is distributed across several nodes. In Hadoop big data, YARN is the job scheduling and resource management layer.
 

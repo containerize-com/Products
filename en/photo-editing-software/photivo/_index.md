@@ -22,6 +22,7 @@ SinglePage_MenuImage_TitleText: Photivo | A Free Image Editing Software for Phot
 SinglePage_MenuImage_AltText: Photivo | A Free Image Editing Software for Photographers
 
 ---
+### **Overview**
 
 Photivo is an open source and free image editing software, that has been mostly developed in Qt framework using C++ programming language. It uses many algorithms already available for changing local contrast, sharpening images, applying filters and much more. Photivo is compatible with multiple operating systems and allows for GIMP integration as well.
 

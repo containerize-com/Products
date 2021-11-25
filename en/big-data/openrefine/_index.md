@@ -24,6 +24,7 @@ SinglePage_MenuImage_AltText: Open Source Big Data Tool
 
 
 ---
+### **Overview**
 
 OpenRefine (previously Google Refine) is an open source big data tool for working with complex datasets. It's a free big data platform for manipulating data. It helps users to clean up messed-up data and convert it to a different format. Further, OpenRefine allows extending datasets with various web services. OpenRefine has an API that may be used to integrate with third-party services and automate operations. The extensions can be used to expand this big data solution. Users can easily download and install extensions to improve the functionality of the program.
 

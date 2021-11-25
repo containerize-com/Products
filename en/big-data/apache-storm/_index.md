@@ -24,6 +24,7 @@ SinglePage_MenuImage_AltText: Real-ime Data Processing Tool
 
 
 ---
+### **Overview**
 
 Apache Storm is an open source real-time data processing tool. It's a simple, user-friendly big data processing tool that works with any programming language. It can be incorporated in both small and large businesses. It is highly scalable and can maintain efficiency even when the load increases, by adding resources in a linear manner. Apache Storm processes data streams in real time, while Hadoop processes data in batches. Existing queueing and database technologies can be integrated with Apache Storm. It guarantees data processing even if one or more of the cluster's linked nodes fails or messages are lost.
 

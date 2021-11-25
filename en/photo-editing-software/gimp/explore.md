@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-Explore
+### **Explore**
 -------
 
 In this article we have discussed GIMP's overview and features that makes it a reliable open source photo editor. To learn about other open source photo editor applications, please check following pages:

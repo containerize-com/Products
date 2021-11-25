@@ -24,6 +24,7 @@ SinglePage_MenuImage_AltText: Big Data Processing
 
 
 ---
+### **Overview**
 
 Apache Spark is a free and open source big data processing engine. It is based on Hadoop MapReduce and is designed for fast computation. Apache Spark extends the Hadoop MapReduce model to allow for more types of computations, such as interactive queries and stream processing, to be performed more efficiently. It supports in-memory cluster computing, which boosts an application's processing speed. Apache Spark handles a variety of workloads including iterative algorithms, interactive queries, and streaming. It comes with out-of-the-box features such as fault tolerance, advanced analytics, lazy evaluation, real-time stream processing, in-memory data processing, and many more.
 

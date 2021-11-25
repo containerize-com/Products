@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-Explore
+### **Explore**
 -------
 
 In this article we have discussed Darktable's overview and features that makes it a reliable open source image editor. To learn about other open source photo editing software, please check following pages:

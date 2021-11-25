@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-<a class="anchor" id="explore" name="explore"></a>Explore
+### **Explore**
 -------
 
 In this article we have discussed digiKam's overview and features that makes it a reliable open source image editor application. To learn about other free image editing software applications, please check following links:

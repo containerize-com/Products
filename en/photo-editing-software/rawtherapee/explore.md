@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-<a class="anchor" id="explore" name="explore"></a>Explore
+### **Explore**
 -------
 
 In this article we have discussed RawTherapee's overview and features that makes it a reliable raw image editor application. To learn about other open source photo editor applications, please check following links:
