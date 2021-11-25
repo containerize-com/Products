@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
+### **System Requirements**
 -------------------
 
 While installing RawTherapee for Ubuntu make sure you have the following system requirements:

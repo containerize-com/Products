@@ -23,6 +23,7 @@ SinglePage_MenuImage_AltText: GIMP | A Cross Platform & Open Source Photo Editor
 
 
 ---
+### **Overview**
 
 As free and open source photo editor, the GNU Image Manipulation Program aka GIMP is a useful and powerful tool for photo manipulation and editing. Not only is it compatible with multiple languages like Python, C++, Perl, Scheme and more but you can also integrate into your photography workflow alongside other applications like Scribus, Inkscape and SwatchBooker.
 

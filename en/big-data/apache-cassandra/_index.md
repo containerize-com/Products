@@ -24,6 +24,7 @@ SinglePage_MenuImage_AltText: Big Data Database
 
 
 ---
+### **Overview**
 
 Apache Cassandra is a free and open source distributed NoSQL database. It is designed to handle a huge amount of data. Apache Cassandra is a cross-platform and one of the best NoSQL databases for big data. It is a highly scalable, high-performance, and highly available big data database. Allows managing huge volumes of data spread across numerous servers. Cassandra open source database is ideal for applications that can not afford to lose data. There are no single points of failure and network bottlenecks.
 

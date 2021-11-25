@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-Explore
+### **Explore**
 -------
 
 In this article we have discussed Photivo's overview and features that makes it a reliable open source photo editor application. To learn about other free image editing software applications, please check following links:

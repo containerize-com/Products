@@ -22,6 +22,7 @@ SinglePage_MenuImage_AltText: RawTherapee | Free to Use & Open Source Raw Image 
 
 
 ---
+### **Overview**
 
 As an open source, free to download, cross platform raw image editor, RawTherapee is quite a powerful software that can help users improve their digital photography. It has been released under the GNU General Public License, and is specifically aimed at raw photo post production tasks. And like most image processing software it is compatible with Windows, Mac OS and Linux.
 

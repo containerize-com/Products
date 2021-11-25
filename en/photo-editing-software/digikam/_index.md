@@ -22,6 +22,7 @@ SinglePage_MenuImage_AltText: Digikam | An Open Source Digital Photo Management 
 
 
 ---
+### **Overview**
 
 If you are looking for an easy to use, powerful digital photo management app to be included in your photography workflow, then DigiKam gets the job done. As an open source application it provides a large number of organizational and editing tools that can help developers and photographers in their day to day photography.
 

@@ -23,6 +23,7 @@ SinglePage_MenuImage_AltText: Darktable | Free & Open Source Image Editor Softwa
 
 
 ---
+### **Overview**
 
 Dartktable is a powerful photography workflow management application that can come in handy for both developers and photographers. The application acts like a virtual light table and dark table while providing many features to enhance, refine, develop raw images and more. As an open source image editor application it is free to download and is compatible with many operating systems.
 
