@@ -5,10 +5,10 @@ weight: 2
 
 ---
 
-Features
+### **Features**
 --------
 
-Some of the great features of Publify are listed below:
+Some of the great features of Publify open source blogging software are listed below:
 
 *   Classic multi user blogging engine
 *   Short messages with a Twitter connection
