@@ -5,11 +5,10 @@ weight: 1
 
 ---
 
-
-### System Requirements
+### **System Requirements**
 -------------------
 
-The following key dependency packages are required to install the Publify:
+The following key dependency packages are required to install the Publify best blogging tool:
 
 *   Ruby on Rails 5.2.x
 *   CRuby (MRI) 2.4, 2.5, 2.6 or 2.7
