@@ -1,4 +1,5 @@
 ---
+keywords: open source email marketing software, email marketing solution, top email marketing services, open source newsletters, open source newsletter platform, open source newsletter software, email marketing software open source
 title: Free Newsletter Software | phpList and Alternatives
 description: Email mailing to millions of subscribers empowers to globally spread company news in a personalized way. Bounce stats features help to measure reach out.
 singlepageh1title: Best Open Source Email Marketing Software Options
@@ -19,7 +20,7 @@ listingtypetag:  Open Source Software
 
 HomePage_Link_TitleText: Open Source Email Marketing Software
 
-ListingPage_HeaderImage_TitleText:
+ListingPage_HeaderImage_TitleText: Best Open Source Newsletter Software
 ListingPage_HeaderImage_AltText: Best Open Source Newsletter Options
 
 ---
