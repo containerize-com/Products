@@ -6,10 +6,10 @@ weight: 1
 ---
 
 
-System Requirements
+### System Requirements
 -------------------
 
-The following key dependency packages are required to install Mastodon:
+The following key dependency packages are required to install Mastodon best microblogging site:
 
 *   Ruby 2.5+
 *   Rails 6.1.3
