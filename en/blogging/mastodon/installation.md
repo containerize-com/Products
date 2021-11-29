@@ -7,9 +7,9 @@ weight: 3
 
 ### Installation
 
-### Install Publify On Ubuntu
+### Install Mastodon On Ubuntu
 
-Mastodon social network server based on ActivityPub is easy to get started. The best way of working with Mastodon in a development environment is installing all the dependencies on your system, rather than using Docker or Vagrant. Install standard set of dependencies for Rails applications like Ruby, Node.js, PostgreSQL and Redis etc. You can download the latest stable release of Mastodon microblogging tool:
+Mastodon open source social media platform is based on ActivityPub which is easy to get started. The best way of operating with Mastodon in a local development environment is installing all the system dependencies in your local environment instead of using Docker or Vagrant tools. Install standard set of dependencies for Rails applications like Ruby, Node.js, PostgreSQL and Redis etc. You can download the latest stable release of Mastodon microblogging tool by running commands in terminal:
 
     git clone https://github.com/tootsuite/mastodon.git mastodon
     cd mastodon
@@ -30,4 +30,4 @@ There are multiple processes that need to be run for the full set of functionali
 
 In the Mastodon directory, this will start processes defined in Procfile.dev, A Rails server, a Webpack server, a streaming API server and Sidekiq schedular. That's it.
 
-Congratulatiopns! you have successfully installed Mastodon on your Ubuntu system. Enjoy!
+Congratulatiopns! you have successfully installed Mastodon most popular microblogging site on your Ubuntu system. Enjoy!

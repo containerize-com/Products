@@ -8,7 +8,7 @@ weight: 2
 ### Features
 --------
 
-Some of the great features of Mastodon are listed below:
+Some of the great features of Mastodon self hosted social network are listed below:
 
 *   Real time and chronological timeline updates
 *   Media attachments to the updates
