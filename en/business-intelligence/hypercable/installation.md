@@ -7,7 +7,7 @@ weight: 3
 
 ### **Installation**
 
-### Install Hypercable on Ubuntu
+#### **Install Hypercable on Ubuntu**
 
 Install and configure the necessary dependencies packages. Hypercable business intelligence solution is easy to setup and get started. To get started with Hypercable business intelligence and analytics, clone the repo to your computer or server
 
@@ -29,10 +29,3 @@ Run sidekiq job scheduler to handle many jobs at the same time and then setup do
     docker-compose -f docker-compose.production.yaml logs --tail="100"
 
 Congratulations! You have successfully installed Hypercable open source bi tool. Enjoy!
-
-Explore
--------
-
-In this article we discussed about Hypercable business intelligence and analytics software. To learn about other open source bi tools and business intelligence softwares, please visit following page:
-
-*   [Open Source Business Intelligence and Best BI Tool](https://products.containerize.com/business-intelligence)

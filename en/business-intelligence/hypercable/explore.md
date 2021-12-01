@@ -7,14 +7,9 @@ weight: 5
 
 ### **Explore**
 
-In this article we discussed about Publify blogging engine and free blog tool. To learn about other open source blogging platforms, please visit following page:
+In this article we discussed about Hypercable business intelligence and analytics software. To learn about other open source bi tools and business intelligence softwares, please visit following pages:
 
-*   **[WordPress](https://products.containerize.com/blogging/wordpress/)**
-*   **[Jekyll](https://products.containerize.com/blogging/jekyll/)**
-*   **[Ghost](https://products.containerize.com/blogging/ghost/)**
-*   **[Serendipity](https://products.containerize.com/blogging/serendipity/)**
-*   **[SilverStripe](https://products.containerize.com/blogging/silverstripe/)**
-*   **[Hugo](https://products.containerize.com/blogging/hugo/)**
-*   **[Hexo](https://products.containerize.com/blogging/hexo/)**
-*   **[Gatsby](https://products.containerize.com/blogging/gatsby/)**
-*   **[Mastodon](https://products.containerize.com/blogging/mastodon/)**
+*   **[Matomo](https://products.containerize.com/business-intelligence/matomo/)**
+*   **[Plausible](https://products.containerize.com/business-intelligence/plausible/)**
+*   **[Countly](https://products.containerize.com/business-intelligence/countly/)**
+*   **[Posthog](https://products.containerize.com/business-intelligence/posthog/)**

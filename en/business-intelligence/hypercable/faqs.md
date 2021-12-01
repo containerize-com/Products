@@ -7,13 +7,13 @@ weight: 4
 
 ### **FAQs**
 
-### What is Publify used for?
-Publify is an open source, simple and most powerful Ruby on Rails blogging tool. It has powerful drag and drop plugins API, advanced SEO capabilities and custom templates.
-### Is Publify free?
-Publify is built as a free web software and you can use it to create your blog or web site.
-### Is Publify open source?
-Yes, Publify is an open source blogging platform and the oldest blogware. Publify source code repository is available at [Github](https://github.com/publify/publify).
-### In what language is Publify written?
-Publify self-hosted blogging platform is written in Ruby on Rails web application framework.
-### Is Publify secure?
-Publify is a secure, modern and fully featured web publishing software. It is built on a blogging engine and a small message system connected to Twitter distributed under the Apache 2.0 license.
+### What is Hypercable used for?
+Hypercable is an open source and fully featured high performance scalable analytics software. It is an alternative to Google Analytics and build with redis and rails.
+### Is hypercable free?
+Hypercable is a free to use and dowload high performance business intelligence solution.
+### Is Hypercable open source?
+Yes, Hypercable is an open source business intelligence and analytics software. Hypercable source code repository is available at [Github](https://github.com/HyperCable/hypercable).
+### In what language is Hypercable written?
+Hypercable BI tool is written in Ruby on Rails web application framework.
+### What is hypercable vs google analytics?
+Hypercable is a fast and simple web analytics software like google analytics website traffic tool. It helps to collect and track your website traffic data to better understand your customers like google analytics.
