@@ -25,7 +25,7 @@ SinglePage_MenuImage_AltText: Mastodon is an open source microblogging platform
 
 ---
 
-### Overview
+### **Overview**
 
 Mastodon is a free and open-source most popular microblogging platform based on ActivityPub which allows users to create their own private networks. On Mastodon, users can follow friends, publish small updates to a stream of updates like posts, links, pictures, text and videos etc. Mastodon is a network of thousands of communities where users can communicate with users from another one with strict codes of conduct and discover new friends among more than 4.4M people.
 

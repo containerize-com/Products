@@ -5,7 +5,7 @@ weight: 5
 
 ---
 
-### Explore
+### **Explore**
 
 In this article we discussed about Mastodon microblogging social media network. To learn about other open source blogging applications, please visit following page:
 
