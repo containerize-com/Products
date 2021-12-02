@@ -16,4 +16,4 @@ Brakeman is an open source security scanner and source code analysis tool for Ru
 ### In what language is Brakeman written?
 Brakeman code analysis tool is written in Ruby programming language.
 ### What is Brakeman vs Snyk? 
-Brakeman directly scans for security vulnerabilities, known insecure patterns and configurations in your aplication source code similar to bundler-audit software. The brakeman command analysis will run and output the results in your Rails project. While Snyk automatically find and fixes vulnerabilities in your code, containers, Kubernetes, Terraform, Node and npm dependencies.
+Brakeman directly scans for security vulnerabilities, known insecure patterns and configurations in your aplication source code similar to bundler-audit software. The brakeman command analysis will run and output the results in your Rails project. While Snyk vulnerability scanning tool automatically detects and fixes vulnerabilities in your application code, containers, Kubernetes, Terraform, Node and npm dependencies.
