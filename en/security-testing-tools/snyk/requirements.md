@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
+### **System Requirements**
 -------------------
 
 In order to install open source Snyk utility CLI tool, you’ll need to install following dependencies and prerequisites:

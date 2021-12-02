@@ -7,7 +7,7 @@ weight: 3
 
 ### **Installation**
 
-### Install BeEF On Ubuntu
+#### **Install BeEF On Ubuntu**
 
 BeEF kali linux framework is simple and easy to get started software. Install and configure BeEF dependency packages. Now login to Github and click the "Fork" button in the top-right corner of the beef repository and clone your fork to your local machine:
 

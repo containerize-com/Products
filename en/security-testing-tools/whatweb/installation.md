@@ -5,9 +5,9 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation**
 
-### Install WhatWeb On Ubuntu
+#### **Install WhatWeb On Ubuntu**
 
 WhatWeb scanner is simple and easy to get started software. To get started with WhatWeb, configure and setup environment with the necessary dependencies packages. whatweb is included in Kali Linux. You can also install it manually by running 'sudo apt install whatweb'. But here we will setup development environment usgin clone the WhatWeb repository:
 
