@@ -5,9 +5,9 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation**
 
-### Install Brakeman On Ubuntu
+#### **Install Brakeman On Ubuntu**
 
 Brakeman source code scanner is simple and easy to get started software. Brakeman source code scanning tool can be installed as a Ruby gem or via Docker. Run the following using rubygems in project directory:
 

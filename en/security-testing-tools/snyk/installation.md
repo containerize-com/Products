@@ -5,9 +5,9 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation**
 
-### Install Snyk For Ruby
+#### **Install Snyk For Ruby**
 
 Snyk supports testing, monitoring and fixing Ruby projects in the CLI and Git integrations that have their dependencies managed by Bundler. Now please follow below step by step guide to set up Snyk. The Snyk utility CLI tool allows you to get started using the command line to install on npm run:
 
