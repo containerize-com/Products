@@ -7,7 +7,7 @@ weight: 3
 
 ### **Installation**
 
-### Install Publify On Ubuntu
+#### **Install Publify On Ubuntu**
 
 Publify best open source blogging platform is simple and easy to get started software. Install and configure ruby on rails, database, build tools and ruby dependencies on ubuntu. Here we will setup publify development environment. You can download the latest version of the Publify from Git repository using git clone command on your local machine:
 
