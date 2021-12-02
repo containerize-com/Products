@@ -5,9 +5,9 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation**
 
-### Install Mastodon On Ubuntu
+#### **Install Mastodon On Ubuntu**
 
 Mastodon open source social media platform is based on ActivityPub which is easy to get started. The best way of operating with Mastodon in a local development environment is installing all the system dependencies in your local environment instead of using Docker or Vagrant tools. Install standard set of dependencies for Rails applications like Ruby, Node.js, PostgreSQL and Redis etc. You can download the latest stable release of Mastodon microblogging tool by running commands in terminal:
 
