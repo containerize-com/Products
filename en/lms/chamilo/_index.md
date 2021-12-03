@@ -24,7 +24,7 @@ SinglePage_MenuImage_AltText: LMS For E-learning
 
 
 ---
-
+### **Overview**
 Chamilo is a free e-learning tool that allows users to create web-based online learning apps. It's an open-source e-learning platform that's both lightweight and adaptable. Chamilo is a PHP-based web application that uses a MySQL database to store data. It is one of the most widely used LMS for e-learning, with over 20 million people around the world. Chamilo 2.0 is still in development, however, users can still use it till version 1.11.x. It is released under the GNU/GPLv3 license. This free learning management system is cross-platform and works on Windows, Linux, and Mac OS X.
 
 Chamilo includes several useful features, such as a course catalog, user creation & role management, skill management, certificate creation, SCORM support, and many more. It also has a shopping cart to assist trainers in selling courses and earning money. Chamilo can be used for a variety of learning and collaboration activities. Teachers can use the web to create, manage, publish their courses, and track trainee's progress. Students can follow courses, read materials, actively participate in groups, forums, and chat rooms.

@@ -23,6 +23,7 @@ SinglePage_MenuImage_TitleText: Resque is an open source scheduler with multiple
 SinglePage_MenuImage_AltText: Resque is an open source scheduler with multiple queues support
 
 ---
+### **Overview**
 
 Resque is a Redis-backed simple and open source queuing system for background processing. Background processing is becoming more important as web applications integrate with 3rd Party APIs, run long running requests, perform external data Processing and emails delivery to keep your response times down. Today we are going to cover Resque open source scheduler with Redis to run your resque jobs.  Resque simple job runner is widely used as it has a variety of options for configurations and customizations.
 

@@ -23,6 +23,7 @@ SinglePage_MenuImage_TitleText: Kafka  is an open source messaging system and a 
 SinglePage_MenuImage_AltText: Kafka  is an open source messaging system and a robust queue broker
 
 ---
+### **Overview**
 
 Kafka is an open source messaging system and a robust queue broker. It is distributed event streaming platform and has the ability to handle a high volume of messages. Kafka messages are stored on the disk and it allows you to send messages from one point to another seamlessly. Messages are replicated within the whole Kafka cluster to prevent unwanted operations from happening like any data loss. Kafka messaging platform built to handle real-time event streaming, pipe-lining and replaying of data for fast, scalable operations.
 

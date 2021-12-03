@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-Features
+### **Features**
 --------
 
 Some of the great list of features Sidekiq open source job scheduler with ui are listed below:

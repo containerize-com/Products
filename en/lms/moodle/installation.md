@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation Instructions
+### **Installation Instructions**
 
 #### Install Moodle on Ubuntu 18.04 LTS with Nginx
 

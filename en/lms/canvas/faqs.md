@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-### FAQs
+### **FAQs**
 
 ### Is Canvas free?
 Yes, you can install it on your private server and use it.
