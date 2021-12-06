@@ -24,6 +24,8 @@ SinglePage_MenuImage_AltText: RabbitMQ is the most widely used open source best 
 
 ---
 
+### **Overview**
+
 RabbitMQ is the most widely deployed and popular open source best message broker software — an intermediary for messaging. It’s written in Erlang programming language and is backed by the Pivotal Software Foundation. It gives your applications a common platform and a safe place to send and receive messages. It’s features include performance, reliability, high availability, clustering and federation etc. RabbitMQ ships with an easy to use management UI that allows you to monitor and control your message broker.
 
 RabbitMQ message broker or queue manager can be downloaded from the official website for all of the major operating systems i.e Linux, Windows, and macOS. It is recommended to use RabbitMQ plugins to ease the workload of message brokers and to expand it’s functions. The most important RabbitMQ plugin is the management plugin and you have to activate it manually. RabbitMQ management plugin helps users to operate RabbitMQ using it through a Graphical User Interface.

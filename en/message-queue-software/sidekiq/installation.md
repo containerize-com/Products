@@ -5,9 +5,9 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation Instructions**
 
-### Install Sidekiq on Ubuntu
+#### **Install Sidekiq on Ubuntu**
 
 Sidekiq simple, easy to setup and open source task scheduler. To configure and setup Sidekiq recurring jobs with Rails environment, install the necessary dependencies packages. Add sidekiq gem to run job in background linux to your Gemfile or run below command in project directory:
 
