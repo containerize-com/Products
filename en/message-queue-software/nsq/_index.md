@@ -5,7 +5,7 @@ description: Kafka is an open source distributed real-time event streaming platf
 singlepageh1title: Scala & Java based distributed event streaming platform
 singlepageh2title: Apache Kafka is an open source distributed event streaming platform. It is a robust queue broker and built as an internal messaging system developed by Linked-in
 Shortdescriptionlistingpage: Apache Kafka is a distributed message queue software written in Scala and Java languages. It is developed by Linked-in to handle 1.4 trillion messages in a day.
-linktitle: Kafka
+linktitle: NSQ
 Imagetext: Free Message Queue Software
 draft: false
 weight: 5
