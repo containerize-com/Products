@@ -7,7 +7,7 @@ weight: 3
 
 ### **Installation Instructions**
 
-### Install Celery on Ubuntu
+#### **Install Celery on Ubuntu**
 
 Celery is simple and easy to get started software. First, ensure that all the depency packages of Celery are installed and up to date. Below guide covers Celery installation on Debian and Ubuntu including distributions based on them. Please follow the instructions below to setup Celery. Update your system with command:
 

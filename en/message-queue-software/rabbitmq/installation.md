@@ -7,7 +7,7 @@ weight: 3
 
 ### **Installation Instructions**
 
-### Install RabbitMQ on Ubuntu
+#### **Install RabbitMQ on Ubuntu**
 
 RabbitMQ is simple and easy to get started software. First, ensure that all the depency packages of RabbitMQ are installed and up to date. Below guide covers RabbitMQ installation on Debian and Ubuntu including distributions based on them. Please follow the instructions below to setup RabbitMQ. Install Erlang with:
 

@@ -5,7 +5,8 @@ weight: 2
 
 ---
 
-Features
+### **Features**
+
 --------
 
 Some of the great features of Resque open source task scheduler are listed below:

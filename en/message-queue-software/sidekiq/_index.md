@@ -24,6 +24,8 @@ SinglePage_MenuImage_AltText: Sidekiq is a fully featured best open source job s
 
 ---
 
+### **Overview**
+
 Sidekiq is an efficient, simple to integrate and  best open source job scheduler with ui to handle many jobs at the same time in the same process with multiple threads. Rails sidekiq scheduler works and integrates tightly with Rails to make linux background process dead simple. Sidekiq open source task scheduler is a full featured background jobs processing framework for Ruby language. It integrates with any modern Rails application as simple as possible and with much higher performance than other existing  message queue software.
 
 Sidekiq open source task scheduler is an extension to sidekiq that allows you to schedule or push jobs to run at a given time or at certain intervals. Sidekiq open source cron scheduler with ui is a framework to scale your applications by performing work in the background with multiple sidekiq processes. This requires following three parts for background processings:

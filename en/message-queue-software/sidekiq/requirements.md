@@ -6,7 +6,7 @@ weight: 1
 ---
 
 
-System Requirements
+### **System Requirements**
 -------------------
 
 The following key dependency packages are required to install the Sidekiq best open source job scheduler:
