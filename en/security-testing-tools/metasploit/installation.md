@@ -54,10 +54,3 @@ If the msfdb init command succeeds, then confirm that the database is accessible
     ./msfconsole -qx "db_status; exit"
 
 Congratulations! You have now set up the metasploit project and network intrusion detection system. Enjoy!
-
-Explore
--------
-
-In this article we discussed about Metasploit penetration testing framework and application security service. To learn about other open source security testing tools, please visit following page:
-
-*   [Top Open Source Security Testing Tools](https://products.containerize.com/security-testing-tools/)
