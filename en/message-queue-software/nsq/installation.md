@@ -46,7 +46,7 @@ For testing run command in terminal:
 
 For realtime debugging and monitoring below command also works very well:
 
-   watch -n 0.5 "curl -s http://127.0.0.1:4151/stats"
+    watch -n 0.5 "curl -s http://127.0.0.1:4151/stats"
 
 Finally, in your favourite web browser open http://127.0.0.1:4171/ to verify and view the nsqadmin UI and see statistics. Please also check the contents of the log files (test.*.log) written into /tmp directory.
 
