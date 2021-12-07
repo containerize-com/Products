@@ -4,9 +4,10 @@ onpagelink: installation
 weight: 3
 
 ---
+
 ### **Installation**
 
-### Install Loomio on Ubuntu
+#### **Install Loomio on Ubuntu**
 
 First make sure you have installed all the dependencies. Now please follow below step by step guide to set up development environment and run your own Loomio installations: If you are familiar with the process of running rails, we recommend you visit https://github.com/loomio/loomio then click 'Fork' to create your own loomio repository to work from. Then clone that repo to your local computer:
 
@@ -46,10 +47,3 @@ You can view Loomio in your browser by visiting http://localhost:8080. To view L
 If you are deploying Loomio on a public server, we recommend you use our Loomio [Deploy repo](https://github.com/loomio/loomio-deploy)
 
 Congratulations! You have successfully installed Loomio free decision making software online. Enjoy!
-
-Explore
--------
-
-In this article we have discussed about Loomio decision making process in management. To learn about other open source decision making software, please visit following page:
-
-*   [Best Open Source Decision Making Software](https://products.containerize.com/discussion-forum)
