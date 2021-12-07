@@ -7,7 +7,7 @@ weight: 1
 
 ### **System Requirements**
 
-The following key dependency packages are required to install Whatweb software:
+The following key dependency packages are required to install Whatweb open web application security project:
 
 *   Ruby: 2.6.5
 *   Bundler
