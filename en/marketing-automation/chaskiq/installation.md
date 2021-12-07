@@ -4,9 +4,10 @@ onpagelink: installation
 weight: 3
 
 ---
+
 ### **Installation**
 
-### Install Chaskiq on Ubuntu
+#### **Install Chaskiq on Ubuntu**
 
 Chaskiq marketing management software is easy to setup and get started. To get started with Chaskiq on Ubuntu quickly, configure and setup Rails development environment with the necessary dependencies packages by running this script in terminal:
 
@@ -47,10 +48,3 @@ You should now be able to connect to chaskiq business management app on http://l
 Follow the prompts, and a new admin account will be created. If you want to set up a Chaskiq marketing business for production use, see our [Chaskiq Installation Guide](https://dev.chaskiq.io/en/collections/production-configuration).
 
 Congratulations! You have successfully installed Chaskiq business marketing tool. Enjoy!
-
-Explore
--------
-
-In this article we discussed about Chaskiq open source software. To learn about other open source free online business marketing management software, please visit following page:
-
-*   [Best Open Source Business Marketing Management Software](https://products.containerize.com/marketing-automation)
