@@ -9,33 +9,47 @@ weight: 3
 
 #### **Install NSQ on Ubuntu**
 
-This guide explains how to setup and Kafka. Below installation steps assume that all the depency packages of Kafka are installed and up to date on your system. Please follow below installation steps. Get kafka by downloading the latest release Kafka and extract it with commands:
+NSQ is best message broker and easy to get started realtime distributed messaging platform. First, ensure that all the depency packages of NSQ are installed and up to date on your system. NSQ all parameters are specified on the command line and compiled NSQ binaries have no runtime dependency. Below guide covers NSQ installation on Debian and Ubuntu including distributions based on them. The following below instructions will run a NSQ cluster on your local machine. NSQ uses go modules to produce reliable builds so use below commands for compiling and to setup NSQ:
 
-    tar -xzf kafka_2.13-2.8.0.tgz
-    cd kafka_2.13-2.8.0
+git clone https://github.com/nsqio/nsq
+cd nsq
+make
 
-Next, start the kafka ENVIRONMENT. You local system environment must have Java 8+ installed. Execute the following commands in order to start all services in the correct order:
+There are three separate binaries nsqlookupd, nsqd and nsqadmin that need to be installed and running. So, in one shell, start nsqlookupd using:
 
-    bin/zookeeper-server-start.sh config/zookeeper.properties
+nsqlookupd
 
-Open another terminal session and dtart the Kafka broker service by:
+In second shell of terminal, start nsqd using:
 
-    bin/kafka-server-start.sh config/server.properties
+nsqd --lookupd-tcp-address=127.0.0.1:4160
 
-when all services have successfully installed, you will have a basic Kafka environment running and ready to access. You need to create a topic before writing your first event. Open another terminal session and run command:
+You can also add --broadcast-address=127.0.0.1. 
 
-    bin/kafka-topics.sh --create --topic quickstart-events --bootstrap-server localhost:9092
+Most of the debugging, analysis, and administration is done via nsqadmin. So, start nsqadmin in new shell by running:
 
-Now, run the console producer client to write a few separate events into the topic:
+nsqadmin --lookupd-http-address=127.0.0.1:4161
 
-    bin/kafka-console-producer.sh --topic quickstart-events --bootstrap-server localhost:9092
+Next, publish an initial message using:
 
-Open another console terminal session and run the console consumer client to read the events you just created with:
+curl -d 'hello world 1' 'http://127.0.0.1:4151/pub?topic=test'
 
-    bin/kafka-console-consumer.sh --topic quickstart-events --from-beginning --bootstrap-server localhost:9092
+Start nsq_to_file in another shell with command:
 
-You can continuously import/export your data into and out of Kafka. Use Ctrl-C to stop the Kafka broker. If you also want to delete any data from your local Kafka environment including any events you have created along the way then run the command:
+nsq_to_file --topic=test --output-dir=/tmp --lookupd-http-address=127.0.0.1:4161
 
-    rm -rf /tmp/kafka-logs /tmp/zookeeper
+Finally, publish more messages to nsqd like:
 
-Congratulations! You have successfully configured Apache Kafka platform on Ubuntu. Enjoy!
+curl -d 'hello world 2' 'http://127.0.0.1:4151/pub?topic=test'
+curl -d 'hello world 3' 'http://127.0.0.1:4151/pub?topic=test'
+
+For testing run command in terminal:
+
+./test.sh
+
+For realtime debugging and monitoring below command also works very well:
+
+watch -n 0.5 "curl -s http://127.0.0.1:4151/stats"
+
+Finally, in your favourite web browser open http://127.0.0.1:4171/ to verify and view the nsqadmin UI and see statistics. Please also check the contents of the log files (test.*.log) written into /tmp directory.
+
+Congratulations! You have successfully installed NSQ on ubuntu system. Enjoy!
