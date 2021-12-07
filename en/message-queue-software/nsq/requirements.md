@@ -7,9 +7,8 @@ weight: 1
 
 ### **System Requirements**
 
-Requirements to setup Apache Kafka software include:
+NSQ simple and open source message broker runs on:
 
-*   Java 8+
-*   ZooKeeper
-*   Ubuntu 20.04 LTS
+*   golang version 1.13+
+*   gpm version 1.4+
 *   Git
