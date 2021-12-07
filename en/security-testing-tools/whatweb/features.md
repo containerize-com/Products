@@ -7,7 +7,7 @@ weight: 2
 
 ### **Features**
 
-Some of the great features of WhatWeb are listed below:
+Some of the great features of WhatWeb web application vulnerability scanner are listed below:
 
 *   Over 1800 plugins
 *   Control the trade off between speed and reliability

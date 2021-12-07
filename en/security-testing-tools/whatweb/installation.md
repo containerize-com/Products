@@ -30,7 +30,7 @@ Execute bundler from the WhatWeb source code folder to install dependencies defi
 
     bundle install
 
-WhatWeb should be installed in your local folder
+WhatWeb penetration testing framework should be installed in your local folder
 
     ./whatweb --version
 
@@ -50,4 +50,4 @@ You can scan multiple websites by specifying the multiple URLs on the command li
 
     whatweb www.google.com slashdot.org twitter.com
 
-Congratulations! You have now set up the WhatWeb Tool static analysis tool. Enjoy!
+Congratulations! You have now set up the WhatWeb website vulnerability scanner. Enjoy!
