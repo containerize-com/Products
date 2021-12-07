@@ -1,4 +1,5 @@
 ---
+keywords: open source application security, test website vulnerability, cloud app security, open source vulnerabilities, snyk open source, web application vulnerability, web application security solution
 title: Snyk | Open source application security and scanning tool
 description: Snyk is an open source application security and vulnerability scanning tool. It is used to find and monitor known vulnerabilities continuously in dependencies.
 singlepageh1title: Find and Fix Vulnerabilities in Open Source Dependencies
