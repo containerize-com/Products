@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-Features
+### **Features**
 --------
 
 Some of the great list of features and decision making techniques of loomio are listed below to get your first successful outcome:

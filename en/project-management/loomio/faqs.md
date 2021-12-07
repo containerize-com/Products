@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-### FAQs
+### **FAQs**
 
 ### What is Loomio used for?
 Loomio is an open source collaboration platform that offers a workspace for conversation, how groups make decisions, collaborate online and discuss ideas. It is a safe platform to have discussions and make decisions together to help teams achieve clear outcomes.
