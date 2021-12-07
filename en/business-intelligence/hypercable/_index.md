@@ -1,9 +1,9 @@
 ---
 keywords: business intelligence solution, business intelligence and analytics, business intelligence application, open source bi, open source bi tool, bi product
 title: Hypercable | Free and Simple Business Intelligence Solution
-description: Hypercable is one of the best business intelligence solution and open source bi. It helps to get business intelligence and analytics to everyone in your company
+description: Hypercable is one of the best open-source business intelligence solutions. It helps to get business intelligence and analytics to everyone in your company.
 singlepageh1title: Ruby Based Fully Featured Open Source BI Tool
-singlepageh2title: Powerful and high performance scalable business intelligence and analytics alternative to Google Analytics, build with timescaleDB, openresty, redis and rails.
+singlepageh2title: Powerful and high-performance scalable business intelligence and analytics alternative to Google Analytics. It is built with  OpenResty, TimescaleDB, and Rails.
 Shortdescriptionlistingpage: Hypercable is business intelligence and analytics alternative to google analytics website traffic service. Hypercable open source bi tool and business intelligence analytics helps online business increase their leads and sales by real-time data proof.
 linktitle: HyperCable
 Imagetext: Free Business Intelligence Software

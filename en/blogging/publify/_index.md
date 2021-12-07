@@ -1,9 +1,9 @@
 ---
 keywords: open source blogging platform, open source blogging software, free blog tool, best blogging tool, blogging tools for beginners, build a blog website from scratch
 title: Publify | Best open source blogging platform
-description: Publify is a fully featured open source blogging platform to build a blog website from scratch. It supports multiple languages, custom themes and many more.
-singlepageh1title: Ruby-based open source simple and lightweight blogging tool
-singlepageh2title: Publify is a simple and fully featured web publishing free blog tool. It is simple and powerful platform with multi-user blogging engine, themes and advance SEO.
+description: Publify is a fully-featured open-source blogging platform to build a blog website from scratch. It supports multiple languages, custom themes, and many more.
+singlepageh1title: Ruby-based Open Source Simple and Lightweight Blogging Tool
+singlepageh2title: Publify is a simple and fully featured web publishing free blog tool. It is a powerful platform with a multi-user blogging engine, themes, and advanced SEO.
 Shortdescriptionlistingpage: Publify is an open source and fully featured web publishing tool. It is a powerful software with multi-user blogging engine, themes, advance SEO and much more.
 linktitle: Publify
 Imagetext:  Free Blogging Platform 

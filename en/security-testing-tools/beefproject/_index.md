@@ -1,8 +1,8 @@
 ---
 keywords: browser exploitation framework, penetration testing framework, vulnerability and penetration testing, kali linux penetration testing, beef kali linux, beef xss framework, advanced penetration testing
 title: BeEF | Browser exploitation framework to test vulnerabilities
-description: BeEF is free and open source browser exploitation framework. It is vulnerability and penetration testing tool that employ BeEF's simple and powerful API.
-singlepageh1title: Ruby-based open source browser exploitation framework
+description: BeEF is a free and open-source browser exploitation framework. It is a vulnerability and penetration testing tool that employs BeEF's simple and powerful API.
+singlepageh1title: Ruby Based Open Source Browser Exploitation Framework
 singlepageh2title: BeEF is open-source powerful vulnerability scanning and penetration testing framework. It was designed to explore and test the vulnerabilities in browsers.
 Shortdescriptionlistingpage: BeEF is very powerful browser exploitation framework and penetration testing framework. The framework contains numerous modules that employ BeEF's simple and powerful API.
 linktitle: BeEF
