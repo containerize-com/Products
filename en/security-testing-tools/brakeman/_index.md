@@ -2,7 +2,7 @@
 keywords: static analysis tool, open source static code analysis, static code analysis security, source code scanner, vulnerability detection, source code analysis, static analysis software, static code analysis
 title: Brakeman | Open Source Risk Detection & Static Analysis Tool
 description: Brakeman is a static code analysis and source code scanner. It scans the source code of applications for vulnerability detection at any stage of development.
-singlepageh1title: Ruby based static analysis security vulnerability scanner
+singlepageh1title: Ruby Based Static Analysis Security Vulnerability Scanner
 singlepageh2title: Brakeman is a free code analysis and security vulnerability scanner for Ruby on Rails applications. It finds issues in code before they become exploitable.
 Shortdescriptionlistingpage: Brakeman is a free static code analysis and source code scanner for Ruby on Rails applications. It can also be used for Sinatra and any other kind of rack application for vulnerability detection.
 linktitle: Brakeman

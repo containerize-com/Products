@@ -2,8 +2,8 @@
 keywords: microblogging platform, microblogging website, microblogging social media, micro blogging platform, self hosted social network, open source social media platform, most popular microblogging site
 title: Mastodon | Open source microblogging platform
 description: Mastodon is free and open-source microblogging platform. It is a network of thousands of communities and organizations that provide social media experience
-singlepageh1title: Ruby based globally interconnected microblogging community
-singlepageh2title: Mastodon is the most popular microblogging platform. It is an open source decentralized network of communities that provide microblogging social media experience
+singlepageh1title: Ruby Based Globally Interconnected Microblogging Community
+singlepageh2title: Mastodon is the most popular microblogging platform. It is an open-source decentralized network of communities that provide microblogging social media experience
 Shortdescriptionlistingpage: Mastodon is self hosted and open-source microblogging social media software. It is the most popular microblogging site that provide social media experience.
 linktitle: Mastodon
 Imagetext:  Free Blogging Platform 
