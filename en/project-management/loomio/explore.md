@@ -5,7 +5,7 @@ weight: 5
 
 ---
 
-### Explore
+### **Explore**
 
 In this article we have discussed about Loomio decision making process in management. To learn about other open source decision making software, please visit following page:
 

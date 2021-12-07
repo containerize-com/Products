@@ -24,6 +24,8 @@ SinglePage_MenuImage_AltText: Loomio decision making software online is used by 
 ---
 ### **Overview**
 
+### **Overview**
+
 Loomio free web-application is a best decision making software that helps groups make better decisions together. Loomio is a collaborative decision making tool that makes it easy for thousands of teams world-wide to participate in decisions which affect them. Loomio open source tool helps communities to discuss, decide and collaborate online and free your organization teams from meetings and endless emails. Loomio empowers communities, teams and groups to turn discussions into action, wherever people are.
 
 Loomio decision making process in management makes it easy for teams to collaborate and make decisions together. Loomio is a disucssion forum with decision making techniques that help you facilitate conversations and decisions, helping you start and hold conversations that move to clear outcomes. The main goal of loomio decision making software online is to make the decision making techniques easier, especially if you don't have time a meeting or it is simply impossible to arrange one. The tool improves transparency, decrease meetings and emails, gives everyone a chance to be heard. Use Loomio to develop policies and make better decisions together.

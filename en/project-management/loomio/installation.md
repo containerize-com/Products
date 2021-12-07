@@ -4,9 +4,10 @@ onpagelink: installation
 weight: 3
 
 ---
+
 ### **Installation**
 
-### Install Loomio on Ubuntu
+#### **Install Loomio on Ubuntu**
 
 First make sure you have installed all the dependencies. Now please follow below step by step guide to set up development environment and run your own Loomio installations: If you are familiar with the process of running rails, we recommend you visit https://github.com/loomio/loomio then click 'Fork' to create your own loomio repository to work from. Then clone that repo to your local computer:
 
