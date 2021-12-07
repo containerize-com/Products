@@ -47,10 +47,3 @@ You can view Loomio in your browser by visiting http://localhost:8080. To view L
 If you are deploying Loomio on a public server, we recommend you use our Loomio [Deploy repo](https://github.com/loomio/loomio-deploy)
 
 Congratulations! You have successfully installed Loomio free decision making software online. Enjoy!
-
-Explore
--------
-
-In this article we have discussed about Loomio decision making process in management. To learn about other open source decision making software, please visit following page:
-
-*   [Best Open Source Decision Making Software](https://products.containerize.com/discussion-forum)
