@@ -7,7 +7,7 @@ weight: 5
 
 ### **Explore**
 
-In this article we discussed about Metasploit network security application. To learn about other open source security testing tools, please visit following page:
+In this article we discussed about Metasploit penetration testing framework and application security service. To learn about other open source security testing tools, please visit following page:
 
 *   **[Snyk Open Source Web Vulnerability Scanning Tool](https://products.containerize.com/security-testing-tools/snyk/)**
 *   **[BeEF Browser Exploitation Framework](https://products.containerize.com/security-testing-tools/beefproject/)**
