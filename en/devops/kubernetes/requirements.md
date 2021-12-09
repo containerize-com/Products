@@ -8,7 +8,7 @@ weight: 1
 
 ### **System Requirements**
 
-Installation requirements for building Kubernetes and to setup Kubenetes Cluster include:
+Installation requirements for building containerization and orchestration Cluster include:
 
 *   Docker at least version 17.03 and configure CRI implementation
 *   Kubernetes Go installed at your GOPATH
