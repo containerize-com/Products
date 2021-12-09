@@ -7,7 +7,7 @@ weight: 3
 
 ### **Installation Instructions**
 
-### Install Portainer with Docker on Linux
+#### **Install Portainer with Docker on Linux**
 
 This document installation steps assume that all the depency packages of the community edition of Portainer are installed and up to date on your Linux environment. For Linux operating system setup, please follow the below installions steps to install the Portainer Server container. First, create the volume that Portainer Server will use to store its database using below command:
 

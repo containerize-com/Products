@@ -25,6 +25,8 @@ SinglePage_MenuImage_AltText: OpenShift | Open Source Openshift Container Platfo
 
 ---
 
+### **Overview**
+
 Red Hat OpenShift is an open source and cloud development Platform as a Service (PaaS). It allows the developers to develop and deploy their applications easily on a cloud infrastructure. It is a community distribution of Kubernetes that enables faster development and release cycles for applications. OpenShift has very simple and easy to use web interface that allows you to monitor the container resources, container clusters, nodes, Ip addresses of the nodes etc.
 
 Open source OpenShift container platform as a service built around Linux containers orchestrated and managed by Kubernetes. OpenShift Origin and OKD is an open source containerization implementation of Red Hat OpenShift. This Kubernetes distribution is optimized for developing, deploying, and managing container based applications. Red hat OpenShift container platform gives you a self service platform to develop, modify, manage and deploy containerized applications.
