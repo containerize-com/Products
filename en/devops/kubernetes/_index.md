@@ -1,5 +1,5 @@
 ---
-keywords: kubernetes container orchestration, kubernetes microservices architecture, best container management platform, best container management software, container orchestration using kubernetes, kubernetes container orchestration platform
+keywords: container orchestration system, kubernetes container orchestration, container orchestration tool, container orchestration platform, orchestration tool to schedule and manage containers, container orchestration kubernetes, k8s orchestration, containerization and orchestration, best container orchestration tools
 title: Kubernetes | Open Source Container Orchestration System
 description: Kubernetes is an open source container orchestration system for Docker containers to coordinate clusters of nodes at scale in production in an efficient manner.
 singlepageh1title: Go-based platform for managing containerized applications
@@ -25,6 +25,8 @@ SinglePage_MenuImage_AltText: Kubernetes | Open Source Container Orchestration S
 
 ---
 
-Kubernetes open source orchestration system is the widespread adoption of containers among organizations, also known as kube or k8s. It has become the de facto standard for scheduling and automating computer applications to build, deploy, scale and manage containerized applications due to the flexible nature of kubernetes architecture. 
+### **Overview**
 
-K8 kubernetes is used to manage Linux Containers across private, public and hybrid cloud environments. Kube is container-centric and focuses more on deploying and managing services. Kubernetes container orchestration platform was originally developed and designed by engineers at Google and Google open-sourced the Kubernetes project in mid 2014.
+Kubernetes is an open-source container orchestration tool, meant to run across a cluster. It is also known as kube or k8s. It schedules and automates containerized applications deployment, scaling, and management  across multiple hosts. Kubernetes container orchestration software was originally developed and designed by engineers at Google. Then Google open-sourced the Kubernetes project in mid 2014 and now it is maintained by the Cloud Native Computing Foundation.
+
+kubernetes K8 open source container orchestration platform, orchestrates container runtime systems private, public and hybrid cloud applications. It is container centric orchestration tool to schedule and manage containers. Open source container orchestration kubernetes builds on 15 years of running Google's containerized applications. It is free to use and can be downloaded from its repository on GitHub. Kubernetes open source software has 83.4K GitHub stars and 30.5k GitHub forks.

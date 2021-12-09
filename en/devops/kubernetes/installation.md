@@ -7,7 +7,7 @@ weight: 3
 
 ### **Installation Instructions**
 
-### Install K8s On Linux
+#### **Install Kubernetes on Linux**
 
 Below installation steps assume that all the depency packages of Kubernetes are installed and up to date on your system. For Linux distributions setup, please follow the below installing steps. There are two options to build Kubernetes right away. It is possible to build Kubernetes using a local golang installation and there is also a build process that runs in a Docker container. Kubernetes development helper scripts require an up to date GNU development tools environment with commands:
 
@@ -34,4 +34,4 @@ To build the entire Kubernetes project, run verification tests and pass unit tes
     make verify
     make test
 
-That's it. Congratulations! You have successfully installed setup for building Kubernetes. Enjoy!
+That's it. Congratulations! You have successfully setup kubernetes for building k8s orchestration. Enjoy!
