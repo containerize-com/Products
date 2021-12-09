@@ -7,7 +7,7 @@ weight: 3
 
 ### **Installation Instructions**
 
-### Install MVT On Linux
+#### **Install MVT On Ubuntu**
 
 This guide explains how to setup and run Mobile Verification Toolkit or MVT cyber security and forensics software on Ubuntu. Below installation steps assume that all the depency packages of MVT software are installed and up to date on your system. For Linux distributions, please follow the below installing mvt steps. First install basic dependencies that are necessary to build all required tools using command:
 
