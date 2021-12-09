@@ -8,7 +8,7 @@ Shortdescriptionlistingpage: Portainer is a powerful and lightweight contianer m
 linktitle: Portainer
 Imagetext: Devops Tool
 draft: false
-weight: 3
+weight: 1
 layout: "single"
 GithubLink: https://github.com/portainer/portainer
 HomePage_TitleText: Open Source Devops Tool
