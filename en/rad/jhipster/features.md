@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-#### **Features**
+### **Features**
 
 Jhipster offers all the modern features that you can imagine in top RAD Platform. Followings are key features:
 

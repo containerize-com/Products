@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-#### **Installation Instructions**
+### **Installation Instructions**
 
 After installing the above prerequisites, this [Docker](https://github.com/jhipster/generator-jhipster/blob/master/Dockerfile) file provides a Docker image.
 

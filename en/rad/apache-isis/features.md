@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-#### **Features**
+### **Features**
 
 Apache Isis offers the following key features:
 

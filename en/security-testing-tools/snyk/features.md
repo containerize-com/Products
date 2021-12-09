@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-Features
+### **Features**
 --------
 
 Some of the great list of features of Snyk CLI and build-time tool to find and fix known vulnerabilities in open-source dependencies are:

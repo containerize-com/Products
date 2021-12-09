@@ -22,6 +22,7 @@ SinglePage_MenuImage_AltText: Browser Exploitation Framework BeEF is a powerful 
 
 
 ---
+### **Overview**
 
 Browser Exploitation Framework BeEF is a powerful vulnerability and penetration testing tool. It is an open source security project for penetration testing, focused on exploiting vulnerabilities in the web browsers. It can be used to further exploit a cross site scripting (XSS) flaw in a web application. BeEF penetration testing framework is not a tool explicitly for Rails testing like Brakeman but it can be very useful in getting a better idea of threats to a web application. The framework contains modules that employ BeEF's simple and powerful API. BeEF API is at the heart of the framework efficiency and effectiveness. This tool was developed solely for penetration testing.
 

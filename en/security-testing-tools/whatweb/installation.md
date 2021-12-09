@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation**
 
 ### Install WhatWeb On Ubuntu
 

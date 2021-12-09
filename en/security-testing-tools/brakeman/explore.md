@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-#### **Explore**
+### **Explore**
 
 In this article we discussed about Brakeman open source static code analysis tool. To learn about other open source security scanning tools, please visit following page:
 

@@ -22,6 +22,7 @@ SinglePage_MenuImage_AltText: Brakeman is a open source static code analysis too
 
 
 ---
+### **Overview**
 
 Brakeman is a open source static code analysis tool to check Ruby on Rails applications for security vulnerabilities. It comes as an open source project with optional commercial support for vulnerability detection in Rails applications. Brakeman static analysis tool scans for known insecure patterns and configurations in your source code before the code reaches production. It is the most comprehensive security scanner that provides an easy to read vulnerability assessment report and reports can be generated while building or deploying an app to sandbox or production environments. Brakeman can also be used for Sinatra and any other kind of rack application to find security issues.
 
