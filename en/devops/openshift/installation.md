@@ -7,7 +7,7 @@ weight: 3
 
 ### **Installation Instructions**
 
-### Install OpenShift on Linux
+#### **Install OpenShift on Linux**
 
 Below installation instructions assume that all the depency packages of the OpenShift are installed and up to date on your Ubuntu system. For Ubuntu setup, please follow the below installions steps to install OpenShift on ubuntu. A single node installation will run OKD services in docker containers. Docker Engine runtime is required on for the installation system. So, first import Docker GPG key:
 

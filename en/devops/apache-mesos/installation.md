@@ -7,7 +7,7 @@ weight: 3
 
 ### **Installation Instructions**
 
-### Install Apache Mesos on Linux
+#### **Install Apache Mesos on Linux**
 
 For Linux operating system setup, please follow the below installions steps to install Apache Mesos multi cluster management installation setup. Run all the below commands but first update the packages by running:
 
