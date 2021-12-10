@@ -1,9 +1,9 @@
 ---
 keywords: open source wireshark, open source network traffic analyzer, network traffic monitor open source, wireshark monitor network traffic, network bandwidth monitoring software, wireshark network analyzer, open source packet analyzer, packet analyzer and network traffic analyzer
-title: Wireshark | Open source wireshark monitor network traffic
+title: Wireshark | Open Source Wireshark Monitor Network Traffic
 description: Open source Wireshark is a free network protocol analyzer software. It is used by developers and network administrators to examine network and security problems
 singlepageh1title: Most Popular Network Packet Analyzer Written in C Language
-singlepageh2title: Open source Wireshark is a network protocol analyzer. It allows you to capture, monitor and interactively browse the traffic running on a computer network system
+singlepageh2title: Open source Wireshark is a network protocol analyzer. It helps to capture, monitor, and interactively browse the traffic running on a computer network system
 Shortdescriptionlistingpage: Open source Wireshark is a free and widely used network traffic analyzer or packet sniffer for Windows, Linux, macOS, Unix and Unix-like operating systems.
 linktitle: Wireshark
 Imagetext: Free Digital Forensic Software
