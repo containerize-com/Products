@@ -1,5 +1,5 @@
 ---
-title: Loomio | Decision making tool to make better decisions.
+title: Loomio | Decision Making Tool To Make Better Decisions.
 description: Loomio | A collaborative decision making tool that makes it easy for thousands of teams world-wide to participate in decisions which affect them.
 singlepageh1title: Simple and User Friendly Collaborative Decision Making Tool
 singlepageh2title: Loomio is an open source best decision making software that helps groups to participate and make better decisions together which affect them.

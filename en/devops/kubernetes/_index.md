@@ -2,7 +2,7 @@
 keywords: container orchestration system, kubernetes container orchestration, container orchestration tool, container orchestration platform, orchestration tool to schedule and manage containers, container orchestration kubernetes, k8s orchestration, containerization and orchestration, best container orchestration tools
 title: Kubernetes | Open Source Container Orchestration System
 description: Kubernetes is an open source container orchestration system for Docker containers to coordinate clusters of nodes at scale in production in an efficient manner.
-singlepageh1title: Go-based platform for managing containerized applications
+singlepageh1title: Go-based Platform For Managing Containerized Applications
 singlepageh2title: Kubernetes also known as k8s or kube is an open source container orchestration tool that automates container deployment, scaling and management.
 Shortdescriptionlistingpage: Kubernetes also known as Kube is an open source container orchestration system used to automate deployment, scaling, and management of containerized application
 linktitle: Kubernetes
