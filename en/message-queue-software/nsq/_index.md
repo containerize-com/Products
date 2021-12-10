@@ -1,9 +1,9 @@
 ---
 keywords: distributed message queue, message queue software, open source message broker, message queuing service, message queue system, best message queue, best message broker
-title: NSQ | Most popular open source distributed message queue
-description: NSQ is an open source distributed message queue platform. It supports fault tolerance, high availability and scale out with reliable message delivery guarantee.
+title: NSQ | Most Popular Open Source Distributed Message Queue
+description: NSQ is an open-source distributed message queue platform. It supports fault tolerance, high availability, and scale-out with reliable message delivery.
 singlepageh1title: Go-based Open Source & Real-time Distributed Message Queue
-singlepageh2title: NSQ is an open source real-time distributed memory message queue with no single point of failure. It is reliable message delivery service with high availability.
+singlepageh2title: NSQ is an open-source real-time distributed message queue with no single point of failure. It is a reliable message delivery service with high availability.
 Shortdescriptionlistingpage: NSQ is easy to configure and deploy real-time distributed memory message queuing platform. It has a built-in management interface and supports high availability.
 linktitle: NSQ
 Imagetext: Free Message Queue Software
