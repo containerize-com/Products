@@ -7,7 +7,7 @@ weight: 2
 
 ### **Features**
 
-Some of the key features of Celery are listed below:
+Some of the key features of Celery best message queue are listed below:
 
 *   Scheduling
 *   Monitoring
