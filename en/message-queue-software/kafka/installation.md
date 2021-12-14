@@ -7,7 +7,7 @@ weight: 3
 
 ### **Installation Instructions**
 
-### Install Apache Kafka On Ubuntu
+#### **Install Apache Kafka on Ubuntu**
 
 This guide explains how to setup and Kafka. Below installation steps assume that all the depency packages of Kafka are installed and up to date on your system. Please follow below installation steps. Get kafka by downloading the latest release Kafka and extract it with commands:
 

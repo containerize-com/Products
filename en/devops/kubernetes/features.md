@@ -7,7 +7,7 @@ weight: 2
 
 ### **Features**
 
-Some of the key features of Kubernetes or K8s are listed below:
+Some of the key features of Kubernetes or K8s container orchestration system are listed below:
 
 *   Container grouping using pod
 *   Automated rollouts and rollbacks

@@ -9,7 +9,7 @@ weight: 3
 
 ### Install Spree Commerce on Ubuntu
 
-Spree Commerce 4.1.0 is now available and here are instructions to setup a new E-Commerce project. Add Spree gems to your Gemfile
+Spree Commerce best open source ecommerce version 4.1.0 is now available and here are instructions to setup a new E-Commerce project. Add Spree gems to your Gemfile
 
  ```
 gem 'spree', '~> 4.1'

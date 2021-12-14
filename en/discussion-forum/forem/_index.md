@@ -1,7 +1,7 @@
 ---
 keywords: building a community, how to build a community, how to create a community, building brand communities, community building project,  communities, build community site
 title: Forem | Software for building best brand communities
-description: Forem is an open source software for building a community online. It is a community building project have its own standalone web application.
+description: Forem is open-source software for building a community online. It is a community-building project that has its own standalone web application.
 singlepageh1title: Ruby on Rails Based software for building communities
 singlepageh2title: Forem is an open source rails backend software to build and host adaptable communities. Each community will live online as its own independent web application.
 Shortdescriptionlistingpage: Forem is an open source rails backend software for building a community online. Each forum community will live online as its own independent web application with its own standalone databases

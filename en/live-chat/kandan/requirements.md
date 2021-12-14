@@ -8,7 +8,7 @@ weight: 1
 ### System Requirements
 -------------------
 
-In order to install kandan, following are the system requirements
+In order to install kandan open source chat platform, following are the system requirements
 
 - Ruby 1.9
 - Rails 3.2.21

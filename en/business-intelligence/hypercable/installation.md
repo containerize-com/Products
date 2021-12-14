@@ -5,9 +5,9 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation**
 
-### Install Hypercable on Ubuntu
+#### **Install Hypercable on Ubuntu**
 
 Install and configure the necessary dependencies packages. Hypercable business intelligence solution is easy to setup and get started. To get started with Hypercable business intelligence and analytics, clone the repo to your computer or server
 

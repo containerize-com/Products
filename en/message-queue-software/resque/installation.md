@@ -5,9 +5,9 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation Instructions**
 
-### Install Resque on Ubuntu
+#### **Install Resque on Ubuntu**
 
 Resque open source batch scheduler is simple and easy to get started software. First install the necessary dependencies packages. If you use Debian based distro such as Ubuntu, run below commands in terminal to install and automatically start Redis with Resque open source scheduler on boot:
 

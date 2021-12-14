@@ -24,6 +24,8 @@ SinglePage_MenuImage_AltText: Kafka  is an open source messaging system and a ro
 
 ---
 
+### **Overview**
+
 Kafka is an open source messaging system and a robust queue broker. It is distributed event streaming platform and has the ability to handle a high volume of messages. Kafka messages are stored on the disk and it allows you to send messages from one point to another seamlessly. Messages are replicated within the whole Kafka cluster to prevent unwanted operations from happening like any data loss. Kafka messaging platform built to handle real-time event streaming, pipe-lining and replaying of data for fast, scalable operations.
 
 Apache Kafka distributed message queue software is used by thousands of companies for high performance data pipelines and its integration with Apache Storm and Spark. Kafka offers high performance as compared to message and queue brokers like ActiveMQ and RabbitMQ etc. Apache Kafka is an alternative to a variety of enterprise messaging systems. It was built as an internal messaging system developed by Linked-in to handle 1.4 trillion messages in a day. It is a best and suitable platform for the implementation of Queues since it boosts performance by using sequential disk I/O operations. It is also a perfect choice for big data use cases because it can achieve high throughput with limited number of resources, i.e millions of messages per second. Kafka open source software has 19.4K GitHub stars and 10.3k GitHub forks.

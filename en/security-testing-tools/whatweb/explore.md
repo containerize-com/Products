@@ -1,15 +1,15 @@
 ---
 title: Explore
 onpagelink: explore
-weight: 4
+weight: 5
 
 ---
 
 ### **Explore**
 
-In this article we discussed about WhatWeb. To learn about other open source security scanning tools, please visit following page:
+In this article we discussed about WhatWeb next generation web scanner. To learn about other open source security testing tools, please visit following page:
 
-*   **[Open Source Web Vulnerability Scanning Tool](https://products.containerize.com/security-testing-tools/snyk/)**
-*   **[Open Source Modular Penetration Testing Framework](https://products.containerize.com/security-testing-tools/metasploit/)**
-*   **[Browser exploitation framework to test vulnerabilities](https://products.containerize.com/security-testing-tools/beefproject/)**
-*   **[Free Static Code Analysis Security Vulnerability Scanner](https://products.containerize.com/security-testing-tools/brakeman/)**
+*   **[Snyk Open Source Web Vulnerability Scanning Tool](https://products.containerize.com/security-testing-tools/snyk/)**
+*   **[Metasploit Open Source Modular Penetration Testing Framework](https://products.containerize.com/security-testing-tools/metasploit/)**
+*   **[Brakeman Static Code Analysis Security Vulnerability Scanner](https://products.containerize.com/security-testing-tools/brakeman/)**
+*   **[BeEF Browser Exploitation Framework](https://products.containerize.com/security-testing-tools/beefproject/)**

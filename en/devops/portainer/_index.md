@@ -1,14 +1,14 @@
 ---
 keywords: container management tool, portainer container, container management platform, best container management software, container management system, docker container management, open source container management
 title: Portainer | Open Source Container Management Tool
-description: Portainer is a universal container-as-a-service, simplified, container management tool set designed to build and manage Docker Swarm and Kubernetes environments
+description: Portainer is a universal container-as-a-service, simplified, container management toolset designed to build and manage Docker Swarm and Kubernetes environments.
 singlepageh1title: A lightweight & self-hosted container management platform
-singlepageh2title: Portainer is an open source simple to deploy and powerful management UI. It allows you to easily build, manage, and maintain Docker and Kubernetes environments.
+singlepageh2title: Portainer is an open-source and powerful container management platform. It allows you to easily build, manage, and maintain Docker and Kubernetes environments.
 Shortdescriptionlistingpage: Portainer is a powerful and lightweight contianer management UI which allows you to easily build, manage, and maintain Swarm and Kubernetes environments.
 linktitle: Portainer
 Imagetext: Devops Tool
 draft: false
-weight: 3
+weight: 1
 layout: "single"
 GithubLink: https://github.com/portainer/portainer
 HomePage_TitleText: Open Source Devops Tool

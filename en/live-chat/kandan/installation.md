@@ -9,7 +9,7 @@ weight: 3
 
 ### Install Kandan on Ubuntu
 
-<span style="font-size: 12.16px;">If you're looking to install Kandan chat application on a private stand alone server or to develop locally, then here is the path you must follow.</span>
+<span style="font-size: 12.16px;">If you're looking to install Kandan best self hosted chat server on a private stand alone server or to develop locally, then here is the path you must follow.</span>
 
  ```
 git clone https://github.com/kandanapp/kandan.git 
@@ -78,12 +78,3 @@ bundle exec thin start
 <span style="font-size: 12.16px;">Your app should be up and running now. The default admin user is Admin with password kandanappadmin, or you can sign up as another user. </span>
 
 <span style="font-size: 12.16px;">Congratulations! You have successfully installed Kandan open source chat application. Enjoy!</span>
-
-<div class="asposeptyltd containerize"> </div><div class="col-lg-12">Explore
--------
-
-In this article we have discussed Kandan chat application that allows you to manage several conversations simultaneously. To learn about other open source live chat software, please visit page:
-
-- [Best Open Source Live Chat Applications](https://products.containerize.com/live-chat)
- 
- </div>

@@ -1,7 +1,7 @@
 ---
 title: Explore
 onpagelink: explore
-weight: 4
+weight: 5
 
 ---
 
@@ -9,6 +9,7 @@ weight: 4
 
 In this article we discussed about Brakeman open source static code analysis tool. To learn about other open source security scanning tools, please visit following page:
 
-*   **[Open Source Web Vulnerability Scanning Tool](https://products.containerize.com/security-testing-tools/snyk/)**
-*   **[Open Source Modular Penetration Testing Framework](https://products.containerize.com/security-testing-tools/metasploit/)**
-*   **[Browser exploitation framework to test vulnerabilities](https://products.containerize.com/security-testing-tools/beefproject/)**
+*   **[Snyk Web Vulnerability Scanning Tool](https://products.containerize.com/security-testing-tools/snyk/)**
+*   **[Metasploit Penetration Testing Framework](https://products.containerize.com/security-testing-tools/metasploit/)**
+*   **[BeEF Vulnerability Scanning and Penetration Testing Framework](https://products.containerize.com/security-testing-tools/beefproject/)**
+*   **[WhatWeb Tool To Discover Security Vulnerabilities](https://products.containerize.com/security-testing-tools/whatweb/)**

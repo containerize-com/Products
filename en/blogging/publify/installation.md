@@ -5,11 +5,11 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation**
 
-### Install Publify On Ubuntu
+#### **Install Publify On Ubuntu**
 
-Publify web publishing software is simple and easy to get started software. Install and configure ruby on rails, database, build tools and ruby dependencies on ubuntu. Here we will setup publify development environment. You can download the latest version of the Publify from Git repository using git clone command on your local machine:
+Publify best open source blogging platform is simple and easy to get started software. Install and configure ruby on rails, database, build tools and ruby dependencies on ubuntu. Here we will setup publify development environment. You can download the latest version of the Publify from Git repository using git clone command on your local machine:
 
     git clone https://github.com/publify/publify.git
     cd ~/publify
@@ -48,4 +48,4 @@ Once everything is configured then run rails server using following:
 
 Launch your web browser, type the URL http://127.0.0.1:3000 and complete required steps to finish the Publify installation. That's it.
 
-Congratulatiopns! you have successfully installed Publify on your Ubuntu system. Enjoy!
+Congratulatiopns! you have successfully installed Publify free open source blogging platform on your Ubuntu system. Enjoy!

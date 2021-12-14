@@ -5,9 +5,9 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation**
 
-### Install Metasploit On Ubuntu
+#### **Install Metasploit On Ubuntu**
 
 Metasploit penetration testing software is simple and easy to get started software. Install and configure ruby on rails and postgresql dependencies packages for ubuntu pentesting tool. You should use the [Free Installer](https://github.com/rapid7/metasploit-framework/wiki/Nightly-Installers) which contains all of the dependencies and running with a few clicks but here we will setup source code development environment. Open a terminal on your system and set up Git, build tools and ruby dependencies:
 
@@ -54,10 +54,3 @@ If the msfdb init command succeeds, then confirm that the database is accessible
     ./msfconsole -qx "db_status; exit"
 
 Congratulations! You have now set up the metasploit project and network intrusion detection system. Enjoy!
-
-Explore
--------
-
-In this article we discussed about Metasploit penetration testing framework and application security service. To learn about other open source security testing tools, please visit following page:
-
-*   [Top Open Source Security Testing Tools](https://products.containerize.com/security-testing-tools/)

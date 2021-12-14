@@ -1,9 +1,9 @@
 ---
-keywords: browser exploitation framework, penetration testing framework, vulnerability and penetration testing, kali linux penetration testing, beef kali linux, beef xss framework, advanced penetration testing
-title: WhatWeb | Next generation website vulnerability scanner
-description: WhatWeb is open source tool to discover security vulnerabilities in your web application. It is penetration testing tool to identify different web technologies used by the website.
-singlepageh1title: Ruby based next generation website vulnerability scanner
-singlepageh2title: WhatWeb is open source tool to discover security vulnerabilities in your web application. It is penetration testing tool to identify different web technologies used by the website.
+keywords: website vulnerability scanner, whatweb scanner, open web application security project, penetration testing framework, web application vulnerability, web application security solutions, open source application security, test website vulnerability, web app vulnerabilities
+title: WhatWeb | Next Generation Website Vulnerability Scanner
+description: WhatWeb is an open-source tool to discover security vulnerabilities in your web application. It also helps to identify web technologies used by the website.
+singlepageh1title: Ruby Based Next Generation Website Vulnerability Scanner
+singlepageh2title: WhatWeb is an open-source tool to discover security vulnerabilities in your web application. It also helps to identify web technologies used by the website.
 Shortdescriptionlistingpage: WhatWeb is open source tool to discover security vulnerabilities in your web application. It is penetration testing tool to identify different web technologies used by the website.
 linktitle: WhatWeb
 Imagetext: Free Security Software
@@ -22,6 +22,8 @@ SinglePage_MenuImage_AltText: WhatWeb is open source tool to identify different 
 
 
 ---
+
+### **Overview**
 
 WhatWeb is next generation web scanner and identifies websites. Its goal is to answer the question, "What is that Website?". WhatWeb recognises web technologies including content management systems, blogging platforms, statistic or analytics packages, JavaScript libraries, web servers, and embedded devices. WhatWeb has over 1800 plugins, each to recognise something different. WhatWeb also identifies version numbers, email addresses, account IDs, web framework modules, SQL errors, and more.
 
