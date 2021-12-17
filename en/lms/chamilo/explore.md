@@ -1,14 +1,17 @@
 ---
 title: Explore
 onpagelink: explore
-weight: 4
+weight: 5
 
 ---
 
-### Explore
+### **Explore**
 
 You may find the following links relevant:
 
-- [Top Open Source LMS Software](https://products.containerize.com/lms/)
-- [Moodle - E-learning System](https://products.containerize.com/lms/moodle/)
+*   **[Moodle](https://products.containerize.com/lms/moodle/)**
+*   **[Canvas](https://products.containerize.com/lms/canvas/)**
+*   **[ILIAS](https://products.containerize.com/lms/ilias/)**
+*   **[OpenEdx](https://products.containerize.com/lms/openedx/)**
+*   **[Top Open Source LMS Software](https://products.containerize.com/lms/)**
  

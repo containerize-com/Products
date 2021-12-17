@@ -5,11 +5,11 @@ weight: 3
 
 ---
 
-### Installation Instructions
+### **Installation Instructions** 
 
-#### Install Chamilo on Ubuntu 18.04 LTS with Nginx
+#### **Install Chamilo on Ubuntu 18.04 LTS with Nginx**
 
-#### Install Nginx Web Server
+#### **Install Nginx Web Server**
 
 Nginx is the most popular and secure web server. In order to install Nginx, use the following command
 
@@ -23,7 +23,7 @@ Once the Nginx is install, configure the domain and restart the Nginx by using t
  sudo service nginx restart 
 ```
 
-#### Install MySQL Server
+#### **Install MySQL Server**
 
 Next, need to install database Server, use the following command to install MySql server
 
@@ -39,7 +39,7 @@ Once, the database server is installed, use the following command to restart MyS
 sudo service mysql restart 
 ```
 
-### Install PHP 7.2 and Related Modules
+### **Install PHP 7.2 and Related Modules**
 
 Run commands to add a third-party PPA to Ubuntu.
 
@@ -55,7 +55,7 @@ Now, run the following command to install PHP 7.2 and related modules.
 sudo apt install php7.2-fpm php7.2-common php7.2-sqlite3 php7.2-curl php7.2-intl php7.2-mbstring php7.2-xmlrpc php7.2-mysql php7.2-gd php7.2-xml php7.2-cli php7.2-ldap php7.2-apcu php7.2-zip
 ```
 
-#### Create Database for Chamilo
+#### **Create Database for Chamilo**
 
 Now, you have installed all the required software and the next step is to login to mysql server and create Chamilo database. Use following command to create database. Change with your database name.
 
@@ -71,7 +71,7 @@ GRANT ALL ON chamilo.* TO 'chamilouser'@'localhost' WITH GRANT OPTION;
 FLUSH PRIVILEGES; EXIT;
 ```
 
-#### Download Chamilo
+#### **Download Chamilo**
 
 Next, run the commands below to download Chamilo, unzip and move it to Nginx web server directory.
 

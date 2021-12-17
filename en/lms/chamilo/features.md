@@ -5,9 +5,9 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 
-Following are the key features of Chamilo:
+Following are the key features of Chamilo open source online learning management system:
 
 - Free and open source
 - Courses management
