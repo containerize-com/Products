@@ -5,9 +5,9 @@ weight: 2
 
 ---
 
-### **Features**
+### Features
 
-Kanboard is web based project management tool based on Kanban that is lean manufacturing technique. Main features include
+Kanboard is web based project planning and management tool based on Kanban that is lean manufacturing technique. Main features include
 
 *   Simple and minimal
 *   Visual and clear overview of your tasks
