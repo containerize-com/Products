@@ -5,10 +5,9 @@ weight: 3
 
 ---
 
-
 ### **Installation**
 
-#### Installation using Github
+#### **Installation using Github**
 
 First make sure you have installed all the dependencies. Clone the latest kanboard repository from github into document root folder:
 
