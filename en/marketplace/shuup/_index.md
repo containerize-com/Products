@@ -8,7 +8,7 @@ Shortdescriptionlistingpage: Shuup open source multi-vendor marketplace offers  
 linktitle: Shuup
 Imagetext: Marketplace Software
 draft: false
-weight: 1
+weight: 3
 layout: "single"
 GithubLink: https://github.com/shuup/shuup
 
