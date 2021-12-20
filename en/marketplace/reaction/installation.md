@@ -7,7 +7,7 @@ weight: 3
 
 ### **Installation Instructions**
 
-## Install Reaction On Ubuntu
+#### **Install Reaction On Ubuntu**
 
 First, ensure that all the depency packages of Reaction are installed and  up to date then please follow the instructions listed below. Clone reactioncommerce repository, and then run make command in the reaction-development-platform directory as below: 
 

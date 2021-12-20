@@ -5,10 +5,10 @@ description: Reaction is a free and open source commerce platform. Reaction Comm
 singlepageh1title: JavaScript-based Most Widely Real-time Commerce Platform
 singlepageh2title: Reaction is an open source and real-time commerce platform for small and medium-sized retailers. It is fully customizeable, extenable and deploy an store or marketplace solution.
 Shortdescriptionlistingpage: ‎Mailchimp Open Commerce (formerly Reaction Commerce) is lightweight and easy to deploy. It supports multiple messaging protocols and deployed in distributed configurations to meet high-scale requirements.
-linktitle: Reaction Commerce Platform
+linktitle: Reaction
 Imagetext: Marketplace Software
 draft: false
-weight: 1
+weight: 3
 layout: "single"
 GithubLink: https://github.com/reactioncommerce/reaction
 
