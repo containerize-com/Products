@@ -1,5 +1,5 @@
 ---
-keywords: open source marketplace, top online marketplace, best open source b2b ecommerce platform, ecommerce marketplace, b2b ecommerce software solution, top b2b ecommerce platform
+keywords: headless ecommerce open source, best open source ecommerce, popular ecommerce platform, best ecommerce framework, nodejs ecommerce open source, cloud based ecommerce solution, ecommerce software for small business, ecommerce solution for small business
 title: Reaction | Popular Headless eCommerce Open Source Software
 description: Reaction is a free and open source commerce platform. Reaction Commerce is a headless, API-first commerce platform and built with Node.js and deployed with Docker.
 singlepageh1title: JavaScript-based Most Widely Used Real-time Commerce Platform
