@@ -1,10 +1,10 @@
 ---
 keywords: open source marketplace, top online marketplace, best open source b2b ecommerce platform, ecommerce marketplace, b2b ecommerce software solution, top b2b ecommerce platform
-title: Reaction | Most widely deployed open source commerce platform
+title: Reaction | Popular Headless eCommerce Open Source Software
 description: Reaction is a free and open source commerce platform. Reaction Commerce is a headless, API-first commerce platform and built with Node.js and deployed with Docker.
-singlepageh1title: JavaScript-based Most Widely Real-time Commerce Platform
-singlepageh2title: Reaction is an open source and real-time commerce platform for small and medium-sized retailers. It is fully customizeable, extenable and deploy an store or marketplace solution.
-Shortdescriptionlistingpage: ‎Mailchimp Open Commerce (formerly Reaction Commerce) is lightweight and easy to deploy. It supports multiple messaging protocols and deployed in distributed configurations to meet high-scale requirements.
+singlepageh1title: JavaScript-based Most Widely Used Real-time Commerce Platform
+singlepageh2title: Reaction is an open source real-time commerce platform for small and medium-sized retailers. It is a fully customizeable and extendable best ecommerce solution.
+Shortdescriptionlistingpage: ‎Mailchimp open commerce or reaction commerce is API-first commerce platform. It offers real-time e-commerce and analytics solution for small and medium retailers.
 linktitle: Reaction
 Imagetext: Marketplace Software
 draft: false
@@ -27,6 +27,6 @@ SinglePage_MenuImage_AltText: JavaScript-based Most Widely Real-time Commerce Pl
 
 ### **Overview**
 
-Reaction Commerce is the first real-time reactive, fast and completely open source commerce solution. It is the most popular commerce project, built for the scale and growth of small retailers and brands. Reaction is the fastest-growing, scalable open source commerce platform. Reaction is a modular commerce stack made for technical, growth-minded and medium-sized retailers.
+Reaction Commerce is the first real-time reactive, fast and completely headless ecommerce open source platform. It is the most popular ecommerce platform, built for the scale and growth of small retailers and brands. Reaction best ecommerce framework is the fastest-growing, scalable open source commerce platform. Reaction is a modular commerce stack made for technical, growth-minded and medium-sized retailers.
 
-Reaction is (acquired by Mailchimp) is now also called ‎Mailchimp Open Commerce. It is an open-source API-first reactive commerce platform and it allows customers to fully customize, extend, remake and deploy an online store or marketplace technology. It is Mailchimp headless commerce software and is built using Node.js, MongoDB, and GraphQL. It works perfectly with npm, Docker and Kubernetes installations. Reaction Commerce open source software has 11.6K GitHub stars and 2.1k GitHub forks.
+Reaction best open source ecommerce (acquired by Mailchimp) is now also called ‎Mailchimp Open Commerce. It is an open-source API-first reactive nodejs ecommerce open source platform and it allows customers to fully customize, extend, remake and deploy an online store or marketplace technology. It is Mailchimp headless commerce software and is built using Node.js, MongoDB, and GraphQL. It works perfectly with npm, Docker and Kubernetes installations. Reaction Commerce open source software has 11.6K GitHub stars and 2.1k GitHub forks.

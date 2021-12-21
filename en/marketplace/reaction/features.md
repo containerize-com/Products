@@ -7,7 +7,7 @@ weight: 2
 
 ### **Features**
 
-Some of the key features of Reaction are listed below:
+Some of the key features of Reaction cloud based ecommerce solution are listed below:
 
 *   A fast, modern and real-time commerce platform
 *   Docker based development environment
