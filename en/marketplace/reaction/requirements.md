@@ -7,7 +7,7 @@ weight: 1
 
 ### **System Requirements**
 
-Requirements to setup ownCloud include:
+Requirements to setup ‎Mailchimp ecommerce solution for small business include:
 
 *   Docker
 *   Docker Compose

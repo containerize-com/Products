@@ -9,7 +9,7 @@ weight: 3
 
 #### **Install Reaction On Ubuntu**
 
-First, ensure that all the depency packages of Reaction are installed and  up to date then please follow the instructions listed below. Clone reactioncommerce repository, and then run make command in the reaction-development-platform directory as below: 
+First, ensure that all the depency packages of Reaction are installed and  up to date then please follow the instructions listed below. Clone reaction commerce repository, and then run make command in the reaction-development-platform directory as below: 
 
     git clone git@github.com:reactioncommerce/reaction-development-platform.git
     cd reaction-development-platform
@@ -26,4 +26,4 @@ These are many make commands available in the reaction platform root directory a
 
 Next, browse Open Commerce login page interface for administrators and shop managers at localhost:4080. Register your account and configure shops to manage product orders from the Open Commerce admin dashboard. You can visit the GraphQL playground at localhost:3000/graphql. You can also view your Open Commerce storefront built with Next.JS at http://localhost:4000
 
-Congratulations! You have now set up the Reaction Commerce successfully. Enjoy!
+Congratulations! You have now set up the Reaction Commerce ecommerce software for small business successfully. Enjoy!
