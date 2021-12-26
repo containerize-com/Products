@@ -24,6 +24,8 @@ SinglePage_MenuImage_AltText: Ceph is open source self-hosted software defined s
 
 ---
 
+### **Overview**
+
 Ceph is an open source distributed object, block, and software storage application. It implements object scalable distributed storage on a single distributed computer cluster and provides 3-in-1 interfaces for objects, blocks and file based storage under one whole system. Open source Ceph file system CephFS is a robust, fully featured POSIX-compliant distributed file system. CephFS service with snapshots, quotas, and multi-cluster mirroring capabilities. CephFS files are distributed across objects stored by Ceph for high scale and performance.
 
 Ceph is a widely used high performance distributed and open source storage platform. It is reliable and scalable storage designed for any business organization. The Ceph free distributed file system provides an interface for object, block, and file level cloud storage. Ceph is designed to provide a distributed cloud storage system without a single point of failure. Ceph installations and management can be very challenging and tricky. Open source Ceph software has 9.4K GitHub stars and 4.4 GitHub forks.

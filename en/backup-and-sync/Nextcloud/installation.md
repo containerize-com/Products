@@ -7,7 +7,7 @@ weight: 3
 
 ### **Installation**
 
-### Install Nextcloud On Ubuntu
+#### **Install Nextcloud On Ubuntu**
 
 First, ensure that all the depency packages of Nextcloud open source file storage are installed and up to date. The following instructions are using /var/www as the web server’s directory. www-data is the user name and group name. After the development tool installation make the directory writable so you install the code as your regular user. You don’t need root privileges to setup. Please follow the instructions listed below:
 

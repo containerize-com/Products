@@ -7,7 +7,7 @@ weight: 3
 
 ### **Installation**
 
-### Install ownCloud On Ubuntu
+#### **Install ownCloud On Ubuntu**
 
 First, ensure that all the depency packages of ownCloud are up to date before installing owncloud on ubuntu. To setup owncloud, first check PHP is available in the APT repository. Now please follow the instructions listed below:
 
