@@ -6,15 +6,16 @@ singlepageh1title: OpenShift is containerization software developed by Red Hat.
 singlepageh2title: OpenShift is an open source container platform and platform-as-a-Service (PaaS). It is cloud-based container orchestration system with Kubernetes distribution.
 Shortdescriptionlistingpage: Redhat OpenShift is industry standard Kubernetes distribution and a family of containerization software products. It focuses on user experience and app security.
 linktitle: OpenShift
-Imagetext: Devops Tool
+Imagetext: DevOps Tool
 draft: false
 weight: 3
 layout: "single"
 GithubLink: https://github.com/openshift/origin
-HomePage_TitleText: Open Source Devops Tool
+
+HomePage_TitleText: Open Source DevOps Tool
 
 ListingPage_MenuImage_TitleText: OpenShift logo
-ListingPage_MenuImage_AltText: Best Open Source Devops Tool
+ListingPage_MenuImage_AltText: Best Open Source DevOps Tool
 ListingPage_Link_TitleText: Explore OpenShift
 
 SinglePage_HeaderImage_TitleText: OpenShift | Open Source Openshift Container Platform
