@@ -1,9 +1,9 @@
 ---
 keywords: open source openshift, openshift container platform, open source container platform, openshift vs kubernetes, red hat openshift container platform, red hat container platform
 title: OpenShift | Open Source Openshift Container Platform
-description: Redhat open source OpenShift is the most secure container platform. It is cloud-based container orchestration system with industry standard Kubernetes as backend
+description: Redhat's open-source OpenShift is the most secure container platform. It is a cloud-based container orchestration system with the Kubernetes container platform.
 singlepageh1title: OpenShift is containerization software developed by Red Hat.
-singlepageh2title: OpenShift is an open source container platform and platform-as-a-Service (PaaS). It is cloud-based container orchestration system with Kubernetes distribution.
+singlepageh2title: OpenShift is an open-source container platform and Platform-as-a-Service (PaaS). It is a cloud-based container orchestration system for Kubernetes distribution.
 Shortdescriptionlistingpage: Redhat OpenShift is industry standard Kubernetes distribution and a family of containerization software products. It focuses on user experience and app security.
 linktitle: OpenShift
 Imagetext: Devops Tool
