@@ -6,15 +6,15 @@ singlepageh1title: Self-hosted cluster management tool written in C++ language
 singlepageh2title: Apache Mesos is a cluster management framework. It provides efficient resource isolation and sharing across distributed environments and application databases.
 Shortdescriptionlistingpage: Apache Mesos is a cluster manager that provides efficient resource isolation and sharing across distributed environments. It also handles workloads of databases
 linktitle: Apache Mesos
-Imagetext: Devops Tool
+Imagetext: DevOps Tool
 draft: false
 weight: 3
 layout: "single"
 GithubLink: https://github.com/apache/mesos
-HomePage_TitleText: Open Source Devops Tool
+HomePage_TitleText: Open Source DevOps Tool
 
 ListingPage_MenuImage_TitleText: Apache Mesos logo
-ListingPage_MenuImage_AltText: Best Open Source Devops Tool
+ListingPage_MenuImage_AltText: Best Open Source DevOps Tool
 ListingPage_Link_TitleText: Explore Apache Mesos
 
 SinglePage_HeaderImage_TitleText: Apache Mesos | Open Source Cluster Management Tool

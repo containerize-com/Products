@@ -6,15 +6,15 @@ singlepageh1title: Go-based Platform For Managing Containerized Applications
 singlepageh2title: Kubernetes also known as k8s or kube is an open source container orchestration tool that automates container deployment, scaling and management.
 Shortdescriptionlistingpage: Kubernetes also known as Kube is an open source container orchestration system used to automate deployment, scaling, and management of containerized application
 linktitle: Kubernetes
-Imagetext: Devops Tool
+Imagetext: DevOps Tool
 draft: false
 weight: 3
 layout: "single"
 GithubLink: https://github.com/kubernetes/kubernetes
-HomePage_TitleText: Open Source Devops Tool
+HomePage_TitleText: Open Source DevOps Tool
 
 ListingPage_MenuImage_TitleText: Kubernetes logo
-ListingPage_MenuImage_AltText: Best Open Source Devops Tool
+ListingPage_MenuImage_AltText: Best Open Source DevOps Tool
 ListingPage_Link_TitleText: Explore Kubernetes
 
 SinglePage_HeaderImage_TitleText: Kubernetes | Open Source Container Orchestration System
