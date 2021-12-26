@@ -7,7 +7,7 @@ weight: 3
 
 ### **Installation**
 
-### Install Ceph On Ubuntu
+#### **Install Ceph On Ubuntu**
 
 This guide explains how to setup and run Ceph on Ubuntu. Below installation steps assume that all the depency packages of Ceph software defined storage solution are installed and up to date on your system. For Debian and Ubuntu distributions, please follow the below installing ceph steps. First, add the release key:
 

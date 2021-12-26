@@ -7,7 +7,7 @@ weight: 3
 
 ### **Installation**
 
-### Install Seafile On Ubuntu
+#### **Install Seafile On Ubuntu**
 
 This guide explains how to setup and run sea file server from a pre-built package with MySQL. Below installation steps assume that all the depency packages of Seafile cloud are installed and up to date on your system. Please follow seafile installation steps:
 
