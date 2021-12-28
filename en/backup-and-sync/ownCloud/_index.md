@@ -24,6 +24,8 @@ SinglePage_MenuImage_AltText: Open source ownCloud is a private cloud storage so
 
 ---
 
+### **Overview**
+
 Open source ownCloud is free and popular robust enterprise web application written in PHP that’s used for data synchronization and file sharing. It also allows you to easily manage data files, contacts, calendars, to do lists and many more. It is a great alternative to the most popular cloud platforms such as Google Drive, Dropbox, iCloud, and other cloud storage services out there. But unlike the other cloud storage services, OwnCloud is free to create own host cloud.
 
 ownCloud is an open source private cloud software that provides data access using web interface to create a private cloud. It enables you to create your own file sharing server where you can easily view and sync calendar events, archives, pictures, recordings, tasks, address books with bookmarks, similar to Dropbox and Google Drive. It also provides options to sync and share data across devices all under your control. Install and configure ownCloud supports your data synced for desktop clients as well as mobile app devices. Moreover, You can easily implement user and group access restrictions on files per user using ownCloud on Ubuntu. OwnCloud is a cross platform application and can be installed on all popular operating systems.

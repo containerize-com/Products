@@ -5,9 +5,9 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
-Kanboard is PHP based and support various databases. It requires following software.
+Kanboard free project collaboration software is PHP based and support various databases. It requires following software.
 
 *   PHP 7.2+
 *   Compatible Databases

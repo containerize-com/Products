@@ -24,6 +24,8 @@ SinglePage_MenuImage_AltText: Pydio cells is secure self-hosted open source file
 
 ---
 
+### **Overview**
+
 Pydio Cells is a free and open source file sharing and synchronisation software that runs on the user's self hosted server or in the cloud. Pydio Cells secure file sync previously was known as just Pydio and formerly known as AjaXplorer. It is a future proof content collaboration platform and nextgen file sharing platform for organizations. Pydio Cells enterprise file sync and share project is written in the Go language following a micro-service architecture and it uses many open source golang libraries. Pydio cells has a new synchronization client [CellsSync](https://github.com/pydio/cells-sync) , written in 100% GO.  It shares most of its code with the Cells server.
 
 Cells file sync and share ships as a set of precompiled static binaries for installation, one for each operating system. The only required main dependency is a MySQL database server. Pydio Cells open source file sharing server microservice architecture provides its own webserver and web access to the platform TCP port like a standard web server. Pydio open source secure file sharing desktop application provides offline synchronization on windows, mac and linux operating system. You can access your files and folders for all iOS and Android devices. Access and preview your files, upload on cloud, put some content in cache and then synchronize folders locally for when you go offline. Pydio Cells open source cloud file sharing has 1.1K GitHub stars and 105 GitHub forks.

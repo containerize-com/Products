@@ -24,7 +24,7 @@ SinglePage_MenuImage_AltText: Apache Open Office is one of the good alternatives
 
 ---
 
-#### Overview
+### **Overview**
 
 Apache Open Office is one of the good alternatives to Microsoft Office whether you want to work with text documents, spreadsheets, or presentations. It’s a knockout for most of the features which Microsoft Office provides. And, that’s too 100% free. And it’s not only free and open-source, but it also runs on all platforms (Linux, Mac) not only on Windows.
 

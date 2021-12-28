@@ -1,9 +1,9 @@
 ---
 keywords: distributed message queue, open source message broker, message broker software, message queue software, best message queue, best message broker, queuing service
 title: Celery | Most Widely Deployed Open Source Message Broker
-description: Celery is lightweight and easy to deploy. It supports multiple messaging protocols and deployed in distributed configurations to meet high-scale requirements.
+description: Celery is lightweight and easy to deploy task queue software. It offers multiple messaging protocols and distributed configurations to meet high-scale systems.
 singlepageh1title: Python-based Most Widely Deployed Open Source Message Broker
-singlepageh2title: Celery is asynchronous open source task queue or job queue based on distributed message queue. It supports queue scheduling focusing on real time operations.
+singlepageh2title: Celery is an asynchronous open-source task or job queue based on a distributed message queue. It offers queue scheduling focusing on real-time operations.
 Shortdescriptionlistingpage: Celery is an open source message broker or queue manager. It provides your applications a common platform to send and receive messages in cloud environments.
 linktitle: Celery
 Imagetext: Free Message Queue Software
