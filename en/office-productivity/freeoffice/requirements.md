@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-System Requirements
+### **System Requirements**
 -------------------
 
 - Windows 7, 8, 10, Windows Server 2008 R2 or newer

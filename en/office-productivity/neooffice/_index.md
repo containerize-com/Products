@@ -24,7 +24,7 @@ SinglePage_MenuImage_AltText: NeoOffice is a 100% free and open-source office pr
 
 ---
 
-#### Overview
+### **Overview**
 
 NeoOffice is a 100% free and open-source office suite for macOS. This is a great alternative to Microsoft Office if you are trying to switch from Microsoft Software but something a little cheaper which is 100% free in this case. Two engineers created NeoOffice in 2003 when they made OpenOffice run natively on OS X for the first time. Since then, the NeoOffice engineers have continually added improvements to NeoOffice specifically for the Mac OS e.g Native Darkmode, Native Grammer Checking, Native file locking, and lots of other Native features.
 

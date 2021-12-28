@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-Features
+### **Features**
 --------
 
 ### Native Dark Mode
