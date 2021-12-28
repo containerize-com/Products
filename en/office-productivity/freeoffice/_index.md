@@ -23,7 +23,7 @@ SinglePage_MenuImage_AltText: FreeOffice is best free office alternative
 
 ---
 
-#### **Overview**
+### **Overview**
 
 <span style="font-weight: 400;">FreeOffice is a full-featured open-source office suite and free version of SoftMaker Office</span>. It’s the best free office alternative. It includes the three main applications required for any office productivity suite. TextMaker is a free alternative to Microsoft Word, PlanMaker is a free alternative to Microsoft Excel, and Presentations is a free alternative to Microsoft PowerPoint.
 

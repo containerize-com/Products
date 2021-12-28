@@ -28,4 +28,3 @@ weight: 1
 - Install it on as many PCs as you like
 - Use it for any purpose - private, educational, government and public administration, commercial…
 - Pass on copies free of charge to family, friends, students, employees, etc.
- 
