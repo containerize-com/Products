@@ -1,4 +1,5 @@
 ---
+keywords: mail transfer agent, postfix email server, postfix mail server, postfix smtp configuration, linux smtp server configuration, configure postfix to send mail, setup smtp server ubuntu
 title: Postfix | Open Source Mail Transfer Agent
 description: This Linux mail server is known for its superior performance and security. It can send over 300 emails per second from a single Postfix instance.
 singlepageh1title: Open Source Mail Transfer Agent for UNIX based Systems

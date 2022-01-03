@@ -7,6 +7,8 @@ weight: 3
 
 ### **Installation Instructions**
 
+#### **Install Postfix on Ubuntu**
+
 Postfix is included in Ubuntu’s default repositories, so installation is incredibly simple.
 
 To begin, update your local `apt` package cache and then install the software. We will be passing in the `DEBIAN_PRIORITY=low` environmental variable into our installation command in order to answer some additional prompts:
