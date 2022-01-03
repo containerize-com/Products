@@ -5,9 +5,9 @@ weight: 3
 
 ---
 
-### Installation Instructions
+### **Installation Instructions**
 
-#### Install phpList on Ubuntu 16.04 LTS with Nginx
+#### **Install phpList on Ubuntu 16.04 LTS with Nginx**
 
 Nginx is the most popular and secure web server. In order to install Nginx, use the following command
 

@@ -1,4 +1,5 @@
 ---
+keywords: open source newsletter software, open source newsletter, email list management, free email list management, self hosted newsletter, open source email campaign software
 title: phpList | Free And Open Source Newsletter Software
 description: Define branded template for email marketing. Send newsletter, new offers, critical announcements and urgent updates to any number of subscribers.
 singlepageh1title: Handy Open Source Newsletter and Email Marketing Software
