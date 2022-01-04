@@ -13,7 +13,7 @@ layout: "single"
 GithubLink: https://github.com/opensource-socialnetwork/opensource-socialnetwork
 HomePage_TitleText: Open Source social network tool in PHP
 
-ListingPage_MenuImage_TitleText:Social Networking Platform
+ListingPage_MenuImage_TitleText: Social Networking Platform
 ListingPage_MenuImage_AltText: Free & open source Social Networking Platform
 ListingPage_Link_TitleText: Social Networking Platform
 
