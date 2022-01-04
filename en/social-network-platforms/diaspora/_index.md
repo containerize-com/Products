@@ -6,7 +6,7 @@ singlepageh1title: Self-Hosted Privacy-Oriented Social Networking Service
 singlepageh2title: Diaspora is a free decentralized social network alternative to Facebook. It gives you control over data, social connections and rich communication features.
 Shortdescriptionlistingpage: Diaspora is an open-source decentralized social network tool that supports integration with Twitter, Tumblr and offers powerful features such as data control, Mentions, Emojis, and more.
 linktitle: Diaspora
-Imagetext:  Free Social Network Tool
+Imagetext:  Free Social Network Platform
 draft: false
 weight: 3
 layout: "single"
