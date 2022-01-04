@@ -3,7 +3,7 @@ keywords: social networking platform open source social network, networking plat
 title: Open Source Social Network | Free Social Networking Platform
 description: Open-Source Social Network is a free social networking platform. It is self-hosted, privacy-oriented, and offers blogging, news feed, group management & more.
 singlepageh1title: Multilingual, Highly Performant Open-Source Social Network
-singlepageh2title: Free social media platform lets you build social relationships. It offers social media integration, rich-featured user-interface, media attachments and more.
+singlepageh2title: Free social media platform enables you build social relationships. It offers social media integration, rich-featured user-interface, media attachments and more.
 Shortdescriptionlistingpage: Open Source Social Network lets you build social relationships with the members. It offers social media integration, rich-featured user-interface, user invites and more.
 linktitle: Open Source Social Network
 Imagetext:  Free Open Source Social Network
