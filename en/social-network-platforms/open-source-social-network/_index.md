@@ -6,7 +6,7 @@ singlepageh1title: Multilingual, Highly Performant Open-Source Social Network
 singlepageh2title: Free social media platform enables you build social relationships. It offers social media integration, rich-featured user-interface, media attachments and more.
 Shortdescriptionlistingpage: Open Source Social Network lets you build social relationships with the members. It offers social media integration, rich-featured user-interface, user invites and more.
 linktitle: Open Source Social Network
-Imagetext:  Free Open Source Social Network
+Imagetext:  Free Social Network Platform
 draft: false
 weight: 4
 layout: "single"
