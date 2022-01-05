@@ -24,6 +24,8 @@ SinglePage_MenuImage_AltText: E-learning System
 
 ---
 
+### **Overview**
+
 Moodle is an open source learning management system (LMS). It is a 100% free e-learning system. Moodle stands for Modular Object-Oriented Dynamic Learning Environment. Moodle allows developers to create online learning sites in a matter of minutes. It's an open source learning platform that's both stable and scalable. Moodle open source was created to make it simple for teachers, students, and administrators to develop and distribute tailored content. This open source e-learning platform includes a modern customizable dashboard and a user-friendly layout. Furthermore, it is appropriate for a wide range of institutions and organizations all around the world.
 
 Moodle comprises a wide variety of features, including collaborative tools and activities, an all-in-one calendar, progress tracking, multilingual reporting, and much more. Moodle has also implemented e-learning standards such as SCORM (Sharable Content Object Reference Model), AICC HACP, IMS, and Learning Tools Interoperability (LTI). By selecting a suitable theme, users can change the look and feel of the site or a specific course. Users can enhance the main functionality of Moodle using the plugins feature. There are numerous plugins available that can be utilized to enhance the functioning of the site. Furthermore, developers can tailor their plugins to meet the needs of their customers.

@@ -25,6 +25,8 @@ SinglePage_MenuImage_AltText: LMS For Schools
 
 ---
 
+### **Overview**
+
 Canvas is an open source e-learning LMS. Canvas LMS is a completely free learning management system (LMS) for schools, universities, and training centers. It is flexible, dependable, customizable, and an ideal LMS for schools. It is also a useful LMS for businesses.
 
 Canvas LMS, Canvas Studio, and Canvas Catalog are the three components of the Canvas education software. Canvas LMS organizes coursework and streamlines teaching and learning processes. Canvas Studio enhances video learning by making it more interactive and interesting. Course registration and enrollment are simplified and modernized with Canvas Catalog.

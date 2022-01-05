@@ -5,9 +5,9 @@ weight: 3
 
 ---
 
-### Installation Instructions
+### **Installation Instructions**
 
-#### Install ILIAS on Ubuntu 18.04 LTS with Nginx
+#### **Install ILIAS on Ubuntu 18.04 LTS with Nginx**
 
 #### Install Nginx Web Server
 
