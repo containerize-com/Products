@@ -5,9 +5,9 @@ weight: 3
 
 ---
 
-### Installation Instructions
+### **Installation Instructions
 
-#### Install OpenEdx on Ubuntu 20.04
+#### **Install OpenEdx on Ubuntu 20.04**
 
 First, update Ubuntu packages by running the following commands.
 

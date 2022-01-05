@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-### FAQs
+### **FAQs**
 
 ### What is ILIAS exactly?
 ILIAS is a free and open source learning management system (LMS). It includes all the features that meet the requirements of modern LMS such as course management, learning modules, tests and assessments, and many more.
