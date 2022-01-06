@@ -24,6 +24,8 @@ SinglePage_MenuImage_AltText: Magento - Open Source Shopping Cart
 
 ---
 
+### **Overview**
+
 Magento is one of the leading **open source shopping cart** for small, medium, and enterprise-level businesses. Magento has an impressive feature list such as PWA, SEO, Page Builder, and many more. It is a highly customizable, scalable, and one of the **best open source shopping cart** software. Above all, it has a very active community that helps in testing, bug fixing, and releasing new features. Magento comes in two editions, Magento Open Source and Magento Commerce. Users can download Magento Open Source for free from the Magento website. However, merchants can use Magento Commerce as SaaS (software as a service) platform that offers extra features.
 
 Data is a vital part of any organization. This **open source eCommerce software** can be easily installed on a private server and helps to keep control over it. Moreover, merchants can review analytics and identify plans for expansion to the next level. Magento has an outstanding feature for running Multi-store from a single admin dashboard. It helps to save time for store managers. It also allows merchants to handle product inventory, and perform various operations from one central place.

@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-Features
+### **Features**
 --------
 
 Rich functionality of Spree ecommerce platform allows you to create an online store with the possibilities of advanced search, personalization of the offered contents, convenient payments, and other great features, without which successful customer experience is impossible.

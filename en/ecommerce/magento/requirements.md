@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
 Magento is PHP and MySQL based open source shopping cart software. It requires following software.
 

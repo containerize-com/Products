@@ -23,6 +23,8 @@ SinglePage_MenuImage_AltText: PrestaShop - Free Shopping Cart Solution
 
 ---
 
+### **Overview**
+
 PrestaShop is an efficient, scalable, and completely customizable **free shopping cart solution**. It allows companies to set up an online shop in a couple of minutes. PrestaShop has an impressive list of features to meet eCommerce market requirements such as inventory management, payments, delivery, manufacturers, suppliers, and many more.
 
 PrestaShop comes with a beautiful responsive UI for both front-end and back-office, so it fits all screen sizes. Customers can use the site on all mobile devices, tablets, and desktops. It also allows users to customize store themes. The versatility of modules enables merchants to extend functionality. Users can use a wide range of add-ons that are available at the marketplace.

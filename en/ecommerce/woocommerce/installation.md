@@ -5,7 +5,7 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation**
 
 It’s very simple to install and configure. Follow the below steps:
 

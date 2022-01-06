@@ -22,6 +22,8 @@ SinglePage_MenuImage_AltText: VirtueMart - Ecommerce For Joomla
 
 ---
 
+### **Overview**
+
 VirtueMart is an open source **eCommerce for Joomla** CMS. This means users need to collectively run the Joomla website and the VirtueMart. VirtueMart is a component built on the top of Joomla. This **Joomla shopping cart** is released under the GNU General Public License, which means that it can be downloaded and used freely by users. It is user-friendly, professional and even beginners can quickly set up shop in few minutes. To meet the needs of online stores, VirtueMart comes with various out-of-the-box features. In addition, merchants can extend this **Joomla cart** by installing Plugins, Components, Templates, and Modules to their shop.
 
 VirtueMart is one of the **best Joomla shopping cart** that comes powerful dynamic calculator that handles all the discounts, taxes, and currencies. It is rule-based and operates with various scenarios for applying a rule. Merchant can define rules such as profit margin, discounts, tax, and vat. Every rule can have its currency, with automatically updated rates. VirtueMart supports payment gateways such as Paypal, Klarna, Sofort Banking, and Skrill. It also supports COD (Cash On Delivery), so customers without credit cards can shop. Moreover, store owners can find many payments services extensions at VirtueMart marketplace and use them.

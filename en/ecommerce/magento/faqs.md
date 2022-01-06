@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-### FAQs
+### **FAQs**
 
 ### What is Magento?
 Magento is an open source ecommerce platform that allows organizations to maintain and administer their online stores.
