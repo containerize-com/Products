@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 
 VirtueMart provides all the modern features and some of the key features are:
 

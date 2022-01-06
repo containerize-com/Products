@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-Features
+### **Features**
 --------
 
 Solidus offers a complete suite of essential eCommerce features out of the box in a fully modular package. Take what you need, leave what you don’t, and customize any of the built-in features to your requirements.

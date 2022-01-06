@@ -24,7 +24,7 @@ SinglePage_MenuImage_AltText: Solidus is an open-source ecommerce platform built
 
 ---
 
-Overview
+### **Overview**
 --------
 
 Solidus is a complete and very flexible open source eCommerce platform built using Ruby on Rails and maintained by a community of developers. It is a fork of **[Spree](https://products.containerize.com/ecommerce/spree-commerce)** tool with 3.4K GitHub stars and 1K GitHub forks. To get the most out of Solidus, we recommend that you familiarize yourself with Ruby on Rails, as well as the Ruby programming language beforehand. Solidus open source platform is supported by the community and it encourages everyone using Solidus to contribute back to the source code.

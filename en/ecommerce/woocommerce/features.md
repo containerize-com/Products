@@ -5,7 +5,7 @@ weight: 2
 
 ---
 
-### Features
+### **Features**
 
 WooCommerce is fully packed with modern features of shopping cart software. Some of the key features are listed below:
 

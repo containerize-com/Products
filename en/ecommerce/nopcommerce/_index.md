@@ -23,6 +23,8 @@ SinglePage_MenuImage_AltText: nopCommerce - Free Shopping Cart Solution
 
 ---
 
+### **Overview**
+
 nopCommerce is ultimate **free shopping cart solution** based on Microsoft technologies. It is an open source **asp.net shopping cart**. It has impressive builtin features and suitable for small, medium and enterprise-level businesses. nopCommerce is secure, stable and extendable eCommerce platform.
 
 This **free eCommerce software** supports multi-store and Multi-vendor features. Multi-store functionality helps merchants to run multiple stores from single installation. This means that merchants can configure more than one store and manage operations from single administration interface. It also supports Multi-vendor functionality that enables businesses to sell without having inventory. In this model, product is assigned to vendor and then vendor is responsible to ship product to customer on behalf of the merchant.

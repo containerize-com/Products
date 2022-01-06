@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-System Requirements
+### **System Requirements**
 -------------------
 
 Solidus is fully customizable eCommerce platform, built on the shared knowledge of brands.

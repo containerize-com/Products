@@ -5,9 +5,9 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation**
 
-### Install Solidus on Linux (Debian-based)
+#### **Install Solidus on Linux (Debian-based)**
 
 Making sure you have Imagemagick installed, which is required for Paperclip.To add solidus, begin with a Rails 5/6 application and a database configured and created. Clone the Git repo and install the gem dependencies.
 

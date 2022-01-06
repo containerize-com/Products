@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
 PrestaShop is PHP, MySQL based open source shopping cart software. It requires following software.
 

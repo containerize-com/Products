@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
 OpenCart is PHP and MySQL based open source shopping cart software. Current requirements for OpenCart include:
 
