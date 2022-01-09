@@ -1,9 +1,9 @@
 ---
 keywords: mail transfer agent, postfix email server, postfix mail server, postfix smtp configuration, linux smtp server configuration, configure postfix to send mail, setup smtp server ubuntu
 title: Postfix | Open Source Mail Transfer Agent
-description: This Linux mail server is known for its superior performance and security. It can send over 300 emails per second from a single Postfix instance.
+description: Postfix is a Linux-based mail server is known for its superior performance and security. It can send over 300 emails per second from a single instance.
 singlepageh1title: Open Source Mail Transfer Agent for UNIX based Systems
-singlepageh2title: Postfix is a powerful mail transfer agent for email routing and delivery. It offers useful features like junk mail control, database support and log management.
+singlepageh2title: Postfix is a powerful mail transfer agent for email routing and delivery. It offers valuable features like junk mail control, DB support, and log management.
 Shortdescriptionlistingpage: Postfix offers an amazing set of powerful features like junk mail control, database support, log management and many more. It has a wide support for database like MySQL, Memcache SQLite, PostgreSQL, LDAP.
 linktitle: Postfix
 Imagetext:  Transactional Email Service
