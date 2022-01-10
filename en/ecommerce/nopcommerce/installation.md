@@ -5,9 +5,9 @@ weight: 3
 
 ---
 
-### Installation
+### **Installation**
 
-#### Installing on Windows
+#### **Installing on Windows**
 
 First, you need to download it from https://www.nopcommerce.com/download-nopcommerce
 

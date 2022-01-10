@@ -5,7 +5,7 @@ weight: 1
 
 ---
 
-### System Requirements
+### **System Requirements**
 
 VirtueMart is PHP, Joomla and MySQL based open source shopping cart software. Current requirements for VirtueMart include:
 

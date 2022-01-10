@@ -5,7 +5,7 @@ weight: 4
 
 ---
 
-### FAQs
+### **FAQs**
 
 ### What is OpenEdx Platform?
 OpenEdX platform is an open source learning management system (LMS). It is used to host Massive Open Online Courses (MOOCs), smaller classes and training modules.

@@ -25,7 +25,7 @@ SinglePage_MenuImage_AltText: Spree Commerce is an open-source e-commerce soluti
 
 ---
 
-Overview
+### **Overview**
 --------
 
 Spree Commerce empowers the world’s sellers by providing them with a versatile, modular open-source ecommerce platform that allows for easy integrations with every major third-party integration. It was started by Sean Schofield and is now developed by Spark Solutions. Spree commerce is a complete, modular, API-driven open source e-commerce solution built with Ruby on Rails.
