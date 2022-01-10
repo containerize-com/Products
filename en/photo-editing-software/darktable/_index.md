@@ -1,4 +1,5 @@
 ---
+keywords: open source image editor, best open source photo editor, open source photo editing software, best free image editing software, open source photography, dark table software, darktable photo editing
 title: Darktable | Free & Open Source Image Editor Software
 description: An open source photo editing application that allows you to manage and develop raw images. It also lets you enhance raw images and manage their database.
 singlepageh1title: Open Source Image Editor & Photography Workflow Manager
