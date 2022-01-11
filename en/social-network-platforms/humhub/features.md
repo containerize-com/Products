@@ -15,6 +15,6 @@ HumHub offers the following key features:
 - Extensible 
 - Social Tools
 - Activity Stream
-- Flobal Search  
+- Global Search  
 - Rich Dashboard 
 - Support For Media Files 
