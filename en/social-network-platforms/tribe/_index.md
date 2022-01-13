@@ -1,9 +1,9 @@
 ---
 keywords: social network app, social networking website, free community platform, social community builder, social networking platform
 title: Tribe | Enterprise-Level Open Source Social Network App
-description: Tribe is an award-winning open-source social network app with a wide range of features such as modifiable layout options, customer feedback, self-hosted and more.
+description: Tribe is an award-winning open-source social network app with a wide range of features i.e., modifiable layout options, customer feedback, self-hosted and more.
 singlepageh1title: Social Community Builder With Thread-Based Communication
-singlepageh2title: Build modern, customizable, and cloud-based social networking website. Tribe offers analytics, notifications, integrations, categorization of content and more.
+singlepageh2title: Tribe is an open-source and cloud-based social networking platform. It offers analytics, notifications, integrations, categorization of content, and more.
 Shortdescriptionlistingpage: Tribe is another alternative open source social network app that enables you build your own social network across your organization. It is self-hosted and offers a wide range of features 
 linktitle: Tribe
 Imagetext:  Free Social Network Platform
