@@ -1,10 +1,10 @@
 ---
-keywords: container management tool, container management platform, best container management software, container management system, docker container management, open source container management
-title: Compose | Open Source Container Management Tool
-description: Compose is a universal container-as-a-service, simplified, container management toolset designed to build and manage Docker Swarm and Kubernetes environments.
-singlepageh1title: A lightweight & self-hosted container management platform
-singlepageh2title: Compose is an open-source and powerful container management platform. It allows you to easily build, manage, and maintain Docker and Kubernetes environments.
-Shortdescriptionlistingpage: Compose is a powerful and lightweight contianer management UI which allows you to easily build, manage, and maintain Swarm and Kubernetes environments.
+keywords: what is docker compose?, what is docker and docker compose?, docker compose linux, docker compose on ubuntu, install docker compose ubuntu 20.04, install docker compose on linux
+title: Compose | Running Docker Multiple Containers Application
+description: Docker Compose is a tool to start and manage docker multiple containers applications with a single command. It helps to speed up the multi-container docker apps.
+singlepageh1title: Docker Compose Define and Run Multi-Container Applications
+singlepageh2title: Docker Compose open source tool helps you to handle multi-container docker environments. It allows to use a YAML file to define multi-container simultaneously.
+Shortdescriptionlistingpage: An application can consist of multiple containers running different services. Docker Compose is a useful tool that helps to speed up the multi-container process.
 linktitle: Compose
 Imagetext: DevOps Tool
 draft: false
@@ -13,18 +13,20 @@ layout: "single"
 GithubLink: https://github.com/docker/compose
 HomePage_TitleText: Open Source DevOps Tool
 
-ListingPage_MenuImage_TitleText: Compose logo
+ListingPage_MenuImage_TitleText: Docker Multiple Containers Application
 ListingPage_MenuImage_AltText: Best Open Source DevOps Tool
-ListingPage_Link_TitleText: Explore Compose
+ListingPage_Link_TitleText: Explore Docker Multiple Containers Application
 
-SinglePage_HeaderImage_TitleText: Compose | Open Source Container Management Tool
-SinglePage_HeaderImage_AltText: Compose | Open Source Container Management Tool
-SinglePage_MenuImage_TitleText: Compose | Open Source Container Management Tool
-SinglePage_MenuImage_AltText: Compose | Open Source Container Management Tool
+SinglePage_HeaderImage_TitleText: Compose | Open Source Docker Multiple Containers Application
+SinglePage_HeaderImage_AltText: Compose | Open Source Docker Multiple Containers Application
+SinglePage_MenuImage_TitleText: Compose | Open Source Docker Multiple Containers Application
+SinglePage_MenuImage_AltText: Compose | Open Source Docker Multiple Containers Application
 
 
 ---
 
-Compose is an open source, powerful lightweight GUI and easy-to-use container management tool. It help customers to adopt container technology, build, manage, and maintain container based evironments with Docker, Kubernetes, Docker Swarm and Azure ACI. Compose is easy to deploy tool with an intuitive interface for both software developers and IT operations. Compose removes the need to use the CLI and hides the complexity of managing containers.
+### **Overview**
 
-Compose container management platform consists of two components, the Compose Server, and the Compose Agent. These both elements run as lightweight Docker containers on a Docker engine. It enables centralized configurations, management and security of Kubernetes and Docker production environments. It gives a detailed overview of the environment and allows DevOps to manage containers, images, volumes, networks and more. It is also compatible with the standalone Docker engine and with Docker Swarm.
+Docker Compose is a tool for running multi-container Docker applications defined using the Compose file format.  It can be tedious start, stop, rebuild and manage multiple containers manually, so Docker has created a new useful tool that helps speed up the process i.e Docker Compose. A Compose file works by applying rule defined how the one or more containers or services are configured in a docker-compose.yaml file. When you have a compose YAML file, you can create, start and manage your application with a single command: docker compose up.
+
+Developing applications using Docker are challenging when working on multiple services and containers. Here come the Docker Compose that will help you to run docker multiple containers applications and environments. Docker Compose can handle multiple containers simultaneously in the docker compose production, staging, development, testing, and CI environments. You can use Docker Compose to manage the whole software development lifecycle (SDLC). Docker Compose open source software has 24.8K GitHub stars and 4.2k GitHub forks.

@@ -7,15 +7,10 @@ weight: 2
 
 ### **Features**
 
-Compose container-as-a-service solution supports a wide range of features to manage the Docker containers as docker swarm ui manager. Some of the key features of Compose container management gui are listed below:
+Some of the key features of Docker Compose are listed below:
 
-
-*   Access control management
-*   Deploy cloud-native applications
-*   Network isolation
-*   Application logging
-*   Cluster visualization
-*   Container networking
-*   Registry and storage management
-*   Orchestration
-*   Backup and restore
+*   Hosting multiple isolated environments on a single host
+*   customize containers for different environments
+*   Save volume data when containers are created
+*   Reuse and recreate containers that have changed
+*   Variables and moving a composition between environments

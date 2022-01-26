@@ -7,13 +7,13 @@ weight: 4
 
 ### **FAQs**
 
-### What is Compose used for?
-Compose is a free easy to use and open source contianer management UI for Docker and Kubernetes environment. Compose makes it easier for you to manage your Docker containers, images, networks, and volumes from the web based Compose GUI dashboard.
-### Is Compose free?
-Yes, Compose is free to use and download container management tool for container environments.
-### Is Compose open source?
-Yes, Compose is open source container orchestration management software. Compose source code repository is available at [Github](https://github.com/docker/compose).
-### In what language is Compose written?
-Compose is written in Go and Javascript programming languages.
-### Does Compose work with Kubernetes?
-Compose docker swarm management ui works with all flavors of either self hosted or managed Kubernetes to ensure any app deployed is safe and secure.
+### What is Docker Compose?
+Docker Compose is an opens source software used for defining, sharing and running multi-container Docker applications. Docker compose file works by defining rules in a docker-compose.yaml, how the multiple containers or services are configured. It helps to helps speed up the multi-container process.
+### Is Docker Compose open source?
+Docker has open sourced the Compose Specification into a standalone organization for defining and running multi-container, cloud-native applications. Docker Compose source code repository is available at [Github](https://github.com/docker/compose).
+### Is Docker Compose free?
+Docker Compose is a free for small businesses for defining and running multi container application. 
+### In what language is Docker Compose written?
+Docker Compose V1 is in Python language while Docker Compose V2 is completely rewritten from scratch in Golang. 
+### What is docker and docker compose?
+The difference between Docker and Docker-compose is that Docker commands are used to run only one container or image at a time. While Docker Compose on ubuntu is used to start, stop and manage multi container Docker application, configured in a docker-compose.yaml file.

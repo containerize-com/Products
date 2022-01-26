@@ -8,13 +8,9 @@ weight: 1
 
 ### **System Requirements**
 
-The installation instructions make the following assumptions for the Compose open source container management server on your Linux environment:
+Requirements to setup Docker Compose include:
 
-*   The latest version of Docker installed
-*   sudo access to host Compose Server instance
-*   Port 9443 to access the UI and API
-*   TCP tunnel server over port 8000
-*   Access to Docker via Unix sockets
-*   SELinux is disabled
-*   Docker is running as root
- 
+*   Docker Compose
+*   Docker Engine
+*   sudo privileges non-root user
+*   GitHub account
