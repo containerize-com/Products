@@ -12,7 +12,7 @@ The WhatWeb tool is web application analysis and web vulnerability scanner. It i
 ### Is WhatWeb open source?
 WhatWeb is a best open source application security tool to identify different web technologies used by a website. WhatWeb source code repository is available at [Github](https://github.com/urbanadventurer/WhatWeb).
 ### Is WhatWeb free?
-WhatWeb is one of the best web application security solutions. It is a free to use and dowload next generation website vulnerability scanner.
+WhatWeb is one of the best web application security solutions. It is a free to use and download next generation website vulnerability scanner.
 ### In what language is WhatWeb written?
 WhatWeb web app vulnerabilities scanner is written in Ruby programming language.
 ### What WhatWeb do?

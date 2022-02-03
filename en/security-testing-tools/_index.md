@@ -4,7 +4,7 @@ title: Best Free and Open Source Security Software
 description: Automatically find, prioritize and fix vulnerabilities in your applications. Application security at scale requires developers to be the first step in the security process.
 singlepageh1title: Best Free and Open Source Security Software
 singlepageh2title: Automatically find, prioritize and fix vulnerabilities in your applications. Application security at scale requires developers to be the first step in the security process.
-Shortdescriptionlistingpage: Multi purpose security/vulnerability/risk scanning tools supporting Ruby and other languages with many safe defaults. Continuously and automatically find & fixe vulnerabilities in your applications. Get started with Containerize Team today!
+Shortdescriptionlistingpage: Multi purpose security/vulnerability/risk scanning tools supporting Ruby and other languages with many safe defaults. Continuously and automatically find & fix vulnerabilities in your applications. Get started with Containerize Team today!
 linktitle: security-testing-tools
 Imagetext: Open Source Software
 draft: false
